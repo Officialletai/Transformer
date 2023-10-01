@@ -1,0 +1,3 @@
+adj	Succeeding or following in order. 
+adj	(grammar, of a verb and adjective form in Korean) Expressing succession of events. 
+adj	(programming) Executed as a sequence of instructions, without concurrency or parallelism. 

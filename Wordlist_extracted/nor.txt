@@ -1,0 +1,3 @@
+n	A binary operator composite of NOT OR; negation of OR function. 
+n	(logic, electronics) Alternative form of NOR [A binary operator composite of NOT OR; negation of OR function.] 
+n	Acronym of nucleolus organiser region. 

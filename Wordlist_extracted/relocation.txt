@@ -1,0 +1,3 @@
+n	The act of moving from one place to another. 
+n	Renewal of a lease. 
+n	(computing) The assigning of addresses to variables either at linkage editing, or at run time 

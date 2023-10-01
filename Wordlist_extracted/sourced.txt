@@ -1,0 +1,7 @@
+n	The person, place, or thing from which something (information, goods, etc.) comes or is acquired. 
+n	Spring; fountainhead; wellhead; any collection of water on or under the surface of the ground in which a stream originates. 
+n	A reporter's informant. 
+n	(computing) Source code. 
+n	(electronics) The name of one terminal of a field effect transistor (FET). 
+v	(chiefly US) To obtain or procure: used especially of a business resource. 
+v	(transitive) To find information about (a quotation)'s source (from which it comes): to find a citation for. 

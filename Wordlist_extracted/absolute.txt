@@ -1,0 +1,28 @@
+adj	Free of restrictions, limitations, qualifications or conditions; unconditional. 
+adj	Unrestricted by laws, a constitution, or parliamentary or judicial or other checks; (legally) unlimited in power, especially if despotic. 
+adj	Free from imperfection, perfect, complete; especially, perfectly embodying a quality in its essential characteristics or to its highest degree. 
+adj	Pure, free from mixture or adulteration; unmixed. 
+adj	Complete, utter, outright; unmitigated, not qualified or diminished in any way. 
+adj	(very occasionally postpositive) Positive, certain; unquestionable; not in doubt. 
+adj	(archaic) Certain; free from doubt or uncertainty (e.g. a person, opinion or prediction). 
+adj	(especially philosophy) Fundamental, ultimate, intrinsic; not relative; independent of references or relations to other things or standards. 
+adj	Having reference to or derived in the simplest manner from the fundamental units of mass, time, and length. 
+adj	Relating to the absolute temperature scale (based on absolute zero); kelvin. 
+adj	(of a case form) Syntactically connected to the rest of the sentence in an atypical manner, or not relating to or depending on it, like in the nominative absolute or genitive absolute, accusative absolute or ablative absolute. 
+adj	(of an adjective or possessive pronoun) Lacking a modified substantive, like "hungry" in "feed the hungry". 
+adj	(of a comparative or superlative) Expressing a relative term without a definite comparison, like "older" in "an older person should be treated with respect". 
+adj	(of an adjective form) Positive; not graded (not comparative or superlative). 
+adj	(of a usually transitive verb) Having no direct object, like "kill" in "if looks could kill". 
+adj	(of Celtic languages) Being or pertaining to an inflected verb that is not preceded by any number of particles or compounded with a preverb. 
+adj	(mathematics) As measured using an absolute value. 
+adj	(mathematics) Indicating an expression that is true for all real numbers, or of all values of the variable; unconditional. 
+adj	(education) Pertaining to a grading system based on the knowledge of the individual and not on the comparative knowledge of the group of students. 
+adj	(art, music, dance) Independent of (references to) other arts; expressing things (beauty, ideas, etc) only in one art. 
+adj	(law, postpositive, formal) Indicating that a tenure or estate in land is not conditional or liable to terminate on (strictly) any occurrence or (sometimes contextually) certain kinds of occurrence. 
+adj	(obsolete) Absolved; free. 
+n	That which exists (or has a certain property, nature, size, etc) independent of references to other standards or external conditions; that which is universally valid; that which is not relative, conditional, qualified or mitigated. 
+n	(geometry) In a plane, the two imaginary circular points at infinity; in space of three dimensions, the imaginary circle at infinity. 
+n	(philosophy, usually capitalized, usually preceded by "the") A realm which exists without reference to anything else; that which can be imagined purely by itself; absolute ego. 
+n	(philosophy, usually capitalized, usually preceded by "the") The whole of reality; the totality to which everything is reduced; the unity of spirit and nature; God. 
+n	(chemistry) A concentrated natural flower oil, used for perfumes; an alcoholic extract of a concrete. 
+n	(philosophy) That which is totally unconditioned, unrestricted, pure, perfect, or complete; that which can be thought of without relation to others. 

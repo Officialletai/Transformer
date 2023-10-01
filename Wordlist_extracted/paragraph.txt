@@ -1,0 +1,6 @@
+n	A passage in text that starts on a new line, the first line sometimes being indented, and usually marks a change of topic. 
+n	(originally) A mark or note set in the margin to call attention to something in the text, such as a change of subject. 
+n	A brief article, notice, or announcement, as in a newspaper. 
+n	(computing) An offset of 16 bytes in Intel memory architectures. 
+v	To sort text into paragraphs. 
+v	To publish a brief article, notice, or announcement, as in a newspaper. 

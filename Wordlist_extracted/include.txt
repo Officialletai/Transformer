@@ -1,0 +1,6 @@
+v	To bring into a group, class, set, or total as a (new) part or member. 
+v	To consider as part of something; to comprehend. 
+v	(obsolete) To enclose, confine. 
+v	(obsolete) To conclude; to terminate. 
+v	(programming) To use a directive that allows the use of source code from another file. 
+n	(programming) A piece of source code or other content that is dynamically retrieved for inclusion in another item. 

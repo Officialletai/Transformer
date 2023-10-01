@@ -1,0 +1,2 @@
+adj	Lacking a definition or value. 
+adj	(mathematics, computing) That does not have a meaning and is thus not assigned an interpretation. 

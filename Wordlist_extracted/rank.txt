@@ -1,0 +1,27 @@
+adj	Strong of its kind or in character; unmitigated; virulent; thorough; utter (used of negative things). 
+adj	Strong in growth; growing with vigour or rapidity, hence, coarse or gross. 
+adj	Suffering from overgrowth or hypertrophy; plethoric. 
+adj	Causing strong growth; producing luxuriantly; rich and fertile. 
+adj	Strong to the senses; offensive; noisome. 
+adj	Having a very strong and bad taste or odor. 
+adj	Complete, used as an intensifier (usually negative, referring to incompetence). 
+adj	(informal) Gross, disgusting. 
+adj	(obsolete) Strong; powerful; capable of acting or being used with great effect; energetic; vigorous; headstrong. 
+adj	(obsolete) lustful; lascivious 
+adv	(obsolete) Quickly, eagerly, impetuously. 
+n	A row of people or things organized in a grid pattern, often soldiers. 
+n	(chess) One of the eight horizontal lines of squares on a chessboard (i.e., those identified by a number). 
+n	(music) In a pipe organ, a set of pipes of a certain quality for which each pipe corresponds to one key or pedal. 
+n	One's position in a list sorted by a shared property such as physical location, population, or quality. 
+n	The level of one's position in a class-based society. 
+n	(typically in the plural) A category of people, such as those who share an occupation or belong to an organisation. 
+n	A hierarchical level in an organization such as the military. 
+n	(taxonomy) A level in a scientific taxonomy system. 
+n	(mathematics) The dimensionality of an array (computing) or tensor. 
+n	(linear algebra) The maximal number of linearly independent columns (or rows) of a matrix. 
+n	(algebra) The maximum quantity of D-linearly independent elements of a module (over an integral domain D). 
+n	(mathematics) The size of any basis of a given matroid. 
+v	To place abreast, or in a line. 
+v	To have a ranking. 
+v	To assign a suitable place in a class or order; to classify. 
+v	(US) To take rank of; to outrank. 

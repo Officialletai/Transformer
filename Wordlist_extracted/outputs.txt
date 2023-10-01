@@ -1,0 +1,5 @@
+n	(economics) Production; quantity produced, created, or completed. 
+n	(computing) Data sent out of the computer, as to output device such as a monitor or printer, or data sent from one program on the computer to another. 
+n	(medicine) The flow rate of body liquids such as blood and urine. 
+v	(economics) To produce, create, or complete. 
+v	(computing) To send data out of a computer, as to an output device such as a monitor or printer, or to send data from one program on the computer to another. 

@@ -1,0 +1,11 @@
+n	(typography) The edge of the paper, typically left blank when printing but sometimes used for annotations etc. 
+n	The edge or border of any flat surface. 
+n	(figuratively) The edge defining inclusion in or exclusion from a set or group. 
+n	A difference or ratio between results, characteristics, scores. 
+n	A permissible difference; allowing some freedom to move within limits. 
+n	(finance) The yield or profit; the selling price minus the cost of production. 
+n	(finance) Collateral security deposited with a broker, to compensate the broker in the event of loss in the speculative buying and selling of stocks, commodities, etc. 
+n	That which is ancillary; periphery. 
+v	(transitive) To add a margin to. 
+v	(transitive) To enter (notes etc.) into the margin. 
+v	(transitive, finance) To trade (securities etc.) on margin (collateral). 

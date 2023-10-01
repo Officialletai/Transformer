@@ -1,0 +1,4 @@
+n	authorisation; consent (especially formal consent from someone in authority) 
+n	The act of permitting. 
+n	(computing) Flags or access control lists pertaining to a file that dictate who can access it, and how. 
+v	(transitive) To grant or obtain authorization for. 

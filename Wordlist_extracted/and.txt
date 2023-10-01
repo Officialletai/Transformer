@@ -1,0 +1,8 @@
+n	(music, often informal) In rhythm, the second half of a divided beat. 
+n	(UK dialectal) Breath. 
+n	(UK dialectal) Sea smoke; steam fog. 
+v	(UK dialectal, intransitive) To breathe; whisper; devise; imagine. 
+n	(logic) The binary operator and, only true if both of two inputs is true. In infix notation. 
+v	(logic, transitive) To combine (a value) with another value by means of this operator. 
+n	(logic) Alternative form of ∧, the conjunction operator. 
+adj	(aviation) Initialism of airplane nose down. 

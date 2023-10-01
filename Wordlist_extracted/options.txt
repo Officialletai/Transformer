@@ -1,0 +1,5 @@
+n	One of a set of choices that can be made. 
+n	The freedom or right to choose. 
+n	(finance, law) A contract giving the holder the right to buy or sell an asset at a set strike price; can apply to financial market transactions, or to ordinary transactions for tangible assets such as a residence or automobile. 
+v	To purchase an option on something. 
+v	(computing, dated) To configure, by setting an option. 

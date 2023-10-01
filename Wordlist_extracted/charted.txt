@@ -1,0 +1,13 @@
+n	A map illustrating the geography of a specific phenomenon. 
+n	A navigator's map. 
+n	A tabular presentation of data; a table. 
+n	A diagram. 
+n	A graph. 
+n	A record of a patient's diagnosis, care instructions, and recent history. 
+n	A ranked listing of competitors, as of recorded music. 
+n	A written deed; a charter. 
+n	(differential geometry, topology) Synonym of coordinate chart. 
+v	(transitive) To draw a chart or map of. 
+v	(transitive) To draw or figure out (a route or plan). 
+v	(transitive) To record systematically. 
+v	(intransitive, of a record or artist) To appear on a hit-recording chart. 

@@ -1,0 +1,25 @@
+adj	Unfavorable; negative; not good. 
+adj	Not suitable or fitting. 
+adj	Not appropriate, of manners etc. 
+adj	Unhealthy; liable to cause health problems. 
+adj	(chiefly applied to a person's state of health) Sickly, unhealthy, unwell. 
+adj	Not behaving; behaving badly; misbehaving; mischievous or disobedient. 
+adj	Tricky; stressful; unpleasant. 
+adj	Evil; wicked. 
+adj	Faulty; not functional. 
+adj	(of food) Spoiled, rotten, overripe. 
+adj	(of breath) Malodorous; foul. 
+adj	False; counterfeit; illegitimate. 
+adj	Unskilled; of limited ability; not good. 
+adj	Of poor physical appearance. 
+adj	(informal) Bold and daring. 
+adj	(slang) Good, superlative, excellent, cool. 
+adj	(of a need, want, or pain) Severe, urgent. 
+adj	(US, slang) Overly promiscuous, licentious. 
+adj	(originally African-American Vernacular, slang, of a woman) Very attractive; hot, sexy. 
+adj	(slang, of a draft/check) Not covered by funds on account. 
+adv	(now colloquial) Badly. 
+n	Something that is bad; a harm or evil. 
+n	(slang, with possessive determiner) Error; mistake. 
+n	(countable, uncountable, economics) An item (or kind of item) of merchandise with negative value; an unwanted good. 
+v	(Britain, dialect, transitive) To shell (a walnut). 

@@ -1,0 +1,18 @@
+v	To receive (something) from somebody temporarily, expecting to return it. 
+v	To take money from a bank under the agreement that the bank will be paid over the course of time. 
+v	To adopt (an idea) as one's own. 
+v	(linguistics) To adopt a word from another language. 
+v	(arithmetic) In a subtraction, to deduct (one) from a digit of the minuend and add ten to the following digit, in order that the subtraction of a larger digit in the subtrahend from the digit in the minuend to which ten is added gives a positive result. 
+v	(Upper Midwestern United States, West Midlands, Malaysia, proscribed) To lend. 
+v	(ditransitive) To temporarily obtain (something) for (someone). 
+v	To feign or counterfeit. 
+v	(obsolete except in ballads) To secure the release of (someone) from prison. 
+v	(informal) To receive (something) from somebody, with little possibility of returning it. 
+v	(informal) To interrupt the current activity of (a person) and lead them away in order to speak with them, get their help, etc. 
+v	(golf) To adjust one's aim in order to compensate for the slope of the green. 
+n	(golf, countable, uncountable) Deviation of the path of a rolling ball from a straight line; slope; slant. 
+n	(construction, civil engineering) A borrow pit. 
+n	(programming) In the Rust programming language, the situation where the ownership of a value is temporarily transferred to another region of code. 
+n	(archaic) A ransom; a pledge or guarantee. 
+n	(archaic) A surety; someone standing bail. 
+n	A surname. 

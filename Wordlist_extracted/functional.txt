@@ -1,0 +1,8 @@
+adj	In good working order. 
+adj	Useful; serving a purpose, fulfilling a function 
+adj	Only for functional purposes, notably in architecture 
+adj	(computing theory) Having semantics defined purely in terms of mathematical functions, without side-effects. 
+adj	(medicine) Of a disease, such that its symptoms cannot be referred to any appreciable lesion or change of structure; opposed to organic disease, in which the organ itself is affected. 
+n	(mathematics) A function that takes a function as its argument; More precisely: A function y=f(x) whose argument x varies in a space of (real or complex valued) functions and whose value belongs to a monodimensional space. An example is the definite integration of integrable real functions in a real interval. 
+n	(mathematics, functional analysis) A scalar-valued linear function on a vector space. 
+n	(computing) An object encapsulating a function pointer (or equivalent). 

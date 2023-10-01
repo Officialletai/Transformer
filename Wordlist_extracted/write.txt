@@ -1,0 +1,13 @@
+v	(transitive, intransitive) To form letters, words or symbols on a surface in order to communicate. 
+v	(transitive) To be the author of (a book, article, poem, etc.). 
+v	(transitive) To send written information to. 
+v	(transitive) To show (information, etc) in written form. 
+v	(ditransitive with relative clause) To convey a fact to someone via writing. 
+v	(intransitive) To be an author. 
+v	(computing, intransitive, with to) To record data mechanically or electronically. 
+v	(transitive, South Africa, Canada, of an exam, a document, etc.) To fill in, to complete using words. 
+v	To impress durably; to imprint; to engrave. 
+v	To make known by writing; to record; to prove by one's own written testimony; often used reflexively. 
+v	(finance) To sell (an option or other derivative). 
+n	The act or style of writing. 
+n	(computing) The operation of storing data, as in memory or onto disk. 

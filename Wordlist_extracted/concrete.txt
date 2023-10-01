@@ -1,0 +1,14 @@
+adj	Real, actual, tangible. 
+adj	Being or applying to actual things, not abstract qualities or categories. 
+adj	Particular, specific, rather than general. 
+adj	United by coalescence of separate particles, or liquid, into one mass or solid. 
+adj	(modifying a noun, not comparable) Made of concrete, a building material. 
+n	(obsolete) A solid mass formed by the coalescence of separate particles; a compound substance, a concretion. 
+n	Specifically, a building material created by mixing cement, water, and aggregate such as gravel and sand. 
+n	(logic) A term designating both a quality and the subject in which it exists; a concrete term. 
+n	Sugar boiled down from cane juice to a solid mass. 
+n	(US) A dessert of frozen custard with various toppings. 
+n	(chemistry) An extract of herbal materials that has a semi-solid consistency, especially when such materials are partly aromatic. 
+v	(usually transitive) To cover with or encase in concrete (building material). 
+v	(usually transitive) To solidify: to change from being abstract to being concrete (actual, real). 
+v	(intransitive, obsolete) To unite or coalesce into a mass or a solid body. 

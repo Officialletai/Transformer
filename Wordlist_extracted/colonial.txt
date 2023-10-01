@@ -1,0 +1,7 @@
+adj	Of or pertaining to a colony. 
+adj	Of or pertaining to a period when a country or territory was a colony. 
+adj	(US) Of or relating to the original Thirteen Colonies of the USA. 
+adj	(US) Of or relating to the style of architecture prevalent at about the time of the Revolution. 
+adj	Tending to form colonies (especially of cells). Synonym for colony-forming. 
+n	A person from a country that is or was controlled by another. 
+n	(US) A house that is built in a style reminiscent of the period of the colonization of New England. 

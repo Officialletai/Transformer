@@ -1,0 +1,1 @@
+n	The process of adding a bias. 

@@ -1,0 +1,13 @@
+adj	Being extroverted or outgoing. 
+adj	Of or relating to society. 
+adj	(Internet) Relating to social media or social networks. 
+adj	(rare) Relating to a nation's allies. 
+adj	(botany, zoology) Cooperating or growing in groups. 
+n	A festive gathering to foster introductions. 
+n	(Canadian Prairies) A dance held to raise money, often held for a couple to be married. 
+n	(dated, Ireland) A dinner dance event, usually held annually by a company or sporting club. 
+n	(Internet, informal, countable) A social media account. 
+n	(Britain, colloquial, with definite article) Clipping of social security. [A system whereby the state either through general or specific taxation provides various benefits to help ensure the wellbeing of its citizens.] 
+n	(US, colloquial) Clipping of social security number. [(US) A nine-digit number issued to citizens, permanent residents, and temporary (working) residents under section 205(c)(2) of the Social Security Act, codified as 42 U.S.C. § 405(c)(2). The number is issued to an individual by the Social Security Administration. Its primary purpose is to track individuals for taxation purposes. Abbreviated as SSN. In recent years the SSN has become a de facto national identification number.] 
+n	(Canada) Clipping of social studies. [The study of history, geography, civics, sociology, economics, and other social-science subjects, especially in primary and secondary school.] 
+n	(Internet, informal, uncountable) Clipping of social media. [Interactive forms of media that allow users to interact with and publish to each other, generally by means of the Internet.] 

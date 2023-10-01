@@ -1,0 +1,27 @@
+n	A piece of metal placed in a horse's mouth and connected to the reins to direct the animal. 
+n	A rotary cutting tool fitted to a drill, used to bore holes. 
+n	(dated, Britain) A coin of a specified value. 
+n	(obsolete, Canada) A ten-cent piece, dime. 
+n	(now US) A unit of currency or coin in the Americas worth a fraction of a Spanish dollar; now specifically, an eighth of a US dollar. 
+n	(historical, US) In the southern and southwestern states, a small silver coin (such as the real) formerly current; commonly, one worth about 12½ cents; also, the sum of 12½ cents. 
+n	A small amount of something. 
+n	(informal) Specifically, a small amount of time. 
+n	(in the plural, informal, sports) Fractions of a second. 
+n	A portion of something. 
+n	Somewhat; something, but not very great; also used like jot and whit to express the smallest degree. See also a bit. 
+n	(slang) A prison sentence, especially a short one. 
+n	An excerpt of material making up part of a show, comedy routine, etc. 
+n	The part of a key which enters the lock and acts upon the bolt and tumblers. 
+n	The cutting iron of a plane. 
+n	The bevelled front edge of an axehead along which the cutting edge runs. 
+n	(BDSM) A gag of a style similar to a bridle. 
+n	(MLE) A gun. 
+v	(transitive) To put a bridle upon; to put the bit in the mouth of (a horse). 
+v	simple past tense of bite 
+adj	(chiefly in combination) Having been bitten. 
+n	(mathematics, computing) A binary digit, generally represented as a 1 or 0. 
+n	(computing) The smallest unit of storage in a digital computer, consisting of a binary digit. 
+n	(information theory, cryptography) Any datum that may take on one of exactly two values. 
+n	(information theory) A unit of measure for information entropy. 
+n	A microbitcoin, or a millionth of a bitcoin (0.000001 BTC). 
+n	Short for bit part. [(acting) A minor role, generally not assigned a name.] 

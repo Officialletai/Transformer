@@ -1,0 +1,4 @@
+n	Closeness of appearance to something else. 
+n	(philosophy) The relation of sharing properties. 
+n	(mathematics) A transformation that preserves angles and the ratios of distances 
+n	(mathematics, linear algebra) The property of two matrices being similar. 

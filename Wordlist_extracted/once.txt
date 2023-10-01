@@ -1,0 +1,6 @@
+adv	(frequency) One and only one time. 
+adv	(temporal location) Formerly; during some period in the past. 
+adv	(chiefly obsolete) At any time; ever. 
+adv	(obsolete) One day, someday. 
+adv	(mathematics) Multiplied by one: indicating that a number is multiplied by one. 
+n	Obsolete form of ounce. [An avoirdupois ounce, weighing ¹⁄₁₆ of an avoirdupois pound, or 28.3495 grams.] 

@@ -1,0 +1,7 @@
+n	A sum or source of money. 
+n	An organization managing such money. 
+n	A money-management operation, such as a mutual fund. 
+n	A large supply of something to be drawn upon. 
+v	(transitive) To pay or provide money for. 
+v	(transitive) To place (money) in a fund. 
+v	(transitive) To form a debt into a stock charged with interest. 

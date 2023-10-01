@@ -1,0 +1,10 @@
+adj	Of or pertaining to Spain. 
+adj	Of or pertaining to the people or culture of Spain. 
+adj	(US, Canada, informal) Of or pertaining to the people or culture of Hispanic people. 
+adj	Of or pertaining to the Spanish language. 
+n	(uncountable) A Romance language primarily spoken in Spain and in the Americas. 
+n	A town in Ontario, Canada 
+n	(collective plural) People of Spain, collectively. 
+n	(US, informal, collective in the plural) People of Hispanic origin; one whose first language is Spanish. 
+n	(uncountable) Spanish cuisine; traditional Spanish food. 
+v	(printing) To subject to spanishing, a printing process in which an ink is deposited on the bottoms and sides of depressions formed in a plastic material 

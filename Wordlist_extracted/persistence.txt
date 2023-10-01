@@ -1,0 +1,4 @@
+n	The property of being persistent. 
+n	(computer science) Of data, the property of continuing to exist after the termination of the program. 
+n	(meteorology) Continuation of the previous day's weather (particularly temperature and precipitation statistics). 
+n	(mathematics) The number of times an operation can be iteratively applied to a number before it reaches a permanently constant state. 

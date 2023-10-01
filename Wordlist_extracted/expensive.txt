@@ -1,0 +1,3 @@
+adj	(obsolete) Given to expending a lot of money; profligate, lavish. 
+adj	Having a high price or cost. 
+adj	(computing) Taking a lot of system time or resources. 

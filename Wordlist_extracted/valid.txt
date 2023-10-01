@@ -1,0 +1,6 @@
+adj	Well grounded or justifiable, pertinent. 
+adj	Acceptable, proper or correct; in accordance with the rules. 
+adj	Related to the current topic, or presented within context, relevant. 
+adj	(logic) Of a formula or system: such that it evaluates to true regardless of the input values. 
+adj	(logic) Of an argument: whose conclusion is always true whenever its premises are true. 
+adj	(Christianity, theology) Genuine - as distinguished from efficient or regular - sacrament. 

@@ -1,0 +1,16 @@
+adj	Primary; most important; first level in importance. 
+adj	(obsolete, Latinism) Of or relating to a prince; princely. 
+adj	(mathematics) Chosen or assumed among a branch of possible values of a multi-valued function so that the function is single-valued. 
+n	(finance, uncountable) The money originally invested or loaned, on which basis interest and returns are calculated. 
+n	(Canada, US, Australia, New Zealand) The chief administrator of a school. 
+n	(UK, Canada) The chief executive and chief academic officer of a university or college. 
+n	(law) A legal person that authorizes another (the agent) to act on their behalf; or on whose behalf an agent or gestor in a negotiorum gestio acts. 
+n	(law) The primary participant in a crime. 
+n	(Canada, US) A partner or owner of a business. 
+n	(music) A diapason, a type of organ stop on a pipe organ. 
+n	(architecture, engineering) The construction that gives shape and strength to a roof, generally a truss of timber or iron; or, loosely, the most important member of a piece of framing. 
+n	The first two long feathers of a hawk's wing. 
+n	One of the turrets or pinnacles of waxwork and tapers with which the posts and centre of a funeral hearse were formerly crowned 
+n	(obsolete) An essential point or rule; a principle. 
+n	A dancer at the highest rank within a professional dance company, particularly a ballet company. 
+n	(computing) A security principal. 

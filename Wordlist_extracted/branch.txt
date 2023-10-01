@@ -1,0 +1,26 @@
+n	The woody part of a tree arising from the trunk and usually dividing. 
+n	Any of the parts of something that divides like the branch of a tree. 
+n	(chiefly Southern US) A creek or stream which flows into a larger river. 
+n	(geometry) One of the portions of a curve that extends outwards to an indefinitely great distance. 
+n	A location of an organization with several locations. 
+n	A line of family descent, in distinction from some other line or lines from the same stock; any descendant in such a line. 
+n	(Mormonism) A local congregation of the LDS Church that is not large enough to form a ward; see Wikipedia article on ward in LDS church. 
+n	An area in business or of knowledge, research. 
+n	(nautical) A certificate given by Trinity House to a pilot qualified to take navigational control of a ship in British waters. 
+n	(computing) A sequence of code that is conditionally executed. 
+n	(computing) A group of related files in a source control system, including for example source code, build scripts, and media such as images. 
+n	(rail transport) A branch line. 
+v	(intransitive) To arise from the trunk or a larger branch of a tree. 
+v	(intransitive) To produce branches. 
+v	(transitive, intransitive) To (cause to) divide into separate parts or subdivisions. 
+v	(intransitive, computing) To jump to a different location in a program, especially as the result of a conditional statement. 
+v	(transitive) To strip of branches. 
+v	(transitive, colloquial) To discipline (a union member) at a branch meeting. 
+n	A surname from Old French. 
+n	A tiny city in Franklin County, Arkansas. 
+n	An unincorporated community and census-designated place in Acadia Parish, Louisiana. 
+n	An unincorporated community in Sweetwater Township, Lake County, Michigan. 
+n	An unincorporated community in Camden County, Missouri. 
+n	An unincorporated community in Collin County, Texas. 
+n	An unincorporated community in Manitowoc County, Wisconsin. 
+n	A town in Newfoundland, Newfoundland and Labrador, Canada. 

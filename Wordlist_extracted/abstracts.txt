@@ -1,0 +1,32 @@
+n	An abridgement or summary of a longer publication. 
+n	Concentrated essence of a product. 
+n	(medicine) A powdered solid extract of a medicinal substance mixed with lactose. 
+n	An abstraction; an abstract term; that which is abstract. 
+n	The theoretical way of looking at things; something that exists only in idealized form. 
+n	(art) An abstract work of art. 
+n	(real estate) A summary title of the key points detailing a tract of land, for ownership; abstract of title. 
+adj	(obsolete) Derived; extracted. 
+adj	(now rare) Drawn away; removed from; apart from; separate. 
+adj	Insufficiently factual. 
+adj	Apart from practice or reality; vague; theoretical; impersonal; not applied. 
+adj	(grammar) As a noun, denoting a concept or intangible as opposed to an object, place, or person. 
+adj	Difficult to understand; abstruse; hard to conceptualize. 
+adj	Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, ascriptive. 
+adj	Pertaining comprehensively to, or representing, a class or group of objects, as opposed to any specific object; considered apart from any application to a particular object: general, generic, nonspecific; representational. 
+adj	(archaic) Absent-minded. 
+adj	(art, often capitalized) Free from representational qualities, in particular the non-representational styles of the 20ᵗʰ century. 
+adj	(music) Absolute. 
+adj	(dance) Lacking a story. 
+adj	(object-oriented programming, of a class) Being a partial basis for subclasses rather than a complete template for objects. 
+v	(transitive) To separate; to disengage. 
+v	(transitive) To remove; to take away; withdraw. 
+v	(transitive, euphemistic) To steal; to take away; to remove without permission. 
+v	(transitive) To summarize; to abridge; to epitomize. 
+v	To conceptualize an ideal subgroup by means of the generalization of an attribute, as follows: by apprehending an attribute inherent to one individual, then separating that attribute and contemplating it by itself, then conceiving of that attribute as a general quality, then despecifying that conceived quality with respect to several or many individuals, and by then ideating a group composed of those individuals perceived to possess said quality. 
+v	(transitive, obsolete) To extract by means of distillation. 
+v	(transitive) To consider abstractly; to contemplate separately or by itself; to consider theoretically; to look at as a general quality. 
+v	(intransitive, reflexive, literally, figuratively) To withdraw oneself; to retire. 
+v	(transitive) To draw off (interest or attention). 
+v	(intransitive, rare) To perform the process of abstraction. 
+v	(intransitive, fine arts) To create abstractions. 
+v	(intransitive, computing) To produce an abstraction, usually by refactoring existing code. Generally used with "out". 

@@ -1,0 +1,21 @@
+n	An enclosure within which workers, prisoners, or soldiers are confined. 
+n	An enclosure for secure storage. 
+n	A group of buildings situated close together, e.g. for a school or block of offices. 
+adj	Composed of elements; not simple. 
+adj	(mathematics) Dealing with numbers of various denominations of quantity, or with processes more complex than the simple process. 
+adj	(music) An octave higher than originally (i.e. a compound major second is equivalent to a major ninth). 
+n	Anything made by combining several things. 
+n	(chemistry) A substance formed by chemical bonding of two or more elements in definite proportions by weight. 
+n	(chemistry, dated) A substance made from any combination of ingredients. 
+n	(linguistics) A lexeme that consists of more than one stem. 
+n	(linguistics) A lexeme that consists of more than one stem or an affix, e.g. bookshop, high school or non-standard. 
+n	(rail transport) A compound locomotive, a steam locomotive with both high-pressure and low-pressure cylinders. 
+v	(transitive) To form (a resulting mixture) by combining different elements, ingredients, or parts; to mingle with something else. 
+v	(transitive, law) To settle by agreeing on less than the claim, or on different terms than those stipulated. 
+v	(transitive) To settle amicably; to adjust by agreement. 
+v	(intransitive) To come to terms of agreement; to settle by a compromise. 
+v	(transitive, obsolete) To compose; to constitute. 
+v	(intransitive, finance) To increase in value with interest, where the interest is earned on both the principal sum and prior earned interest. 
+v	(transitive, see usage notes) To worsen a situation. 
+v	(horse racing, intransitive) Of a horse: to fail to maintain speed. 
+n	Short for compound exercise. [Any physical exercise that works several groups of muscles at the same time.] 

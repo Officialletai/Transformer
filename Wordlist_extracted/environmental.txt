@@ -1,0 +1,2 @@
+adj	Pertaining to the environment. 
+n	(computing) Any factor relating to the physical environment in which hardware is operated, such as the room temperature or the number of racks used to hold equipment. 

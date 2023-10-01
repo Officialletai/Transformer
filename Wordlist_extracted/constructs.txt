@@ -1,0 +1,6 @@
+n	Something constructed from parts. 
+n	A concept or model. 
+n	(genetics) A segment of nucleic acid, created artificially, for transplantation into a target cell or tissue. 
+v	(transitive) To build or form (something) by assembling parts. 
+v	(transitive) To build (a sentence, an argument, etc.) by arranging words or ideas. 
+v	(transitive, geometry) To draw (a geometric figure) by following precise specifications and using geometric tools and techniques. 

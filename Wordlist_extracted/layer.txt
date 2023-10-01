@@ -1,0 +1,12 @@
+n	A single thickness of some material covering a surface. 
+n	An item of clothing worn under or over another. 
+n	A (usually) horizontal deposit; a stratum. 
+n	One of the items in a hierarchy. 
+n	(computer graphics, by analogy to a stack of transparencies) one in a stack of (initially transparent) drawing surfaces that comprise an image; used to keep elements of an image separate so that they can be modified independently from one another. 
+v	(transitive, intransitive) To cut or divide into layers. 
+v	(transitive, intransitive) To arrange in layers. 
+n	A person who lays anything, such as tiles or a wager. 
+n	A mature female bird, insect, etc. that is able to lay eggs. 
+n	A hen kept to lay eggs. 
+n	A shoot of a plant, laid underground for growth. 
+n	A surname. 

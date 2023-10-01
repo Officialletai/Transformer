@@ -1,0 +1,36 @@
+n	A line or series of mountains, buildings, etc. 
+n	A fireplace; a fire or other cooking apparatus; now specifically, a large cooking stove with many hotplates. 
+n	Selection, array. 
+n	An area for practicing shooting at targets. 
+n	An area for military training or equipment testing. 
+n	The distance from a person or sensor to an object, target, emanation, or event. 
+n	The maximum distance or reach of capability (of a weapon, radio, detector, etc.). 
+n	The distance a vehicle (e.g., a car, bicycle, lorry, or aircraft) can travel without refueling. 
+n	An area of open, often unfenced, grazing land. 
+n	The extent or space taken in by anything excursive; compass or extent of excursion; reach; scope. 
+n	(mathematics) The set of values (points) which a function can obtain. 
+n	(statistics) The length of the smallest interval which contains all the data in a sample; the difference between the largest and smallest observations in the sample. 
+n	(sports, baseball) The defensive area that a player can cover. 
+n	(music) The scale of all the tones a voice or an instrument can produce. 
+n	(ecology) The geographical area or zone where a species is normally naturally found. 
+n	(programming) A sequential list of values specified by an iterator. 
+n	An aggregate of individuals in one rank or degree; an order; a class. 
+n	(obsolete) The step of a ladder; a rung. 
+n	(obsolete, UK, dialect) A bolting sieve to sift meal. 
+n	A wandering or roving; a going to and fro; an excursion; a ramble; an expedition. 
+n	(US, historical) In the public land system, a row or line of townships lying between two succession meridian lines six miles apart. 
+n	The variety of roles that an actor can play in a satisfactory way. 
+v	(intransitive) To travel over (an area, etc); to roam, wander. 
+v	(transitive) To rove over or through. 
+v	(obsolete, intransitive) To exercise the power of something over something else; to cause to submit to, over. 
+v	(transitive) To bring (something) into a specified position or relationship (especially, of opposition) with something else. 
+v	(intransitive) Of a variable, to be able to take any of the values in a specified range. 
+v	(transitive) To classify. 
+v	(intransitive) To form a line or a row. 
+v	(intransitive) To be placed in order; to be ranked; to admit of arrangement or classification; to rank. 
+v	(transitive) To set in a row, or in rows; to place in a regular line or lines, or in ranks; to dispose in the proper order. 
+v	(transitive) To place among others in a line, row, or order, as in the ranks of an army; usually, reflexively and figuratively, to espouse a cause, to join a party, etc. 
+v	(biology) To be native to, or live in, a certain district or region. 
+v	(military, of artillery) To determine the range to a target. 
+v	To sail or pass in a direction parallel to or near. 
+v	(baseball) Of a player, to travel a significant distance for a defensive play. 

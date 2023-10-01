@@ -1,0 +1,29 @@
+n	The smallest discrete unit of spoken language with a particular meaning, composed of one or more phonemes and one or more morphemes 
+n	The smallest discrete unit of written language with a particular meaning, composed of one or more letters or symbols and one or more morphemes 
+n	A discrete, meaningful unit of language approved by an authority or native speaker (compare non-word). 
+n	A sequence of letters, characters, or sounds, considered as a discrete entity, though it does not necessarily belong to a language or have a meaning 
+n	(telegraphy) A unit of text equivalent to five characters and one space. 
+n	(computing) A fixed-size group of bits handled as a unit by a machine and which can be stored in or retrieved from a typical register (so that it has the same size as such a register). 
+n	(computer science) A finite string that is not a command or operator. 
+n	(group theory) A group element, expressed as a product of group elements. 
+n	The fact or act of speaking, as opposed to taking action. . 
+n	(now rare outside certain phrases) Something that someone said; a comment, utterance; speech. 
+n	(obsolete outside certain phrases) A watchword or rallying cry, a verbal signal (even when consisting of multiple words). 
+n	(obsolete) A proverb or motto. 
+n	(uncountable) News; tidings 
+n	An order; a request or instruction; an expression of will. 
+n	A promise; an oath or guarantee. 
+n	A brief discussion or conversation. 
+n	(meiosis) A minor reprimand. 
+n	(in the plural) See words. 
+n	(theology, sometimes Word) Communication from God; the message of the Christian gospel; the Bible, Scripture. 
+n	(theology, sometimes Word) Logos, Christ. 
+v	(transitive) To say or write (something) using particular words; to phrase (something). 
+v	(transitive, obsolete) To flatter with words, to cajole. 
+v	(transitive) To ply or overpower with words. 
+v	(transitive, rare) To conjure with a word. 
+v	(intransitive, archaic) To speak, to use words; to converse, to discourse. 
+n	Scripture; The Bible. 
+n	The creative word of God; logos. 
+n	(software) Microsoft Word, word processor software developed by Microsoft. 
+v	Alternative form of worth (“to become”). [(obsolete, except in set phrases or dialectal) To be, become, betide.] 

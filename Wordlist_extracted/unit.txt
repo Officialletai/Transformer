@@ -1,0 +1,25 @@
+n	(mathematics) Oneness, singularity, seen as a component of a whole number; a magnitude of one. 
+n	(sciences) A standard measure of a quantity. 
+n	The number one. 
+n	An organized group comprising people and/or equipment. 
+n	(military, informal) A member of a military organization. 
+n	(commerce) An item which may be sold singly. 
+n	(US, UK, Australia, New Zealand) any piece of equipment, such as an appliance, power tool, stereo system, computer, tractor, or machinery. 
+n	(US, Australia, New Zealand) a measure of housing equivalent to the living quarters of one household; an apartment where a group of apartments is contained in one or more multi-storied buildings or a group of dwellings is in one or more single storey buildings, usually arranged around a driveway. 
+n	(US, military) Any military element whose structure is prescribed by competent authority, such as a table of organization and equipment; specifically, part of an organization. 
+n	(US, military) An organization title of a subdivision of a group in a task force. 
+n	(US, military) A standard or basic quantity into which an item of supply is divided, issued, or detailed. In this meaning, also called unit of issue. 
+n	(US, military) With regard to Reserve Components of the Armed Forces, denotes a Selected Reserve unit organized, equipped, and trained for mobilization to serve on active duty as a unit or to augment or be augmented by another unit. Headquarters and support functions without wartime missions are not considered units. 
+n	(algebra) The identity element, neutral element. 
+n	(algebra) An element having an inverse, an invertible element; an associate of the unity. 
+n	(category theory) In an adjunction, a natural transformation from the identity functor of the domain of the left adjoint functor to the composition of the right adjoint functor with the left adjoint functor. 
+n	(geology) A volume of rock or ice of identifiable origin and age range that is defined by the distinctive and dominant, easily mapped and recognizable petrographic, lithologic or paleontologic features (facies) that characterize it. 
+n	(UK) A unit of alcohol. 
+n	(UK, electricity) One kilowatt-hour (as recorded on an electricity meter). 
+n	(historical) A gold coin of the reign of James I, worth twenty shillings. 
+n	A work unit. 
+n	(UK, Australia, slang) A physically large person. 
+n	(US, slang, vulgar) A penis, especially a large one. 
+adj	For each unit. 
+adj	(mathematics) Having a size or magnitude of one. 
+n	Clipping of international unit. [(pharmacology) A particular, minute unit of mass, defined differently for different substances, but so that varying substances of the same general type have the property that one international unit of the one has the same effect on the human body as one international unit of the other.] 

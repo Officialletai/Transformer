@@ -1,0 +1,5 @@
+n	A number representing a comparison between two named things. 
+n	(arithmetic) The relative magnitudes of two quantities (usually expressed as a quotient). 
+n	(Internet) The number of comments to a post or other expression on social media relative to the number of likes; a high ratio suggests disagreement with the contents of the original post. 
+v	(transitive, Internet slang) To respond to a post or message on social media in a greater number than the number of likes the post receives, especially to condemn or mock the original poster. 
+n	(law) Short for ratio decidendi. [(law) The legal principle or rationale on which a judicial decision is based.] 

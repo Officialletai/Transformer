@@ -1,0 +1,17 @@
+adj	bottom; more towards the bottom than the middle of an object 
+adj	Situated on lower ground, nearer a coast, or more southerly. 
+adj	(geology, of strata or geological time periods) older 
+v	(transitive) To let descend by its own weight, as something suspended; to let down 
+v	(transitive) to pull down 
+v	(transitive) To reduce the height of 
+v	(transitive) To depress as to direction 
+v	(transitive) To make less elevated 
+v	(transitive) To reduce the degree, intensity, strength, etc., of 
+v	(transitive) To bring down; to humble 
+v	(reflexive) (lower oneself) To humble oneself; to do something one considers to be beneath one's dignity. 
+v	(transitive) To reduce (something) in value, amount, etc. 
+v	(intransitive) To fall; to sink; to grow less; to diminish; to decrease 
+v	(intransitive) To decrease in value, amount, etc. 
+v	(computing, transitive) To reduce operations to single machine instructions, as part of compilation of a program. 
+n	A surname. 
+v	Alternative spelling of lour [(intransitive) To frown; to look sullen.] 

@@ -1,0 +1,2 @@
+n	A vending machine for food. 
+n	A cafeteria consisting of vending machines. 

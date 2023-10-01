@@ -1,0 +1,5 @@
+adj	Relating to literature. 
+adj	Relating to writers, or the profession of literature. 
+adj	Knowledgeable of literature or writing. 
+adj	Appropriate to literature rather than everyday writing. 
+adj	Bookish. 

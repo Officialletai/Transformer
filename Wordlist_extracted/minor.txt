@@ -1,0 +1,32 @@
+adj	(law) Underage, not having reached legal majority. 
+adj	(medicine, sometimes figuratively) Not serious, not involving risk of death, permanent injury, dangerous surgery, or extended hospitalization. 
+adj	(music) Smaller by a diatonic semitone than the equivalent major interval. 
+adj	(music) Incorporating a minor third interval above the (in scales) tonic or (in chords) root note, (also figuratively) tending to produce a dark, discordant, sad, or pensive effect. 
+adj	(Canada, US, education) Of or related to a minor, a secondary area of undergraduate study. 
+adj	(mathematics) Of or related to a minor, a determinate obtained by deleting one or more rows and columns from a matrix. 
+adj	(logic) Acting as the subject of the second premise of a categorical syllogism, which then also acts as the subject of its conclusion. 
+adj	(UK, dated) The younger of two pupils with the same surname. 
+adj	(music, historical) Of or related to the relationship between the longa and the breve in a score. 
+adj	(music, historical) Having semibreves twice as long as a minim. 
+adj	(politics, obsolete) Of or related to a minority party. 
+n	(law) A child, a person who has not reached the age of majority, consent, etc. and is legally subject to fewer responsibilities and less accountability and entitled to fewer legal rights and privileges. 
+n	A lesser person or thing, a person, group, or thing of minor rank or in the minor leagues. 
+n	(Canada, US, education) A formally recognized secondary area of undergraduate study, requiring fewer course credits than the equivalent major. 
+n	(Canada, US, education, uncommon) A person who is completing or has completed such a course of study. 
+n	(mathematics) A determinant of a square matrix obtained by deleting one or more rows and columns. 
+n	(Australian football) Synonym of behind: a one-point kick. 
+n	(entomology) Any of various noctuid moths in Europe and Asia, chiefly in the Oligia and Mesoligia genera. 
+n	(entomology) A leaf-cutter worker ant intermediate in size between a minim and a media. 
+n	(campanology) Changes rung on six bells. 
+n	(Scotland law, obsolete) An adolescent, a person above the legal age of puberty but below the age of majority. 
+n	(mathematics, rare, obsolete) Synonym of subtrahend, the amount subtracted from a number. 
+n	(UK, rare, obsolete) The younger brother of a pupil. 
+v	Used in a phrasal verb: minor in. 
+n	A surname. 
+n	(music) Ellipsis of minor interval, scale, mode, key, chord, triad, etc. [(music) an interval that is either a minor second, minor third, minor sixth, or a minor seventh] 
+n	(Catholicism) Alternative letter-case form of Minor: a Franciscan friar, a Clarist nun. [A surname.] 
+n	(logic) Ellipsis of minor term or minor premise. 
+n	(baseball) Ellipsis of minor league: the lower level of teams. [An association of sports teams that plays at a level below the major leagues of a sport.] 
+n	(ice hockey) Ellipsis of minor penalty: a penalty requiring a player to leave the ice for 2 minutes unless the opposing team scores. [(ice hockey) A penalty sending the offending player to the penalty box for 2 minutes or (after the 1955–1956 season) the next score by the opposing team.] 
+n	(rugby, historical) Ellipsis of minor point: a lesser score formerly gained by certain actions. [(rugby, historical) A single point awarded for a touch-in-goal and sometimes for touchdowns or dead balls.] 
+n	(bridge) Ellipsis of minor suit; a card of a minor suit. [(bridge) Either of the suits of diamonds (♦) and clubs (♣), which rank lower than the major suits (spades and hearts).] 

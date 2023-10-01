@@ -1,0 +1,18 @@
+v	(transitive) To take illegally, or without the owner's permission, something owned by someone else. 
+v	(transitive, of ideas, words, music, a look, credit, etc.) To appropriate without giving credit or acknowledgement. 
+v	(transitive) To get or effect surreptitiously or artfully. 
+v	(transitive, colloquial) To acquire at a low price. 
+v	(transitive) To draw attention unexpectedly in (an entertainment), especially by being the outstanding performer. Usually used in the phrase steal the show. 
+v	(intransitive) To move silently or secretly. 
+v	(transitive) To convey (something) clandestinely. 
+v	To withdraw or convey (oneself) clandestinely. 
+v	(transitive, baseball) To advance safely to (another base) during the delivery of a pitch, without the aid of a hit, walk, passed ball, wild pitch, or defensive indifference. 
+v	(sports, transitive) To dispossess 
+v	(informal, transitive, hyperbolic) To borrow for a short moment. 
+v	(informal, transitive, humorous) take, plagiarize, tell on a joke, use a well-worded expression in one's own parlance or writing 
+n	The act of stealing. 
+n	(slang) A piece of merchandise available at a very low, attractive price. 
+n	(basketball, ice hockey) A situation in which a defensive player actively takes possession of the ball or puck from the opponent's team. 
+n	(baseball) A stolen base. 
+n	(curling) Scoring in an end without the hammer. 
+n	(computing) A policy in database systems that a database follows which allows a transaction to be written on nonvolatile storage before its commit occurs. 

@@ -1,0 +1,18 @@
+adj	Final, ultimate, coming after all others of its kind. 
+adj	Most recent, latest, last so far. 
+adj	Farthest of all from a given quality, character, or condition; most unlikely, or least preferable. 
+adj	Being the only one remaining of its class. 
+adj	Supreme; highest in degree; utmost. 
+adj	Lowest in rank or degree. 
+adv	Most recently. 
+adv	(sequence) after everything else; finally 
+v	(transitive, obsolete) To perform, carry out. 
+v	(intransitive) To endure, continue over time. 
+v	(intransitive) To hold out, continue undefeated or entire. 
+n	A tool for shaping or preserving the shape of shoes. 
+v	To shape with a last; to fasten or fit to a last; to place smoothly on a last. 
+n	(obsolete) A burden; load; a cargo; freight. 
+n	(obsolete) A measure of weight or quantity, varying in designation depending on the goods concerned. 
+n	(obsolete) An old English (and Dutch) measure of the carrying capacity of a ship, equal to two tons. 
+n	A load of some commodity with reference to its weight and commercial value. 
+n	A surname. 

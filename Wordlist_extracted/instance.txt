@@ -1,0 +1,12 @@
+n	(obsolete) Urgency of manner or words; an urgent request; insistence. 
+n	(obsolete) A token; a sign; a symptom or indication. 
+n	(obsolete) That which is urgent; motive. 
+n	(obsolete) A piece of evidence; a proof or sign (of something). 
+n	Occasion; order of occurrence. 
+n	A case offered as an exemplification or a precedent; an illustrative example. 
+n	One of a series of recurring occasions, cases, essentially the same. 
+n	(computing) A specific occurrence of something that is created or instantiated, such as a database, or an object of a class in object-oriented programming. 
+n	(massively multiplayer online games) A dungeon or other area that is duplicated for each player, or each party of players, that enters it, so that each player or party has a private copy of the area, isolated from other players. 
+n	(massively multiplayer online games) An individual copy of such a dungeon or other area. 
+v	(transitive) To mention as a case or example; to refer to; to cite 
+v	(intransitive) To cite an example as proof; to exemplify. 

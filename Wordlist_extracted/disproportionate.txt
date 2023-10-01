@@ -1,0 +1,3 @@
+adj	Not proportionate. 
+adj	Out of proportion. 
+v	(chemistry) To undergo disproportionation. 

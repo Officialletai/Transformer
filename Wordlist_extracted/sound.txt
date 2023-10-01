@@ -1,0 +1,30 @@
+adj	Healthy. 
+adj	Complete, solid, or secure. 
+adj	(mathematics, logic) Having the property of soundness. 
+adj	(Britain, Ireland, slang) Good; acceptable; decent. 
+adj	(of sleep) Quiet and deep. 
+adj	Heavy; laid on with force. 
+adj	Founded in law; legal; valid; not defective. 
+adv	Soundly. 
+n	A sensation perceived by the ear caused by the vibration of air or some other medium. 
+n	A vibration capable of causing such sensations. 
+n	(music) A distinctive style and sonority of a particular musician, orchestra, &. 
+n	Noise without meaning; empty noise. 
+n	Earshot, distance within which a certain noise may be heard. 
+n	(phonetics) A segment as a part of spoken language, the smallest unit of spoken language, a speech sound. 
+v	(intransitive) To produce a sound. 
+v	(copulative) To convey an impression by one's sound. 
+v	(intransitive) To be conveyed in sound; to be spread or published; to convey intelligence by sound. 
+v	(intransitive, obsolete) To resound. 
+v	(intransitive, law, often with in) To arise or to be recognizable as arising in or from a particular area of law, or as likely to result in a particular kind of legal remedy. 
+v	(transitive) To cause to produce a sound. 
+v	(transitive, phonetics, of a vowel or consonant) To pronounce. 
+n	(geography) A long narrow inlet, or a strait between the mainland and an island; also, a strait connecting two seas, or connecting a sea or lake with the ocean. 
+n	The air bladder of a fish. 
+v	(intransitive) Dive downwards, used of a whale. 
+v	To ascertain, or try to ascertain, the thoughts, motives, and purposes of (a person); to examine; to try; to test; to probe. 
+v	Test; ascertain the depth of water with a sounding line or other device. 
+v	(medicine) To examine with the instrument called a sound or sonde, or by auscultation or percussion. 
+n	A long, thin probe for sounding or dilating body cavities or canals such as the urethra; a sonde. 
+n	The strait that separates Zealand (an island of Denmark) from Scania (part of Sweden); also sometimes called by the Danish name, Øresund. 
+n	Synonym of Plymouth Sound, Devon, England. 

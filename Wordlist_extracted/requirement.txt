@@ -1,0 +1,3 @@
+n	A necessity or prerequisite; something required or obligatory. Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required. 
+n	Something asked. 
+n	(engineering, computing) A statement (in domain specific terms) which specifies a verifiable constraint on an implementation that it shall undeniably meet or (a) be deemed unacceptable, or (b) result in implementation failure, or (c) result in system failure. 

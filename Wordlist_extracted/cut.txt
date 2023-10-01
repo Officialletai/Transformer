@@ -1,0 +1,73 @@
+v	To perform an incision on, for example with a knife. 
+v	To divide with a knife, scissors, or another sharp instrument. 
+v	To form or shape by cutting. 
+v	(slang) To wound with a knife. 
+v	(intransitive) To engage in self-harm by making cuts in one's own skin. 
+v	To deliver a stroke with a whip or like instrument to. 
+v	To wound or hurt deeply the sensibilities of; to pierce. 
+v	To castrate or geld. 
+v	To interfere, as a horse; to strike one foot against the opposite foot or ankle in using the legs. 
+v	(intransitive) To admit of incision or severance; to yield to a cutting instrument. 
+v	To separate or omit, in a situation where one was previously associated. 
+v	To abridge or shorten a work; to remove a portion of a recording during editing. 
+v	To reduce, especially intentionally. 
+v	To absent oneself from (a class, an appointment, etc.). 
+v	(transitive, social) To ignore as a social rebuff or snub. 
+v	(intransitive, film) To make an abrupt transition from one scene or image to another. 
+v	(transitive, film) To edit a film by selecting takes from original footage. 
+v	(transitive, computing) To remove (text, a picture, etc.) and place in memory in order to paste at a later time. 
+v	(intransitive) To enter a queue in the wrong place. 
+v	(intransitive) To intersect or cross in such a way as to divide in half or nearly so. 
+v	(transitive, cricket) To make the ball spin sideways by running one's fingers down the side of the ball while bowling it. 
+v	(transitive, cricket) To deflect (a bowled ball) to the off, with a chopping movement of the bat. 
+v	(intransitive) To change direction suddenly. 
+v	(transitive, intransitive) To divide a pack of playing cards into two. 
+v	(transitive, slang) To make or negotiate. 
+v	(transitive, slang) To dilute or adulterate something, especially a recreational drug. 
+v	(transitive) To exhibit (a quality). 
+v	(transitive) To stop, disengage, or cease. 
+v	(sports) To drive (a ball) to one side, as by (in billiards or croquet) hitting it fine with another ball, or (in tennis) striking it with the racket inclined. 
+v	(bodybuilding) To lose body mass, aiming to keep muscle but lose body fat. 
+v	To perform (a dancing movement etc.). 
+adj	(participial adjective) Having been cut. 
+adj	Reduced. 
+adj	(of a gem) Carved into a shape; not raw. 
+adj	(cricket, of a shot) Played with a horizontal bat to hit the ball backward of point. 
+adj	(bodybuilding) Having muscular definition in which individual groups of muscle fibers stand out among larger muscles. 
+adj	(informal) Circumcised or having been the subject of female genital mutilation. 
+adj	(Australia, New Zealand, slang) Emotionally hurt. 
+adj	(slang, New Zealand, formerly UK) Intoxicated as a result of drugs or alcohol. 
+n	The act of cutting. 
+n	The result of cutting. 
+n	An opening resulting from cutting; an incision or wound. 
+n	A notch, passage, or channel made by cutting or digging; a furrow; a groove. 
+n	An artificial navigation channel as distinguished from a navigable river. 
+n	A share or portion of profits. 
+n	A decrease. 
+n	(cricket) A batsman's shot played with a swinging motion of the bat, to hit the ball backward of point. 
+n	(cricket) Sideways movement of the ball through the air caused by a fast bowler imparting spin to the ball. 
+n	(sports) In lawn tennis, etc., a slanting stroke causing the ball to spin and bound irregularly; also, the spin thus given to the ball. 
+n	(golf) In a strokeplay competition, the early elimination of those players who have not then attained a preannounced score, so that the rest of the competition is less pressed for time and more entertaining for spectators. 
+n	(especially theater, film) A passage omitted or to be omitted from a play, movie script, speech, etc. 
+n	(film) A particular version or edit of a film. 
+n	(card games) The act or right of dividing a deck of playing cards. 
+n	(card games) The card obtained by dividing the pack. 
+n	The manner or style a garment etc. is fashioned in. 
+n	A slab, especially of meat. 
+n	(fencing) An attack made with a chopping motion of the blade, landing with its edge or point. 
+n	A deliberate snub, typically a refusal to return a bow or other acknowledgement of acquaintance. 
+n	An unkind act; a cruelty. 
+n	A definable part, such as an individual song, of a recording, particularly of commercial records, audio tapes, CDs, etc. 
+n	(archaeology) A truncation, a context that represents a moment in time when other archaeological deposits were removed for the creation of some feature such as a ditch or pit. 
+n	A haircut. 
+n	(graph theory) The partition of a graph’s vertices into two subgroups. 
+n	(rail transport) A string of railway cars coupled together, shorter than a train. 
+n	An engraved block or plate; the impression from such an engraving. 
+n	(obsolete) A common workhorse; a gelding. 
+n	(slang, dated) The failure of a college officer or student to be present at any appointed exercise. 
+n	A skein of yarn. 
+n	(slang, uncountable) That which is used to dilute or adulterate a recreational drug. 
+n	(fashion) A notch shaved into an eyebrow. 
+n	(bodybuilding) A time period when one tries to lose fat while retaining muscle mass. 
+n	(slang) A hidden, secluded, or secure place. 
+n	(chemical engineering, petrochemistry) The range of temperatures used to distill a particular mixture of hydrocarbons from crude oil. 

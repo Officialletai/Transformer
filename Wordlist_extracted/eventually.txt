@@ -1,0 +1,3 @@
+adv	In the end; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks. 
+adv	(mathematics, of a sequence) For some tail; for all terms beyond some term; with only finitely many exceptions. 
+adv	(proscribed, non-native speakers' English) Possibly, potentially, perhaps 

@@ -1,0 +1,8 @@
+n	Someone who visits someone else; someone staying as a guest. 
+n	Someone who pays a visit to a specific place or event; a sightseer or tourist. 
+n	(sports, usually in the plural) Someone, or a team, that is playing away from home. 
+n	A person authorized to visit an institution to see that it is being managed properly. 
+n	(ufology) An extraterrestrial being on Earth for any reason. 
+n	An object which lands or passes by Earth or its orbit. 
+n	(Britain) A head or overseer of an institution such as a college (in which case, equivalent to the university's chancellor) or cathedral or hospital, who resolves disputes, gives ceremonial speeches, etc. 
+n	(software engineering) The object in the visitor pattern that performs an operation on the elements of a structure one by one. 

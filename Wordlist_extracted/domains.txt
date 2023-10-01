@@ -1,0 +1,16 @@
+n	A geographic area owned or controlled by a single person or organization. 
+n	A field or sphere of activity, influence or expertise. 
+n	A group of related items, topics, or subjects. 
+n	(mathematics) The set of all possible mathematical entities (points) where a given function is defined. 
+n	(mathematics, set theory) The set of input (argument) values for which a function is defined. 
+n	(mathematics) A ring with no zero divisors; that is, in which no product of nonzero elements is zero. 
+n	(mathematics, topology, mathematical analysis) An open and connected set in some topology. For example, the interval (0,1) as a subset of the real numbers. 
+n	(computing, Internet) Any DNS domain name, particularly one which has been delegated and has become representative of the delegated domain name and its subdomains. 
+n	(computing, Internet) A collection of DNS or DNS-like domain names consisting of a delegated domain name and all its subdomains. 
+n	(computing) A collection of information having to do with a domain, the computers named in the domain, and the network on which the computers named in the domain reside. 
+n	(computing) The collection of computers identified by a domain's domain names. 
+n	(physics) A small region of a magnetic material with a consistent magnetization direction. 
+n	(computing) Such a region used as a data storage element in a bubble memory. 
+n	(data processing) A form of technical metadata that represent the type of a data item, its characteristics, name, and usage. 
+n	(taxonomy) The highest rank in the classification of organisms, above kingdom; in the three-domain system, one of the taxa Bacteria, Archaea, or Eukaryota. 
+n	(biochemistry) A folded section of a protein molecule that has a discrete function; the equivalent section of a chromosome 

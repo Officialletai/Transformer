@@ -1,0 +1,2 @@
+n	One who publishes, especially books. 
+n	(programming) A system or component that allows other components (subscribers) to receive notifications of something, such as an event. 

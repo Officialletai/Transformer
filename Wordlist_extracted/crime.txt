@@ -1,0 +1,8 @@
+n	(countable) A specific act committed in violation of the law. 
+n	(countable) Any great sin or wickedness; iniquity. 
+n	(countable, obsolete) That which occasions crime. 
+n	(uncountable) Criminal acts collectively. 
+n	(uncountable) The habit or practice of committing crimes. 
+v	(UK, military, transitive) To subject to disciplinary punishment. 
+v	(nonce word) To commit crime. 
+n	(computing) A particular security exploit against secret Web cookies over connections using the HTTPS and SPDY protocols that also use data compression. It relies on observing the change in size of the compressed ciphertext for various inputs. 

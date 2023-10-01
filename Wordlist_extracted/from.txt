@@ -1,0 +1,2 @@
+N	The SQL From clause is the source of a rowset to be operated upon in a Data Manipulation Language statement.  
+N	an American science fiction horror television series created by John Griffin.  

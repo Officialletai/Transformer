@@ -1,0 +1,16 @@
+n	(literary or archaic) A relationship or relation (to something). 
+n	A measurement one can compare (some other measurement) to. 
+n	Information about a person, provided by someone (a referee) with whom they are well acquainted. 
+n	(UK, Ireland) A person who provides this information; a referee. 
+n	(often attributive) A reference work. 
+n	The act of referring: a submitting for information or decision. 
+n	(semantics) A relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object. 
+n	(academic writing) A short written identification of a previously published work which is used as a source for a text. 
+n	(academic writing) A previously published written work thus indicated; a source. 
+n	(computing) An object containing information which refers to data stored elsewhere, as opposed to containing the data itself. 
+n	(programming, character entity) A special sequence used to represent complex characters in markup languages, such as &trade; for the ™ symbol. 
+n	(obsolete) Appeal. 
+v	To provide a list of references for (a text). 
+v	To refer to, to use as a reference. 
+v	To mention, to cite. 
+v	(programming) To contain the value that is a memory address of some value stored in memory. 

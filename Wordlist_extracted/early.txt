@@ -1,0 +1,10 @@
+adj	At a time in advance of the usual or expected event. 
+adj	Arriving a time before expected; sooner than on time. 
+adj	Near the start or beginning. 
+adj	Near the start of the day. 
+adj	Having begun to occur; in its early stages. 
+adj	(astronomy) Of a star or class of stars, hotter than the sun. 
+n	(informal) A shift (scheduled work period) that takes place early in the day. 
+adv	At a time before expected; sooner than usual. 
+adv	Soon; in good time; seasonably. 
+n	A surname. 

@@ -1,0 +1,45 @@
+n	The calcareous or chitinous external covering of mollusks, crustaceans, and some other invertebrates. 
+n	(by extension) Any mollusk having such a covering. 
+n	(entomology) The exoskeleton or wing covers of certain insects. 
+n	The conjoined scutes that constitute the "shell" (carapace) of a tortoise or turtle. 
+n	The overlapping hard plates comprising the armor covering the armadillo's body. 
+n	The hard calcareous covering of a bird egg. 
+n	One of the outer layers of skin of an onion. 
+n	The covering, or outside part, of a nut. 
+n	A pod containing the seeds of certain plants, such as the legume Phaseolus vulgaris. 
+n	(in the plural) Husks of cacao seeds, a decoction of which is sometimes used as a substitute or adulterant for cocoa and its products such as chocolate. 
+n	(geology) The accreted mineral formed around a hollow geode. 
+n	(weaponry) The casing of a self-contained single-unit artillery projectile. 
+n	(weaponry) A hollow, usually spherical or cylindrical projectile fired from a siege mortar or a smoothbore cannon. It contains an explosive substance designed to be ignited by a fuse or by percussion at the target site so that it will burst and scatter at high velocity its contents and fragments. Formerly called a bomb. 
+n	(weaponry) The cartridge of a breechloading firearm; a load; a bullet; a round. 
+n	(architecture) Any slight hollow structure; a framework, or exterior structure, regarded as not complete or filled in, as the shell of a house. 
+n	A garment, usually worn by women, such as a shirt, blouse, or top, with short sleeves or no sleeves, that often fastens in the rear. 
+n	A coarse or flimsy coffin; a thin interior coffin enclosed within a more substantial one. 
+n	(music) A string instrument, as a lyre, whose acoustical chamber is formed like a shell. 
+n	(music) The body of a drum; the often wooden, often cylindrical acoustic chamber, with or without rims added for tuning and for attaching the drum head. 
+n	An engraved copper roller used in print works. 
+n	The thin coating of copper on an electrotype. 
+n	(nautical) The watertight outer covering of the hull of a vessel, often made with planking or metal plating. 
+n	(nautical, rigging) The outer frame or case of a block within which the sheaves revolve. 
+n	(nautical) A light boat whose frame is covered with thin wood, impermeable fabric, or water-proofed paper; a racing shell or dragon boat. 
+n	(chemistry) A set of atomic orbitals that have the same principal quantum number. 
+n	(figuratively) The outward form independent of what is inside. 
+n	(figuratively) The empty outward form of someone or something. 
+n	An emaciated person. 
+n	A psychological barrier to social interaction. 
+n	(computing) An operating system software user interface, whose primary purpose is to launch other programs and control their interactions; the user's command interpreter. Shell is a way to separate the internal complexity of the implementation of the command from the user. The internals can change while the user experience/interface remains the same. 
+n	(business) A legal entity that has no operations. 
+n	A concave rough cast-iron tool in which a convex lens is ground to shape. 
+n	(engineering) A gouge bit or shell bit. 
+n	(phonology) The onset and coda of a syllable. 
+n	(UK, slang) A person's ear. 
+v	To remove the outer covering or shell of something. 
+v	To bombard, to fire projectiles at, especially with artillery. 
+v	(informal) To disburse or give up money, to pay. (Often used with out). 
+v	(intransitive) To fall off, as a shell, crust, etc. 
+v	(intransitive) To cast the shell, or exterior covering; to fall out of the pod or husk. 
+v	(computing, intransitive) To switch to a shell or command line. 
+v	To form shallow, irregular cracks (in a coating). 
+v	(topology) To form a shelling. 
+n	A surname. 
+n	A diminutive of the female given name Michelle. 

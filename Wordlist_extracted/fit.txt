@@ -1,0 +1,35 @@
+adj	Suitable, proper. 
+adj	Adapted to a purpose or environment. 
+adj	In good shape; physically well. 
+adj	(Britain, informal, chiefly slang) Sexually attractive; good-looking; fanciable. 
+adj	Prepared; ready. 
+v	(transitive) To be suitable for. 
+v	(intransitive) To have sufficient space available at some location to be able to be there. 
+v	(transitive) To conform to in size and shape. 
+v	(intransitive) To be of the right size and shape 
+v	(transitive, with to) To make conform in size and shape. 
+v	(transitive) To tailor; to change to the appropriate size. 
+v	(transitive) To be in agreement with. 
+v	(transitive) To adjust. 
+v	(transitive) To attach, especially when requiring exact positioning or sizing. 
+v	(transitive) To equip or supply. 
+v	(transitive) To make ready. 
+v	(intransitive, archaic) To be seemly. 
+v	To be proper or becoming. 
+v	(intransitive) To be in harmony. 
+n	The degree to which something fits. 
+n	Conformity of elements one to another. 
+n	The part of an object upon which anything fits tightly. 
+n	(advertising) Measure of how well a particular commercial execution captures the character or values of a brand. 
+n	(statistics) Goodness of fit. 
+n	(bridge) The quality of a partnership's combined holding of cards in a suit, particularly of trump. 
+n	(archaic) A section of a poem or ballad. 
+n	A seizure or convulsion. 
+n	(medicine) A sudden and vigorous appearance of a symptom over a short period of time. 
+n	A sudden outburst of emotion. 
+n	A sudden burst (of an activity). 
+v	(intransitive, medicine) To suffer a fit. 
+n	(countable) Initialism of feed-in tariff. 
+n	(uncountable, aviation, travel industry) Initialism of fully inclusive tour. 
+n	(uncountable, aviation, travel industry) Initialism of fully independent travel. 
+n	Initialism of feed-in tariff. 

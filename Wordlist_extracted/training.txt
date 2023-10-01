@@ -1,0 +1,5 @@
+n	Action of the verb to train. 
+n	The activity of imparting and acquiring skills. 
+n	The result of good social upbringing. 
+n	(computing) The process by which two modems determine which protocol and speed to use; handshaking. 
+n	(voice recognition) The recording of multiple samples of a user's voice to aid pattern recognition. 

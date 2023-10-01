@@ -1,0 +1,4 @@
+adj	Not likely; improbable; not to be reasonably expected. 
+adj	Not holding out a prospect of success; likely to fail; unpromising. 
+adv	In an improbable manner. 
+n	Something or somebody considered unlikely. 

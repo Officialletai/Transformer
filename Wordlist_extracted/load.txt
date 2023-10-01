@@ -1,0 +1,41 @@
+n	A burden; a weight to be carried. 
+n	(figuratively) A worry or concern to be endured, especially in the phrase a load off one's mind. 
+n	A certain number of articles or quantity of material that can be transported or processed at one time. 
+n	A quantity of washing put into a washing machine for a wash cycle. 
+n	(in combination) Used to form nouns that indicate a large quantity, often corresponding to the capacity of a vehicle 
+n	(often in the plural, colloquial) A large number or amount. 
+n	The volume of work required to be performed. 
+n	(engineering) The force exerted on a structural component such as a beam, girder, cable etc. 
+n	(electrical engineering) The electrical current or power delivered by a device. 
+n	(engineering) A resistive force encountered by a prime mover when performing work. 
+n	(electrical engineering) Any component that draws current or power from an electrical circuit. 
+n	A unit of measure for various quantities. 
+n	The viral load 
+n	A very small explosive inserted as a gag into a cigarette or cigar. 
+n	The charge of powder for a firearm. 
+n	(obsolete) Weight or violence of blows. 
+n	(vulgar, slang) The contents (e.g. semen) of an ejaculation. 
+n	(euphemistic) Nonsense; rubbish. 
+n	(computing) The process of loading something, i.e. transferring it into memory or over a network, etc. 
+n	(Philippines) prepaid phone credit 
+v	(transitive) To put a load on or in (a means of conveyance or a place of storage). 
+v	(transitive) To place in or on a conveyance or a place of storage. 
+v	(intransitive) To put a load on something. 
+v	(intransitive) To receive a load. 
+v	(intransitive) To be placed into storage or conveyance. 
+v	(transitive) To fill (a firearm or artillery) with munition. 
+v	(transitive) To insert (an item or items) into an apparatus so as to ready it for operation, such as a reel of film into a camera, sheets of paper into a printer etc. 
+v	(transitive) To fill (an apparatus) with raw material. 
+v	(intransitive) To be put into use in an apparatus. 
+v	(transitive, computing) To read (data or a program) from a storage medium into computer memory. 
+v	(intransitive, computing) To transfer from a storage medium into computer memory. 
+v	(transitive, baseball) To put runners on first, second and third bases 
+v	(transitive) To tamper with so as to produce a biased outcome. 
+v	(transitive) To ask or adapt a question so that it will be more likely to be answered in a certain way. 
+v	(transitive) To encumber with something negative, to place as an encumbrance. 
+v	(transitive) To provide in abundance. 
+v	(transitive) To weight (a cane, whip, etc.) with lead or similar. 
+v	(transitive, archaic, slang) To adulterate or drug. 
+v	(transitive, archaic) To magnetize. 
+v	(Philippines) to top up or purchase phone credits 
+n	(Internet slang, obsolete) A person that spends all day online. The term was originally used in the late 1980s to describe users on free Q-Link (later America Online) accounts who never signed off the system at great expense to the company. 

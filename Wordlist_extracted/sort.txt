@@ -1,0 +1,22 @@
+n	A general type. 
+n	Manner; form of being or acting. 
+n	(obsolete) Condition above the vulgar; rank. 
+n	(informal) A person evaluated in a certain way (bad, good, strange, etc.). 
+n	(dated) Group, company. 
+n	(Britain, informal) A good-looking woman. 
+n	An act of sorting. 
+n	(computing) An algorithm for sorting a list of items into a particular sequence. 
+n	(typography) A piece of metal type used to print one letter, character, or symbol in a particular size and style. 
+n	(mathematics) A type. 
+n	(obsolete) Chance; lot; destiny. 
+n	(obsolete) A full set of anything, such as a pair of shoes, or a suit of clothes. 
+v	(transitive) To separate items into different categories according to certain criteria that determine their sorts. 
+v	(transitive) To arrange into some sequence, usually numerically, alphabetically or chronologically. 
+v	(transitive) To conjoin; to put together in distribution; to class. 
+v	(transitive, obsolete) To conform; to adapt; to accommodate. 
+v	(transitive, obsolete) To choose from a number; to select; to cull. 
+v	(intransitive) To join or associate with others, especially with others of the same kind or species; to agree. 
+v	(intransitive) To suit; to fit; to be in accord; to harmonize. 
+v	(Britain, colloquial, transitive) To fix (a problem) or handle (a task). 
+v	(Britain, colloquial, transitive) To attack physically. 
+v	(transitive) To geld. 

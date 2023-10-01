@@ -1,0 +1,40 @@
+n	The point in the interior of a circle that is equidistant from all points on the circumference. 
+n	The point in the interior of a sphere that is equidistant from all points on the circumference. 
+n	The middle portion of something; the part well away from the edges. 
+n	(obsolete) The innermost point of the Earth, or the Earth itself, as the center or foundation of the Universe; the center or foundation of the Universe abstractly. 
+n	(geometry) The point on a line that is midway between the ends. 
+n	(geometry) The point in the interior of any figure of any number of dimensions that has as its coordinates the arithmetic mean of the coordinates of all points on the perimeter of the figure (or of all points in the interior for a center of volume). 
+n	(group theory, ring theory) The subgroup (respectively, subring), denoted Z(G), of those elements of a given group (respectively, ring) G that commute with every element of G. 
+n	A pivotal part in the political constitution of a country 
+n	A topic that is particularly important in a given context, the element in a subject of cognition, volition or discussion that is perceived as decisive. 
+n	(basketball) The player, generally the tallest, who plays closest to the basket. 
+n	(ice hockey) The forward that generally plays between the left wing and right wing and usually takes the faceoffs. 
+n	(American football, Canadian football) The person who holds the ball at the beginning of each play. 
+n	(netball) A player who can go all over the court, except the shooting circles. 
+n	(soccer) A pass played into the centre of the pitch. 
+n	(rugby) One of the backs operating in a central area of the pitch, either the inside centre or outside centre. 
+n	(architecture) A temporary structure upon which the materials of a vault or arch are supported in position until the work becomes self-supporting. 
+n	(engineering) One of the two conical steel pins in a lathe, etc., upon which the work is held, and about which it revolves. 
+n	(engineering) A conical recess or indentation in the end of a shaft or other work, to receive the point of a center, on which the work can turn, as in a lathe. 
+n	(Australia, New Zealand) The ring in the gambling game two-up in which the spinner operates. 
+adj	Of, at, or related to a center. 
+v	(transitive) To cause (an object) to occupy the center of an area. 
+v	(transitive) To cause (some attribute, such as a mood or voltage) to be adjusted to a value which is midway between the extremes. 
+v	(transitive) To give (something) a central basis. 
+v	(intransitive) To concentrate on (something), to pay close attention to (something). 
+v	(engineering) To form a recess or indentation for the reception of a center. 
+n	A surname. 
+n	A statutory town in Rio Grande County and Saguache County, Colorado. 
+n	An unincorporated community in Jackson County, Georgia. 
+n	An unincorporated community in Howard County, Indiana. 
+n	An unincorporated community in Jay County, Indiana. 
+n	An unincorporated community in Warrick County, Indiana. 
+n	An unincorporated community in Metcalfe County, Kentucky. 
+n	A small city and town in Missouri. 
+n	A village, the county seat of Knox County, Nebraska. 
+n	A small city, the county seat of Oliver County, North Dakota. 
+n	A city, the county seat of Shelby County, Texas. 
+n	An unincorporated community in Jefferson County, Washington. 
+n	A town in Outagamie County, Wisconsin. 
+n	A town in Rock County, Wisconsin. 
+n	A number of townships in the United States, listed under Center Township. 

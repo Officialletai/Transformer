@@ -1,0 +1,2 @@
+adj	Having an end or limit; (of a quantity) constrained by bounds; (of a set) whose number of elements is a natural number. 
+adj	(grammar, as opposed to infinite or nonfinite) Limited by (i.e. inflected for) person or number. 

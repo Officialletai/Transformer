@@ -1,0 +1,2 @@
+adj	Not assigned. 
+adj	(programming) Without a value assigned to it. 

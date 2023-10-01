@@ -1,0 +1,13 @@
+adj	According to norms or rules or to a regular pattern. 
+adj	(mathematics) Adhering to or being what is considered natural or regular in a particular field or context: 
+adj	Usual, healthy; not sick or ill or unlike oneself. 
+adj	(education, of a school) teaching teachers how to teach (to certain norms) 
+adj	(chemistry) Of, relating to, or being a solution containing one equivalent weight of solute per litre of solution. 
+adj	(organic chemistry) Describing a straight chain isomer of an aliphatic hydrocarbon, or an aliphatic compound in which a substituent is in the 1- position of such a hydrocarbon. 
+adj	(physics, of a mode in an oscillating system) In which all parts of an object vibrate at the same frequency (see normal mode). 
+adj	(rail transport, of points) In the default position, set for the most frequently used route. 
+adj	(geometry) Perpendicular to a tangent of a curve or derivative of a surface. 
+n	(geometry) A line or vector that is perpendicular to another line, surface, or plane. 
+n	(medicine, countable) A person who is healthy, normal, as opposed to one who is morbid. 
+n	(slang, countable) A person who is normal, who fits into mainstream society, as opposed to those who live alternative lifestyles. 
+n	(countable, uncountable) The usual state. 

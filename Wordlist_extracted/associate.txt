@@ -1,0 +1,19 @@
+adj	Joined with another or others and having lower status. 
+adj	Having partial status or privileges. 
+adj	Following or accompanying; concomitant. 
+adj	(biology, dated) Connected by habit or sympathy. 
+n	A person united with another or others in an act, enterprise, or business; a partner. 
+n	Somebody with whom one works, coworker, colleague. 
+n	A companion; a comrade. 
+n	One that habitually accompanies or is associated with another; an attendant circumstance. 
+n	A member of an institution or society who is granted only partial status or privileges. 
+n	(algebra) One of a pair of elements of an integral domain (or a ring) such that the two elements are divisible by each other (or, equivalently, such that each one can be expressed as the product of the other with a unit). 
+v	(intransitive) To join in or form a league, union, or association. 
+v	(intransitive) To spend time socially; keep company. 
+v	(transitive, with with) To join as a partner, ally, or friend. 
+v	(transitive) To connect or join together; combine. 
+v	(transitive) To connect evidentially, or in the mind or imagination. 
+v	(reflexive, in deliberative bodies) To endorse. 
+v	(mathematics) To be associative. 
+v	(transitive, obsolete) To accompany; to be in the company of. 
+n	(slang) An associate's degree. 

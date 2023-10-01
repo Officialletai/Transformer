@@ -1,0 +1,13 @@
+n	(semantics, lexicography) A statement of the meaning of a word or word group or a sign or symbol (dictionary definitions). 
+n	(usually with the definite article the) A clear instance conforming to the dictionary or textbook definition. 
+n	A statement expressing the essential nature of something; formulation 
+n	The action or process of defining. 
+n	The act of defining; determination of the limits. 
+n	A product of defining. 
+n	The action or power of describing, explaining, or making definite and clear. 
+n	Clarity of visual presentation, distinctness of outline or detail. 
+n	Clarity, especially of musical sound in reproduction. 
+n	Sharp demarcation of outlines or limits. 
+n	(bodybuilding) The degree to which individual muscles are distinct on the body. 
+n	(programming) A statement which provides a previous declaration with a value or body of a subroutine (in the case of function). 
+n	(mathematics) A statement that establishes the referent of a term or notation. 

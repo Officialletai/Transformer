@@ -1,0 +1,6 @@
+adv	(focus) Likewise. 
+adv	(conjunctive) Also; in addition. 
+adv	(degree) To an excessive degree; over; more than enough. 
+adv	(degree, colloquial) To a high degree, very. 
+adv	(affirmation, colloquial) Used to contradict a negative assertion. 
+adv	(archaic, colloquial) Used for emphasis, without reference to any previous statement. 

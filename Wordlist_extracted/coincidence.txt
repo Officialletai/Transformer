@@ -1,0 +1,4 @@
+n	Of objects, the property of being coincident; occurring at the same time or place. 
+n	Of events, the appearance of a meaningful connection when there is none. 
+n	(mathematical analysis) A coincidence point. 
+n	(geometry) A fixed point of a correspondence; a point of a variety corresponding to itself under a correspondence. 

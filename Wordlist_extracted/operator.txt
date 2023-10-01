@@ -1,0 +1,9 @@
+n	One who operates. 
+n	A telecommunications facilitator whose job is to establish temporary network connections. 
+n	(mathematics) A function or other mapping that carries variables defined on a domain into another variable or set of variables in a defined range. 
+n	(uncountable) The game of Chinese whispers. 
+n	(informal) A person who is adept at making deals or getting results, especially one who uses questionable methods. 
+n	A member of a military special operations unit. 
+n	(computing) The administrator of a channel or network on IRC. 
+n	(computing) A symbol that represents a construct in a programming language and differs from a normal function in its syntax. 
+n	(linguistics) A kind of expression that enters into an a-bar movement dependency and is said to bind a variable. 

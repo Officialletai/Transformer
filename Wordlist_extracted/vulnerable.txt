@@ -1,0 +1,3 @@
+adj	More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally. 
+adj	Open to disclosing one's inner thoughts and feelings, acting in spite of one's instinct to self-preservation. 
+adj	(computing) More likely to be exposed to malicious programs or viruses. 

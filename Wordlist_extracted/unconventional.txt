@@ -1,0 +1,4 @@
+adj	Not adhering to convention or accepted standards 
+adj	Out of the ordinary 
+adj	Atypical 
+n	Something or someone that is unconventional. 

@@ -1,0 +1,13 @@
+adj	Obtained by derivation; not radical, original, or fundamental. 
+adj	Imitative of the work of someone else. 
+adj	(law, copyright law) Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions. 
+adj	(finance) Having a value that depends on an underlying asset of variable value. 
+adj	Lacking originality. 
+n	Something derived. 
+n	(linguistics) A word that derives from another one. 
+n	(finance) A financial instrument whose value depends on the valuation of an underlying asset; such as a warrant, an option etc. 
+n	(chemistry) A chemical derived from another. 
+n	(Of a function of a single variable f(x)) The derived function of f(x): the function giving the instantaneous rate of change of f; equivalently, the function giving the slope of the line tangent to the graph of f. Written f'(x) or (df)/(dx) in Leibnitz's notation, ̇f(x) in Newton's notation (the latter used particularly when the independent variable is time). 
+n	The value of such a derived function for a given value of its independent variable: the rate of change of a function at a point in its domain. 
+n	(Of more general classes of functions) Any of several related generalizations of the derivative: the directional derivative, partial derivative, Fréchet derivative, functional derivative, etc. 
+n	(generally) The linear operator that maps functions to their derived functions, usually written D; the simplest differential operator. 

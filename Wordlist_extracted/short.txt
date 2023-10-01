@@ -1,0 +1,40 @@
+adj	Having a small distance from one end or edge to another, either horizontally or vertically. 
+adj	(of a person) Of comparatively small height. 
+adj	Having little duration. 
+adj	(followed by for) Of a word or phrase, constituting an abbreviation (for another) or shortened form (of another). 
+adj	(cricket, of a fielder or fielding position) that is relatively close to the batsman. 
+adj	(cricket, of a ball) bowled so that it bounces relatively far from the batsman. 
+adj	(golf, of an approach shot or putt) that falls short of the green or the hole. 
+adj	(gambling) Of betting odds, offering a small return for the money wagered. 
+adj	(baking, of pastries, metallurgy) Brittle, crumbly. (See shortbread, shortcake, shortcrust, shortening, hot short, cold-short.) 
+adj	Abrupt; brief; pointed; petulant. 
+adj	Limited in quantity; inadequate; insufficient; scanty. 
+adj	Insufficiently provided; inadequately supplied, especially with money; scantily furnished; lacking. 
+adj	Deficient; less; not coming up to a measure or standard. 
+adj	(colloquial) Undiluted; neat. 
+adj	(obsolete) Not distant in time; near at hand. 
+adj	(finance) Being in a financial investment position that is structured to be profitable if the price of the underlying security declines in the future. 
+adj	(by extension) Doubtful of, skeptical of. 
+adj	(finance, dated) Of money: given in the fewest possible notes, i.e. those of the largest denomination. 
+adv	Abruptly, curtly, briefly. 
+adv	Unawares. 
+adv	Without achieving a goal or requirement. 
+adv	(cricket, of the manner of bounce of a cricket ball) Relatively far from the batsman and hence bouncing higher than normal; opposite of full. 
+adv	(finance) With a negative ownership position. 
+n	A short circuit. 
+n	A short film. 
+n	A short version of a garment in a particular size. 
+n	(baseball) A shortstop. 
+n	(finance) A short seller. 
+n	(finance) A short sale or short position. 
+n	A summary account. 
+n	(phonetics) A short sound, syllable, or vowel. 
+n	(programming) An integer variable having a smaller range than normal integers; usually two bytes long. 
+n	(US, slang) An automobile; especially in crack shorts, to break into automobiles. 
+v	(transitive) To cause a short circuit in (something). 
+v	(intransitive, of an electrical circuit) To short circuit. 
+v	(transitive) To shortchange. 
+v	(transitive, informal) To provide with a smaller than agreed or labeled amount. 
+v	(transitive, business) To sell something, especially securities, that one does not own at the moment for delivery at a later date in hopes of profiting from a decline in the price; to sell short. 
+v	(obsolete) To shorten. 
+n	A surname. 

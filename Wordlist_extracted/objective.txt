@@ -1,0 +1,10 @@
+adj	Of or relating to a material object, actual existence or reality. 
+adj	Not influenced by the emotions or prejudices. 
+adj	Based on observed facts; without subjective assessment. 
+adj	(grammar) Of, or relating to a noun or pronoun used as the object of a verb. 
+adj	(linguistics, grammar) Of, or relating to verbal conjugation that indicates the object (patient) of an action. (In linguistic descriptions of Tundra Nenets, among others.) 
+n	A material object that physically exists. 
+n	A goal that is striven for. 
+n	(grammar) The objective case. 
+n	(grammar) a noun or pronoun in the objective case. 
+n	The lens or lenses of a camera, microscope, or other optical device closest to the object being examined. 

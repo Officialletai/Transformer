@@ -1,0 +1,29 @@
+n	A mesh of string, cord or rope. 
+n	A device made from such mesh, used for catching fish, butterflies, etc. 
+n	A device made from such mesh, generally used for trapping something. 
+n	Anything that has the appearance of such a device. 
+n	(by extension) A trap. 
+n	(geometry) Any set of polygons joined edge to edge that, when folded along the edges between adjoining polygons so that the outer edges touch, form a given polyhedron. 
+n	A system that interconnects a number of users, locations etc. allowing transport or communication between them. 
+n	(electronics) A conductor that interconnects two or more component terminals. 
+n	(sports) A framework backed by a mesh, serving as the goal in hockey, soccer, lacrosse, etc. 
+n	(sports, tennis) A mesh stretched to divide the court in tennis, badminton, volleyball, etc. 
+n	(tennis, by extension) The area of the court close to the net (mesh stretched to divide the court). 
+v	(transitive) To catch by means of a net. 
+v	(transitive, figuratively) To catch in a trap, or by stratagem. 
+v	To enclose or cover with a net. 
+v	(transitive, soccer) To score (a goal). 
+v	(tennis) To hit the ball into the net. 
+v	To form a netting or network; to knit. 
+adj	(obsolete) Good, desirable; clean, decent, clear. 
+adj	Free from extraneous substances; pure; unadulterated; neat. 
+adj	Remaining after expenses or deductions. 
+adj	Final; end. 
+adv	After expenses or deductions. 
+n	The amount remaining after expenses are deducted; profit. 
+v	(transitive) To receive as profit. 
+v	(transitive) To yield as profit for. 
+v	To fully hedge a position. 
+n	(computing, informal) The Internet. 
+n	A nickname for someone named Jeannette (or any of its alternative forms). 
+n	(biology) Acronym of neutrophil extracellular trap. 

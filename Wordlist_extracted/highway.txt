@@ -1,0 +1,6 @@
+n	(historical) A road that is higher than the surrounding land and has drainage ditches at the sides 
+n	A main public road, especially a multi-lane, high-speed thoroughfare. 
+n	(figuratively) A way; a path that leads to a certain destiny 
+n	(law, rail transport) Any public road for vehicular traffic. 
+n	(computing) Synonym of bus (“common connection for two or more circuits or components”) 
+v	To travel on a highway 

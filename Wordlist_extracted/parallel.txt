@@ -1,0 +1,20 @@
+adj	Equally distant from one another at all points. 
+adj	Having the same overall direction; the comparison is indicated with "to". 
+adj	(hyperbolic geometry, said of a pair of lines) Either not intersecting, or coinciding. 
+adj	(computing) Involving the processing of multiple tasks at the same time. 
+adv	With a parallel relationship. 
+n	One of a set of parallel lines. 
+n	Direction conformable to that of another line. 
+n	A line of latitude. 
+n	An arrangement of electrical components such that a current flows along two or more paths; see in parallel. 
+n	Something identical or similar in essential respects. 
+n	A comparison made; elaborate tracing of similarity. 
+n	(military) One of a series of long trenches constructed before a besieged fortress, by the besieging force, as a cover for troops supporting the attacking batteries. They are roughly parallel to the line of outer defenses of the fortress. 
+n	(printing) A character consisting of two parallel vertical lines, used in the text to direct attention to a similarly marked note in the margin or at the foot of a page. 
+v	To construct or place something parallel to something else. 
+v	Of a path etc: To be parallel to something else. 
+v	Of a process etc: To be analogous to something else. 
+v	To compare or liken something to something else. 
+v	To make to conform to something else in character, motive, aim, etc. 
+v	To equal; to match; to correspond to. 
+v	To produce or adduce as a parallel. 

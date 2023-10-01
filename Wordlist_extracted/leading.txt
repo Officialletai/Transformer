@@ -1,0 +1,6 @@
+adj	Providing guidance or direction. 
+adj	Ranking first. 
+adj	Occurring in advance; preceding. 
+n	An act by which one is led or guided. 
+n	(archaic) Command of an army or military unit. 
+n	(typography) Vertical space added between lines; line spacing. 

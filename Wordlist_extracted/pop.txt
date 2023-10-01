@@ -1,0 +1,43 @@
+n	(countable) A loud, sharp sound, as of a cork coming out of a bottle. 
+n	(uncountable, regional, Midwestern US, Canada, Britain) An effervescent or fizzy drink, most frequently nonalcoholic; soda pop. 
+n	(countable, regional, Midwestern US, Canada) A bottle, can, or serving of effervescent or fizzy drink, most frequently nonalcoholic; a soda pop. 
+n	A pop shot: a quick, possibly unaimed, shot with a firearm. 
+n	(colloquial, in the phrase "a pop") A quantity dispensed; a portion; apiece. 
+n	Something that stands out or is distinctive to the mind or senses. 
+n	(computing) The removal of a data item from the top of a stack. 
+n	A bird, the European redwing. 
+n	(physics) The sixth derivative of the position vector with respect to time (after velocity, acceleration, jerk, jounce, crackle), i.e. the rate of change of crackle. 
+n	(slang, dated) A pistol. 
+n	(US, mostly in plural) A small, immature peanut, boiled as a snack. 
+v	(intransitive) To make a pop, or sharp, quick sound. 
+v	(ergative) To burst (something) with a popping sound. 
+v	(intransitive, with in, out, upon, etc.) To enter, or issue forth, with a quick, sudden movement; to move from place to place suddenly; to dart. 
+v	(transitive, UK) To place (something) (somewhere); to move or position (something) with a short movement. 
+v	(intransitive, UK, Canada, often with over, round, along, etc.) To make a short trip or visit. 
+v	(intransitive) To stand out; to be distinctive to the senses. 
+v	(transitive) To hit (something or someone). 
+v	(transitive, slang) To shoot (usually somebody) with a firearm. 
+v	(intransitive, vulgar, slang) To ejaculate; to orgasm. 
+v	(transitive, computing) To remove (a data item) from the top of a stack. 
+v	(intransitive, slang) To give birth. 
+v	(transitive, slang) To pawn (something) (to raise money). 
+v	(transitive, slang) To swallow or consume (especially a tablet of a drug, sometimes extended to other small items such as sweets or candy). 
+v	(transitive, informal) To perform (a move or stunt) while riding a board or vehicle. 
+v	(intransitive, of the ears) To undergo equalization of pressure when the Eustachian tubes open. 
+v	(dance) To perform the popping style of dance. 
+v	(transitive, slang) To arrest. 
+n	(colloquial, endearing) One's father. 
+adj	(used attributively in set phrases) Popular. 
+n	Pop music. 
+n	(Russian Orthodoxy, uncommon) A Russian Orthodox priest; a parson. 
+n	A social club and debating society at Eton College. 
+n	The body of college prefects. 
+n	(also in plural) A popular classical music concert. 
+n	(colloquial, US, theater) Traditional nickname for a stage doorman. 
+n	(telecommunications) Acronym of point of presence. 
+n	(trade) Acronym of Point of Purchase. 
+n	(weather) Acronym of probability of precipitation. 
+n	(television) Acronym of picture outside of picture. 
+n	(environmental science) Acronym of persistent organic pollutant. [Organic compounds, predominantly synthetic, that are resistant to environmental degradation through chemical, biological, and photolytic processes, and that are often associated with health risks.] 
+n	(Internet) Acronym of Post Office Protocol. 
+adj	Acronym of post office preferred. (denoting a standard envelope size) 

@@ -1,0 +1,24 @@
+adj	Flat and level. 
+adj	Without great variation. 
+adj	Equal in proportion, quantity, size, etc. 
+adj	(not comparable, of an integer) Divisible by two. 
+adj	(of a number) Convenient for rounding other numbers to; for example, ending in a zero. 
+adj	On equal monetary terms; neither owing nor being owed. 
+adj	(colloquial) On equal terms of a moral sort; quits. 
+adj	parallel; on a level; reaching the same limit. 
+adj	(obsolete) Without an irregularity, flaw, or blemish; pure. 
+adj	(obsolete) Associate; fellow; of the same condition. 
+v	(transitive) To make flat and level. 
+v	(transitive, obsolete) To equal or equate; to make the same. 
+v	(intransitive, obsolete) To be equal. 
+v	(transitive, obsolete) To place in an equal state, as to obligation, or in a state in which nothing is due on either side; to balance, as accounts; to make quits. 
+v	(transitive, obsolete) To set right; to complete. 
+v	(transitive, obsolete) To act up to; to keep pace with. 
+adv	(archaic) Exactly, just, fully. 
+adv	In reality; implying an extreme example in the case mentioned, as compared to the implied reality. 
+adv	Emphasizing a comparative. 
+adv	Signalling a correction of one's previous utterance; rather, that is. 
+n	(mathematics, diminutive) An even number. 
+n	(archaic or poetic) Evening. 
+n	A Tungusic language spoken by the Evens in Siberia and the Russian Far East. 
+n	An ethnic Even: a member of an indigenous people living in Siberia and the Russian Far East. 

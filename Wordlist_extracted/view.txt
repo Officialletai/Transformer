@@ -1,0 +1,15 @@
+n	The act of seeing or looking at something. 
+n	The range of vision. 
+n	Something to look at, such as scenery. 
+n	(Internet) An individual viewing of a web page or a video etc. by a user. 
+n	(obsolete) Appearance; show; aspect. 
+n	A picture, drawn or painted; a sketch. 
+n	A mental image. 
+n	A way of understanding something, an opinion, a theory. 
+n	A point of view. 
+n	An intention or prospect. 
+n	(computing, databases) A virtual or logical table composed of the result set of a query in relational databases. 
+n	(computing, programming) The part of a computer program which is visible to the user and can be interacted with 
+n	A wake. 
+v	(transitive) To look at. 
+v	(transitive) To regard in a stated way. 

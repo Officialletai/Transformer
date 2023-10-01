@@ -1,0 +1,4 @@
+adj	Following in time; coming or being after something else at any time, indefinitely. 
+adj	Following in order of place; succeeding. 
+adj	(geology, of a stream or faultline) Following a line in the earth that is more easily eroded. 
+n	(geology) A subsequent stream or faultline. 

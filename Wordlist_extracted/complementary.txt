@@ -1,0 +1,6 @@
+adj	Acting as a complement; making up a whole with something else. 
+adj	(genetics) Of the specific pairings of the bases in DNA and RNA. 
+adj	(physics) Pertaining to pairs of properties in quantum mechanics that are inversely related to each other, such as speed and position, or energy and time. (See also Heisenberg uncertainty principle.) 
+n	A complementary colour. 
+n	(obsolete) One skilled in compliments. 
+n	An angle which adds with another to equal 90 degrees. 

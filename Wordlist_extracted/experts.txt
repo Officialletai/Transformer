@@ -1,0 +1,5 @@
+adj	Extraordinarily capable or knowledgeable. 
+adj	Characteristic of an expert. 
+adj	(obsolete) Proven, experienced, veteran. 
+n	A person with extensive knowledge or ability in a given subject. 
+n	(chess) A player ranking just below master. 

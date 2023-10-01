@@ -1,0 +1,14 @@
+adj	Being in accord with established forms. 
+adj	Official. 
+adj	Relating to the form or structure of something. 
+adj	Relating to formation. 
+adj	Ceremonial or traditional. 
+adj	Proper, according to strict etiquette; not casual. 
+adj	Organized; well-structured and planned. 
+adj	(mathematics) Relating to mere manipulation and construction of strings of symbols, without regard to their meaning. 
+n	(clothing) An evening gown. 
+n	An event with a formal dress code. 
+n	(programming) A formal parameter. 
+n	(uncountable) Formalin. 
+n	An acetal formed from formaldehyde. 
+n	(Oxbridge slang) Ellipsis of formal hall.. [(Oxbridge) A formal meal held in a college hall, generally with a grace, waiting staff and a set menu with multiple courses; usually held once or twice per week.] 

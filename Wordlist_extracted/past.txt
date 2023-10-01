@@ -1,0 +1,7 @@
+n	The period of time that has already happened, in contrast to the present and the future. 
+n	(grammar) The past tense. 
+adj	Having already happened; in the past; finished. 
+adj	(postmodifier) Following expressions of time to indicate how long ago something happened; ago. 
+adj	Of a period of time: having just gone by; previous. 
+adj	(grammar) Of a tense, expressing action that has already happened or a previously-existing state. 
+adv	In a direction that passes. 

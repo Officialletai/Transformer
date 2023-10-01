@@ -1,0 +1,13 @@
+v	(transitive) To give in trust; to put into charge or keeping; to entrust; to consign; used with to or formerly unto. 
+v	(transitive) To imprison: to forcibly place in a jail. 
+v	(transitive) To forcibly evaluate and treat in a medical facility, particularly for presumed mental illness. 
+v	(transitive) To do (something bad); to perpetrate, as a crime, sin, or fault. 
+v	(transitive, intransitive) To pledge or bind; to compromise, expose, or endanger by some decisive act or preliminary step. (Traditionally used only reflexively but now also without oneself etc.) 
+v	(transitive, computing, databases) To make a set of changes permanent. 
+v	(transitive, programming) To integrate new revisions into the public or master version of a file in a version control system. 
+v	(intransitive, obsolete) To enter into a contest; to match; often followed by with. 
+v	(transitive, obsolete, Latinism) To confound. 
+v	(obsolete, intransitive) To commit an offence; especially, to fornicate. 
+v	(obsolete, intransitive) To be committed or perpetrated; to take place; to occur. 
+n	(computing, databases) The act of committing (e.g. a database transaction), making it a permanent change; such a change. 
+n	(programming) The submission of source code or other material to a source control repository. 

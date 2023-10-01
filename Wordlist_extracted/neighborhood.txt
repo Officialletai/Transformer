@@ -1,0 +1,14 @@
+n	The residential area near one's home. 
+n	The inhabitants of a residential area. 
+n	A formal or informal division of a municipality or region. 
+n	An approximate amount. 
+n	The quality of physical proximity. 
+n	(chiefly obsolete) The quality of being a neighbor, of living nearby, next to each-other; proximity. 
+n	(dated) Close proximity; nearness. 
+n	(obsolete) The disposition becoming a neighbor; neighborly kindness or good will. 
+n	A set containing an open set which contains some specified point. 
+n	Alternatively: An open set which contains some specified point. 
+n	A set containing an open ball which contains a specified point. 
+n	Alternatively: An open ball which contains some specified point. 
+n	(topology) The infinitesimal open set of all points that may be reached directly from a given point. 
+n	(graph theory) The set of all the vertices adjacent to a given vertex. 

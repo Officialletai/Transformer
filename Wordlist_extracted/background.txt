@@ -1,0 +1,9 @@
+adj	Less important or less noticeable in a scene or system. 
+n	One's social heritage, or previous life; what one did in the past. 
+n	A part of the picture that depicts scenery to the rear or behind the main subject; context. 
+n	Information relevant to the current situation about past events; history. 
+n	A less important feature of scenery (as opposed to foreground). 
+n	(computing) The image or color over which a computer's desktop items are shown (e.g. icons or application windows). 
+n	(computing) A type of activity on a computer that is not normally visible to the user. 
+v	To put in a position that is not prominent. 
+v	(journalism) To gather and provide background information (on). 

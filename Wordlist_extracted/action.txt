@@ -1,0 +1,21 @@
+n	The effort of performing or doing something. 
+n	Something done, often so as to accomplish a purpose. 
+n	A way of motion or functioning. 
+n	Fast-paced activity. 
+n	The way in which a mechanical device acts when used; especially a firearm. 
+n	(firearms) The way in which cartridges are loaded, locked, and extracted from the mechanism. 
+n	(music) The mechanism, that is the set of moving mechanical parts, of a keyboard instrument, like a piano, which transfers the motion of the key to the sound-making device. 
+n	(music, lutherie) The distance separating the strings and the fretboard on a guitar or other string instrument. 
+n	(slang, typically with a quantifier) Sexual intercourse. 
+n	(military) Combat. 
+n	(law) A charge or other process in a law court (also called lawsuit and actio). 
+n	(mathematics) A mapping from a pairing of mathematical objects to one of them, respecting their individual structures. The pairing is typically a Cartesian product or a tensor product. The object that is not part of the output is said to act on the other object. In any given context, action is used as an abbreviation for a more fully named notion, like group action or left group action. 
+n	(physics) The product of energy and time, especially the product of the Lagrangian and time. 
+n	The event or connected series of events, either real or imaginary, forming the subject of a play, poem, or other composition; the unfolding of the drama of events. 
+n	(art, painting and sculpture) The attitude or position of the several parts of the body as expressive of the sentiment or passion depicted. 
+n	(bowling) spin put on the bowling ball. 
+n	(obsolete) A share in the capital stock of a joint-stock company, or in the public funds. 
+n	(religion) A religious performance or solemn function, i.e. action sermon, a sacramental sermon in the Scots Presbyterian Church. 
+adj	(Manglish) arrogant 
+v	(transitive, management) To act on a request etc, in order to put it into effect. 
+v	(transitive, chiefly archaic) To initiate a legal action against someone. 

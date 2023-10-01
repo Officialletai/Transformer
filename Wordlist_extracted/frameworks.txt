@@ -1,0 +1,5 @@
+n	(literally) A support structure comprising joined parts or conglomerated particles and intervening open spaces of similar or larger size. 
+n	(literally) The arrangement of support beams that represent a building's general shape and size. 
+n	(figuratively) The larger branches of a tree that determine its shape. 
+n	(figuratively) A basic conceptual structure. 
+n	(software engineering) A reusable piece of code (and, sometimes, other utilities) providing a standard environment within which an application can be implemented. 

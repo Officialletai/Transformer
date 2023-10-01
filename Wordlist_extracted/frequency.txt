@@ -1,0 +1,4 @@
+n	(uncountable or countable) The rate of occurrence of anything; the relationship between incidence and time period. 
+n	(uncountable) The property of occurring often rather than infrequently. 
+n	(countable) The quotient of the number of times n a periodic phenomenon occurs over the time t in which it occurs: f=n/t. 
+n	(statistics) number of times an event occurred in an experiment (absolute frequency) 

@@ -1,0 +1,7 @@
+n	The visible horizontal line (in all directions) where the sky appears to meet the earth in the distance. 
+n	(figuratively) The range or limit of one's knowledge, experience or interest; a boundary or threshold. 
+n	The range or limit of any dimension in which one exists. 
+n	(geology) A specific layer of soil, or stratum 
+n	(archaeology, chiefly US) A cultural sub-period or level within a more encompassing time period. 
+n	Any level line or surface. 
+n	(chess) The point at which a computer chess algorithm stops searching for further moves. 

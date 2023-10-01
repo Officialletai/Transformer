@@ -1,0 +1,10 @@
+n	A formal ceremony in which a person is appointed to an office or into military service. 
+n	The process of showing a newcomer around a place where they will work or study. 
+n	(physics) Generation of an electric current by a varying magnetic field. 
+n	(logic) Derivation of general principles from specific instances. 
+n	(mathematics) A method of proof of a theorem by first proving it for a specific case (often an integer; usually 0 or 1) and showing that, if it is true for one case then it must be true for the next. 
+n	(theater) Use of rumors to twist and complicate the plot of a play or to narrate in a way that does not have to state truth nor fact within the play. 
+n	(embryology) Given a group of cells that emits or displays a substance, the influence of this substance on the fate of a second group of cells 
+n	(mechanical engineering) The delivery of air to the cylinders of an internal combustion piston engine. 
+n	(medicine) The process of inducing the birth process. 
+n	(obsolete) An introduction. 

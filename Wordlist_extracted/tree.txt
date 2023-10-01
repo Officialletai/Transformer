@@ -1,0 +1,22 @@
+n	A perennial woody plant, not exactly defined, but differentiated from a shrub by its larger size (typically over a few meters in height) or growth habit, usually having a single (or few) main axis or trunk unbranched for some distance above the ground and a head of branches and foliage. 
+n	Any plant that is reminiscent of the above but not classified as a tree (in any botanical sense). 
+n	An object made from a tree trunk and having multiple hooks or storage platforms. 
+n	A device used to hold or stretch a shoe open. 
+n	The structural frame of a saddle. 
+n	(graph theory) A connected graph with no cycles or, if the graph is finite, equivalently a connected graph with n vertices and n−1 edges. 
+n	(computing theory) A recursive data structure in which each node has zero or more nodes as children. 
+n	(graphical user interface) A display or listing of entries or elements such that there are primary and secondary entries shown, usually linked by drawn lines or by indenting to the right. 
+n	Any structure or construct having branches representing divergence or possible choices. 
+n	The structure or wooden frame used in the construction of a saddle used in horse riding. 
+n	(in the plural, slang) Marijuana. 
+n	(obsolete) A cross or gallows. 
+n	(chemistry) A mass of crystals, aggregated in arborescent forms, obtained by precipitation of a metal from solution. 
+n	(cartomancy) The fifth Lenormand card. 
+v	(transitive) To chase (an animal or person) up a tree. 
+v	(transitive) To place in a tree. 
+v	(transitive) To place upon a tree; to fit with a tree; to stretch upon a tree. 
+v	(intransitive) To take refuge in a tree. 
+n	(mathematics) An extremely fast-growing function based on Kruskal's tree theorem. 
+n	A surname. 
+n	(uncountable, mathematics) Alternative letter-case form of TREE. [(mathematics) An extremely fast-growing function based on Kruskal's tree theorem.] 
+n	(mathematics) Alternative letter-case form of TREE [(mathematics) An extremely fast-growing function based on Kruskal's tree theorem.] 

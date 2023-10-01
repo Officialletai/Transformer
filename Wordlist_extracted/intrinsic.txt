@@ -1,0 +1,5 @@
+adj	Innate, inherent, inseparable from the thing itself, essential. 
+adj	(anatomy, of a body part) Situated, produced, secreted in, or coming from inside an organ, tissue, muscle or member. 
+adj	(programming, of a function or operator) Built-in. 
+n	(computing, programming) A built-in function that is implemented directly by the compiler, without any intermediate call to a library. 
+n	(video games) An ability possessed by a character and not requiring any external equipment. 

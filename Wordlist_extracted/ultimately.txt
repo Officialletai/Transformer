@@ -1,0 +1,3 @@
+adv	Indicating the last item. 
+adv	Indicating the most important action. 
+adv	(linguistics) Used to indicate the etymon at which a given etymological derivation terminates. 

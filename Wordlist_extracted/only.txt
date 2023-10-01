@@ -1,0 +1,11 @@
+adj	Alone in a category. 
+adj	Singularly superior; the best. 
+adj	Without sibling; without a sibling of the same gender. 
+adj	(obsolete) Mere. 
+adv	Without others or anything further; exclusively. 
+adv	No more than; just. 
+adv	As recently as. 
+adv	(Britain) Used to express surprise or consternation at an action. 
+adv	Introduces a disappointing or surprising outcome that renders futile something previously mentioned. 
+adv	(obsolete) Above all others; particularly. 
+n	An only child. 

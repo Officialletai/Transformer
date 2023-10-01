@@ -1,0 +1,8 @@
+v	(obsolete, transitive) To make clear, explain, interpret. 
+v	(transitive, intransitive) To assert or announce formally, officially, explicitly, or emphatically. 
+v	(card games) To show one's cards in order to score. 
+v	(intransitive, cricket) For the captain of the batting side to announce the innings complete even though all batsmen have not been dismissed. 
+v	(intransitive, politics) For a constituency in an election to officially announce the result 
+v	(transitive) To inform government customs or taxation officials of goods one is importing or of income, expenses, or other circumstances affecting one's taxes. 
+v	(transitive) To make outstanding debts, e.g. taxes, payable. 
+v	(transitive, programming) To explicitly establish the existence of (a variable, function, etc.) without necessarily describing its content. 

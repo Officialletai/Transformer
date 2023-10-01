@@ -1,0 +1,19 @@
+adj	Feeling sorrow; sorrowful, mournful. 
+adj	Appearing sorrowful. 
+adj	Causing sorrow; lamentable. 
+adj	Poor in quality, bad; shameful, deplorable; later, regrettable, poor. 
+adj	Of colours: dark, deep; later, sombre, dull. 
+adj	(obsolete) Sated, having had one's fill; satisfied, weary. 
+adj	(obsolete) Steadfast, valiant. 
+adj	(obsolete) Dignified, serious, grave. 
+adj	(obsolete) Naughty; troublesome; wicked. 
+adj	(slang) Unfashionable; socially inadequate or undesirable. 
+adj	(dialect) Soggy (to refer to pastries). 
+adj	(obsolete) Heavy; weighty; ponderous; close; hard. 
+v	(transitive, archaic) To make melancholy; to sadden or grieve (someone). 
+n	Alternative form of saad (“Arabic letter”) [The letter ص in the Arabic script.] 
+n	(medicine) Initialism of seasonal affective disorder. [(psychology) A form of depression associated with the lack of natural light during the winter months.] 
+n	Initialism of standard American diet. 
+n	(US) Initialism of Special Activities Division. 
+n	(psychology) Initialism of social anxiety disorder. [(clinical psychology, psychiatry) The most common anxiety disorder, characterized by intense fear in one or more social situations, causing considerable distress and impaired ability to function in at least some parts of daily life. Symptoms of fear, distress, anxiety, avoidance of social situations, and impairment in social, occupational, or other areas of daily life, are persistent, typically lasting for a minimum of at least 6 months, and are not attributable to the physiological effects of a substance or another medical condition.] 
+n	(X-ray crystallography) Initialism of single-wavelength anomalous dispersion. 

@@ -1,0 +1,24 @@
+n	The part of an object which is (designed to be) held in the hand when used or moved. 
+n	An instrument for effecting a purpose (either literally or figuratively); a tool, or an opportunity or pretext. 
+n	(gambling) The gross amount of wagering within a given period of time or for a given event at one of more establishments. 
+n	(textiles) The tactile qualities of a fabric, e.g., softness, firmness, elasticity, fineness, resilience, and other qualities perceived by touch. 
+n	(slang) A name, nickname or pseudonym. 
+n	(slang) A title attached to one's name, such as Doctor or Colonel. 
+n	(computing) A reference to an object or structure that can be stored in a variable. 
+n	(Australia, chiefly Northern Territory, New Zealand) A 10 fluid ounce (285 mL) glass of beer. 
+n	(US) A half-gallon (1.75-liter) bottle of alcohol. 
+n	(geography, Newfoundland and Labrador, rare) A point, an extremity of land. 
+n	(topology) A topological space homeomorphic to a ball but viewed as a product of two lower-dimensional balls. 
+n	(algebraic geometry) The smooth, irreducible subcurve of a comb which connects to each of the other components in exactly one point. 
+v	(transitive) To touch; to feel or hold with the hand(s). 
+v	(transitive, rare) To accustom to the hand; to take care of with the hands. 
+v	(transitive) To manage, use, or wield with the hands. 
+v	(transitive) To manage, control, or direct. 
+v	(transitive) To treat, to deal with (in a specified way). 
+v	(transitive) To deal with (a subject, argument, topic, or theme) in speaking, in writing, or in art. 
+v	(transitive) To receive and transfer; to have pass through one's hands; hence, to buy and sell. 
+v	(transitive, rare) To be concerned with; to be an expert in. 
+v	(transitive) To put up with; to endure (and continue to function). 
+v	(intransitive) To use the hands. 
+v	(soccer, intransitive) To illegally touch the ball with the hand or arm; to commit handball. 
+v	(intransitive) To behave in a particular way when handled (managed, controlled, directed). 

@@ -1,0 +1,11 @@
+n	(uncountable) The state, quality, or condition of being wrong. 
+n	(countable) A mistake; an accidental wrong action or a false statement not made deliberately. 
+n	(countable, uncountable) Sin; transgression. 
+n	(computing, countable) A failure to complete a task, usually involving a premature termination. 
+n	(statistics, countable) The difference between a measured or calculated value and a true one. 
+n	(baseball, countable) A play which is scored as having been made incorrectly. 
+n	(appellate law, uncountable) One or more mistakes in a trial that could be grounds for review of the judgement. 
+n	Any alteration in the DNA chemical structure occurring during DNA replication, recombination or repairing. 
+v	(computing) To function improperly due to an error, especially accompanied by error message. 
+v	(telecommunications) To show or contain an error or fault. 
+v	(nonstandard) To err. 

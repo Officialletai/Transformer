@@ -1,0 +1,21 @@
+adj	Relatively great in extent from one surface to the opposite in its smallest solid dimension. 
+adj	Measuring a certain number of units in this dimension. 
+adj	Heavy in build; thickset. 
+adj	Densely crowded or packed. 
+adj	Having a viscous consistency. 
+adj	Abounding in number. 
+adj	Impenetrable to sight. 
+adj	Greatly evocative of one's nationality or place of origin. 
+adj	Difficult to understand, or poorly articulated. 
+adj	(informal) Stupid. 
+adj	(informal) Friendly or intimate. 
+adj	Deep, intense, or profound. 
+adj	(academic) Detailed and expansive; substantive. 
+adj	(UK, dated) troublesome; unreasonable 
+adj	(slang, chiefly of women) Curvy and voluptuous, and especially having large hips. 
+adv	In a thick manner. 
+adv	Frequently or numerously. 
+n	The thickest, or most active or intense, part of something. 
+n	A thicket. 
+n	(slang) A stupid person; a fool. 
+v	(archaic, transitive, intransitive) To thicken. 

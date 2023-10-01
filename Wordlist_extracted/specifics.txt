@@ -1,0 +1,14 @@
+adj	explicit or definite. 
+adj	(bioscience, taxonomy) pertaining to a species, as a taxon or taxa at the rank of species. 
+adj	special, distinctive or unique. 
+adj	intended for, or applying to, a particular thing. 
+adj	Serving to identify a particular thing (often a disease or condition), with little risk of mistaking something else for it. 
+adj	being a remedy for a particular disease on a deeper level, rather than just masking the symptoms 
+adj	(immunology) limited to a particular antibody or antigen. 
+adj	(physics) of a value divided by mass (e.g. specific orbital energy) 
+adj	(physics) similarly referring to a value divided by any measure which acts to standardize it (e.g. thrust specific fuel consumption, referring to fuel consumption divided by thrust) 
+adj	(physics) a measure compared with a standard reference value by division, to produce a ratio without unit or dimension (e.g. specific refractive index is a pure number, and is relative to that of air) 
+n	A distinguishing attribute or quality. 
+n	A remedy for a specific disease or condition. 
+n	Specification 
+n	(in the plural) The details; particulars. 

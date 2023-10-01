@@ -1,0 +1,3 @@
+adj	Interacting with or communicating with and reacting to each other; influencing or having an effect on each other; acting or capable of acting on each other or with the other. 
+adj	(computer science) Responding to the user. 
+n	A feature (as in a museum) that can be interacted with. 

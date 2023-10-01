@@ -1,0 +1,23 @@
+adj	(of a statement) Conforming to the actual state of reality or fact; factually correct. 
+adj	As an ellipsis of "(while) it is true (that)", used to start a sentence 
+adj	Conforming to a rule or pattern; exact; accurate. 
+adj	(logic) Of the state in Boolean logic that indicates an affirmative or positive result. 
+adj	Loyal, faithful. 
+adj	Genuine; legitimate, valid. 
+adj	Used in the designation of group of species, or sometimes a single species, to indicate that it belongs to the clade its common name (which may be more broadly scoped in common speech) is restricted to in technical speech, or to distinguish it from a similar species, the latter of which may be called false. 
+adj	(of an aim or missile in archery, shooting, golf, etc.) Accurate; following a path toward the target. 
+adj	(of a mechanical part) Correctly aligned or calibrated, without deviation. 
+adj	(chiefly probability) Fair, unbiased, not loaded. 
+adj	(of a literary genre) based on actual historical events. 
+adv	(of shooting, throwing etc) Accurately. 
+adv	(archaic) Truthfully. 
+n	(uncountable) The state of being in alignment. 
+n	(uncountable, obsolete) Truth. 
+n	(countable, obsolete) A pledge or truce. 
+v	To straighten (of something that is supposed to be straight). 
+v	To make even, level, symmetrical, or accurate, align; adjust. 
+adj	(electronics) one of two states of a Boolean variable; logic 1. 
+n	A surname. 
+n	An unincorporated community in Summers County, West Virginia, United States. 
+n	A town in Rusk County, Wisconsin, United States. 
+n	A townland in County Tyrone, Northern Ireland. 

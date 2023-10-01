@@ -1,0 +1,24 @@
+adj	(of an object or substance) That can be picked up or held, having a texture, and usually firm. Unlike a liquid, gas or plasma. 
+adj	Large in size, quantity, or value. 
+adj	Lacking holes, hollows or admixtures of other materials. 
+adj	Strong or unyielding. 
+adj	(slang) Excellent, of high quality, or reliable. 
+adj	Hearty; filling. 
+adj	Worthy of credit, trust, or esteem; substantial; not frivolous or fallacious. 
+adj	Financially well off; wealthy. 
+adj	Sound; not weak. 
+adj	(typography) Written as one word, without spaces or hyphens. 
+adj	(printing, dated) Not having the lines separated by leads; not open. 
+adj	(US, politics, slang) United; without division; unanimous. 
+adj	Of a single color throughout. 
+adj	(of drawn lines) Continuous; unbroken; not dotted or dashed. 
+adj	(dated) Having all the geometrical dimensions; cubic. 
+adj	(of volumes of materials) Measured as a single solid, as the volumes of individual pieces added together without any gaps. 
+n	(chemistry) A substance in the fundamental state of matter that retains its size and shape without need of a container (as opposed to a liquid or gas). 
+n	(geometry) A three-dimensional figure (as opposed to a surface, an area, or a curve). 
+n	(informal) A favor. 
+n	An article of clothing which is of a single color throughout. 
+n	(in the plural) Food which is not liquid-based. 
+adv	Solidly. 
+adv	(not comparable, typography) Without spaces or hyphens. 
+n	(programming, object-oriented programming) Acronym of Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion. (When followed, the created system will be more likely easy to maintain, and extend over time.) 

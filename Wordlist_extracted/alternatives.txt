@@ -1,0 +1,10 @@
+adj	Relating to a choice between two or more possibilities. 
+adj	(linguistics) Presenting two or more alternatives. 
+adj	Other; different from something else. 
+adj	Not traditional, outside the mainstream, underground. 
+adj	(obsolete) Alternate, reciprocal. 
+n	A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities. 
+n	One of several mutually exclusive things which can be chosen. 
+n	The remaining option; something available after other possibilities have been exhausted. 
+n	(uncountable, music) alternative rock 
+n	A non-offensive word or phrase that serves as a replacement for a word deemed offensive or unacceptable, though not as a euphemism. 

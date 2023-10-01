@@ -1,0 +1,8 @@
+adj	explicitly defined 
+adj	conclusive or decisive 
+adj	definite, authoritative and complete 
+adj	limiting; determining 
+adj	(philately) general, not issued for commemorative purposes 
+adj	(obsolete) Determined; resolved. 
+n	(grammar) a word, such as a definite article or demonstrative pronoun, that defines or limits something 
+n	(philately) an ordinary postage stamp that is part of a series of all denominations or is reprinted as needed to meet demand 

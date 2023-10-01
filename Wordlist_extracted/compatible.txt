@@ -1,0 +1,4 @@
+adj	Capable of easy interaction. 
+adj	Able to get along well. 
+adj	Consistent; congruous. 
+n	Something that is compatible with something else. 

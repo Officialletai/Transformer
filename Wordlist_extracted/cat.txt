@@ -1,0 +1,57 @@
+n	A domesticated species (Felis catus) of feline animal, commonly kept as a house pet. 
+n	Any similar animal of the family Felidae, which includes lions, tigers, bobcats, etc. 
+n	(offensive) A spiteful or angry woman. 
+n	An enthusiast or player of jazz. 
+n	(slang) A person (usually male). 
+n	(slang) A prostitute. 
+n	(nautical) A strong tackle used to hoist an anchor to the cathead of a ship. 
+n	(chiefly nautical) Short form of cat-o'-nine-tails. 
+n	(archaic) A sturdy merchant sailing vessel (now only in "catboat"). 
+n	(archaic, uncountable) The game of "trap and ball" (also called "cat and dog"). 
+n	The trap of the game of "trap and ball". 
+n	(archaic) The pointed piece of wood that is struck in the game of tipcat. 
+n	(slang, vulgar, African-American Vernacular) A vagina, a vulva; the female external genitalia. 
+n	A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed. 
+n	(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences. 
+v	(nautical, transitive) To hoist (the anchor) by its ring so that it hangs at the cathead. 
+v	(nautical, transitive) To flog with a cat-o'-nine-tails. 
+v	(slang) To vomit. 
+v	To go wandering at night. 
+v	To gossip in a catty manner. 
+n	(computing) A program and command in Unix that reads one or more files and directs their content to the standard output. 
+v	(computing, transitive) To apply the cat command to (one or more files). 
+v	(computing, slang) To dump large amounts of data on (an unprepared target) usually with no intention of browsing it carefully. 
+n	(slang) A street name of the drug methcathinone. 
+n	(slang) Any of a variety of earth-moving machines. (from their manufacturer Caterpillar Inc.) 
+n	A ground vehicle which uses caterpillar tracks, especially tractors, trucks, minibuses, and snow groomers. 
+adj	(Ireland, colloquial) Catastrophic; terrible, disastrous. 
+n	A diminutive of the female given names Catherine or Caitlin. 
+n	(slang) A piece of heavy machinery, such as a backhoe, of the Caterpillar brand. 
+n	(informal) A Catalina flying boat. 
+n	Centre for Alternative Technology 
+n	Counter Assault Team 
+n	Citizens Area Transit 
+n	Canadian Achievement Tests 
+n	Cambridge Antibody Technology 
+n	Abbreviation of catapult. [A device or weapon for throwing or launching large objects.] 
+n	Abbreviation of catalytic converter. [(automotive) A chamber containing a finely divided platinum catalyst in which carbon monoxide and hydrocarbons from the exhaust are oxidized to carbon dioxide.] 
+n	Abbreviation of catamaran. [A twin-hulled ship or boat.] 
+n	Abbreviation of category. [A group, often named or numbered, to which items are assigned based on similarity or defined criteria.] 
+n	Abbreviation of catfish. [Any fish of the order Siluriformes, mainly found in fresh water, lacking scales, and having barbels like whiskers around the mouth] 
+n	Acronym of Central Atlas Tamazight. [A Berber language spoken by some three million people in central Morocco.] 
+n	Acronym of computer-adaptive test. 
+n	Acronym of common admission test. 
+n	Acronym of civil air transport. 
+n	Acronym of clear-air turbulence. [The erratic movement of air masses in the absence of any visual cues, especially such movement that causes unexpected turbulence to an aircraft.] 
+n	(medicine) Acronym of computed axial tomography. [(medicine) A medical imaging process involving the use of multiple X-ray images to produce a three dimensional image of internal organs.] 
+n	Acronym of career aptitude test. 
+n	Acronym of computer-assisted/aided translation. 
+n	Acronym of credit authorization terminal. 
+n	Acronym of citizenship advancement training. 
+n	Acronym of computer-aided transceiver. 
+n	Acronym of cosmic anisotropy telescope. 
+n	Acronym of coital alignment technique. 
+n	Acronym of conidial anastomosis tube. 
+n	Acronym of chloramphenicol acetyltransferase. 
+n	Acronym of crisis assessment team. 
+n	Acronym of Consumer Acceptance of Technology. 

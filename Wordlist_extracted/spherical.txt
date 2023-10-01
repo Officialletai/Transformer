@@ -1,0 +1,4 @@
+adj	(geometry) Shaped like a sphere. 
+adj	(geometry, not comparable) Of, or pertaining to, spheres. 
+adj	(mathematics) Of a coordinate system, specifying the location of a point in a plane by using a radius and two angles. 
+adj	(astrology) Of or relating to the heavenly orbs, or to the sphere or spheres in which, according to ancient astronomy and astrology, they were set. 

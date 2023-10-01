@@ -1,0 +1,5 @@
+n	(uncountable) The act of instructing, teaching, or furnishing with information or knowledge. 
+n	(countable) An instance of the information or knowledge so furnished. 
+n	(countable) An order or command. 
+n	(computing) A single operation of a processor defined by an instruction set architecture. 
+n	A set of directions provided by a manufacturer for the users of a product or service. 

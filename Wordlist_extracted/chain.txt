@@ -1,0 +1,24 @@
+n	A series of interconnected rings or links usually made of metal. 
+n	A series of interconnected things. 
+n	A series of stores or businesses with the same brand name. 
+n	(chemistry) A number of atoms in a series, which combine to form a molecule. 
+n	(surveying) A series of interconnected links of known length, used as a measuring device. 
+n	(surveying) A long measuring tape. 
+n	A unit of length equal to 22 yards. The length of a Gunter's surveying chain. The length of a cricket pitch. Equal to 20.12 metres, 4 rods, or 100 links. 
+n	(mathematics, set theory, order theory) A totally ordered set, especially a totally ordered subset of a poset. 
+n	(Britain) A sequence of linked house purchases, each of which is dependent on the preceding and succeeding purchase (said to be "broken" if a buyer or seller pulls out). 
+n	That which confines, fetters, or secures; a bond. 
+n	(nautical, in the plural) Iron links bolted to the side of a vessel to bold the dead-eyes connected with the shrouds; also, the channels. 
+n	A livery collar, a chain of office. 
+n	(weaving) The warp threads of a web. 
+v	(transitive) To fasten something with a chain. 
+v	(figuratively) To connect as if with a chain, due to dependence, addiction, or other feelings 
+v	(intransitive) To link multiple items together. 
+v	(transitive) To secure someone with fetters. 
+v	(transitive) To obstruct the mouth of a river etc with a chain. 
+v	(figuratively) To obligate. 
+v	(computing) To relate data items with a chain of pointers. 
+v	(computing) To be chained to another data item. 
+v	(transitive) To measure a distance using a 66-foot long chain, as in land surveying. 
+v	(transitive, computing, rare, associated with Acorn Computers) To load and automatically run (a program). 
+n	A surname. 

@@ -1,0 +1,6 @@
+n	A person who creates art. 
+n	A person who creates art as an occupation. 
+n	A person who is skilled at some activity. 
+n	A recording artist. 
+adj	(archaic) Artistic. 
+n	A surname. 

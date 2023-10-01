@@ -1,0 +1,18 @@
+n	A logical clause or phrase that a conditional statement uses. The phrase can either be true or false. 
+n	A requirement or requisite. 
+n	(law) A clause in a contract or agreement indicating that a certain contingency may modify the principal obligation in some way. 
+n	The health status of a medical patient. 
+n	A certain abnormal state of health; a malady or sickness. 
+n	The state or quality. 
+n	A particular state of being. 
+n	(obsolete) The situation of a person or persons, particularly their social and/or economic class, rank. 
+v	To subject to the process of acclimation. 
+v	To subject to different conditions, especially as an exercise. 
+v	To make dependent on a condition to be fulfilled; to make conditional on. 
+v	(transitive) To place conditions or limitations upon. 
+v	To shape the behaviour of someone to do something. 
+v	(transitive) To treat (the hair) with hair conditioner. 
+v	(transitive) To contract; to stipulate; to agree. 
+v	(transitive) To test or assay, as silk (to ascertain the proportion of moisture it contains). 
+v	(US, colleges, transitive) To put under conditions; to require to pass a new examination or to make up a specified study, as a condition of remaining in one's class or in college. 
+v	To impose upon an object those relations or conditions without which knowledge and thought are alleged to be impossible. 

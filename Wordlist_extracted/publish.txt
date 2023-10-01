@@ -1,0 +1,8 @@
+v	(transitive) To issue (something, such as printed work) for distribution and/or sale. 
+v	(transitive) To announce to the public. 
+v	(transitive) To issue the work of (an author). 
+v	(Internet, transitive) To disseminate (a message) publicly via a newsgroup, forum, blog, etc. 
+v	(intransitive) To issue a medium (e.g. publication). 
+v	(intransitive) To have one's work accepted for a publication. 
+v	(intransitive, of content) To be made available in a printed publication or other medium. 
+v	(programming) To make (information such as an event) available to components that wish to be notified (subscribers). 

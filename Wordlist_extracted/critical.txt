@@ -1,0 +1,10 @@
+adj	Inclined to find fault or criticize. 
+adj	Pertaining to, or indicating, a crisis or turning point. 
+adj	Extremely important. 
+adj	Relating to criticism or careful analysis, such as literary or film criticism. 
+adj	(medicine) Of a patient condition involving unstable vital signs and a prognosis that predicts the condition could worsen; or, a patient condition that requires urgent treatment in an intensive care or critical care medical facility. 
+adj	Likely to go out of control if disturbed, that is, opposite of stable. 
+adj	(physics) Of the point (in temperature, reagent concentration etc.) where a nuclear or chemical reaction becomes self-sustaining. 
+adj	(physics) Of a temperature that is equal to the temperature of the critical point of a substance, i.e. the temperature above which the substance cannot be liquefied. 
+n	A critical value, factor, etc. 
+n	In breakdancing, a kind of airflare move in which the dancer hops from one hand to the other. 

@@ -1,0 +1,8 @@
+n	(uncountable) The result of having been worn away or eroded, as by a glacier on rock or the sea on a cliff face. 
+n	(uncountable) The changing of a surface by mechanical action, friction, thermal expansion contraction, or impact. 
+n	(uncountable, figuratively) The gradual loss of something as a result of an ongoing process. 
+n	(uncountable) Destruction by abrasive action of fluids. 
+n	(mathematics, image processing) One of two fundamental operations in morphological image processing from which all other morphological operations are derived. 
+n	(dentistry) Loss of tooth enamel due to non-bacteriogenic chemical processes. 
+n	(medicine) A shallow ulceration or lesion, usually involving skin or epithelial tissue. 
+n	(mathematics) In morphology, a basic operation (denoted ⊖); see Erosion (morphology). 

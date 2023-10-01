@@ -1,0 +1,2 @@
+adj	being one more than fourteen
+n	the cardinal number that is the sum of fourteen and one

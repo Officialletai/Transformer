@@ -1,0 +1,10 @@
+n	A specific form or variation of something. 
+n	A translation from one language to another. 
+n	(education, archaic) A school exercise, generally of composition in a foreign language. 
+n	(obsolete) The act of translating, or rendering, from one language into another language. 
+n	An account or description from a particular point of view, especially as contrasted with another account. 
+n	(computing) A particular revision (of software, firmware, CPU, etc.). 
+n	(medicine) A condition of the uterus in which its axis is deflected from its normal position without being bent upon itself. See anteversion and retroversion. 
+n	(ophthalmology) An eye movement involving both eyes moving synchronously and symmetrically in the same direction. 
+n	(obsolete or medicine) A change of form, direction, etc.; transformation; conversion. 
+v	(transitive, computing) To keep track of (a file, document, etc.) in a versioning system. 

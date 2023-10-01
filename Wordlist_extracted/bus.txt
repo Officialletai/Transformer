@@ -1,0 +1,9 @@
+n	(automotive) A motor vehicle for transporting large numbers of people along roads. 
+n	An electrical conductor or interface serving as a common connection for two or more circuits or components. 
+n	Part of a MIRV missile, having on-board motors used to deliver the warhead to a target. 
+n	(medical industry, slang) An ambulance. 
+v	(transitive, automotive, transport) To transport via a motor bus. 
+v	(transitive, automotive, transport, chiefly US) To transport students to school, often to a more distant school for the purposes of achieving racial integration. 
+v	(intransitive, automotive, transport) To travel by bus. 
+v	(transitive, US, food service) To clear meal remains from. 
+v	(intransitive, US, food service) To work at clearing the remains of meals from tables or counters; to work as a busboy. 

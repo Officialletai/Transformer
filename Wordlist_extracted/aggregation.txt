@@ -1,0 +1,6 @@
+n	The act of collecting together (aggregating). 
+n	The state of being collected into a mass, assemblage, or sum (aggregated). 
+n	A collection of particulars; an aggregate. 
+n	(networking) Summarizing multiple routes into one route. 
+n	(epidemiology) The majority of the parasite population concentrated into a minority of the host population. 
+n	(object-oriented programming) Kind of object composition which does not imply ownership. 

@@ -1,0 +1,3 @@
+adj	That can be ignored. 
+adj	(statistics, of missing data) Unrelated to the parameters being estimated 
+n	Anything that can be ignored. 

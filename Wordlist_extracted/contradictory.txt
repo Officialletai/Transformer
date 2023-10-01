@@ -1,0 +1,6 @@
+adj	That contradicts something, such as an argument. 
+adj	That is itself a contradiction. 
+adj	That is diametrically opposed to something. 
+adj	Mutually exclusive. 
+adj	Tending to contradict or oppose, contrarious. 
+n	(logic) Either of a pair of propositions, that cannot both be true or both be false. 

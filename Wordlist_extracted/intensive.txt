@@ -1,0 +1,9 @@
+adj	Thorough; to a great degree; with intensity. 
+adj	Demanding; requiring a great amount of work etc. 
+adj	Highly concentrated. 
+adj	(obsolete) Stretched; allowing intension, or increase of degree; that can be intensified. 
+adj	Characterized by persistence; intent; assiduous. 
+adj	(grammar) Serving to give force or emphasis. 
+adj	(medicine) Related to the need to manage life-threatening conditions by means of sophisticated life support and monitoring. 
+n	(linguistics) A form of a word with a stronger or more forceful sense than the root on which the intensive is built. 
+n	A course taught intensively. 

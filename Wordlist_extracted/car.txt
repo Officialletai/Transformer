@@ -1,0 +1,23 @@
+n	A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation. 
+n	(dated) A wheeled vehicle, drawn by a horse or other animal; a chariot. 
+n	(UK, Birmingham, obsolete) A four-wheeled cab, as opposed to a (two-wheeled) Hansom cab. 
+n	(rail transport, chiefly Canada, US) An unpowered unit in a railroad train. 
+n	(rail transport) an individual vehicle, powered or unpowered, in a multiple unit. 
+n	(rail transport) A passenger-carrying unit in a subway or elevated train, whether powered or not. 
+n	A rough unit of quantity approximating the amount which would fill a railroad car. 
+n	The moving, load-carrying component of an elevator or other cable-drawn transport mechanism. 
+n	The passenger-carrying portion of certain amusement park rides, such as Ferris wheels. 
+n	The part of an airship, such as a balloon or dirigible, which houses the passengers and control apparatus. 
+n	(sailing) A sliding fitting that runs along a track. 
+n	(uncountable, US, slang) The aggregate of desirable characteristics of a car. 
+n	(US) A floating perforated box for living fish. 
+n	(US, prison slang) A clique or gang. 
+n	(obsolete) A turn. 
+n	(programming) The first part of a cons in Lisp. The first element of a list. 
+n	The most widespread of the Nicobarese languages spoken in the Nicobar Islands of India (ISO 839-3 code "caq"). 
+n	A surname. 
+n	Initialism of Central African Republic. [A country in Central Africa.] 
+n	(sports) Abbreviation of Carolina. (North Carolina or South Carolina, states in the United States of America) [(countable) A female given name from Latin, Latinate form of Caroline; rare in English.] 
+n	Initialism of Cordillera Administrative Region. [a landlocked administrative region of the Philippines situated within the island of Luzon] 
+n	(uncountable, chemistry) Abbreviation of carnitine. [(organic chemistry) A betaine, 3-hydroxy-4-trimethylammonio-butanoate, that is found in the liver and has a function in fatty acid transport.] 
+n	(countable, immunology) Initialism of chimeric antigen receptor. [(immunology) A receptor protein engineered to give T cells the (new) ability to attach to a specific target protein.] 

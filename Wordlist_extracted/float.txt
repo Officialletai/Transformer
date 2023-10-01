@@ -1,0 +1,47 @@
+v	(intransitive, of an object or substance) To be supported by a fluid of greater density (than the object). 
+v	To be supported by a liquid of greater density, such that part (of the object or substance) remains above the surface. 
+v	(transitive) To cause something to be suspended in a liquid of greater density. 
+v	(intransitive) To be capable of floating. 
+v	(intransitive) To move in a particular direction with the liquid in which one is floating. 
+v	(intransitive) To drift or wander aimlessly. 
+v	(intransitive) To drift gently through the air. 
+v	(intransitive) To move in a fluid manner. 
+v	(intransitive, figuratively) To circulate. 
+v	(aviation) To remain airborne, without touching down, for an excessive length of time during landing, due to excessive airspeed during the landing flare. 
+v	(intransitive, colloquial) (of an idea or scheme) To be viable. 
+v	(transitive) To propose (an idea) for consideration. 
+v	(intransitive) To automatically adjust a parameter as related parameters change. 
+v	(intransitive, finance) (of currencies) To have an exchange value determined by the markets, as opposed to by central fiat. 
+v	(transitive, finance) To allow (the exchange value of a currency) to be determined by the markets. 
+v	(transitive, colloquial) To extend a short-term loan to. 
+v	(transitive, finance) To issue or sell shares in a company (or units in a trust) to members of the public, followed by listing on a stock exchange. 
+v	(transitive) To spread plaster over (a surface), using the tool called a float. 
+v	(transitive) To use a float (rasp-like tool) upon. 
+v	(transitive) To transport by float (vehicular trailer). 
+v	(poker) To perform a float. 
+v	(computing, transitive) To cause (an element within a document) to float above or beside others. 
+n	A buoyant device used to support something in water or another liquid. 
+n	A mass of timber or boards fastened together, and conveyed down a stream by the current; a raft. 
+n	A float board. 
+n	A tool similar to a rasp, used in various trades. 
+n	A sort of trowel used for finishing concrete surfaces or smoothing plaster. 
+n	An elaborately decorated trailer or vehicle, intended for display in a parade or pageant. 
+n	A floating toy made of foam, used in swimming pools. 
+n	(Britain) A small vehicle used for local deliveries, especially in the term milk float. 
+n	(finance) Funds committed to be paid but not yet paid. 
+n	(finance, Australia, and other Commonwealth countries?) An offering of shares in a company (or units in a trust) to members of the public, normally followed by a listing on a stock exchange. 
+n	(banking) The total amount of checks/cheques or other drafts written against a bank account but not yet cleared and charged against the account. 
+n	(insurance) Premiums taken in but not yet paid out. 
+n	(programming) A floating-point number, especially one that has lower precision than a double. 
+n	A soft beverage with a scoop of ice-cream floating in it. 
+n	A small sum of money put in a cashier's till, or otherwise secured, at the start of business, to enable change to be made. 
+n	(poker) A maneuver where a player calls on the flop or turn with a weak hand, with the intention of bluffing after a subsequent community card. 
+n	(knitting) One of the loose ends of yarn on an unfinished work. 
+n	(automotive) A car carrier or car transporter truck or truck-and-trailer combination. 
+n	(transport) A lowboy trailer. 
+n	(obsolete) The act of flowing; flux; flow. 
+n	A polishing block used in marble working; a runner. 
+n	(UK, dated) A coal cart. 
+n	A breakdancing move in which the body is held parallel to the floor while balancing on one or both hands. 
+n	(computing) A visual style on a web page that causes the styled elements to float above or beside others. 
+n	(biology) The gas-filled sac, bag, or body of a siphonophore; a pneumatophore. 

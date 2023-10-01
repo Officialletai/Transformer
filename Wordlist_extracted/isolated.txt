@@ -1,0 +1,5 @@
+adj	Placed or standing apart or alone; in isolation. 
+adj	Happening or occurring only once. 
+adj	(chess, of a pawn) Such that no pawn of the same color is in an adjacent file. 
+adj	(meteorology, of precipitation) Affecting 10 percent to 20 percent of a forecast zone. 
+adj	(medicine) Which has been extracted from the organism. 

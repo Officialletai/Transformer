@@ -1,0 +1,25 @@
+n	Confidence in or reliance on some person or quality. 
+n	Dependence upon something in the future; hope. 
+n	Confidence in the future payment for goods or services supplied; credit. 
+n	That which is committed or entrusted; something received in confidence; a charge. 
+n	That upon which confidence is reposed; ground of reliance; hope. 
+n	(rare) Trustworthiness, reliability. 
+n	The condition or obligation of one to whom anything is confided; responsible charge or office. 
+n	(law) The confidence vested in a person who has legal ownership of a property to manage for the benefit of another. 
+n	(law) An arrangement whereby property or money is given to be held by a third party (a trustee), on the basis that it will be managed for the benefit of, or eventually transferred to, a stated beneficiary; for example, money to be given to a child when he or she reaches adulthood. 
+n	A group of businessmen or traders organised for mutual benefit to produce and distribute specific commodities or services, and managed by a central body of trustees. 
+n	(computing) Affirmation of the access rights of a user of a computer system. 
+v	(transitive) To place confidence in, to rely on, to confide in. 
+v	(intransitive, with in) To have faith in; to rely on for continuing support or aid. 
+v	(transitive) To give credence to; to believe; to credit. 
+v	(transitive) To hope confidently; to believe (usually with a phrase or infinitive clause as the object) 
+v	(transitive) to show confidence in a person by entrusting them with something. 
+v	(transitive) To commit, as to one's care; to entrust. 
+v	(transitive) To give credit to; to sell to upon credit, or in confidence of future payment. 
+v	(intransitive, followed by to) To rely on (something), as though having trust (on it). 
+v	(archaic, transitive) To risk; to venture confidently. 
+v	(intransitive) To have trust; to be credulous; to be won to confidence; to confide. 
+v	(archaic, intransitive) To sell or deliver anything in reliance upon a promise of payment; to give credit. 
+adj	(obsolete) Secure, safe. 
+adj	(obsolete) Faithful, dependable. 
+adj	(law) of or relating to a trust. 

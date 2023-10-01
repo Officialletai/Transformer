@@ -1,0 +1,4 @@
+n	An abstract and general idea; an abstraction. 
+n	Understanding retained in the mind, from experience, reasoning and imagination; a generalization (generic, basic form), or abstraction (mental impression), of a particular set of instances or occurrences (specific, though different, recorded manifestations of the concept). 
+n	(generic programming) A description of supported operations on a type, including their syntax and semantics. 
+v	to conceive; to dream up 

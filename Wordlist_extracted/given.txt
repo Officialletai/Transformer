@@ -1,0 +1,7 @@
+n	A condition that is assumed to be true without further evaluation. 
+adj	Already arranged. 
+adj	Currently discussed. 
+adj	Particular, specific. 
+adj	Assumed as fact or hypothesis. 
+adj	(with to) Prone, disposed. 
+n	A surname. 

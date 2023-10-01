@@ -1,0 +1,20 @@
+n	A grouping based on shared characteristics; a class. 
+n	An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc. 
+n	An individual that represents the ideal for its class; an embodiment. 
+n	(uncountable) Such types collectively, or a set of type of one font or size. 
+n	(chiefly uncountable) Text printed with such type, or imitating its characteristics. 
+n	(taxonomy) Something, often a specimen, selected as an objective anchor to connect a scientific name to a taxon; this need not be representative or typical. 
+n	Preferred sort of person; sort of person that one is attracted to. 
+n	(medicine) A blood group. 
+n	(corpus linguistics) A word that occurs in a text or corpus irrespective of how many times it occurs, as opposed to a token. 
+n	(theology) An event or person that prefigures or foreshadows a later event - commonly an Old Testament event linked to Christian times. 
+n	(computing theory) A tag attached to variables and values used in determining which kinds of value can be used in which situations; a data type. 
+n	(fine arts) The original object, or class of objects, scene, face, or conception, which becomes the subject of a copy; especially, the design on the face of a medal or a coin. 
+n	(chemistry) A simple compound, used as a mode or pattern to which other compounds are conveniently regarded as being related, and from which they may be actually or theoretically derived. 
+n	(mathematics) A part of the partition of the object domain of a logical theory (which due to the existence of such partition, would be called a typed theory). (Note: this corresponds to the notion of "data type" in computing theory.) 
+v	To put text on paper using a typewriter. 
+v	To enter text or commands into a computer using a keyboard. 
+v	To determine the blood type of. 
+v	To represent by a type, model, or symbol beforehand; to prefigure. 
+v	To furnish an expression or copy of; to represent; to typify. 
+v	To categorize into types. 

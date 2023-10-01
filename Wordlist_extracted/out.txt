@@ -1,0 +1,46 @@
+adv	Away from the inside, centre or other point of reference. 
+adv	Away from home or one's usual place. 
+adv	Outside; not indoors. 
+adv	Away from; at a distance. 
+adv	Into a state of non-operation or non-existence. 
+adv	To the end; completely. 
+adv	Used to intensify or emphasize. 
+adv	(of the sun, moon, stars, etc.) So as to be visible in the sky, and not covered by clouds, fog, etc. 
+adv	(cricket, baseball) Of a player, so as to be disqualified from playing further by some action of a member of the opposing team (such as being stumped in cricket). 
+n	A means of exit, escape, reprieve, etc. 
+n	(baseball) A state in which a member of the batting team is removed from play due to the application of various rules of the game such as striking out, hitting a fly ball which is caught by the fielding team before bouncing, etc. 
+n	(cricket) A dismissal; a state in which a member of the batting team finishes his turn at bat, due to the application of various rules of the game, such as the bowler knocking over the batsman's wicket with the ball. 
+n	(poker) A card which can make a hand a winner. 
+n	(dated) A trip out; an outing. 
+n	(chiefly in the plural) One who, or that which, is out; especially, one who is out of office. 
+n	A place or space outside of something; a nook or corner; an angle projecting outward; an open space. 
+n	(printing, dated) A word or words omitted by the compositor in setting up copy; an omission. 
+v	(transitive) To eject; to expel. 
+v	(intransitive) To come or go out; to get out or away; to become public, revealed, or apparent. 
+v	(transitive) To reveal (a person or organization) as having a certain secret, such as a being a secret agent or undercover detective. 
+v	(transitive) To reveal (a secret). 
+v	(transitive, LGBT) To reveal (a person) as LGBT+ (gay, trans, etc). 
+v	To kill; to snuff out. 
+adj	Not at home, or not at one's office or place of employment. 
+adj	Not in jail, prison, or captivity; freed from confinement 
+adj	Not inside or within something. 
+adj	Not fitted or inserted into something. 
+adj	(sports) Of the ball or other playing implement, falling or passing or being situated outside the bounds of the playing area. 
+adj	(in various games; used especially of a batsman or batter in cricket or baseball) Dismissed from play under the rules of the game. 
+adj	(of ideas, plans, etc.) Discarded; no longer a possibility. 
+adj	(of options) acceptable, permissible 
+adj	(of certain services, devices, or facilities) Not available; out of service. 
+adj	(of a user of a service) Not having availability of a service, such as power or communications. 
+adj	(of lamps, fires etc.) Not shining or burning. 
+adj	(of an organization, etc.) Temporarily not in operation, or not being attended as usual. 
+adj	No longer popular or in fashion. 
+adj	(LGBT) Openly acknowledging that one is LGBT+ (gay, trans, etc). 
+adj	(by extension, uncommon) Open, public; public about or openly acknowledging some (usually specified) identity. 
+adj	Freed from from secrecy. 
+adj	Released, available for purchase, download or other use. 
+adj	(of flowers) In bloom. 
+adj	(of the sun, moon or stars) Visible in the sky; not obscured by clouds. 
+adj	(obsolete) Of a young lady: having entered society and available to be courted. 
+adj	Of the tide, at or near its lowest level. 
+adj	Without; no longer in possession of; not having more 
+adj	(of calculations or measurements) Containing errors or discrepancies; in error by a stated amount. 

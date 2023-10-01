@@ -1,0 +1,35 @@
+n	A bounding straight edge of a two-dimensional shape. 
+n	A flat surface of a three-dimensional object; a face. 
+n	One half (left or right, top or bottom, front or back, etc.) of something or someone. 
+n	A region in a specified position with respect to something. 
+n	The portion of the human torso usually covered by the arms when they are not raised; the areas on the left and right between the belly or chest and the back. 
+n	One surface of a sheet of paper (used instead of "page", which can mean one or both surfaces.) 
+n	One possible aspect of a concept, person, or thing. 
+n	One set of competitors in a game. 
+n	(UK, Australia, Ireland) A sports team. 
+n	A group of morris dancers who perform together. 
+n	A group having a particular allegiance in a conflict or competition. 
+n	(music) A recorded piece of music; a record, especially in jazz. 
+n	(sports, billiards, snooker, pool) Sidespin; english 
+n	(Britain, Australia, Ireland, dated) A television channel, usually as opposed to the one currently being watched (from when there were only two channels). 
+n	(US, colloquial) A dish that accompanies the main course; a side dish. 
+n	A line of descent traced through a particular parent, as distinguished from that traced through another. 
+n	(baseball) The batters faced in an inning by a particular pitcher. 
+n	(slang, dated, uncountable) An unjustified air of self-importance. 
+n	(drama) A written monologue or part of a scene to be read by an actor at an audition. 
+n	(LGBT, slang) A man who prefers not to engage in anal sex during same-sex sexual activity. 
+adj	Being on the left or right, or toward the left or right; lateral. 
+adj	Indirect; oblique; incidental. 
+v	(intransitive) To ally oneself, be in an alliance, usually with "with" or rarely "in with" 
+v	To lean on one side. 
+v	(transitive, obsolete) To be or stand at the side of; to be on the side toward. 
+v	(transitive, obsolete) To suit; to pair; to match. 
+v	(transitive, shipbuilding) To work (a timber or rib) to a certain thickness by trimming the sides. 
+v	(transitive) To furnish with a siding. 
+v	(transitive, cooking) To provide with, as a side or accompaniment. 
+adj	(UK archaic, dialectal, Northern England, Scotland) Wide; large; long, pendulous, hanging low, trailing; far-reaching. 
+adj	(Scotland) Far; distant. 
+adv	(UK dialectal) Widely; wide; far. 
+v	To clear, tidy or sort. 
+n	(geography, historical) An ancient city on a small peninsula on the Mediterranean coast of Anatolia, settled by Greeks from Cyme. 
+n	(geography) Its ruins, located beside the village of Selimiye in Turkey's Antalya province. 

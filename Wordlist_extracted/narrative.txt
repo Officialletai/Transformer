@@ -1,0 +1,7 @@
+adj	Telling a story. 
+adj	Overly talkative; garrulous. 
+adj	Of or relating to narration. 
+n	The systematic recitation of an event or series of events. 
+n	That which is narrated. 
+n	A representation of an event or story in a way to promote a certain point of view. 
+n	(creative writing) A manner of conveying a story, fictional or otherwise, in a body of work. 

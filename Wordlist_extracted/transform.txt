@@ -1,0 +1,9 @@
+v	(transitive) To change greatly the appearance or form of. 
+v	(transitive) To change the nature, condition or function of; to change in nature, disposition, heart, character, etc.; to convert. 
+v	(transitive, mathematics) To subject to a transformation; to change into another form without altering the value. 
+v	(transitive, electricity) To subject to the action of a transformer. 
+v	(transitive, genetics) To subject (a cell) to transformation. 
+v	(intransitive) To undergo a transformation; to change in appearance or character. 
+n	(mathematical analysis) An operation (often an integration) that converts one function into another. 
+n	(by extension) A function so produced. 
+n	(geology, seismology) A transform fault. 

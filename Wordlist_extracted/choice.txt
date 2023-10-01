@@ -1,0 +1,11 @@
+n	An option; a decision; an opportunity to choose or select something. 
+n	(uncountable) The power to choose. 
+n	One selection or preference; that which is chosen or decided; the outcome of a decision. 
+n	Anything that can be chosen. 
+n	(usually with the) The best or most preferable part. 
+n	(obsolete) Care and judgement in selecting; discrimination, selectiveness. 
+n	(obsolete) A sufficient number to choose among. 
+adj	Especially good or preferred. 
+adj	(obsolete) Careful in choosing; discriminating. 
+n	A surname. 
+n	(set theory) Ellipsis of axiom of choice.. [(set theory) One of the axioms of set theory, equivalent to the statement that an arbitrary direct product of non-empty sets is non-empty; any version of said axiom, for example specifying the cardinality of the number of sets from which choices are made.] 

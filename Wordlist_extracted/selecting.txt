@@ -1,0 +1,5 @@
+adj	Privileged, specially selected. 
+adj	Of high quality; top-notch. 
+v	To choose one or more elements of a set, especially a set of options. 
+v	(databases) To obtain a set of data from a database using a query. 
+n	A button (of a joystick, joypad or similar device) that, when pressed, activates any of certain predefined functions that usually, but not always, involve selecting something out of a list of items. 

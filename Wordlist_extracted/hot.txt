@@ -1,0 +1,35 @@
+adj	(of an object) Having or giving off a high temperature. 
+adj	(of a person or animal) Feeling the sensation of heat, especially to the point of discomfort. 
+adj	Feverish. 
+adj	(US, not comparable) Electrically charged. 
+adj	(informal) Radioactive. 
+adj	(of a temper) Easily provoked to anger. 
+adj	(slang, of a person) Very physically and/or sexually attractive. 
+adj	(slang) Sexual or sexy; involving sexual intercourse or sexual excitement. 
+adj	(slang) Sexually aroused; randy. 
+adj	(slang, with for) Extremely attracted to. 
+adj	(informal) Very good, remarkable, exciting. 
+adj	Popular; in demand. 
+adj	Of great current interest; provoking current debate or controversy. 
+adj	Performing strongly; having repeated successes. 
+adj	Fresh; just released. 
+adj	Uncomfortable, difficult to deal with; awkward, dangerous, unpleasant. 
+adj	(slang) Characterized by police presence or activity. 
+adj	Stolen. 
+adj	(slang, of a draft/check) Not covered by funds on account. 
+adj	Very close to finding or guessing something to be found or guessed. 
+adj	(of food) Spicy, pungent, piquant, as some chilis and other spices are. 
+adj	(of an electric musical instrument) Loud, producing a strong electric signal for the amplifier. 
+adj	(slang) Used to emphasize the short duration or small quantity of something 
+adj	(slang, of a vehicle or aircraft) Extremely fast or with great speed. 
+adv	Hotly, at a high temperature. 
+adv	Rapidly, quickly. 
+adv	(especially in the phrase "come in hot", "go in hot") While shooting, while firing one's weapon(s). 
+v	(with up) To heat; to make or become hot. 
+v	(with up) To become lively or exciting. 
+n	(electronics) Acronym of hybrid-orientation technology. (CMOS fabrication technology that uses PMOS and NMOS substrates with differing orientations) 
+n	(electronics) Acronym of hybrid-orientation technique. (a technique that applies the technology) 
+n	(automotive) Acronym of high-output turbo. (turbocharger) 
+n	(traffic control) Acronym of high occupancy or toll lane. 
+n	(video games) Initialism of health over time: a status effect that restores health points as time passes 
+adj	(traffic control) Acronym of high occupancy or toll. 

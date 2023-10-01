@@ -1,0 +1,3 @@
+n	The state of being specific rather than general. 
+n	(statistics) The probability, in a binary classification test, of a true negative being correctly identified. 
+n	(medicine) The extent to which a particular diagnostic test is specific for, or a symptom or sign is specific to, a given condition. 

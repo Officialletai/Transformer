@@ -1,0 +1,35 @@
+adj	Not imprisoned or enslaved. 
+adj	Unconstrained by timidity or distrust 
+adj	Generous; liberal. 
+adj	(obsolete) Clear of offence or crime; guiltless; innocent. 
+adj	Without obligations. 
+adj	Thrown open, or made accessible, to all; to be enjoyed without limitations; unrestricted; not obstructed, engrossed, or appropriated; open; said of a thing to be possessed or enjoyed. 
+adj	Not arbitrary or despotic; assuring liberty; defending individual rights against encroachment by any person or class; instituted by a free people; said of a government, institutions, etc. 
+adj	(software) With no or only freedom-preserving limitations on distribution or modification. 
+adj	(software) Intended for release, as opposed to a checked version. 
+adj	Obtainable without any payment. 
+adj	(by extension, chiefly advertising slang) complimentary 
+adj	(mathematics) Unconstrained by relators. 
+adj	(mathematics, logic) Unconstrained by quantifiers. 
+adj	(programming) Unconstrained of identifiers, not bound. 
+adj	(linguistics) (of a morpheme) That can be used by itself, unattached to another morpheme. 
+adj	Unobstructed, without blockages. 
+adj	Unattached or uncombined. 
+adj	Not currently in use; not taken; unoccupied. 
+adj	(botany, mycology) Not attached; loose. 
+adj	(military) Of a rocket or missile: not under the control of a guidance system after being launched. 
+adj	Without; not containing (what is specified); exempt; clear; liberated. 
+adj	(dated) Ready; eager; acting without spurring or whipping; spirited. 
+adj	(dated) Invested with a particular freedom or franchise; enjoying certain immunities or privileges; admitted to special rights; followed by of. 
+adj	(UK, law, obsolete) Certain or honourable; the opposite of base. 
+adj	(law) Privileged or individual; the opposite of common. 
+adv	Without needing to pay. 
+adv	(obsolete) Freely; willingly. 
+v	(transitive) To make free; set at liberty; release. 
+v	(transitive) To rid of something that confines or oppresses. 
+v	(transitive, programming) To relinquish (previously allocated memory) to the system. 
+n	free transfer 
+n	(hurling) The usual means of restarting play after a foul is committed, where the non-offending team restarts from where the foul was committed. 
+n	(swimming) the freestyle stroke 
+n	A surname. 
+n	(Australian rules football, Gaelic football) Abbreviation of free kick. [(American football, soccer, Australian rules football, rugby, other ballgames) a kick in which a player may kick the ball without interference from the opposition. Such a kick may be awarded for a foul by the opposition, or earned by a player such as by taking a mark.] 

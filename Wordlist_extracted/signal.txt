@@ -1,0 +1,13 @@
+n	A sequence of states representing an encoded message in a communication channel. 
+n	Any variation of a quantity or change in an entity over time that conveys information upon detection. 
+n	A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action. 
+n	An on-off light, semaphore, or other device used to give an indication to another person. 
+n	(of a radio, TV, telephone, internet, etc.) An electromagnetic action, normally a voltage that is a function of time, that conveys the information of the radio or TV program or of communication with another party. 
+n	An action, change or process done to convey information and thus reduce uncertainty. 
+n	A token; an indication; a foreshadowing; a sign. 
+n	Useful information, as opposed to noise. 
+n	(computing, Unix) A simple interprocess communication used to notify a process or thread of an occurrence. 
+n	(biochemistry) A signalling interaction between cells 
+v	(transitive, intransitive) To indicate; to convey or communicate by a signal. 
+v	(transitive) To communicate with (a person or system) by a signal. 
+adj	Standing above others in rank, importance, or achievement. 

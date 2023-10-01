@@ -1,0 +1,6 @@
+n	The lowest limit. 
+n	The smallest amount. 
+n	(astronomy) A period of minimum brightness or energy intensity (of a star). 
+n	(mathematical analysis) A lower bound of a set which is also an element of that set. 
+n	(statistics) The smallest member of a batch or sample or the lower bound of a probability distribution. 
+adj	To the lowest degree. 

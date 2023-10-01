@@ -1,0 +1,9 @@
+n	The act of deviating; wandering off the correct or true path or road. 
+n	A departure from the correct way of acting. 
+n	The state or result of having deviated; a transgression; an act of sin; an error; an offense. 
+n	A detour in a road or railway. 
+n	(aviation) A detour to one side of the originally-planned flightpath (for instance, to avoid weather); the act of making such a detour. 
+n	(contract law) The voluntary and unnecessary departure of a ship from, or delay in, the regular and usual course of the specific voyage insured, thus releasing the underwriters from their responsibility. 
+n	(Absolute Deviation) The shortest distance between the center of the target and the point where a projectile hits or bursts. 
+n	(statistics) For interval variables and ratio variables, a measure of difference between the observed value and the mean. 
+n	(metrology) The signed difference between a value and its reference value. 

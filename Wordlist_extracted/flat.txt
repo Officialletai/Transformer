@@ -1,0 +1,66 @@
+adj	In a horizontal line or plane; not sloping. 
+adj	Smooth; having no protrusions, indentations or other surface irregularities, or relatively so. 
+adj	(slang) Having small or invisible breasts and/or buttocks. 
+adj	At a consistently depressed level; consistently lacklustre. 
+adj	(not comparable, commerce) Of fees, fares etc., fixed; unvarying. 
+adj	(music, voice) Without variations in pitch. 
+adj	(of colours) Without variation in tone or hue; uniform. 
+adj	(figuratively) Lacking liveliness or action; depressed; uninteresting; dull and boring. 
+adj	(authorship, figuratively, especially of a character) Lacking in depth, substance, or believability; underdeveloped; one-dimensional. 
+adj	(music, note) Lowered by one semitone. 
+adj	(music) Of a note or voice, lower in pitch than it should be. 
+adj	Absolute; downright; peremptory. 
+adj	(of a tire or other inflated object) Deflated, especially because of a puncture. 
+adj	(of a carbonated drink) With all or most of its carbon dioxide having come out of solution so that the drink no longer fizzes or contains any bubbles. 
+adj	(wine) Lacking acidity without being sweet. 
+adj	(of a battery) Unable to emit power; dead. 
+adj	(juggling, of a throw) Without spin; spinless. 
+adj	(phonetics, dated, of a consonant) Sonant; vocal, as distinguished from a sharp (non-sonant) consonant. 
+adj	(grammar) Not having an inflectional ending or sign, such as a noun used as an adjective, or an adjective as an adverb, without the addition of a formative suffix; or an infinitive without the sign "to". 
+adj	(golf, of a golf club) Having a head at a very obtuse angle to the shaft. 
+adj	(horticulture, of certain fruits) Flattening at the ends. 
+adj	(of measurements of time) Exact. 
+adv	So as to be flat. 
+adv	Bluntly. 
+adv	(of accurately measured timings) Exactly, precisely. 
+adv	(with units of time, distance, etc) Used to emphasize the smallness of the measurement. 
+adv	Completely. 
+adv	Directly; flatly. 
+adv	(finance, slang) Without allowance for accrued interest. 
+n	(in the phrase 'the flat') Level ground in general. 
+n	(horse racing, with 'the' or attributively, sometimes with capital) Level horse-racing ground, as contrasted with courses incorporating jumps, or the racing done on such ground. 
+n	(Australia, horse racing, with 'the' or attributively, sometimes with capital) the area in the centre of a racecourse. 
+n	(music) A note played a semitone lower than a natural, denoted by the symbol ♭ placed after the letter representing the note (e.g., B♭) or in front of the note symbol (e.g. ♭♪). 
+n	(informal, automotive) A flat tyre/flat tire. 
+n	(in the plural) A type of ladies' shoe with a very low heel. 
+n	(in the plural) A type of flat-soled running shoe without spikes. 
+n	(painting) A thin, broad brush used in oil and watercolour painting. 
+n	(swordfighting) The flat side of a blade, as opposed to the sharp edge. 
+n	The palm of the hand, with the adjacent part of the fingers. 
+n	A wide, shallow container or pallet. 
+n	(mail) A large mail piece measuring at least 8 1/2 by 11 inches, such as catalogs, magazines, and unfolded paper enclosed in large envelopes. 
+n	(rail transport, US) A railroad car without a roof, and whose body is a platform without sides; a platform car or flatcar. 
+n	A flat-bottomed boat, without keel, and of small draught. 
+n	(geometry) A subset of n-dimensional space that is congruent to a Euclidean space of lower dimension. 
+n	A straw hat, broad-brimmed and low-crowned. 
+n	A flat sheet for use on a bed. 
+n	(publishing) A flat, glossy children's book with few pages. 
+n	A platform on a wheel, upon which emblematic designs etc. are carried in processions. 
+n	(mining) A horizontal vein or ore deposit auxiliary to a main vein; also, any horizontal portion of a vein not elsewhere horizontal. 
+n	(technical, theatre, stagecraft) A rectangular wooden structure covered with masonite, lauan, or muslin, often produced in standard modules, that is used to build wall surfaces on stage. Flats can be painted and outfitted with doors and/or windows to depict a building or other part of a scene. It's a hard-surfaced alternative to a backcloth orbackdrop. 
+n	(entomology) Any of various hesperiid butterflies that spread their wings open when they land. 
+n	(historical) An early kind of toy soldier having a flat design. 
+n	(obsolete) A dull fellow; a simpleton. 
+n	(optics) A flat (i.e. plane) mirror 
+n	(gambling, slang) A cheater's die with the edges shaved to make certain rolls more likely. 
+v	(poker slang) To make a flat call; to call without raising. 
+v	(intransitive) To become flat or flattened; to sink or fall to an even surface. 
+v	(intransitive, music, colloquial) To fall from the pitch. 
+v	(transitive, music) To depress in tone, as a musical note; especially, to lower in pitch by half a tone. 
+v	(transitive, dated) To make flat; to flatten; to level. 
+v	(transitive, dated) To render dull, insipid, or spiritless; to depress. 
+n	(chiefly Britain, New England, New Zealand and Australia, archaic elsewhere) An apartment, usually on one level and usually consisting of more than one room. 
+v	(transitive, obsolete) To beat or strike; pound 
+v	(transitive) To dash or throw 
+v	(intransitive) To dash, rush 
+n	Short for flat ride (“spinning amusement ride”). [An amusement ride that spins around, usually on a circular platform.] 

@@ -1,0 +1,42 @@
+n	A heavy shoe that covers part of the leg. 
+n	(sports) A kind of sports shoe worn by players of certain games such as cricket and football. 
+n	A blow with the foot; a kick. 
+n	(construction) A flexible cover of rubber or plastic, which may be preformed to a particular shape and used to protect a shaft, lever, switch, or opening from dust, dirt, moisture, etc. 
+n	(usually preceded by definite article) A torture device used on the feet or legs, such as a Spanish boot. 
+n	(US) A parking enforcement device used to immobilize a car until it can be towed or a fine is paid; a wheel clamp. 
+n	(aviation) A rubber bladder on the leading edge of an aircraft’s wing, which is inflated periodically to remove ice buildup; a deicing boot. 
+n	(obsolete) A place at the side of a coach, where attendants rode; also, a low outside place before and behind the body of the coach. 
+n	(archaic) A place for baggage at either end of an old-fashioned stagecoach. 
+n	(US, military, law enforcement, slang) A recently arrived recruit; a rookie. 
+n	(Australia, Britain, New Zealand, South Africa, automotive) The luggage storage compartment of a sedan or saloon car. 
+n	(informal, with definite article) The act or process of removing or firing someone (dismissing them from a job or other post). 
+n	(Britain, slang) An unattractive person, ugly woman. 
+n	(slang, ethnic slur) A black person. 
+n	(firearms) A hard plastic case for a long firearm, typically moulded to the shape of the gun and intended for use in a vehicle. 
+n	(baseball) A bobbled ball. 
+n	(botany) The inflated flag leaf sheath of a wheat plant. 
+n	(slang) A linear amplifier used with CB radio. 
+n	(slang, motorsports) A tyre. 
+v	To kick. 
+v	To put boots on, especially for riding. 
+v	(colloquial, Canada, US, usually with it) To step on the accelerator of a vehicle for faster acceleration than usual or to drive faster than usual. 
+v	To apply corporal punishment (compare slippering). 
+v	(informal) To eject; kick out. 
+v	(often with up) To start or restart a computer or other electronic system; to bootstrap. 
+v	(computing, informal) To disconnect forcibly; to eject from an online service, conversation, etc. 
+v	(slang) To vomit. 
+v	(MLE, criminal slang) To shoot, to kill by gunfire. 
+n	(archaic, dialectal) Remedy, amends. 
+n	(uncountable) Profit, plunder. 
+n	(countable, uncountable) That which is given to make an exchange equal, or to make up for the deficiency of value in one of the things exchanged; compensation; recompense. 
+n	(obsolete) Profit; gain; advantage; use. 
+n	(obsolete) Repair work; the act of fixing structures or buildings. 
+n	(obsolete) A medicinal cure or remedy. 
+v	(transitive, obsolete) To avail, benefit, profit. 
+v	(transitive, obsolete) To benefit, to enrich; to give in addition. 
+n	(computing) The act or process of bootstrapping; the starting or re-starting of a computing device. 
+v	(computing) To bootstrap; to start a system, e.g. a computer, by invoking its boot process or bootstrap. 
+n	(informal) A bootleg recording. 
+n	A surname. 
+n	A small village in Eskdale parish, Copeland borough, Cumbria, England (OS grid ref NY1701). 
+n	Initialism of Build–own–operate–transfer. 

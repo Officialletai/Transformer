@@ -1,0 +1,4 @@
+adj	Not permanent; existing only for a period or periods of time. 
+adj	Existing only for a short time or short times; transient, ephemeral. 
+n	One serving for a limited time; short-term employee. 
+n	(programming) A temporary variable. 

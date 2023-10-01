@@ -1,0 +1,2 @@
+adj	connected, either with links, or as if with links 
+adj	(computing) having links (between modules, records etc) 

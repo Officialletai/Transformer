@@ -1,0 +1,6 @@
+adj	Having happened a short while ago. 
+adj	Up-to-date; not old-fashioned or dated. 
+adj	Having done something a short while ago that distinguishes them as what they are called. 
+adj	(sciences) Particularly in geology, palaeontology, and astronomy: having occurred a relatively short time ago, but still potentially thousands or even millions of years ago. 
+adj	(obsolete, geology, astronomy, capitalized) Of the Holocene, particularly pre-21st century. 
+n	(obsolete, geology, capitalized) An earlier term for the Holocene. 

@@ -1,0 +1,5 @@
+adj	Approaching; proximate; nearly resembling. 
+adj	Nearing correctness; nearly exact; not perfectly accurate. 
+v	(transitive, intransitive) To estimate. 
+v	(transitive) To come near to; to approach. 
+v	(transitive) To carry or advance near; to cause to approach. 

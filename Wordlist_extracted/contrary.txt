@@ -1,0 +1,13 @@
+adj	Opposite; in an opposite direction; in opposition; adverse. 
+adj	Opposed; contradictory; inconsistent. 
+adj	Given to opposition; perverse; wayward. 
+adv	Contrarily 
+n	The opposite. 
+n	(logic) One of a pair of propositions that cannot both be simultaneously true, though they may both be false. 
+v	(obsolete) To oppose; to frustrate. 
+v	(obsolete) To impugn. 
+v	(obsolete) To contradict (someone or something). 
+v	(obsolete) To do the opposite of (someone or something). 
+v	(obsolete) To act inconsistently or perversely; to act in opposition to. 
+v	(obsolete) To argue; to debate; to uphold an opposite opinion. 
+v	(obsolete) To be self-contradictory; to become reversed. 

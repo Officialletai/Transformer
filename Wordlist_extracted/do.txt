@@ -1,0 +1,46 @@
+v	(auxiliary) A syntactic marker in a question whose main verb is not another auxiliary verb or be. 
+v	(auxiliary) A syntactic marker in negations with the indicative and imperative moods. 
+v	(auxiliary) A syntactic marker for emphasis with the indicative, imperative, and subjunctive moods. 
+v	(pro-verb) A syntactic marker that refers back to an earlier verb and allows the speaker to avoid repeating the verb; in most dialects, not used with auxiliaries such as be, though it can be in AAVE. 
+v	(transitive) To perform; to execute. 
+v	(obsolete, transitive) To cause, make (someone) (do something). 
+v	(intransitive, transitive) To suffice. 
+v	(intransitive) To be reasonable or acceptable. 
+v	(ditransitive) To have (as an effect). 
+v	(intransitive) To fare, perform (well or poorly). 
+v	(transitive, chiefly in questions) To have as one's job. 
+v	To perform the tasks or actions associated with (something). 
+v	To cook. 
+v	(transitive) To travel in, to tour, to make a circuit of. 
+v	(transitive) To treat in a certain way. 
+v	(transitive) To work for or on, by way of caring for, looking after, preparing, cleaning, keeping in order, etc. 
+v	(intransitive, obsolete) To act or behave in a certain manner; to conduct oneself. 
+v	(transitive) To spend (time) in jail. (See also do time) 
+v	(transitive) To impersonate or depict. 
+v	(with 'a' and the name of a person, place, event, etc.) To copy or emulate the actions or behaviour that is associated with the person or thing mentioned. 
+v	(transitive, slang) To kill. 
+v	(transitive, slang) To deal with for good and all; to finish up; to undo; to ruin; to do for. 
+v	(informal) To punish for a misdemeanor. 
+v	(transitive, slang) To have sex with. (See also do it) 
+v	(transitive) To cheat or swindle. 
+v	(transitive) To convert into a certain form; especially, to translate. 
+v	(transitive, intransitive) To finish. 
+v	(archaic, dialectal, transitive, auxiliary) Used to form the present progressive of verbs. 
+v	(stock exchange) To cash or to advance money for, as a bill or note. 
+v	(informal, transitive, ditransitive) To make or provide. 
+v	(informal, transitive) To injure (one's own body part). 
+v	(transitive) To take drugs. 
+v	(transitive, in the form be doing [somewhere]) To exist with a purpose or for a reason. 
+n	(UK, informal) A party, celebration, social function; usually of moderate size and formality. 
+n	(chiefly fossilized) Something that can or should be done. 
+n	(chiefly obsolete, fossilized in the UK) Something that has been done. 
+n	(archaic) Ado; bustle; stir; to-do; A period of confusion or argument. 
+n	(obsolete, UK, slang) A cheat; a swindler. 
+n	(obsolete, UK, slang) An act of swindling; a fraud or deception. 
+n	(music) A syllable used in solfège to represent the first and eighth tonic of a major scale. 
+n	(grammar) a direct object 
+n	(US) a Doctor of Osteopathic Medicine 
+n	(sciences) dissolved oxygen 
+n	(informal) Clipping of hairdo. [A hairstyle.] 
+adv	(rare) Abbreviation of ditto. [As said before, likewise.] 
+n	(dentistry) Initialism of disto occlusal. 

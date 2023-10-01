@@ -1,0 +1,23 @@
+n	A person who steers a ship, a helmsman. 
+n	A person who knows well the depths and currents of a harbor or coastal area, who is hired by a vessel to help navigate the harbor or coast. 
+n	A guide book for maritime navigation. 
+n	An instrument for detecting the compass error. 
+n	(Australia, road transport, informal) A pilot vehicle. 
+n	(Australia, road transport) A person authorised to drive such a vehicle during an escort. 
+n	A guide or escort through an unknown or dangerous area. 
+n	Something serving as a test or trial. 
+n	(mining) The heading or excavation of relatively small dimensions, first made in the driving of a larger tunnel. 
+n	(aviation) A person who is in charge of the controls of an aircraft. 
+n	(television) A sample episode of a proposed TV series produced to decide if it should be made or not. If approved, typically the first episode of an actual TV series. 
+n	(rail transport) A cowcatcher. 
+n	(motor racing) A driver. 
+n	A pilot light. 
+n	One who flies a kite. 
+n	A short plug, sometimes made interchangeable, at the end of a counterbore to guide the tool. 
+adj	Made or used as a test or demonstration of capability. 
+adj	Used to control or activate another device. 
+adj	Being a vehicle to warn other road users of the presence of an oversize vehicle/combination. 
+v	(transitive) To control (an aircraft or watercraft). 
+v	(transitive) To guide (a vessel) through coastal waters. 
+v	(transitive) To test or have a preliminary trial of (an idea, a new product, etc.) 
+v	(rail transport, of a locomotive) To serve as the leading locomotive on a double-headed train. 

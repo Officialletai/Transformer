@@ -1,0 +1,4 @@
+adj	Engaged in war or other conflict. 
+adj	Apt to provoke a fight. 
+n	The act or process of contending; violence or conflict. 
+n	A fight or battle; an occasion on which people fight 

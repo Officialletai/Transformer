@@ -1,0 +1,37 @@
+adj	Resistant to pressure. 
+adj	(of drink or drugs) Strong. 
+adj	(of a normally nonalcoholic drink) Containing alcohol. 
+adj	(of water) High in dissolved chemical salts, especially those of calcium. 
+adj	(physics, of a ferromagnetic material) Having the capability of being a permanent magnet by being a material with high magnetic coercivity (compare soft). 
+adj	(physics, of electromagnetic radiation) Having a high energy (high frequency; short wavelength). 
+adj	(photography, of light) Made up of parallel rays, producing clearly defined shadows. 
+adj	Difficult or requiring a lot of effort to do, understand, experience, or deal with. 
+adj	Demanding a lot of effort to endure. 
+adj	Severe, harsh, unfriendly, brutal. 
+adj	(dated) Difficult to resist or control; powerful. 
+adj	(military) Hardened; having unusually strong defences. 
+adj	(slang) Tough and muscular. 
+adj	Unquestionable, unequivocal. 
+adj	(of a road intersection) Having a comparatively larger or a ninety-degree angle. 
+adj	(slang, vulgar, of a male) Sexually aroused; having an erect penis. 
+adj	(bodybuilding) Having muscles that are tightened as a result of intense, regular exercise. 
+adj	Plosive. 
+adj	Unvoiced. 
+adj	(Slavic phonology) Velarized or plain, rather than palatalized. 
+adj	Rigid in the drawing or distribution of the figures; formal; lacking grace of composition. 
+adj	Having disagreeable and abrupt contrasts in colour or shading. 
+adj	In a physical form, not digital. 
+adj	Using a manual or physical process, not by means of a software command. 
+adj	(politics) Far, extreme. 
+adj	Of silk: not having had the natural gum boiled off. 
+adj	(finance) Of a market: having more demand than supply; being a seller's market. 
+adv	(manner) With much force or effort. 
+adv	(manner) With difficulty. 
+adv	(obsolete) So as to raise difficulties. 
+adv	(manner) Compactly. 
+adv	(now archaic) Near, close. 
+n	(countable, nautical) A firm or paved beach or slope convenient for hauling vessels out of the water. 
+n	(countable, motorsports) A tyre whose compound is softer than superhards, and harder than mediums. 
+n	(uncountable, drugs, slang) Crack cocaine. 
+n	(uncountable, slang) Hard labor. 
+n	A surname. 

@@ -1,0 +1,22 @@
+n	An attempt to cause damage, injury to, or death of opponent or enemy. 
+n	An attempt to detract from the worth or credibility of, a person, position, idea, object, or thing, by physical, verbal, emotional, or other assault. 
+n	A time in which one attacks; the offence of a battle. 
+n	(informal, by extension) The beginning of active operations on anything. 
+n	(computing) An attempt to exploit a vulnerability in a computer system. 
+n	(cricket) Collectively, the bowlers of a cricket side. 
+n	(volleyball) Any contact with the ball other than a serve or block which sends the ball across the plane of the net. 
+n	(lacrosse) The three attackmen on the field or all the attackmen of a team. 
+n	(medicine) The sudden onset of a disease or condition. 
+n	An active episode of a chronic or recurrent disease. 
+n	(music) The onset of a musical note, particularly with respect to the strength (and duration) of that onset. 
+n	(audio) The amount of time it takes for the volume of an audio signal to go from zero to maximum level (e.g. an audio waveform representing a snare drum hit would feature a very fast attack, whereas that of a wave washing to shore would feature a slow attack). 
+v	(transitive) To apply violent force to someone or something. 
+v	(transitive) To aggressively challenge a person, idea, etc., with words (particularly in newspaper headlines, because it typesets into less space than "criticize" or similar). 
+v	(transitive) To begin to affect; to act upon injuriously or destructively; to begin to decompose or waste. 
+v	(transitive) To deal with something in a direct way; to set to work upon. 
+v	(transitive, cricket) To aim balls at the batsman’s wicket. 
+v	(intransitive, cricket) To set a field, or bowl in a manner designed to get wickets. 
+v	(intransitive, cricket) To bat aggressively, so as to score runs quickly. 
+v	(soccer) To move forward in an active attempt to score a point, as opposed to trying not to concede. 
+v	(cycling) To accelerate quickly in an attempt to get ahead of the other riders. 
+v	(chemistry) (Of a chemical species) To approach a chemical species or bond in order to form a bond with it. 

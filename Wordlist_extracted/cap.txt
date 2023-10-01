@@ -1,0 +1,56 @@
+n	A close-fitting hat, either brimless or peaked. 
+n	A special hat to indicate rank, occupation, etc. 
+n	An academic mortarboard. 
+n	A protective cover or seal. 
+n	A crown for covering a tooth. 
+n	The summit of a mountain, etc. 
+n	An artificial upper limit or ceiling. 
+n	The top part of a mushroom. 
+n	(toy) A small amount of percussive explosive in a paper strip or plastic cup for use in a toy gun. 
+n	A small explosive device used to detonate a larger charge of explosives. 
+n	(slang) A bullet used to shoot someone. 
+n	(slang, from African-American Vernacular) A lie or exaggeration. 
+n	(sports) A place on a national team; an international appearance. 
+n	(obsolete) The top, or uppermost part; the chief. 
+n	(obsolete) A respectful uncovering of the head. 
+n	(zoology) The whole top of the head of a bird from the base of the bill to the nape of the neck. 
+n	(architecture) The uppermost of any assemblage of parts. 
+n	Something covering the top or end of a thing for protection or ornament. 
+n	(nautical) A collar of iron or wood used in joining spars, as the mast and the topmast, the bowsprit and the jib boom; also, a covering of tarred canvas at the end of a rope. 
+n	(geometry) A portion of a spherical or other convex surface. 
+n	A large size of writing paper. 
+v	(transitive) To cover or seal with a cap. 
+v	(transitive) To award a cap as a mark of distinction. 
+v	(transitive) To lie over or on top of something. 
+v	(transitive) To surpass or outdo. 
+v	(transitive) To set an upper limit on something. 
+v	(transitive) To make something even more wonderful at the end. 
+v	(transitive, cricket) To select a player to play for a specified side. 
+v	(transitive, slang) To shoot (someone) with a firearm. 
+v	(intransitive, slang, especially African-American Vernacular) To lie; to tell a lie. 
+v	(transitive, sports) To select to play for the national team. 
+v	(transitive, obsolete) To salute by uncovering the head respectfully. 
+v	To deprive of a cap. 
+n	(finance) Capitalization. 
+n	(informal) An uppercase or capital letter. 
+v	(transitive, informal) To convert text to uppercase. 
+n	(electronics) A capacitor. 
+n	(colloquial) A recording or screenshot. 
+v	(transitive) To take a screenshot or to record a copy of a video. 
+n	(slang) A capsule of a drug. 
+n	(colloquial) A capitalist. 
+n	capillary 
+n	(obsolete) A wooden drinking-bowl with two handles. 
+n	A nickname for the captain of a team, ship, etc. 
+n	A nickname for a man generally. 
+n	Initialism of conservation action plan. 
+n	Initialism of catabolite activator protein. 
+n	(medicine) Initialism of community-acquired pneumonia. 
+n	(computing theory) Initialism of consistency, availability, partition-tolerance, three irreconcilable guarantees in distributed systems, a result known as Brewer's theorem. [Local coherence.] 
+n	Initialism of combat air patrol. [(military, aviation) A patrolling force of fighter aircraft tasked with covering and screening a friendly asset (such as an aircraft carrier or a flight of bombers) in order to defend it from incoming hostile aircraft.] 
+n	Initialism of change acceleration process. 
+n	Initialism of colors and placements. 
+n	(European Union) Initialism of Common Agricultural Policy. 
+n	(US) Initialism of Civil Air Patrol. 
+n	Initialism of Colleague Assistance Program. 
+n	(astrology, informal) Clipping of Capricorn. [(astronomy): Capricornus] 

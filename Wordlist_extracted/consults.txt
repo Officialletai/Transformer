@@ -1,0 +1,13 @@
+n	(obsolete) The act of consulting or deliberating; consultation 
+n	(obsolete) the result of consultation; determination; decision. 
+n	(obsolete) A council; a meeting for consultation. 
+n	(obsolete) Agreement; concert. 
+n	(US) A visit, e.g. to a doctor; a consultation. 
+v	(intransitive) To seek the opinion or advice of another; to take counsel; to deliberate together; to confer. 
+v	(intransitive) To advise or offer expertise. 
+v	(intransitive) To work as a consultant or contractor rather than as a full-time employee of a firm. 
+v	(transitive) To ask advice of; to seek the opinion of (a person) 
+v	(transitive) To refer to (something) for information. 
+v	(transitive) To have reference to, in judging or acting; to have regard to; to consider; as, to consult one's wishes. 
+v	(transitive, obsolete) To deliberate upon; to take for. 
+v	(transitive, obsolete) To bring about by counsel or contrivance; to devise; to contrive. 

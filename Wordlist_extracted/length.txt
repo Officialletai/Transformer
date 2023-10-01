@@ -1,0 +1,10 @@
+n	The distance measured along the longest dimension of an object. 
+n	Duration. 
+n	(horse racing) The length of a horse, used to indicate the distance between horses at the end of a race. 
+n	(mathematics) Distance between the two ends of a line segment. 
+n	(cricket) The distance down the pitch that the ball bounces on its way to the batsman. 
+n	(figuratively) Total extent. 
+n	Part of something that is long; a physical piece of something. 
+n	(theater) A unit of script length, comprising 42 lines. 
+n	(bridge) The number of cards held in a particular suit. 
+v	(obsolete) To lengthen. 

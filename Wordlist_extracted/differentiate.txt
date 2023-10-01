@@ -1,0 +1,7 @@
+v	(transitive) To show, or be the distinction between two things. 
+v	(intransitive) To perceive the difference between things; to discriminate. 
+v	(transitive, intransitive) To modify, or be modified. 
+v	(transitive, mathematics) To calculate the derivative of a function. 
+v	(transitive, mathematics) To calculate the differential of a function of multiple variables. 
+v	(intransitive, biology) To produce distinct organs or to achieve specific functions by a process of development called differentiation. 
+n	(geology) Something that has been differentiated or stratified. 

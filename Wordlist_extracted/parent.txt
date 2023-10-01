@@ -1,0 +1,13 @@
+n	One of the two persons from whom one is immediately biologically descended; a mother or father. 
+n	A surrogate parent 
+n	A third person who has provided DNA samples in an IVF procedure in order to alter faulty genetic material 
+n	A person who acts as a parent in rearing a child; a step-parent or adoptive parent. 
+n	(obsolete) A relative. 
+n	The source or origin of something. 
+n	(biology) An organism from which a plant or animal is immediately biologically descended. 
+n	(attributive) Sponsor, supporter, owner, protector. 
+n	A parent company. 
+n	(computing) The object from which a child or derived object is descended; a node superior to another node. 
+n	(physics) The nuclide that decays into a daughter nuclide. 
+v	To act as parent, to raise or rear. 
+n	A surname. 

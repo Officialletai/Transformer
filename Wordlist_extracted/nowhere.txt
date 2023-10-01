@@ -1,0 +1,4 @@
+adv	In no place. 
+adv	To no place. 
+adj	Unimportant; unworthy of notice. 
+n	No particular place, noplace. 

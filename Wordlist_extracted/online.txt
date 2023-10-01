@@ -1,0 +1,9 @@
+adj	Of a generator or power plant: connected to the grid. 
+adj	Of a computer: actively connected to the Internet or to some other communications service. 
+adj	Available over, or delivered from, the Internet. 
+adj	Connected to the Internet. 
+adj	Available on a computer system, even if not networked. 
+adj	Of a system: active, particularly building facilities (such as power) or a factory or power plant. 
+adj	(slang) Immersed in Internet culture. (Usually modified by an intensifier such as extremely or terminally) 
+adv	While online; while in a running or active state, or connected to the Internet. 
+v	(computing, transitive) To bring (a system, etc.) online; to promote to an active or running state. 

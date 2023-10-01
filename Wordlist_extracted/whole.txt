@@ -1,0 +1,8 @@
+adj	Entire, undivided. 
+adj	Used as an intensifier. 
+adj	Sound, uninjured, healthy. 
+adj	(of food) From which none of its constituents has been removed. 
+adj	(mining) As yet unworked. 
+adv	(colloquial) In entirety; entirely; wholly. 
+n	Something complete, without any parts missing. 
+n	An entirety. 

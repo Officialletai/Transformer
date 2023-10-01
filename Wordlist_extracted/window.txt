@@ -1,0 +1,14 @@
+n	An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle. 
+n	An opening, usually covered by glass, in a shop which allows people to view the shop and its products from outside; a shop window. 
+n	(architecture) The shutter, casement, sash with its fittings, or other framework, which closes a window opening. 
+n	A period of time when something is available or possible; A limited opportunity. 
+n	Something that allows one to see through or into something 
+n	A restricted range. 
+n	(graphical user interface) A rectangular area on a computer terminal or screen containing some kind of user interface, displaying the output of and allowing input for one of a number of simultaneously running computer processes. 
+n	A figure formed of lines crossing each other. 
+n	(medicine) The time between first infection and detectability. 
+n	(military, historical, uncountable) Synonym of chaff (“strips of material intended to confuse radar”) 
+n	(signal processing) A function multiplied with a signal to reduce spectral leakage when performing a Fourier transform. 
+v	(transitive) To furnish with windows. 
+v	(transitive) To place at or in a window. 
+v	(transitive, signal processing) To apply a window function to (a signal). 

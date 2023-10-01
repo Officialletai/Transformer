@@ -1,0 +1,62 @@
+adj	Circular or cylindrical; having a circular cross-section in one direction. 
+adj	Spherical; shaped like a ball; having a circular cross-section in more than one direction. 
+adj	Lacking sharp angles; having gentle curves. 
+adj	Plump. 
+adj	Complete, whole, not lacking. 
+adj	(of a number) Convenient for rounding other numbers to; for example, ending in a zero. 
+adj	(phonetics) Pronounced with the lips drawn together; rounded. 
+adj	Outspoken; plain and direct; unreserved; not mincing. 
+adj	Finished; polished; not defective or abrupt; said of authors or their writing style. 
+adj	Consistent; fair; just; applied to conduct. 
+adj	Large in magnitude. 
+adj	(authorship, of a fictional character) Well-written and well-characterized; complex and reminiscent of a real person. 
+adj	(architecture) Vaulted. 
+n	A circular or spherical object or part of an object. 
+n	A circular or repetitious route. 
+n	A general outburst from a group of people at an event. 
+n	A song that is sung by groups of people with each subset of people starting at a different time. 
+n	A serving of something; a portion of something to each person in a group. 
+n	A single individual portion or dose of medicine. 
+n	One sandwich (two full slices of bread with filling). 
+n	(art) A long-bristled, circular-headed paintbrush used in oil and acrylic painting. 
+n	A firearm cartridge, bullet, or any individual ammunition projectile. Originally referring to the spherical projectile ball of a smoothbore firearm. Compare round shot and solid shot. 
+n	(sports) One of the specified pre-determined segments of the total time of a sport event, such as a boxing or wrestling match, during which contestants compete before being signaled to stop. 
+n	(sports) A stage in a competition. 
+n	(sports) In some sports, e.g. golf or showjumping: one complete way around the course. 
+n	(video games) A stage or level of a game. 
+n	(card games) The play after each deal. 
+n	(engineering, drafting, CAD) A rounded relief or cut at an edge, especially an outside edge, added for a finished appearance and to soften sharp edges. 
+n	A strip of material with a circular face that covers an edge, gap, or crevice for decorative, sanitary, or security purposes. 
+n	(butchery) The hindquarters of a bovine. 
+n	(dated) A rung, as of a ladder. 
+n	A crosspiece that joins and braces the legs of a chair. 
+n	A series of changes or events ending where it began; a series of like events recurring in continuance; a cycle; a periodical revolution. 
+n	A course of action or conduct performed by a number of persons in turn, or one after another, as if seated in a circle. 
+n	A series of duties or tasks which must be performed in turn, and then repeated. 
+n	A circular dance. 
+n	Rotation, as in office; succession. 
+n	A general discharge of firearms by a body of troops in which each soldier fires once. 
+n	An assembly; a group; a circle. 
+n	A brewer's vessel in which the fermentation is concluded, the yeast escaping through the bunghole. 
+n	(archaic) A vessel filled, as for drinking. 
+n	(nautical) A round-top. 
+n	A round of beef. 
+v	(transitive) To shape something into a curve. 
+v	(intransitive) To become shaped into a curve. 
+v	(with "out") To finish; to complete; to fill out. 
+v	(intransitive) To approximate a number, especially a decimal number by the closest whole number. 
+v	(transitive) To turn past a boundary. 
+v	(intransitive) To turn and attack someone or something (used with on). 
+v	(transitive, baseball) To advance to home plate. 
+v	(transitive) To go round, pass, go past. 
+v	To encircle; to encompass. 
+v	To grow round or full; hence, to attain to fullness, completeness, or perfection. 
+v	(medicine, colloquial) To do ward rounds. 
+v	(obsolete, intransitive) To go round, as a guard; to make the rounds. 
+v	(obsolete, intransitive) To go or turn round; to wheel about. 
+v	(intransitive, archaic or dialectal, Northern England, Scotland) To speak in a low tone; whisper; speak secretly; take counsel. 
+v	(transitive, archaic or dialectal, Northern England, Scotland) To address or speak to in a whisper, utter in a whisper. 
+n	(archaic or dialectal, Northern England, Scotland) A whisper; whispering. 
+n	(archaic or dialectal, Northern England, Scotland) Discourse; song. 
+n	A surname. 
+adv	Alternative form of around [So as to form a circle or trace a circular path, or approximation thereof.] 

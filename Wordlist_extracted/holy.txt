@@ -1,0 +1,8 @@
+adj	Dedicated to a religious purpose or a god. 
+adj	Revered in a religion. 
+adj	Morally perfect or flawless, or nearly so. 
+adj	Separated or set apart from (something unto something or someone else). 
+adj	Set apart or dedicated for a specific purpose, or for use by a single entity or person. 
+adj	(slang) Used as an intensifier in various interjections. 
+n	(archaic) A thing that is extremely holy; used almost exclusively in Holy of Holies. 
+adj	Alternative letter-case form of holy used when referring to an important figure, such as God, or to an important item or event. 

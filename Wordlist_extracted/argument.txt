@@ -1,0 +1,17 @@
+n	(countable, also figuratively) A fact or statement used to support a proposition; a reason. 
+n	(logic, philosophy) A series of propositions organized so that the final proposition is a conclusion which is intended to follow logically from the preceding propositions, which function as premises. 
+n	(countable) A process of reasoning; argumentation. 
+n	(countable) An abstract or summary of the content of a literary work such as a book, a poem or a major section such as a chapter, included in the work before the content itself; (figuratively) the contents themselves. 
+n	(countable) A verbal dispute; a quarrel. 
+n	(by extension, humorous or euphemistic) Any dispute, altercation, or collision. 
+n	(countable, linguistics) Any of the phrases that bears a syntactic connection to the verb of a clause. 
+n	The independent variable of a function. 
+n	The phase of a complex number. 
+n	(also astronomy) A quantity on which the calculation of another quantity depends. 
+n	A value, or a reference to a value, passed to a function. 
+n	A parameter at a function call; an actual parameter, as opposed to a formal parameter. 
+n	A matter in question; a business in hand. 
+n	The subject matter of an artistic representation, discourse, or writing; a theme or topic. 
+n	(uncountable, archaic) Evidence, proof; (countable) an item of such evidence or proof. 
+v	(intransitive, obsolete, now nonstandard, non-native speakers' English) To put forward as an argument; to argue. 
+v	(intransitive, obsolete) To adduce evidence, to provide proof. 

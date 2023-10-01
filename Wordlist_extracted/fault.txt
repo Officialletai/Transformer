@@ -1,0 +1,16 @@
+n	A defect; something that detracts from perfection. 
+n	A mistake or error. 
+n	A weakness of character; a failing. 
+n	A characteristic, positive or negative or both, which subjects a person or thing to increased risk of danger. 
+n	A minor offense. 
+n	Blame; the responsibility for a mistake. 
+n	(seismology) A fracture in a rock formation causing a discontinuity. 
+n	(mining) In coal seams, coal rendered worthless by impurities in the seam. 
+n	(tennis) An illegal serve. 
+n	(electrical) An abnormal connection in a circuit. 
+n	(obsolete) want; lack 
+n	(hunting) A lost scent; act of losing the scent. 
+v	(transitive) To criticize, blame or find fault with something or someone. 
+v	(intransitive, geology) To fracture. 
+v	(intransitive) To commit a mistake or error. 
+v	(intransitive, computing) To undergo a page fault. 

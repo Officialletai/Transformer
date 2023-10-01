@@ -1,0 +1,32 @@
+adj	Made up of liquid or moisture, usually (but not always) water. 
+adj	Of an object, etc.: covered or impregnated with liquid, usually (but not always) water. 
+adj	Of a burrito, sandwich, or other food: covered in a sauce. 
+adj	Of calligraphy and fountain pens: depositing a large amount of ink from the nib or the feed. 
+adj	Of a sound recording: having had audio effects applied. 
+adj	Of weather or a time period: rainy. 
+adj	(aviation) Using afterburners or water injection for increased engine thrust. 
+adj	(slang) Of a person: inexperienced in a profession or task; having the characteristics of a rookie. 
+adj	(slang, vulgar) (of a female) Sexually aroused and thus having the vulva moistened with vaginal secretions. 
+adj	(Britain, slang) Ineffectual, feeble, showing no strength of character. 
+adj	(retronym) Permitting alcoholic beverages. 
+adj	(slang, archaic) Refreshed with liquor; drunk. 
+adj	(biology, chemistry) Of a scientist or laboratory: working with biological or chemical matter. 
+adj	(chemistry) Employing, or done by means of, water or some other liquid. 
+adj	(slang, euphemistic) Involving assassination or "wet work". 
+adj	(dated or obsolete, colloquial) Of a Quaker: liberal with respect to religious observance. 
+n	Liquid or moisture. 
+n	Rainy weather. 
+n	(Australia) Rainy season. (often capitalized) 
+n	(Britain, UK politics, derogatory) A moderate Conservative; especially, one who opposed the hard-line policies of British Prime Minister Margaret Thatcher in the 1980s. 
+n	(colloquial) An alcoholic drink. 
+n	(US, colloquial) One who supports the consumption of alcohol and thus opposes Prohibition. 
+n	(motor racing, in the plural) A tyre for use in wet weather. 
+n	(colloquial, derogatory) A weak or sentimental person; a wimp or softie. 
+v	(transitive) To cover or impregnate with liquid. 
+v	(transitive) To accidentally urinate in or on. 
+v	(intransitive) To make or become wet. 
+v	(transitive, soldering) To form an intermetallic bond between a solder and a metal substrate. 
+v	(transitive, informal) To celebrate by drinking alcohol. 
+v	(US, MLE, MTE, slang) To kill or seriously injure. 
+adj	(software engineering) Of code, having the quality of adhering to the principle of WET; containing much repetition. 
+v	Misspelling of whet. [(transitive) To hone or rub on with some substance, as a piece of stone, for the purpose of sharpening – see whetstone.] 

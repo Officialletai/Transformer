@@ -1,0 +1,3 @@
+adj	Of or pertaining to dimensions. 
+adj	(comparable) Having dimension or dimensions; three-dimensional. 
+adj	(mathematics) Appended to cardinal numbers or algebraic symbols to form adjectives meaning "having the stated number of dimensions". 

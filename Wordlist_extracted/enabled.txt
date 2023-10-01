@@ -1,0 +1,2 @@
+adj	Being capable for use or action; not disabled 
+adj	(computing) Adapted for use with the specified mechanism or system. 

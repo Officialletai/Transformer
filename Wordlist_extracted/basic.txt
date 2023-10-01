@@ -1,0 +1,11 @@
+adj	Necessary, essential for life or some process. 
+adj	Elementary, simple, fundamental, merely functional. 
+adj	(chemistry) Of or pertaining to a base; having a pH greater than 7. 
+adj	(slang) Unremarkable or uninteresting; boring; uncool. 
+n	A necessary commodity, a staple requirement. 
+n	An elementary building block, e.g. a fundamental piece of knowledge. 
+n	(military) Basic training. 
+n	Any of a family of third-generation programming languages (c.1964 on). 
+n	A family of third-generation computer programming languages (c.1964 on). 
+n	(attributive) Initialism of Brazil, South Africa, India and China. [A large Portuguese-speaking country in South America. Official name: Federative Republic of Brazil.] 
+n	Initialism of British American Security Information Council. 

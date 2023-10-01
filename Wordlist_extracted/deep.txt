@@ -1,0 +1,28 @@
+adj	Extending far down from the top, or surface, to the bottom, literally or figuratively. 
+adj	Far in extent in another (non-downwards, but generally also non-upwards) direction away from a point of reference. 
+adj	(in combination) Extending to a level or length equivalent to the stated thing. 
+adj	In a (specified) number of rows or layers. 
+adj	Thick. 
+adj	Voluminous. 
+adj	Positioned or reaching far, especially down through something or into something. 
+adj	Profound, having great meaning or import, but possibly obscure or not obvious. 
+adj	Significant, not superficial, in extent. 
+adj	Hard to penetrate or comprehend; profound; intricate; obscure. 
+adj	Of penetrating or far-reaching intellect; not superficial; thoroughly skilled; sagacious; cunning. 
+adj	(sound, voice) Low in pitch. 
+adj	(of a color or flavour) Highly saturated; rich. 
+adj	(sleep) Sound, heavy (describing a state of sleep from which one is not easily awoken). 
+adj	Muddy; boggy; sandy; said of roads. 
+adj	(of time) Distant in the past, ancient. 
+adv	Far, especially far down through something or into something, physically or figuratively. 
+adv	(also deeply) In a profound, not superficial, manner. 
+adv	(also deeply) In large volume. 
+adv	(sports) Back towards one's own goal, baseline, or similar. 
+n	(literary, with "the") The deep part of a lake, sea, etc. 
+n	(with "the") The sea, the ocean. 
+n	A deep hole or pit, a water well; an abyss. 
+n	(literary, with "the") A silent time; quiet isolation. 
+n	(rare) A deep shade of colour. 
+n	(US, rare) The profound part of a problem. 
+n	(cricket) A fielding position near the boundary. 
+n	A surname. 

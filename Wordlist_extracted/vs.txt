@@ -1,0 +1,5 @@
+n	(aviation) Stall speed. 
+n	(specifically) Stall speed in the clean configuration, with all flaps, slats, and droops retracted. 
+adj	Initialism of very special, or, very superior: a grade of premium cognac that has been aged in barrels for 2.5-4.5 years. 
+adj	Abbreviation of very slightly (included): a degree of the inclusions in a diamond. 
+n	(computing) Initialism of Visual Studio: an integrated development environment. 

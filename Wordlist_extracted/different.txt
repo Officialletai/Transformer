@@ -1,0 +1,6 @@
+adj	Not the same; exhibiting a difference. 
+adj	Various, assorted, diverse. 
+adj	Distinct, separate; used for emphasis after numbers and other determiners of quantity. 
+adj	Unlike most others; unusual. 
+n	(mathematics) The different ideal. 
+adv	Differently. 

@@ -1,0 +1,6 @@
+adj	Stiff, rather than flexible. 
+adj	Fixed, rather than moving. 
+adj	Rigorous and unbending. 
+adj	Uncompromising. 
+n	(aviation) An airship whose shape is maintained solely by an internal and/or external rigid structural framework, without using internal gas pressure to stiffen the vehicle (the lifting gas is at atmospheric pressure); typically also equipped with multiple redundant gasbags, unlike other types of airship. 
+n	A bicycle with no suspension system. 

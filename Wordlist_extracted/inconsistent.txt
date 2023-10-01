@@ -1,0 +1,4 @@
+adj	Not compatible (with another thing); incompatible, discrepant, at odds. 
+adj	Lacking internal consistency; self-contradicting; not compatible with itself. 
+adj	Not consistent or coherent in thought or behavior. 
+adj	(logic) Having the property that a contradiction can be derived. 

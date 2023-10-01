@@ -1,0 +1,6 @@
+adj	Designed or fitted for execution, or carrying into effect. 
+adj	Of, pertaining to, or having responsibility for the day-to-day running of an organisation, business, country, etc. 
+adj	Exclusive. 
+n	A chief officer or administrator, especially one who can make significant decisions on their own authority. 
+n	The branch of government that is responsible for enforcing laws and judicial decisions, and for the day-to-day administration of the state. 
+n	(computing) A process that coordinates and governs the action of other processes or threads; supervisor. 

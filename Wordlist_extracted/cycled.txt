@@ -1,0 +1,22 @@
+n	An interval of space or time in which one set of events or phenomena is completed. 
+n	A complete rotation of anything. 
+n	A process that returns to its beginning and then repeats itself in the same sequence. 
+n	The members of the sequence formed by such a process. 
+n	(music) In musical set theory, an interval cycle is the set of pitch classes resulting from repeatedly applying the same interval class to the starting pitch class. 
+n	A series of poems, songs or other works of art, typically longer than a trilogy. 
+n	A programme on a washing machine, dishwasher, or other such device. 
+n	A pedal-powered vehicle, such as a unicycle, bicycle, or tricycle, or a motorized vehicle that has either two or three wheels. 
+n	(baseball) A single, a double, a triple, and a home run hit by the same player in the same game. 
+n	(graph theory) A closed walk or path, with or without repeated vertices allowed. 
+n	(topology, algebraic topology) A chain whose boundary is zero. 
+n	An imaginary circle or orbit in the heavens; one of the celestial spheres. 
+n	An age; a long period of time. 
+n	An orderly list for a given time; a calendar. 
+n	(botany) One entire round in a circle or a spire. 
+n	(weaponry) A discharge of a taser. 
+n	(aviation) One take-off and landing of an aircraft, referring to a pressurisation cycle which places stresses on the fuselage. 
+n	(sports) A scheduled period of time of weeks or months wherein a performance-enhancing substance or, by extension, supplement is applied, to be followed by another one where it is not or the dosage is lower. 
+v	To ride a bicycle or other cycle. 
+v	To go through a cycle or to put through a cycle. 
+v	(electronics) To turn power off and back on 
+v	(ice hockey) To maintain a team's possession of the puck in the offensive zone by handling and passing the puck in a loop from the boards near the goal up the side boards and passing to back to the boards near the goal 

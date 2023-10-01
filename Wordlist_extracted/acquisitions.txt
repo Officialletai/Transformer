@@ -1,0 +1,3 @@
+n	The act or process of acquiring. 
+n	The thing acquired or gained; a gain. 
+n	(computing) The process of sampling signals that measure real world physical conditions and converting these signals into digital numeric values that can be manipulated by a computer. 

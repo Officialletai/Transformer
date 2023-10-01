@@ -1,0 +1,7 @@
+n	Censure. 
+n	Culpability for something negative or undesirable. 
+n	Responsibility for something meriting censure. 
+n	(computing) A source control feature that can show which user was responsible for a particular portion of the source code. 
+v	To censure (someone or something); to criticize. 
+v	(obsolete) To bring into disrepute. 
+v	(transitive, usually followed by "for") To assert or consider that someone is the cause of something negative; to place blame, to attribute responsibility (for something negative or for doing something negative). 

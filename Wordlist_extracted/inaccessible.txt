@@ -1,0 +1,3 @@
+adj	Not able to be accessed; out of reach; inconvenient. 
+adj	Not able to be reached; unattainable. 
+n	(mathematics) An uncountable regular cardinal number that is a limit cardinal. 

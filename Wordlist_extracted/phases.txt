@@ -1,0 +1,18 @@
+n	A distinguishable part of a sequence or cycle occurring over time. 
+n	That which is exhibited to the eye; the appearance which anything manifests, especially any one among different and varying appearances of the same object. 
+n	Any appearance or aspect of an object of mental apprehension or view. 
+n	(astronomy) A particular appearance or state in a regularly recurring cycle of changes with respect to quantity of illumination or form, or the absence, of its enlightened disk. Illustrated in Wikipedia's article Lunar phase. 
+n	(physics) Any one point or portion in a recurring series of changes, as in the changes of motion of one of the particles constituting a wave or vibration; one portion of a series of such changes, in distinction from a contrasted portion, as the portion on one side of a position of equilibrium, in contrast with that on the opposite side. 
+n	(chemistry) A component in a material system that is distinguished by chemical composition and/or physical state (solid, liquid or gas) and/or crystal structure. It is delineated from an adjoining phase by an abrupt change in one or more of those conditions. 
+n	(zoology) In certain organisms, one of two or more colour variations characteristic of the species, but independent of the ordinary seasonal and sexual differences, and often also of age. 
+n	(rugby union) The period of play between consecutive breakdowns. 
+n	(genetics) A haplotype. 
+n	(mathematics) The arctangent of the quotient formed by dividing the imaginary part of a complex number by the real part. 
+n	(music) A distortion caused by a difference in the speed of propagation for different frequencies 
+n	(electrical engineering) In a polyphase electrical power system, one of the power-carrying conductors, or the alternating current carried by it. 
+v	(with in or out) To begin—if construed with "in"—or to discontinue—if construed with out—(doing) something over a period of time (i.e. in phases). 
+v	(genetics, informal, transitive) To determine haplotypes in (data) when genotypes are known. 
+v	To pass into or through a solid object. 
+v	(science fiction) To use a phaser. 
+n	(obsolete) Passover 
+v	Obsolete form of faze. [(transitive, informal) To frighten or cause hesitation; to daunt, put off (usually used in the negative); to disconcert, to perturb.] 

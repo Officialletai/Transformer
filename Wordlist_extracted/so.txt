@@ -1,0 +1,21 @@
+adv	To the (explicitly stated) extent that. 
+adv	(informal) Very (positive clause). 
+adv	(informal) Very (negative clause). 
+adv	(slang, chiefly US) Very much. 
+adv	In a particular manner. 
+adv	In the same manner or to the same extent as aforementioned; also. 
+adv	(with as): To such an extent or degree; as. 
+adj	true, accurate 
+adj	In that state or manner; with that attribute. A proadjective that replaces the aforementioned adjective phrase. 
+adj	(dated, UK, slang) Homosexual. 
+n	(music) A syllable used in solfège to represent the fifth note of a major scale. 
+n	(foods) A type of dairy product, made especially in Japan between the seventh and 10th centuries, by reducing milk by boiling it. 
+n	A Mon-Khmer-speaking people of Laos and Thailand. 
+n	A Chinese surname from Cantonese. 
+n	Initialism of significant other. [One's romantic partner, regardless of marital status or gender.] 
+n	(sports) Initialism of shut out. 
+n	(sports) Initialism of shootout. [A decisive battle, especially a gunfight.] 
+n	(baseball) Initialism of strike out. 
+n	(logic, computer science) Initialism of second-order logic. [A formal system which extends first-order logic by allowing quantification over relations between members of the universe.] 
+n	(music) Initialism of symphony orchestra. [(music) A large orchestra that traditionally plays Western classical orchestral music.] 
+n	Alternative form of So. 

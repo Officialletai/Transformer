@@ -1,0 +1,15 @@
+n	A length of some object. 
+n	One of the parts into which any body naturally separates or is divided; a part divided or cut off; a section; a portion. 
+n	A straight path between two points that is the shortest distance between them. 
+n	(geometry) The part of a circle between its circumference and a chord (usually other than the diameter). 
+n	(geometry) The part of a sphere cut off by a plane. 
+n	(topology) Any of the pieces that constitute an order tree. 
+n	(phonology) A discrete unit of speech: a consonant or a vowel. 
+n	(botany) A portion of an organ whose cells are derived from a single cell within the primordium from which the organ developed. 
+n	(zoology) One of several parts of an organism, with similar structure, arranged in a chain; such as a vertebra, or a third of an insect's thorax. 
+n	(broadcasting) A part of a broadcast program, devoted to a topic. 
+n	(computing) An Ethernet bus. 
+n	(computing) A region of memory or a fragment of an executable file designated to contain a particular part of a program. 
+n	(travel) A portion of an itinerary: it may be a flight or train between two cities, or a car or hotel booked in a particular city. 
+n	(heraldry) A bearing representing only one part of a rounded object. 
+v	(transitive, intransitive) To divide into segments or sections. 

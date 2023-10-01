@@ -1,0 +1,3 @@
+adj	Based upon a hypothesis; conjectural 
+adj	(philosophy) conditional; contingent upon some hypothesis/antecedent 
+n	A possible or hypothetical situation or proposition 

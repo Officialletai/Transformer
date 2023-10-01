@@ -1,0 +1,11 @@
+v	(transitive) To designate or set apart (something) for some purpose. 
+v	(transitive) To appoint or select (someone) for some office. 
+v	(transitive) To allot or give (something) as a task. 
+v	(transitive) To attribute or sort (something) into categories. 
+v	(LGBT) To categorize (someone) as belonging to the male or female sex. 
+v	(transitive, law) To transfer (property, a legal right, etc.) from one person to another. 
+v	(transitive, programming) To give (a value) to a variable. 
+n	An assignee. 
+n	(obsolete) A thing relating or belonging to something else; an appurtenance. 
+n	(obsolete) An assignment or appointment. 
+n	(obsolete) A design or purpose. 

@@ -1,0 +1,13 @@
+adj	(obsolete) Pertaining only to a part of something; partial. 
+adj	Specific; discrete; concrete. 
+adj	Specialised; characteristic of a specific person or thing. 
+adj	(obsolete) Known only to an individual person or group; confidential. 
+adj	Distinguished in some way; special (often in negative constructions). 
+adj	(comparable) Of a person, concerned with, or attentive to, details; fastidious. 
+adj	Concerned with, or attentive to, details; minute; circumstantial; precise. 
+adj	(law) Containing a part only; limited. 
+adj	(law) Holding a particular estate. 
+adj	(logic) Forming a part of a genus; relatively limited in extension; affirmed or denied of a part of a subject. 
+n	A small individual part of something larger; a detail, a point. 
+n	(obsolete) A person's own individual case. 
+n	(now philosophy, chiefly in plural) A particular case; an individual thing as opposed to a whole class. (Opposed to generals, universals.) 

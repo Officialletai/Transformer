@@ -1,0 +1,18 @@
+n	An order to do something. 
+n	The right or authority to order, control or dispose of; the right to be obeyed or to compel obedience. 
+n	power of control, direction or disposal; mastery. 
+n	A position of chief authority; a position involving the right or power to order or control. 
+n	The act of commanding; exercise or authority of influence. 
+n	(military) A body or troops, or any naval or military force, under the control of a particular officer; by extension, any object or body in someone's charge. 
+n	Dominating situation; range or control or oversight; extent of view or outlook. 
+n	(computing) A directive to a computer program acting as an interpreter of some kind, in order to perform a specific task. 
+n	(baseball) The degree of control a pitcher has over his pitches. 
+n	A command performance. 
+v	(transitive, intransitive) To order, give orders; to compel or direct with authority. 
+v	(transitive, intransitive) To have or exercise supreme power, control or authority over, especially military; to have under direction or control. 
+v	(transitive) To require with authority; to demand, order, enjoin. 
+v	(transitive) to dominate through ability, resources, position etc.; to overlook. 
+v	(transitive) To exact, compel or secure by influence; to deserve, claim. 
+v	(transitive) To hold, to control the use of. 
+v	(intransitive, archaic) To have a view, as from a superior position. 
+v	(obsolete) To direct to come; to bestow. 

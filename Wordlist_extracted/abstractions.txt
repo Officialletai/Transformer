@@ -1,0 +1,16 @@
+n	(euphemistic) The taking surreptitiously for one's own use part of the property of another; purloining. 
+n	(engineering) Removal of water from a river, lake, or aquifer. 
+n	A separation from worldly objects; a recluse life; the withdrawal from one's senses. 
+n	The act of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the act of separating said qualities from the object or ideas. 
+n	Any characteristic of an individual object when that characteristic has been separated from the object and is contemplated alone as a quality having independent existence. 
+n	A member of an idealized subgroup when contemplated according to the abstracted quality which defines the subgroup. 
+n	The act of comparing commonality between distinct objects and organizing using those similarities; the act of generalizing characteristics; the product of said generalization. 
+n	An idea or notion of an abstract or theoretical nature. 
+n	Absence or absorption of mind; inattention to present objects; preoccupation. 
+n	(art) An abstract creation, or piece of art; qualities of artwork that are free from representational aspects. 
+n	(chemistry) A separation of volatile parts by the act of distillation. 
+n	An idea of an idealistic, unrealistic or visionary nature. 
+n	The result of mentally abstracting an idea; the product of any mental process involving a synthesis of: separation, despecification, generalization, and ideation in any of a number of combinations. 
+n	(geology) The merging of two river valleys by the larger of the two deepening and widening so much so, as to assimilate the smaller. 
+n	(computing) Any generalization technique that ignores or hides details to capture some kind of commonality between different instances for the purpose of controlling the intellectual complexity of engineered systems, particularly software systems. 
+n	(computing) Any intellectual construct produced through the technique of abstraction. 

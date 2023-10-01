@@ -1,0 +1,15 @@
+n	Downward movement, fall. 
+n	A sloping downward, e.g. of a hill or road. 
+n	A weakening. 
+n	A reduction or diminution of activity. 
+n	The act of declining or refusing something. 
+v	(intransitive) To move downwards, to fall, to drop. 
+v	(intransitive) To become weaker or worse. 
+v	(transitive) To bend downward; to bring down; to depress; to cause to bend, or fall. 
+v	(transitive) To cause to decrease or diminish. 
+v	To turn or bend aside; to deviate; to stray; to withdraw. 
+v	(transitive) To choose not to do something; refuse, forbear, refrain. 
+v	(transitive, grammar, usually of substantives, adjectives and pronouns) To inflect for case, number, gender, and the like. 
+v	(transitive, grammar) To recite all the different declined forms of (a word). 
+v	(by extension) To run through from first to last; to recite in order as though declining a noun. 
+v	(American football, Canadian football) To reject a penalty against the opposing team, usually because the result of accepting it would benefit the non-penalized team less than the preceding play. 

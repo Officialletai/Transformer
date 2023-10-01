@@ -1,0 +1,19 @@
+adj	Made up of multiple parts; composite; not simple. 
+adj	Not simple, easy, or straightforward; complicated. 
+adj	(mathematics, of a number) Having the form a + bi, where a and b are real numbers and i is (by definition) the imaginary square root of −1. 
+adj	(mathematics, mathematical analysis, of a function) Whose range is a subset of the complex numbers. 
+adj	(mathematics, algebra) Whose coefficients are complex numbers; defined over the field of complex numbers. 
+adj	(geometry) A curve, polygon or other figure that crosses or intersects itself. 
+n	A problem. 
+n	A network of interconnected systems. 
+n	A collection of buildings with a common purpose, such as a university or military base. 
+n	An organized cluster of thunderstorms. 
+n	A cluster of wildfires burning in the same vicinity. 
+n	(taxonomy) A group of closely related species, often distinguished only with difficulty by traditional morphological methods. 
+n	(psychoanalysis) An abnormal mental condition caused by repressed emotions. 
+n	(informal, by extension) A vehement, often excessive psychological dislike or fear of a particular thing. 
+n	(chemistry) A structure consisting of a central atom or molecule weakly connected to surrounding atoms or molecules, as for example coordination complexes in inorganic chemistry and protein complexes in biochemistry. 
+n	(mathematics) A complex number. 
+n	(linguistics) A multimorphemic word, one with several parts, one with affixes. 
+v	(chemistry, intransitive) To form a complex with another substance 
+v	(transitive) To complicate. 

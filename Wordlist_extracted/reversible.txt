@@ -1,0 +1,7 @@
+adj	Able to be reversed. 
+adj	(of clothing) Able to be worn inside out. 
+adj	(chemistry, of a chemical reaction) Capable of proceeding in either direction. 
+adj	(physics, of a phase change) Capable of returning to the original state. 
+adj	(thermodynamics) Capable of returning to the original state without consumption of free energy and increase of entropy. 
+adj	(law) Providing sufficient reason for a court decision to be overturned on appeal. 
+n	A garment that can be worn inside out. 

@@ -1,0 +1,9 @@
+n	A value kept constant during an experiment, equation, calculation, or similar, but varied over other versions of the experiment, equation, calculation, etc. 
+n	(statistics) Any measured quantity of a statistical population that summarises or describes an aspect of the population. 
+n	(machine learning) A variable of a model that is trained by a machine learning algorithm. 
+n	(programming) An input variable of a function definition, that gets an actual value (argument) at execution time. 
+n	(programming, loosely) An actual value given to such a formal parameter. 
+n	A characteristic or feature that distinguishes something from others. 
+n	(geometry) In the ellipse and hyperbola, a third proportional to any diameter and its conjugate, or in the parabola, to any abscissa and the corresponding ordinate. 
+n	(crystallography) The ratio of the three crystallographic axes which determines the position of any plane. 
+n	(crystallography) The fundamental axial ratio for a given species. 

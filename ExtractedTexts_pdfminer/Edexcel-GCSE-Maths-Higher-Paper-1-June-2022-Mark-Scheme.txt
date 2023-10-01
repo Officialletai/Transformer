@@ -1,0 +1,2879 @@
+Mark Scheme (Results) 
+
+Summer 2022 
+
+Pearson Edexcel GCSE 
+In Mathematics (1MA1) 
+Higher (Non-Calculator) Paper 1H 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edexcel and BTEC Qualifications 
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK’s largest awarding body. We 
+
+provide a wide range of qualifications including academic, vocational, occupational and specific 
+
+programmes  for  employers.  For  further  information  visit  our  qualifications  websites  at 
+
+www.edexcel.com  or  www.btec.co.uk.  Alternatively,  you  can  get  in  touch  with  us  using  the 
+
+details on our contact us page at www.edexcel.com/contactus. 
+
+Pearson: helping people progress, everywhere 
+
+Pearson  aspires  to  be  the  world’s  leading  learning  company.  Our  aim  is  to  help  everyone 
+
+progress in their lives through education. We believe in every kind of learning, for all kinds of 
+
+people, wherever they are in the world. We’ve been involved in education for over 150 years, 
+
+and by working across 70 countries, in 100 languages, we have built an international reputation 
+
+for  our  commitment  to  high  standards  and  raising  achievement  through  innovation  in 
+
+education.  Find  out  more  about  how  we  can  help  you  and  your  students  at: 
+
+www.pearson.com/uk 
+
+Summer 2022 
+
+Question Paper Log Number P66305A 
+
+Publications Code 1MA1_1H_2206_MS 
+
+All the material in this publication is copyright 
+
+© Pearson Education Ltd 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+General marking guidance 
+These notes offer general guidance, but the specific notes for examiners appertaining to individual questions take precedence. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+All candidates must receive the same treatment. Examiners must mark the last candidate in exactly the same way as they mark the first. 
+Where some judgement is required, mark schemes will provide the principles by which marks will be awarded; exemplification/indicative 
+content will not be exhaustive. When examiners are in doubt regarding the application of the mark scheme to a candidate’s response, 
+the response should be sent to review. 
+
+All the marks on the mark scheme are designed to be awarded; mark schemes should be applied positively. Examiners should also be 
+prepared  to  award  zero  marks  if  the  candidate’s  response  is  not  worthy  of  credit  according  to  the  mark  scheme.  If  there  is  a  wrong 
+answer (or no answer) indicated on the answer line always check the working in the body of the script (and on any diagrams), and award 
+any marks appropriate from the mark scheme.  
+
+Questions where working is not required: In general, the correct answer should be given full marks. 
+Questions that specifically require working: In general, candidates who do not show working on this type of  question will get no 
+marks – full details will be given in the mark scheme for each individual question. 
+
+Crossed out work 
+This should be marked unless the candidate has replaced it with  
+an alternative response.  
+
+Choice of method 
+If there is a choice of methods shown, mark the method that leads to the answer given on the answer line. 
+If no answer appears on the answer line, mark both methods then award the lower number of marks.  
+
+Incorrect method 
+If it is clear from the working that the “correct” answer has been obtained from incorrect working, award 0 marks. Send the response to 
+review for your Team Leader to check.  
+
+Follow through marks 
+Follow  through  marks  which  involve  a  single  stage  calculation  can  be  awarded  without  working  as  you  can  check  the  answer,  but  if 
+ambiguous do not award. 
+Follow through marks which involve more than one stage of calculation can only be awarded on sight of the relevant working, even if it 
+appears obvious that there is only one way you could get the answer given. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Ignoring subsequent work 
+It is appropriate to ignore subsequent work when the additional work does not change the answer in a way that is inappropriate for the 
+question or its context. (eg an incorrectly cancelled fraction when the unsimplified fraction would gain full marks). 
+It is not appropriate to ignore subsequent work when the additional work essentially makes the answer incorrect (eg. incorrect algebraic 
+simplification). 
+
+Probability 
+Probability answers must be given as a fraction, percentage or decimal.  If a candidate gives a decimal equivalent to a probability, this 
+should be written to at least 2 decimal places (unless tenths).   
+Incorrect notation should lose the accuracy marks, but be awarded any implied method marks. 
+If a probability fraction is given then cancelled incorrectly, ignore the incorrectly cancelled answer. 
+
+Linear equations 
+Unless indicated otherwise in the mark scheme, full marks can be gained if the solution alone is given on the answer line, or otherwise 
+unambiguously identified in working (without contradiction elsewhere).  Where the correct solution only is shown substituted, but not 
+identified as the solution, the accuracy mark is lost but any method marks can be awarded (embedded answers). 
+
+Range of answers 
+Unless otherwise stated, when an answer is given as a range (eg 3.5 – 4.2) then this is inclusive of the end points (eg 3.5, 4.2) and all 
+numbers within the range 
+
+Number in brackets after a calculation 
+Where there is a number in brackets after a calculation eg 2 × 6 (=12) then the mark can be awarded either for the correct method, 
+implied by the calculation or for the correct answer to the calculation. 
+
+Use of inverted commas  
+Some numbers in the mark scheme will appear inside inverted commas eg “12” × 50 ; the number in inverted commas cannot be any 
+number – it must come from a correct method or process but the candidate may make an arithmetic error in their working.  
+
+13      Word in square brackets 
+
+Where a word is used in square brackets eg [area] × 1.5 : the value used for [area] does not have to come from a correct method or 
+process but is the value that the candidate believes is the area. If there are any constraints on the value that can be used, details will 
+be given in the mark scheme. 
+
+14  Misread 
+
+If a candidate misreads a number from the question. eg uses 252 instead of 255; method or process marks may be awarded provided 
+the question has not been simplified. Examiners should send any instance of a suspected misread to review. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Guidance on the use of abbreviations within this mark scheme 
+
+M  
+
+method mark awarded for a correct method or partial method 
+
+P 
+
+A 
+
+process mark awarded for a correct process as part of a problem solving question 
+
+accuracy mark (awarded after a correct method or process; if no method or process 
+is seen then full marks for the question are implied but see individual mark schemes 
+for more details) 
+
+communication mark awarded for a fully correct statement(s)  
+
+C 
+          with no contradiction or ambiguity  
+
+B 
+
+unconditional accuracy mark (no method needed) 
+
+oe  
+
+or equivalent 
+
+cao 
+
+correct answer only 
+
+ft 
+
+follow through (when appropriate as per mark scheme) 
+
+sc 
+
+special case 
+
+dep  dependent (on a previous mark) 
+
+indep  independent 
+
+awrt  answer which rounds to 
+
+isw 
+
+ignore subsequent working 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+1 
+
+2 
+
+Answer 
+x < 5 
+
+Mark 
+M1 
+
+Mark scheme 
+for adding 27 to both sides or dividing throughout by 7 (in an inequality 
+or an equation) as a first step 
+
+Additional guidance  
+
+or showing 5 as the critical value 
+
+Can be written as x = 5 
+
+A1 
+
+cao 
+
+2 × 2 × 31 
+
+M1 
+
+for a complete method to find prime factors; could be shown on a 
+complete factor tree with no more than one error or by division by prime 
+factors with no more than one error 
+
+Condone the inclusion of 1 for this mark 
+
+or for 2, 2, 31, (1) 
+
+A1 
+
+for 2 × 2 × 31 oe 
+
+Accept 22 × 31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+3 
+
+Answer 
+30 
+
+Mark 
+P1 
+
+for 160 ÷ (3+7) (= 16)  or  
+
+Mark scheme 
+3
+3
+10
+3 7+
+
+(= 
+
+) 
+
+P1 
+
+P1 
+
+for “16” × 3 (= 48) or “
+
+3
+10
+
+” × 160 (= 48) 
+
+for a correct step using 48  
+eg “48” ÷ 8 (= 6) or “48” × 25 ÷ 100 (= 12) 
+
+or (indep) for combining 
+
+1
+8
+
+ and 25%,  
+
+eg 
+
+1
+8
+
+ + 
+
+1
+4
+
+ (=
+
+3
+8
+
+) or “0.125” + “0.25” (= 0.375)  
+
+or “12.5”(%) + 25(%) (= 37.5(%)) 
+
+P1 
+
+for a complete process to find the number of petrol cars, 
+
+eg “48” – “6” – “12” oe or (1  ̶  “
+
+or “
+
+3
+10
+
+” × (1  ̶  “
+
+3
+8
+
+”) × 160 oe 
+
+3
+8
+
+”) × “48” oe  
+
+A1 
+
+cao 
+
+SC B2 for an answer of 100 if P0 scored 
+
+4 
+
+(a) 
+
+0.00163 
+
+B1 
+
+cao 
+
+(b) 
+
+(c) 
+
+4.38 × 105 
+
+B1 
+
+cao 
+
+1
+2.4 10−
+
+M1 
+
+for 
+
+3 5
+4 6 10 −
+ 
+
+ or 0.24 oe eg 24 × 
+
+ or  2.4 10n
+
+ where n ≠  ̶ 1 
+
+A1 
+
+cao 
+
+−2
+
+10
+
+Additional guidance  
+
+Award no marks for a correct answer with no 
+supportive working 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+5 
+
+Answer 
+132  
+
+Mark 
+M1 
+
+for finding an exterior angle eg 360 ÷ 6 (= 60) or 360 ÷ 5 (= 72)  
+or an interior angle eg 180 × 4 ÷ 6 (= 120) or 180 × 3 ÷ 5 (= 108) 
+
+Mark scheme 
+
+Additional guidance  
+
+Angles may be shown on the diagram. 
+Only award this mark for an angle that is not 
+contradicted 
+
+M1 
+
+for a complete method  
+eg 360  ̶  “120”  ̶  “108” or “60” + ”72”  
+
+A1 
+
+cao 
+
+Answer only award no marks 
+
+6 
+
+(a) 
+
+5,(1),(-1),-1,1,5 
+
+B2 
+
+for all 4 values correct   
+
+  (B1 
+
+for 2 or 3 correct values) 
+
+(b) 
+
+Graph drawn 
+
+B2 
+
+for a fully correct graph 
+
+(c) 
+
+0.3 to 0.5  
+and  
+2.5 to 2.7 
+
+7 
+
+3 : 2 
+
+   (B1 
+
+ft (dep on B1 in (a)) for plotting at least 5 of the points from their table 
+correctly) 
+
+M1 
+
+A1 
+
+P1 
+
+P1 
+
+for a correct method, eg marking intercepts with x-axis  
+or one correct solution  
+or both solutions given as a coordinates,  
+eg (0.4, 2.6) or (0.4, 0) and (2.6, 0) 
+
+for answers in the range 0.3 to 0.5 and 2.5 to 2.7 or ft their graph with at 
+least 2 solutions 
+
+for a process to find either volume eg 33 (= 27) or 43 (= 64) 
+
+for showing density A = 81 ÷ “27” (= 3)  
+                or density B = 128 ÷ “64” (= 2) 
+
+Accept a freehand curve drawn that is not 
+made of line segments 
+Ignore anything drawn outside the required 
+range 
+
+ft their graph for this mark 
+
+Accept these coordinates reversed 
+
+A1 
+
+for 3 : 2 oe 
+
+Ignore units quoted 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+8 
+
+Answer 
+19 
+
+Mark 
+M1 
+
+for a method to find 5 products within intervals (including end points) 
+
+Mark scheme 
+
+M1 
+
+for Ʃ“fx” ÷ (8 + 10 + 7 + 2 + 3) 
+or (5×8 + 15×10 + 25×7 + 35×2 + 45×3) 
+or (“40” + “150” + “175” + “70” + “135”) ÷ “30” 
+or “570” ÷ “30” 
+
+÷
+
+ (8 + 10 + 7 + 2 + 3) 
+
+Additional guidance  
+Max fx 
+80 
+200 
+210 
+80 
+150 
+
+Min fx 
+0 
+100 
+140 
+60 
+120 
+
+Ʃ“fx” must come from 5 products fx within 
+intervals (including end points) 
+
+9 
+
+278 
+
+P1 
+
+for working out at least 3 areas from  
+
+A1  
+
+cao 
+
+5 × 7 (= 35) 
+5 × 6 (= 30) 
+7 × 6 (= 42) 
+4 × 4 (= 16) 
+
+P1  
+
+for a complete process, 
+eg “35”× 2 + “30”× 2 + “42” + (“42” – “16”) + “16” × 5 oe 
+or “35”× 2 + “30”× 2 + “42” × 2  + “16” × 4 
+
+Total surface area of cuboid = 214 
+Total surface area of cube = 96 
+
+OR 
+
+for a process to find the total surface area of at least 5 faces for each 
+solid, 
+eg “35”× 2 + “30”× 2 + “42” and “16”× 6  
+or “35”× 2 + “30”× 2 + “42”× 2  and “16”× 5 
+
+A1 
+
+cao 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+(a) 
+
+10 
+
+Answer 
+10, 25, 50, 80, 
+85,100 
+Graph drawn 
+
+(b) 
+
+(c) 
+
+(d) 
+
+Mark 
+B1 
+
+cao 
+
+Mark scheme 
+
+Additional guidance  
+
+M1 
+
+for 5 or 6 of their points plotted correctly from a cf table with no more 
+than one error 
+
+If histograms drawn, plots must be identified.   
+
+A1 
+
+for a fully correct graph 
+
+SC B1 for 5 or 6 cf values plotted at correct heights not at end but 
+consistently within each interval and joined provided no gradient is 
+negative 
+
+Accept a smooth curve or line segments. 
+Ignore to the left of the first point and right of 
+the last point.   
+
+35 to 39 
+
+B1 
+
+for answer in the range 35 to 39 or ft their graph (if possible) 
+
+85 to 93 
+
+M1 
+
+for finding the difference between readings taken from the profit axis at 
+points from a cf of 25 and a cf of 75 ft their graph (if possible) 
+
+A1 
+
+for answer in the range 85 to 93 or ft their graph (if possible) 
+
+If answer is in the range award the marks 
+unless from obvious incorrect working 
+
+11 
+
+8 
+
+P1 
+
+for a start to the process, 
+
+eg 
+
+9
+x++ 49
+
+  or  (
+
+3
+7
+
+ =) 
+
+9
+21
+
+or states that the total number of sweets is 21 
+
+P1 
+
+for forming a correct equation without fractions, 
+
+eg 9 × 7 = 3(9 + 4 + x)  or  21 = 9 + 4 + x   
+
+OR for 21 – 9 – 4 oe  or  1 – 
+
+9
+21
+
+– 
+
+4
+21
+
+ (=
+
+8
+21
+
+) 
+
+A1 
+
+cao 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+12 
+
+Answer 
+116
+990
+
+Mark 
+M1 
+
+Mark scheme 
+
+Additional guidance  
+
+for (x =) 0.11717... or (10x =) 1.17 or 1.1717... 
+or (100x =) 11.71 or 11.7171... or (1000x =) 117.17  or 117.1717...  
+
+M1 
+
+(dep M1) for a method using two recurring decimals that leads to a 
+terminating decimal difference, using correct multiples of x 
+
+eg (1000x – 10x =) 117.17 – 1.17  (= 116) 
+                            or 117.1717...  – 1.1717... (= 116) 
+
+Accept 
+(100x – x =) 11.71–  0.117  
+    or 11.7171... – 0.11717... (= 11.6) 
+
+A1 
+
+for 
+
+116
+990
+
+oe, eg 
+
+58
+495
+
+11.6
+99
+
+must be written in the form 
+
+a
+b
+
+ where a 
+
+and b are integers to gain the accuracy mark 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+13 
+
+Answer 
+Relationship 
+shown 
+
+Mark 
+M1 
+
+Mark scheme 
+
+for use of Pythagoras’ theorem, 
+eg dA
+
+2 = dB
+
+2+ dC
+
+2 or a2 = b2 + c2 or (2x)2 = (2y)2 + (2z)2 or a = 
+
+or uses a 3, 4, 5 triangle  
+
+Additional guidance  
+
+May be seen at any stage 
+Where dA, a, 2x, etc are their diameters 
+
+2
+
+b
+
+2
+
+c+
+
+Could be any Pythagorean triple 
+
+M1 
+
+for forming correct expressions for the areas of at least 2 of the 3 
+semicircles, 
+
+eg at least two of 
+
+or at least two of 
+
+or at least two of 
+
+1
+2
+1
+2
+1
+2
+
+2
+
+
+
+
+1
+2
+2
+
+
+
+
+
+
+a
+2
+
+, 
+
+1
+2
+
+2
+
+2
+
+
+
+
+
+, 
+
+1
+2
+
+
+
+
+
+
+c
+2
+
+
+
+
+
+2
+x , 
+
+2
+y , 
+
+2
+z  
+
+
+
+
+
+
+5
+2
+
+
+
+
+
+, 
+
+1
+2
+
+2
+
+, 
+
+2
+
+1
+2
+
+
+
+
+
+
+4
+2
+
+
+
+
+
+
+
+
+
+b
+
+
+
+2
+
+1
+2
+3
+2
+
+
+
+
+
+
+Where a, b, c are their diameters 
+
+Where 2x, 2y, 2z are their diameters  
+
+Where 3, 4, 5 are their diameters 
+
+C1 
+
+for a fully correct and convincing chain of reasoning, eg showing that  
+2
+
+2
+
+2
+
+eg 
+
+1
+2
+
+
+
+
+
+
+a
+2
+
+
+
+
+
+= 
+
+1
+2
+
+
+
+
+
+
+b
+2
+
+
+
+
+
++ 
+
+1
+2
+
+
+
+
+
+
+c
+2
+
+
+
+
+
+can be reduced to a2 = b2 + c2  
+
+14 
+
+(a) 
+
+M1 
+
+for drawing a tangent at t = 2 
+
+or that (2x)2 = (2y)2 + (2z)2 is the same as 
+
+2
+x  = 
+
+1
+2
+
+1
+2
+
+2
+y  + 
+
+2
+z  
+
+1
+2
+
+0.9
+
+M1 
+
+for a complete method to find the gradient  
+eg tangent at t = 2 and “2.7” ÷ “3” 
+
+Use of change in y over change in x 
+Working may be seen on the diagram 
+
+A1 
+
+for answer in the range 0.7 to 1.1 
+
+Accept answers in the form 
+
+are integers 
+
+a
+b
+
+ where a and b 
+
+(b) 
+
+Statement  
+
+C1 
+
+eg distance (travelled) 
+
+If units are given they must be correct 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+(a) 
+
+15 
+
+𝐴𝐶⃗⃗⃗⃗⃗ 
+
+Answer 
+ = 5
+reason 
+𝐴𝐵⃗⃗⃗⃗⃗ 
+
+ and 
+
+Mark 
+M1  
+
+C1 
+
+ = 5(3a + 4b)  or  
+
+for 
+or indicates that 15a + 20b = 5 × (3a + 4b)   
+
+𝐴𝐶⃗⃗⃗⃗⃗ 
+
+𝐵𝐶⃗⃗⃗⃗⃗ 
+
+Mark scheme 
+ = 4(3a + 4b) 
+
+𝐴𝐶⃗⃗⃗⃗⃗ 
+
+𝐴𝐵⃗⃗⃗⃗⃗ 
+
+  or 
+
+ = 5(3a + 4b) or 15a + 20b = 5(3a + 4b) and a 
+
+for 
+ = 5
+correct reason,  
+eg AC is a multiple of AB / multiples of each other / AB is a factor of AC 
+or they have the same gradient / are parallel / go in the same direction 
+or they have a point in common / both start at A 
+or AC is an enlargement of AB  
+
+𝐴𝐶⃗⃗⃗⃗⃗ 
+
+Additional guidance  
+
+Do not award this mark if any incorrect 
+working seen 
+Could use AB and BC  or  AC and BC 
+
+(b) 
+
+5 : 2 
+
+P1 
+
+for ( 
+
+ =) 3e + 6f + (  ̶ 10.5e  ̶  21f )   (=  ̶  7.5e  ̶  15f) 
+
+𝐷𝐹⃗⃗⃗⃗⃗ 
+
+or for a multiplicative relationship for 
+ eg 
+
+ =  ̶  3.5 
+
+  or for (DE : EF =) 1 : –3.5 oe 
+𝐸𝐹⃗⃗⃗⃗⃗ 
+
+ and 
+
+𝐷𝐸⃗⃗⃗⃗⃗ 
+ and 
+
+P1 
+
+𝐸𝐹⃗⃗⃗⃗⃗ 
+
+𝐷𝐸⃗⃗⃗⃗⃗ 
+for a multiplicative relationship for 
+eg 
+
+ ̶  2.5
+
+  or for (DF : DE =)  –5 : 2 oe eg –2.5 : 1 or  –7.5 : 3 
+𝐷𝐸⃗⃗⃗⃗⃗ 
+
+𝐷𝐹⃗⃗⃗⃗⃗ 
+
+or for answer of 2 : 5 oe 
+
+𝐷𝐹⃗⃗⃗⃗⃗  = 
+
+ 𝐷𝐸⃗⃗⃗⃗⃗ 
+
+A1 
+
+oe eg 2.5 : 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+16 
+
+Answer 
+0.78 
+
+Mark 
+P1  
+
+Mark scheme 
+for using 0.75 or 0.25 in a relevant product,  
+eg 0.75 × x or 0.25 × y 
+
+Additional guidance  
+
+Allow different letters   
+Could work with fractions 
+
+P1  
+
+P1  
+
+for using two products to form an equation, 
+eg 0.75x + 0.25y = 0.36 
+
+for a correct equation in one variable,  
+eg 0.75(1 – p) + 0.25p = 0.36  or  0.75f + 0.25(1 – f) = 0.36  
+
+Could set up an equation for 
+pass × pass + fail × fail = 0.64 
+
+A1 
+
+oe 
+
+Accept 78% or any equivalent fraction,  
+
+17 
+
+y =
+
+40
+
+3
+
+x
+
+P1 
+
+for setting up an equation with a constant term, eg y
+
+=
+
+k t
+
+ or 
+
+t
+
+=
+
+eg 
+
+39
+50
+
+,
+
+156
+200
+
+K
+3
+x
+
+Condone the use of ‘’ instead of ‘=’ for the 
+first two P marks 
+Equation can be implied by correct 
+substitution 
+
+P1 
+
+for a process to substitute values in one equation, 
+
+ eg 15 =
+
+9k
+
+K
+ or k = 5 or 8 = 32
+
+ or K = 64 
+
+P1 
+
+(dep P2) for combining the two equations ft their values of  k and K, 
+
+eg 
+
+y =
+
+5
+
+64
+3
+x
+
+OR for 
+
+5y
+=
+
+t
+
+ and 
+
+t
+
+=
+
+64
+3
+x
+
+A1 
+
+oe  
+
+Formula must include 40 
+Accept other forms for the power of x but 
+must be a single term in x 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+18 
+
+Answer 
+16 
+
+Mark 
+
+M1 
+
+Mark scheme 
+
+Additional guidance  
+
+−
+
+1
+2
+
+5
+
+
+
+
+
+4
+9
+
+
+
+
+
+for working with square root or with reciprocal in 
+
+eg  
+
+1
+2
+
+
+
+
+
+9
+49
+
+
+
+
+
+ or  
+
+  or  
+
+1
+2
+
+1
+
+7 −
+
+
+3
+
+
+
+
+
+
+or  
+
+3
+7
+
+1
+49
+9
+
+1
+
+  or  
+
+
+
+
+
+49
+9
+
+
+
+
+
+M1 
+
+for a full method to simplify the numerator eg 
+
+3
+7
+
+
+
+14
+3
+
+(= 2) 
+
+M1 
+
+for showing 
+
+32−
+
+as × 8,  eg 
+
+3
+7
+
+
+
+14
+3
+
+
+
+8
+
+or for 
+
+1
+2
+
+3
+2−
+
+(= 24) 
+
+or for correctly reducing the expression to a single calculation, 
+
+eg 
+
+336
+21
+
+ or  
+
+112
+7
+
+ or  2 ÷ 
+
+1
+8
+
+May be seen at any time during the 
+calculation 
+
+A1 
+
+cao 
+
+Award 0 marks for a correct answer with no 
+supportive working 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+19 
+
+Answer 
+5 
+15
+
+2
+
+Mark 
+M1 
+
+Mark scheme 
+
+Additional guidance  
+
+for using a common denominator  
+
+eg  
+
+x
+1
+−
+x
+1)(
+−
+
+(2
+
+x
+
+−
+
+1)
+
++
+
+3(2
+x
+−
+
+x
+1)
+−
+x
+1)(
+−
+
+1)
+
+(2
+
+ (= 1) 
+
+or (x – 1) + 3(2x – 1) = (2x – 1)(x – 1) 
+
+M1 
+
+for expanding and rearranging to get 2x2 – 10x + 5 (= 0) 
+
+M1 
+
+(dep M1) ft for a method to solve their 3 term quadratic equation 
+
+Note we don’t need to see “= 0”; just the LHS 
+is sufficient 
+Accept other forms of the 3 term quadratic,  
+eg 2x2 – 10x = – 5 
+
+Correct use of formula or completing the 
+square 
+
+10
+
+
+
+eg 
+
+2
+
+( 10)
+−
+2 2
+
+2
+
+−  
+
+4 2 5
+
+10
+
+ or  
+
+60
+
+
+4
+
+x
+
+−
+
+5
+2
+
+
+
+
+
+−
+
+
+
+
+
+2
+
+5
+2
+
+
+
+
+
+
+
+
+
+
++ =
+
+5 0
+
+ oe 
+
+or 
+
+2
+
+
+
+
+
+
+
+
+
+
+A1 
+
+cao 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+20 
+
+Answer 
+7x + 5y – 82 = 0 
+
+Mark 
+P1 
+
+Mark scheme 
+
+Additional guidance  
+
+for process to work out the gradient of the line from the centre of the 
+
+circle to the point (6,8)  eg 
+
+38
+−
+1
+6
+−−
+
+ (= 
+
+5
+7
+
+) 
+
+P1 
+
+(dep P1) for using mn =  ̶ 1  
+
+eg   ̶ 1 ÷ “
+
+5
+7
+
+” (= 
+
+−
+
+7
+5
+
+) 
+
+P1 
+
+for substituting (6, 8) into y = “
+
+−
+
+7
+5
+
+” x + c   
+
+or for  ( y – 8) = “
+
+−
+
+or for  y = 
+
+−
+
+7
+5
+
+x + 
+
+7
+5
+82
+5
+
+”(x – 6)   
+
+ oe 
+
+A1 
+
+7x + 5y – 82 = 0 oe  
+
+SC B2 for answer of 5x + 7y – 86 = 0 oe in any form 
+
+Must be in form ax + by + c = 0 with integer 
+coefficients, eg 82 – 7x – 5y = 0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper: 1MA1/1H 
+Question 
+
+21 
+
+Answer 
+16
+
+3
+
+−
+
+3
+
+16
+
+Mark 
+P1  
+
+for identifying an angle of 60 or 120 
+
+Mark scheme 
+
+Additional guidance  
+
+P1 
+
+for process to find the area of a sector of angle 60 or 120  
+
+eg 
+
+24 ×
+
+60
+360
+
+(= 
+
+8
+
+3
+
+) or 
+
+24 ×
+
+120
+360
+
+(= 
+
+16
+
+3
+
+) 
+
+P1 
+
+for process to find the area of an equilateral triangle  
+
+eg 
+
+1
+2
+
+× 4 × 4 × sin 60 (=  4 3 )  or  
+
+4
+
+
+
+2
+
+−
+
+2
+
+2
+
+4
+2
+
+ (=  2 12 or 4 3 )  
+
+or the area of an isosceles triangle or area of a right-angled triangle 
+
+eg 
+
+1
+2
+
+× 4 × 4 × sin 120 (=  4 3 )  or  
+
+2
+
+
+
+2
+
+−
+
+2
+
+2
+
+4
+2
+
+ (=  12 or 2 3 ) 
+
+P1 
+
+for using area of sector – area of triangle to find area of a segment 
+
+eg 
+
+24 ×
+
+or 
+
+24 ×
+
+60
+360
+120
+360
+
+1
+2
+1
+2
+
+–
+
+× 4 × 4 × sin 60  (= 
+
+– 4 3 ) 
+
+ – 
+
+× 4 × 4 × sin 120 (= 
+
+– 4 3 ) 
+
+8
+
+3
+16
+
+3
+
+A1 
+
+for 
+
+16
+
+
+
+−
+
+(4
+
+16
+
+6
+
+−
+
+34
+
++
+
+16
+
+)
+6
+
+ or 
+
+16
+
+3
+
+−
+
+16
+
+3
+
+oe 
+
+Does not need to be in simplest form 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+area of segment = area of sector centre A – area of equilateral triangle  
+Total shaded area   =   area of circle – 4 × area of sector – 4 × area of segment 
+
+                   or  area of circle – 4 × area of triangle – 8 × area of segment 
+
+area of segment = area of sector centre A – area of isosceles triangle 
+Total shaded area   =   area of circle – 4 × area of segment 
+
+area of segment = area of sector centre B – area of equilateral triangle 
+Total shaded area   =   2 × (area of sector – 2 × area of segment)  
+
+                   or  2 × (area of triangle – area of segment) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modifications to the mark scheme for Modified Large Print (MLP) papers: 1MA1 1H 
+
+Only mark scheme amendments are shown where the enlargement or modification of the paper requires a change in the mark scheme.   
+Notes apply to both MLP papers and Braille papers unless otherwise stated. 
+
+The following tolerances should be accepted on marking MLP papers, unless otherwise stated below: 
+Angles: ±5º 
+Measurements of length: ±5 mm 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PAPER: 1MA1_1H 
+
+Question 
+5 
+
+Modification 
+
+Mark scheme notes 
+Standard mark scheme 
+
+  Wording added ‘Look at the diagram for Question 5 in the Diagram Booklet. It shows a regular 
+
+hexagon and a regular pentagon which share a common side.’.  
+Diagram enlarged. The angle moved outside of the angle arc and the angle arc made smaller. 
+For Braille the diagram has hexagon ABCDEF and pentagon GHICB with x outside the angle arc.  
+Wording now “The diagram is a regular hexagon, ABCDEF, and a regular pentagon, GHICB, 
+joined at the common side, BC.”   “In the diagram, angle DCI is marked x.” 
+
+6 
+
+6 
+
+7 
+
+(a)  Wording added ‘Complete the table below…’.  The table turned vertical.  
+
+Standard mark scheme 
+
+Wording added ‘There are four spaces to fill.’ 
+For Braille Add (i), (ii), (iii) & (iv) in the blank spaces and “Ans: (i) __ (ii) __ (iii) __ (iv) __” 
+
+(b)  Wording added ‘Look at the diagram for Question 6(b) in the Diagram Booklet. It shows a grid.’  
+
+Standard mark scheme 
+
+Diagram enlarged. Open headed arrows. Small squares removed.  
+The axes labels moved to the top of the vertical axis and to the right of the horizontal axis. 
+
+  Wording added ‘Look at the diagram for Question 7 in the Diagram Booklet. It shows cube A and 
+
+Standard mark scheme 
+
+cube B.’  
+Wording added ‘Cube A has sides of length 3 cm’; ‘Cube B has sides of length 4 cm.’  
+Diagram enlarged. The diagrams relabelled as ‘cube A’ and ‘cube B’. 
+Braille: have a model with the words “The models represent two cubes, A and B.” 
+
+8 
+
+  Wording added ‘Look at the table for Question 8 in the Diagram Booklet. It shows…’.  
+
+Standard mark scheme 
+
+The frequency column widened. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAPER: 1MA1_1H 
+
+Question 
+9 
+
+Modification 
+
+Mark scheme notes 
+Standard mark scheme 
+
+  Wording added ‘Look at the diagram for Question 9 in the Diagram Booklet. You may be provided 
+
+with a model.’  
+Wording added ‘A cube is placed on top of a cuboid, to form a solid, as shown by the diagram and 
+the model.’  
+Diagram enlarged.  
+The dashed lines made longer and thicker. 
+
+10 
+
+(a)  Wording added ‘Look at the table for Question 10 in the Diagram Booklet. It shows…’.  
+
+B1 for 10, 25, 55, 70, 80, 100 
+
+The values changed so that the answers can be read on a grid line.  
+25 changed to 30.  30 changed to 15.  5 changed to 10.  15 changed to 20. 
+Wording added ‘Complete the cumulative frequency table below.’ ‘There are six spaces to fill.’ 
+
+10 
+
+(b) 
+(c) 
+(d) 
+
+Wording added ‘Look at the diagram for Question 10(b) in the Diagram Booklet. It shows a 
+grid.  
+Diagram enlarged. Small squares removed. Open headed arrows. Right axis labelled.  
+The axes labels moved to the top of the vertical axis and to the left of the horizontal axis.  
+Intermediates added at intervals of 5 on the y axis.  The grid cut at 300 on the x axis. 
+
+(b) Standard mark scheme 
+(c) B1 for answer of 40 or ft their 
+graph (if possible) 
+(d) M1 for finding the difference 
+between readings taken from the profit 
+axis at points from a cf of 25 and a cf 
+of 75 ft their graph (if possible) 
+A1 for answer in the range 120 to 130 
+or ft their graph (if possible) 
+
+11 
+
+  Wording added ‘Look at the information for Question 11 in the Diagram Booklet. 
+
+Standard mark scheme  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAPER: 1MA1_1H 
+
+Question 
+13 
+
+Modification 
+
+Mark scheme notes 
+Standard mark scheme 
+
+  Wording added ‘Look at the diagram for Question 13 in the Diagram Booklet.’  
+
+Wording added ‘three semicircular shaded’.  
+Diagram enlarged. The right angle made more obvious. Shading changed.  
+The regions labelled as ‘region A’, ‘region B’ and ‘region C’. 
+
+14 
+
+  Wording added ‘Look at the diagram for Question 14 in the Diagram Booklet. It shows…’.  
+Diagram enlarged. Small squares removed. Open headed arrows. Right axis labelled. 
+The axes labels moved to the top of the vertical axis and to the left of the horizontal axis.  
+
+Standard mark scheme with leeway in 
+part (a) 
+
+21 
+
+  Wording added ‘Look at the diagram for Question 21 in the Diagram Booklet. It shows…’.  
+
+Standard mark scheme 
+
+Diagram enlarged. Shading changed. Labels A, B and C moved to the left. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pearson Education Limited. Registered company number 872828  
+with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

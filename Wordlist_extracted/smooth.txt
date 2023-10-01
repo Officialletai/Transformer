@@ -1,0 +1,27 @@
+adj	Having a texture that lacks friction. Not rough. 
+adj	Without difficulty, problems, or unexpected consequences or incidents. 
+adj	Bland; glib. 
+adj	Flowing or uttered without check, obstruction, or hesitation; not harsh; fluent. 
+adj	Suave; sophisticated. 
+adj	(of an action) Natural; unconstrained. 
+adj	(of a motion) Unbroken. 
+adj	(chiefly of water) Placid, calm. 
+adj	(of an edge) Lacking projections or indentations; not serrated. 
+adj	(of food or drink) Not grainy; having an even texture. 
+adj	(of a beverage) Having a pleasantly rounded flavor; neither rough nor astringent. 
+adj	(mathematics, of a function) Having derivatives of all finite orders at all points within the function’s domain. 
+adj	(mathematics, of a number) That factors completely into small prime numbers. 
+adj	(linguistics, classical studies, of a vowel) Lacking marked aspiration. 
+adj	(of muscles, medicine) Involuntary and non-striated. 
+adv	Smoothly. 
+n	Something that is smooth, or that goes smoothly and easily. 
+n	A smoothing action. 
+n	A domestic animal having a smooth coat. 
+n	A member of an anti-hippie fashion movement in 1970s Britain. 
+n	(statistics) The analysis obtained through a smoothing procedure. 
+v	(transitive) To make smooth or even. 
+v	(transitive) To reduce to a particular shape or form by pressure; to press, to flatten. 
+v	(transitive) To make straightforward or easy. 
+v	(transitive) To calm or palliate. 
+v	(statistics, image processing, digital audio) To capture important patterns in the data, while leaving out noise. 
+v	(West Country) To stroke; especially to stroke an animal's fur. 

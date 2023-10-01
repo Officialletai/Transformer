@@ -1,0 +1,14 @@
+adj	Belonging to the school or philosophy of Plato 
+adj	Belonging to an academy or other higher institution of learning, or a scholarly society or organization. 
+adj	In particular: relating to literary, classical, or artistic studies like the humanities, rather than to technical or vocational studies like engineering or welding. 
+adj	Having little practical use or value, as by being overly detailed and unengaging, or by being theoretical and speculative with no practical importance. 
+adj	Having a love of or aptitude for learning. 
+adj	(art) Conforming to set rules and traditions; conventional; formalistic. 
+adj	Subscribing to the architectural standards of Vitruvius. 
+adj	So scholarly as to be unaware of the outside world; lacking in worldliness; inexperienced in practical matters. 
+n	(usually capitalized) A follower of Plato, a Platonist. 
+n	A senior member of an academy, college, or university; a person who attends an academy; a person engaged in scholarly pursuits; one who is academic in practice. 
+n	A member of the Academy; an academician. 
+n	(archaic) A student in a college. 
+n	(plural only) Academic dress; academicals. 
+n	(plural only) Academic studies. 

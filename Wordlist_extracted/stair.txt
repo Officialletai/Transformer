@@ -1,0 +1,3 @@
+n	A single step in a staircase. 
+n	A series of steps; a staircase. 
+n	A surname. 

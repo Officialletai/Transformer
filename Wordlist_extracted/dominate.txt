@@ -1,0 +1,7 @@
+v	To govern, rule or control by superior authority or power 
+v	To exert an overwhelming guiding influence over something or someone 
+v	To enjoy a commanding position in some field 
+v	To overlook from a height. 
+v	(computing, graph theory, linguistics) To precede another node of a directed graph in all paths from the start of the graph to the other node. 
+adj	Dominant. 
+n	(historical) The late period of the Roman Empire, following the principate, during which the emperor's rule became more explicitly autocratic and remaining vestiges of the Roman Republic were removed from the formal workings of government; the reign of any particular emperor during this period. 

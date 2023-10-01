@@ -1,0 +1,2 @@
+n	the power or ability to generate an outcome 
+n	(computing) A digital token allowing a user or process to interact in a specified way with an object that is subject to access control. 

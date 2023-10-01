@@ -1,0 +1,4 @@
+v	(intransitive) Not to have the same traits or characteristics; to be unalike or distinct. 
+v	(intransitive, people, groups, etc.) To have diverging opinions, disagree. 
+v	(intransitive) To be separated in quantity. 
+n	(computing) A program that diffs, a diff. 

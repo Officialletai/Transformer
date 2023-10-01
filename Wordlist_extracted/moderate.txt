@@ -1,0 +1,13 @@
+adj	Not excessive; acting in moderation 
+adj	(pathology) more than mild, less than severe 
+adj	Mediocre 
+adj	Average priced; standard-deal 
+adj	Not violent or rigorous; temperate; mild; gentle. 
+adj	(US, politics) Having an intermediate position between liberal and conservative. 
+n	One who holds an intermediate position between extremes, as in politics. 
+n	(Christianity, historical) One of a party in Scottish Church history dominant in the 18th century, lax in doctrine and discipline, but intolerant of evangelicalism and popular rights. It caused the secessions of 1733 and 1761, and its final resultant was the Disruption of 1843. 
+v	(transitive) To reduce the excessiveness of (something) 
+v	(intransitive) To become less excessive 
+v	(transitive) To preside over (something) as a moderator 
+v	(intransitive) To act as a moderator; to assist in bringing to compromise 
+v	(transitive, physics) To supply with a moderator (substance that decreases the speed of neutrons in a nuclear reactor and hence increases likelihood of fission). 

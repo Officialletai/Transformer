@@ -1,0 +1,12 @@
+adj	Owed or owing. 
+adj	Appropriate. 
+adj	Scheduled; expected. 
+adj	Having reached the expected, scheduled, or natural time. 
+adj	Owing; ascribable, as to a cause. 
+adj	On a direct bearing, especially for the four points of the compass 
+adv	(used with compass directions) Directly; exactly. 
+n	Deserved acknowledgment. 
+n	(in plural dues) A membership fee. 
+n	That which is owed; debt; that which belongs or may be claimed as a right; whatever custom, law, or morality requires to be done, duty. 
+n	Right; just title or claim. 
+n	A surname. 

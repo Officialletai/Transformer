@@ -1,0 +1,9 @@
+n	A number of things that follow on one after the other or are connected one after the other. 
+n	(broadcasting) A television or radio program which consists of several episodes that are broadcast in regular intervals 
+n	(mathematics) The sequence of partial sums ∑ᵢ₌₁ⁿa_i of a given sequence aᵢ. 
+n	(cricket, baseball) A group of matches between two sides, with the aim being to win more matches than the opposition. 
+n	(zoology) An unranked taxon. 
+n	(botany) A subdivision of a genus, a taxonomic rank below that of section (and subsection) but above that of species. 
+n	(commerce) A parcel of rough diamonds of assorted qualities. 
+n	(phonology) A set of consonants that share a particular phonetic or phonological feature. 
+adj	(electronics) Connected one after the other in a circuit, in series. 

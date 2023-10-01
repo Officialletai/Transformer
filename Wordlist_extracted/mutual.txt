@@ -1,0 +1,8 @@
+adj	Having the same relationship, each to each other. 
+adj	Collective, done or held in common. 
+adj	Reciprocal. 
+adj	Possessed in common. 
+adj	(Relating to a company, insurance or financial institution) Owned by the members. 
+n	A mutual fund. 
+n	(business, finance, insurance) A mutual organization. 
+n	(Internet) Either of a pair of people who follow each other's social media accounts. 

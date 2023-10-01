@@ -1,0 +1,15 @@
+n	A unit of time equal to sixty seconds (one-sixtieth of an hour). 
+n	(informal) A short but unspecified time period. 
+n	A unit of angle equal to one-sixtieth of a degree. 
+n	(chiefly in the plural, minutes) A (usually formal) written record of a meeting or a part of a meeting. 
+n	A unit of purchase on a telephone or other similar network, especially a cell phone network, roughly equivalent in gross form to sixty seconds' use of the network. 
+n	A point in time; a moment. 
+n	A nautical or a geographic mile. 
+n	An old coin, a half farthing. 
+n	(obsolete) A very small part of anything, or anything very small; a jot; a whit. 
+n	(architecture) A fixed part of a module. 
+n	(slang, US, Canada, dialectal) A while or a long unspecified period of time 
+v	(transitive) Of an event, to write in a memo or the minutes of a meeting. 
+v	To set down a short sketch or note of; to jot down; to make a minute or a brief summary of. 
+adj	Very small. 
+adj	Very careful and exact, giving small details. 

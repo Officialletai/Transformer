@@ -1,0 +1,6 @@
+adj	Signifying something; carrying meaning. 
+adj	Having a covert or hidden meaning. 
+adj	Having a noticeable or major effect. 
+adj	Reasonably large in number or amount. 
+adj	(statistics) Having a low probability of occurring by chance (for example, having high correlation and thus likely to be related). 
+n	That which has significance; a sign; a token; a symbol. 

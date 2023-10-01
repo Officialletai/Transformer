@@ -1,0 +1,4 @@
+adj	exact, accurate 
+adj	(sciences, of experimental results) consistent, clustered close together, agreeing with each other (this does not mean that they cluster near the true, correct, or accurate value) 
+adj	adhering too much to rules; prim or punctilious 
+v	(nonstandard, non-native speakers' English or European Union documents, transitive) To make or render precise; to specify. 

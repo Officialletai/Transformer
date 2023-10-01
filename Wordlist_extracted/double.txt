@@ -1,0 +1,61 @@
+adj	Made up of two matching or complementary elements. 
+adj	Of twice the quantity. 
+adj	Of a family relationship, related on both the maternal and paternal sides of a family. 
+adj	Designed for two users. 
+adj	Folded in two; composed of two layers. 
+adj	Stooping; bent over. 
+adj	Having two aspects; ambiguous. 
+adj	False, deceitful, or hypocritical. 
+adj	Of flowers, having more than the normal number of petals. 
+adj	(music) Of an instrument, sounding an octave lower. 
+adj	(music) Of time, twice as fast. 
+adv	Twice over; twofold; doubly. 
+adv	Two together; two at a time. (especially in see double) 
+n	Twice the number, amount, size, etc. 
+n	A person who resembles and stands in for another person, often for safety purposes 
+n	A drink with two portions of alcohol. 
+n	A ghostly apparition of a living person; a doppelgänger. 
+n	A sharp turn, especially a return on one's own tracks. 
+n	A redundant item for which an identical item already exists. 
+n	(baseball) A two-base hit. 
+n	(bridge) A call that increases certain scoring points if the last preceding bid becomes the contract. 
+n	(billiards) A strike in which the object ball is struck so as to make it rebound against the cushion to an opposite pocket. 
+n	A bet on two horses in different races in which any winnings from the first race are placed on the horse in the later race. 
+n	(darts) The narrow outermost ring on a dartboard. 
+n	(darts) A hit on this ring. 
+n	(dominoes) A tile that has the same value (i.e., the same number of pips) on both sides. 
+n	(computing, programming) A double-precision floating-point number. 
+n	(soccer) Two competitions, usually one league and one cup, won by the same team in a single season. 
+n	(rowing) A boat for two scullers. 
+n	(sports) The feat of scoring twice in one game. 
+n	(sports, chiefly swimming and track) The feat of winning two events in a single meet or competition. 
+n	(historical) A former French coin worth one-sixth of a sou. 
+n	(historical, Guernsey) A copper coin worth one-eighth of a penny. 
+n	(music) Playing the same part on two instruments, alternately. 
+n	(Christianity) A double feast. 
+n	Synonym of double-quick (“fast marching pace”) 
+v	(transitive) To multiply by two. 
+v	(intransitive) To increase by 100%, to become twice as large in size. 
+v	To be the double of; to exceed by twofold; to contain or be worth twice as much as. 
+v	(transitive) To fold over so as to make two folds. 
+v	(transitive) (sometimes followed by up) To clench (a fist). 
+v	(baseball) To get a two-base hit. 
+v	(transitive) (often followed by together or up) To join or couple. 
+v	(transitive) To repeat exactly; copy. 
+v	(transitive with as) To serve a second role or have a second purpose. 
+v	(transitive, intransitive, sometimes with "for") To act as substitute for (another theatrical performer in a certain role, etc). 
+v	(theater) To play (both one part and another, in the same play, etc). 
+v	(intransitive) To turn sharply, following a winding course. 
+v	(nautical) To sail around (a headland or other point). 
+v	(music) To duplicate (a part) either in unison or at the octave above or below it. 
+v	(music, intransitive, usually followed by "on") To be capable of performing (upon an additional instrument). 
+v	(bridge) To make a call that will double certain scoring points if the preceding bid becomes the contract. 
+v	(card games, intransitive) To double down. 
+v	(billiards, snooker, pool) To cause (a ball) to rebound from a cushion before entering the pocket. 
+v	(intransitive) To go or march at twice the normal speed. 
+v	(transitive) To multiply the strength or effect of by two. 
+v	(military) To unite, as ranks or files, so as to form one from each two. 
+v	(radio, informal, of a station) To transmit simultaneously on the same channel as another station, either unintentionally or deliberately, causing interference. 
+v	(espionage, intransitive) To operate as a double agent. 
+n	A surname. 
+n	(US, motor racing) Collectively, both the Indianapolis 500, a day race, and the Coca-Cola 600, an evening race, both of which are run on Memorial Day weekend Sunday. Used concerning racers who (wish[/ed/ing] to) participat[e/ed/ing] in both events, typically using a private jet to travel between Indianapolis, Indiana, after the 500 and Charlotte, North Carolina, to get to the 600. 

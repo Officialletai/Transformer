@@ -1,0 +1,11 @@
+n	The process or act of selecting. 
+n	Something selected. 
+n	A variety of items taken from a larger collection. 
+n	A musical piece. 
+n	(databases) A set of data obtained from a database using a query. 
+n	(linguistics) The ability of predicates to determine the semantic content of their arguments. ᵂᵖ 
+n	(programming) A list of items on which user operations will take place. ᵂᵖ 
+n	(algebra) A unary operation that denotes a subset of a relation. 
+n	(historical) The free selection before survey of crown land in some Australian colonies under land legislation introduced in the 1860s. ᵂᵖ 
+n	(biology) The stage of a genetic algorithm in which individual genomes are chosen from a population for later breeding. ᵂᵖ 
+n	(biology) Ellipsis of natural selection. [(evolutionary theory) A process by which heritable traits conferring survival and reproductive advantage to individuals, or related individuals, tend to be passed on to succeeding generations and become more frequent in a population, whereas other less favourable traits tend to become eliminated; the differential survival and reproduction of phenotypes.] 

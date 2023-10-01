@@ -1,0 +1,7 @@
+n	The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence. 
+n	(linguistics) The text in which a word or passage appears and which helps ascertain its meaning. 
+n	(archaeology) The surroundings and environment in which an artifact is found and which may provide important clues about the artifact's function and/or cultural meaning. 
+n	(mycology) The trama or flesh of a mushroom. 
+n	(logic) For a formula: a finite set of variables, which set contains all the free variables in the given formula. 
+v	(obsolete) To knit or bind together; to unite closely. 
+adj	(obsolete) Knit or woven together; close; firm. 

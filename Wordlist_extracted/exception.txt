@@ -1,0 +1,5 @@
+n	The act of excepting or excluding; exclusion; restriction by taking out something which would otherwise be included, as in a class, statement, rule. 
+n	That which is excluded from others; a person, thing, or case, specified as distinct, or not included. 
+n	(law) An objection, on legal grounds; also, as in conveyancing, a clause by which the grantor excepts or reserves something before the right is transferred. 
+n	An objection; cavil; dissent; disapprobation; offense; cause of offense; — usually followed by to or against. 
+n	(computing) An interruption in normal processing, typically caused by an error condition, that can be raised ("thrown") by one part of the program and handled ("caught") by another part. 

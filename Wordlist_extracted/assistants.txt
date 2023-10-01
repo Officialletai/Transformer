@@ -1,0 +1,6 @@
+adj	Having a subordinate or auxiliary position. 
+adj	Helping; lending aid or support; auxiliary. 
+n	(obsolete) Someone who is present; a bystander, a witness. 
+n	A person who assists or helps someone else. 
+n	(Britain) Sales assistant. 
+n	A software tool that provides assistance in some task, a wizard program. 

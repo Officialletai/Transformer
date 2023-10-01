@@ -1,0 +1,18 @@
+adj	Having a temperature slightly higher than usual, but still pleasant; mildly hot. 
+adj	Caring and friendly, of relations to another person. 
+adj	Having a color in the red-orange-yellow part of the visible electromagnetic spectrum. 
+adj	Close, often used in the context of a game in which "warm" and "cold" are used to indicate nearness to the goal. 
+adj	Fresh, of a scent; still able to be traced. 
+adj	(figuratively) Communicating a sense of comfort, ease, or pleasantness 
+adj	(archaic) Ardent, zealous. 
+adj	(archaic, colloquial) Well off as to property, or in good circumstances; prosperous. 
+adj	(archaic) Requiring arduous effort. 
+v	(transitive) To make or keep warm. 
+v	(intransitive) To become warm, to heat up. 
+v	(transitive with to) (sometimes in the form warm up) To favour increasingly. 
+v	(intransitive) To become ardent or animated. 
+v	(transitive) To make engaged or earnest; to interest; to engage; to excite ardor or zeal in; to enliven. 
+v	(transitive, colloquial) To beat or spank. 
+v	(transitive, colloquial) To scold or abuse verbally. 
+v	(computing, transitive) To prepopulate (a cache) so that its contents are ready for other users. 
+n	(colloquial) The act of warming, or the state of being warmed; a heating. 

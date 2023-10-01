@@ -1,0 +1,29 @@
+adj	Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below). 
+adj	Having great duration. 
+adj	Seeming to last a lot of time, due to being boring or tedious or tiring. 
+adj	(Britain, dialect) Not short; tall. 
+adj	(finance) Possessing or owning stocks, bonds, commodities, or other financial instruments with the aim of benefiting from an expected rise in their value. 
+adj	(cricket) Of a fielding position, close to the boundary (or closer to the boundary than the equivalent short position). 
+adj	Passing or landing ahead of or beyond the intended target or location, as weapons fire or landing aircraft. 
+adj	(tennis, of a ball or a shot) Landing beyond the baseline, and therefore deemed to be out. 
+adj	(gambling) Of betting odds, offering a very large return for a small wager. 
+adj	Occurring or coming after an extended interval; distant in time; far away. 
+n	(linguistics) A long vowel. 
+n	(prosody) A long syllable. 
+n	(music) A note formerly used in music, one half the length of a large, twice that of a breve. 
+n	(programming) A long integer variable, twice the size of an int, two or four times the size of a short, and half of a long long. 
+n	(finance) An entity with a long position in an asset. 
+n	(finance) A long-term investment. 
+n	(UK, colloquial, dated) The long summer vacation at the English universities. 
+v	(transitive, finance) To take a long position in. 
+adv	Over a great distance in space. 
+adv	For a particular duration. 
+adv	For a long duration. 
+v	(intransitive) To await, aspire, desire greatly (something to occur or to be true). 
+adj	(archaic) On account of, because of. 
+v	(archaic) To be appropriate to, to pertain or belong to. 
+n	Longitude. 
+v	(obsolete) To belong. 
+n	A surname transferred from the nickname. Originally a nickname for a tall man. 
+n	(countable) A surname from Chinese. 
+n	A county of Baoji, Shaanxi, China. 

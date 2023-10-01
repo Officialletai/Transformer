@@ -1,0 +1,10 @@
+n	A writing consisting of multiple glyphs, characters, symbols or sentences. 
+n	A book, tome or other set of writings. 
+n	(colloquial) A brief written message transmitted between mobile phones. 
+n	(computing) Data which can be interpreted as human-readable text. 
+n	A verse or passage of Scripture, especially one chosen as the subject of a sermon, or in proof of a doctrine. 
+n	(by extension) Anything chosen as the subject of an argument, literary composition, etc. 
+n	(printing) A style of writing in large characters; also, a kind of type used in printing. 
+v	(transitive) To send a text message to; i.e. to transmit text using the Short Message Service (SMS), or a similar service, between communications devices, particularly mobile phones. 
+v	(intransitive) To send and receive text messages. 
+v	(dated) To write in large characters, as in text hand. 

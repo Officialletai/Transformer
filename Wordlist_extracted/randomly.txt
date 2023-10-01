@@ -1,0 +1,2 @@
+adv	In a random manner. 
+adv	(computing) By random access; at any point at a given time; not sequentially. 

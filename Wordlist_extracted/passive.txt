@@ -1,0 +1,12 @@
+adj	Being subjected to an action without producing a reaction. 
+adj	Taking no action. 
+adj	(grammar) Being in the passive voice. 
+adj	(psychology) Being inactive and submissive in a relationship, especially in a sexual one. 
+adj	(finance) Not participating in management. 
+adj	(aviation) Without motive power. 
+adj	(electronics) Of a component: that consumes but does not produce energy, or is incapable of power gain. 
+adj	(passive provision) Where allowance is made for a possible future event. 
+n	(grammar) The passive voice of verbs. 
+n	(grammar) A form of a verb that is in the passive voice. 
+n	(marketing) A customer who is satisfied with a product or service, but not keen enough to promote it by word of mouth. 
+n	(electronics) Any component that consumes but does not produce energy, or is incapable of power gain. 

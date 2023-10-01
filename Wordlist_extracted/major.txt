@@ -1,0 +1,37 @@
+adj	Greater in dignity, rank, importance, significance, or interest. 
+adj	Greater in number, quantity, or extent. 
+adj	Notable or conspicuous in effect or scope. 
+adj	Prominent or significant in size, amount, or degree. 
+adj	(medicine) Involving great risk, serious, life-threatening. 
+adj	Of full legal age, having attained majority. 
+adj	(education) Of or relating to a subject of academic study chosen as a field of specialization. 
+adj	(of a scale) Having intervals of a semitone between the third and fourth, and seventh and eighth degrees. 
+adj	(of an interval) Equivalent to that between the tonic and another note of a major scale, and greater by a semitone than the corresponding minor interval. 
+adj	(postpositive) (of a key) Based on a major scale, tending to produce a bright or joyful effect. 
+adj	(campanology) Bell changes rung on eight bells. 
+adj	(UK, dated) Indicating the elder of two brothers, appended to a surname in public schools. 
+adj	(of a term) Occurring as the predicate in the conclusion of a categorical syllogism. 
+adj	(of a premise) Containing the major term in a categorical syllogism. 
+n	(military) A rank of officer in the army and the US air force, between captain and lieutenant colonel. 
+n	An officer in charge of a section of band instruments, used with a modifier. 
+n	A person of legal age. 
+n	(campanology) A system of change-ringing using eight bells. 
+n	A large, commercially successful company, especially a record label that is bigger than an indie. 
+n	(education, Canada, US, Australia, New Zealand) The principal subject or course of a student working toward a degree at a college or university. 
+n	A student at a college or university specializing on a given area of study. 
+n	(Canadian football) A touchdown, or major score. 
+n	(Australian rules football) A goal. 
+n	(British slang, dated) An elder brother (especially at a public school). 
+n	(entomology) A large leaf-cutter ant that acts as a soldier, defending the nest. 
+v	(intransitive) Used in a phrasal verb: major in. 
+n	A surname. 
+n	An unincorporated community in Kentucky. 
+n	A village in Saskatchewan, Canada. 
+n	(military) Title for an army officer with the rank of major. 
+n	Ellipsis of major key.. [(music) A musical key based upon a major scale.] 
+n	Ellipsis of major interval.. [(music) an interval that is either a major second, major third, major sixth, or a major seventh] 
+n	Ellipsis of major scale.. [(music) One of the diatonic scales; a group of notes or musical pitches in a particular pattern, used to make melodies. The pattern for a major scale is: tone - tone - semitone - tone - tone - tone - semitone.] 
+n	Ellipsis of major term.. [(logic) In a syllogism, the term that is the predicate of the conclusion.] 
+n	Ellipsis of major premise.. [(logic) In a categorical syllogism, the premise whose terms are the syllogism's major term and middle term.] 
+n	(bridge) Ellipsis of major suit.. [(bridge) Either of the suits of spades (♠) and hearts (♥), which rank higher than the minor suits (diamonds and clubs).] 
+n	(obsolete) Alternative form of mayor and mair. 

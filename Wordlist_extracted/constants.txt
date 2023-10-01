@@ -1,0 +1,12 @@
+adj	Unchanged through time or space; permanent. 
+adj	Consistently recurring over time; persistent. 
+adj	Steady in purpose, action, feeling, etc. 
+adj	Firm; solid; not fluid. 
+adj	(obsolete) Consistent; logical. 
+adj	(computing, complexity theory) Bounded above by a constant. 
+n	That which is permanent or invariable. 
+n	(algebra) A quantity that remains at a fixed value throughout a given discussion. 
+n	(sciences) Any property of an experiment, determined numerically, that does not change under given circumstances. 
+n	(computing) An identifier that is bound to an invariant value; a fixed value given a name to aid in readability of source code. 
+n	A surname. 
+n	A locality in Saint George parish, Barbados. 

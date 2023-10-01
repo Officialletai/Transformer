@@ -1,0 +1,15 @@
+adj	Optimal; being the best possibility. 
+adj	Perfect, flawless, having no defects. 
+adj	Pertaining to ideas, or to a given idea. 
+adj	Existing only in the mind; conceptual, imaginary. 
+adj	Teaching or relating to the doctrine of idealism. 
+adj	(mathematics) Not actually present, but considered as present when limits at infinity are included. 
+n	A perfect standard of beauty, intellect etc., or a standard of excellence to aim at. 
+n	(algebra, ring theory) A subring closed under multiplication by its containing ring. 
+n	(algebra, order theory, lattice theory) A non-empty lower set (of a partially ordered set) which is closed under binary suprema (a.k.a. joins). 
+n	(set theory) A collection of sets, considered small or negligible, such that every subset of each member and the union of any two members are also members of the collection. 
+n	(algebra, Lie theory) A Lie subalgebra (subspace that is closed under the Lie bracket) 𝖍 of a given Lie algebra 𝖌 such that the Lie bracket [𝖌,𝖍] is a subset of 𝖍. 
+n	(algebra) A subsemigroup with the property that if any semigroup element outside of it is added to any one of its members, the result must lie outside of it. 
+n	A city in Georgia, United States. 
+n	An unincorporated community in Illinois. 
+n	An unincorporated community in South Dakota. 

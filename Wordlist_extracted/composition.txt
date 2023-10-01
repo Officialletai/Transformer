@@ -1,0 +1,18 @@
+n	The act of putting together; assembly. 
+n	A mixture or compound; the result of composing. 
+n	The proportion of different parts to make a whole. 
+n	The general makeup of a thing or person. 
+n	(obsolete) An agreement or treaty used to settle differences; later especially, an agreement to stop hostilities; a truce. 
+n	(obsolete) A payment of money in order to clear a liability or obligation; a settling or fine. 
+n	(Singapore, law) A payment of fine in order to settle a (usually minor) criminal charge. 
+n	(law) an agreement or compromise by which a creditor or group of creditors accepts partial payment from a debtor. 
+n	An essay. 
+n	(linguistics) The formation of compound words from separate words. 
+n	A work of music, literature or art. 
+n	(printing) Typesetting. 
+n	(mathematics) Applying a function to the result of another. 
+n	(physics) The compounding of two velocities or forces into a single equivalent velocity or force. 
+n	(obsolete) Consistency; accord; congruity. 
+n	Synthesis as opposed to analysis. 
+n	(painting, photography) The arrangement and flow of elements in a picture. 
+n	(object-oriented programming) Way to combine simple objects or data types into more complex ones. 

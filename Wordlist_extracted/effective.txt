@@ -1,0 +1,7 @@
+adj	Having the power to produce a required effect or effects. 
+adj	Producing a decided or decisive effect. 
+adj	Efficient, serviceable, or operative, available for useful work. 
+adj	Actually in effect. 
+adj	(geometry, of a cycle or divisor) Having no negative coefficients. 
+adj	(physics, for any effective theory) approximate; Not describing the fundamental dynamic changes in some system as they happen. 
+n	(military) a soldier fit for duty 

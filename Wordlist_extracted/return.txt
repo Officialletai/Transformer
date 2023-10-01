@@ -1,0 +1,33 @@
+v	(intransitive) To come or go back (to a place or person). 
+v	(intransitive) To go back in thought, narration, or argument. 
+v	(intransitive) To recur; to come again. 
+v	(intransitive, obsolete) To turn back, retreat. 
+v	(transitive, obsolete) To turn (something) round. 
+v	(transitive) To place or put back something where it had been. 
+v	(transitive) To give something back to its original holder or owner. 
+v	(transitive) To take back something to a vendor for a refund. 
+v	To give in requital or recompense; to requite. 
+v	(tennis) To bat the ball back over the net in response to a serve. 
+v	(card games) To play a card as a result of another player's lead. 
+v	(cricket) To throw a ball back to the wicket-keeper (or a fielder at that position) from somewhere in the field. 
+v	(transitive) To say in reply; to respond. 
+v	(intransitive, computing) To relinquish control to the calling procedure. 
+v	(transitive, computing) To pass (data) back to the calling procedure. 
+v	(transitive, dated) To retort; to throw back. 
+v	(transitive) To report, or bring back and make known. 
+v	(Britain, by extension) To elect according to the official report of the election officers. 
+n	The act of returning. 
+n	A return ticket. 
+n	An item that is returned, e.g. due to a defect, or the act of returning it. 
+n	An answer. 
+n	An account, or formal report, of an action performed, of a duty discharged, of facts or statistics, etc.; especially, in the plural, a set of tabulated statistics prepared for general information. 
+n	Gain or loss from an investment. 
+n	(taxation, finance) A report of income submitted to a government for purposes of specifying exact tax payment amounts; a tax return. 
+n	(computing) A carriage return character. 
+n	(computing) The act of relinquishing control to the calling procedure. 
+n	(computing) A return value: the data passed back from a called procedure. 
+n	A return pipe, returning fluid to a boiler or other central plant (compare with flow pipe, which carries liquid away from a central plant). 
+n	A short perpendicular extension of a desk, usually slightly lower. 
+n	(American football) The act of catching a ball after a punt and running it back towards the opposing team. 
+n	(cricket) A throw from a fielder to the wicket-keeper or to another fielder at the wicket. 
+n	(architecture) The continuation in a different direction, most often at a right angle, of a building, face of a building, or any member, such as a moulding; applied to the shorter in contradistinction to the longer. 

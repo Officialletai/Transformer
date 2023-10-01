@@ -1,0 +1,39 @@
+n	The part of a plant, generally underground, that anchors and supports the plant body, absorbs and stores water and nutrients, and in some plants is able to perform vegetative reproduction. 
+n	A root vegetable. 
+n	The part of a tooth extending into the bone holding the tooth in place. 
+n	The part of a hair under the skin that holds the hair in place. 
+n	The part of a hair near the skin that has not been dyed, permed, or otherwise treated. 
+n	(figuratively) The primary source; origin. 
+n	(aviation) The section of a wing immediately adjacent to the fuselage. 
+n	(engineering) The bottom of the thread of a threaded object. 
+n	(arithmetic) Of a number or expression, a number which, when raised to a specified power, yields the specified number or expression. 
+n	(arithmetic) A square root (understood if no power is specified; in which case, "the root of" is often abbreviated to "root"). 
+n	(mathematical analysis) A zero (of an equation). 
+n	(graph theory, computing) The single node of a tree that has no parent. 
+n	(linguistic morphology) The primary lexical unit of a word, which carries the most significant aspects of semantic content and cannot be reduced into smaller constituents. Inflectional stems often derive from roots. 
+n	(linguistics) A word from which another word or words are derived. 
+n	(music) The fundamental tone of any chord; the tone from whose harmonics, or overtones, a chord is composed. 
+n	The lowest place, position, or part. 
+n	(computing) In UNIX terminology, the first user account with complete access to the operating system and its configuration, found at the root of the directory structure; the person who manages accounts on a UNIX system. 
+n	(computing) The highest directory of a directory structure which may contain both files and subdirectories. 
+n	(slang) A penis, especially the base of a penis. 
+v	To grow roots; to enter the earth, as roots; to take root and begin to grow. 
+v	To prepare, oversee, or otherwise cause the rooting of cuttings. 
+v	To be firmly fixed; to be established. 
+v	(computing slang, transitive) To get root or privileged access on a computer system or mobile phone, often through bypassing some security mechanism. 
+v	(transitive, intransitive) To turn up or dig with the snout. 
+v	(by extension) To seek favour or advancement by low arts or grovelling servility; to fawn. 
+v	(intransitive) To rummage; to search as if by digging in soil. 
+v	(intransitive) Of a baby: to turn the head and open the mouth in search of food. 
+v	(transitive) To root out; to abolish. 
+v	(Australia, New Zealand, Ireland, vulgar, slang) To sexually penetrate. 
+n	(Australia, New Zealand, vulgar, slang) An act of sexual intercourse. 
+n	(Australia, New Zealand, vulgar, slang) A sexual partner. 
+v	(intransitive, with "for" or "on", US) To cheer (on); to show support (for) and hope for the success of. (See root for.) 
+n	An English surname from Middle English from a byname from Middle English rote (“glad”). 
+n	An English surname originating as an occupation for a rote (medieval guitar)-player. 
+n	A habitational surname from Dutch for someone living near a retting place (Dutch root, from roten (“to ret”)). 
+n	A town in Lucerne canton, Switzerland. 
+n	A town in New York, United States; named for lawyer and politician Erastus Root. 
+n	A river in Minnesota, United States; named as a translation of its native Dakota name. 
+n	A river in Wisconsin, United States. 

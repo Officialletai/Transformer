@@ -1,0 +1,9 @@
+n	The act of varying or the state of being variable. 
+n	A difference between what is expected and what is observed; deviation. 
+n	The state of differing or being in conflict. 
+n	An official permit to do something that is ordinarily forbidden by regulations. 
+n	(law) A discrepancy between two legal documents. 
+n	(law) A departure from a cause of action originally in a complaint. 
+n	(statistics) The second central moment in probability. 
+n	(physics, chemistry, biology) The number of degrees of freedom in a system. 
+n	(computing, programming) Covariance and contravariance generally. 

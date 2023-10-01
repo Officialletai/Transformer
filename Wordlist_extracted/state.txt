@@ -1,0 +1,25 @@
+n	(physics) A complete description of a system, consisting of parameters that determine all properties of the system. 
+n	(colloquial, in the singular) A mess; disorder. 
+n	(computing) The stable condition of a processor during a particular clock cycle. 
+n	(computing) The set of all parameters relevant to a computation. 
+n	(computing) The values of all parameters at some point in a computation. 
+n	(sciences) The physical property of matter as solid, liquid, gas or plasma. 
+n	(obsolete) Highest and stationary condition, as that of maturity between growth and decline, or as that of crisis between the increase and the abating of a disease; height; acme. 
+n	Pomp, ceremony, or dignity. 
+n	Rank; condition; quality. 
+n	Condition of prosperity or grandeur; wealthy or prosperous circumstances; social importance. 
+n	A chair with a canopy above it, often standing on a dais; a seat of dignity; also, the canopy itself. 
+n	(obsolete) A great person, a dignitary; a lord or prince. 
+n	(obsolete) Estate, possession. 
+n	Any sovereign polity; a national or city-state government. 
+n	A political division of a federation retaining a notable degree of autonomy, as in the United States, Mexico, Nigeria, or India. 
+n	(obsolete) A form of government other than a monarchy. 
+n	(anthropology) A society larger than a tribe. A society large enough to form a state in the sense of a government. 
+n	(mathematics, stochastic processes) An element of the range of the random variables that define a random process. 
+n	(grammar, semantics) The lexical aspect (aktionsart) of verbs or predicates that do not change over time. 
+v	(transitive) To declare to be a fact. 
+v	(transitive) To make known. 
+adj	(obsolete) Stately. 
+n	A current governing polity. 
+n	(often with definite article) The current governing polity under which the speaker lives. 
+n	State University, as the shortened form of any public university name. 

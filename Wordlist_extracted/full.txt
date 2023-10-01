@@ -1,0 +1,24 @@
+adj	Containing the maximum possible amount that can fit in the space available. 
+adj	Complete; with nothing omitted. 
+adj	Total, entire. 
+adj	Completely empowered, authorized or qualified (in some role); not limited. 
+adj	(informal) Having eaten to satisfaction, having a "full" stomach; replete. 
+adj	(informal, with of) Replete, abounding with. 
+adj	(of physical features) Plump, round. 
+adj	(of the moon) Having its entire face illuminated. 
+adj	(of garments) Of a size that is ample, wide, or having ample folds or pleats to be comfortable. 
+adj	Having depth and body; rich. 
+adj	(obsolete) Having the mind filled with ideas; stocked with knowledge; stored with information. 
+adj	Having the attention, thoughts, etc., absorbed in any matter, and the feelings more or less excited by it. 
+adj	Filled with emotions. 
+adj	(obsolete) Impregnated; made pregnant. 
+adj	(poker, postnominal) Said of the three cards of the same rank in a full house. 
+adj	(chiefly Australia) Drunk, intoxicated. 
+adv	(archaic) Fully; quite; very; thoroughly; completely; exactly; entirely. 
+n	Utmost measure or extent; highest state or degree; the state, position, or moment of fullness; fill. 
+n	(of the moon) The phase of the moon when its entire face is illuminated, full moon. 
+n	(freestyle skiing) An aerialist maneuver consisting of a backflip in conjunction and simultaneous with a complete twist. 
+v	(of the moon) To become full or wholly illuminated. 
+v	(transitive) To baptise. 
+v	To make cloth denser and firmer by soaking, beating and pressing; to waulk or walk. 
+n	A surname from German. 

@@ -1,0 +1,9 @@
+adj	Capable of operating without external control or intervention. 
+adj	Done out of habit or without conscious thought. 
+adj	Necessary, inevitable, prescribed by logic, law, etc. 
+adj	(of a firearm such as a machine gun) Firing continuously as long as the trigger is pressed until ammunition is exhausted. 
+adj	(of a handgun) An autoloader; a semi-automatic or self-loading pistol, as opposed to a revolver or other manually actuated handgun, which fires one shot per pull of the trigger; distinct from machine guns. 
+adj	(computing, of a local variable) Automatically added to and removed from the stack during the course of function calls. 
+adj	(mathematics, of a group) Having one or more finite-state automata 
+n	A car with automatic transmission. 
+n	A semi-automatic pistol. 

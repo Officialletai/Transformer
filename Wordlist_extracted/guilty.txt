@@ -1,0 +1,7 @@
+adj	Responsible for a dishonest act. 
+adj	(law) Judged to have committed a crime. 
+adj	Having a sense of guilt. 
+adj	Blameworthy. 
+n	(law) A plea by a defendant who does not contest a charge. 
+n	(law) A verdict of a judge or jury on a defendant judged to have committed a crime. 
+n	One who is declared guilty of a crime. 

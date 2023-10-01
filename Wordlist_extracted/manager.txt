@@ -1,0 +1,4 @@
+n	(management) A person whose job is to manage something, such as a business, a restaurant, or a sports team. 
+n	(baseball, soccer) The head coach. 
+n	(music) An administrator, for a singer or group. 
+n	(software) A window or application whose purpose is to give the user the control over some aspect of the system. 

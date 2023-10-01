@@ -1,0 +1,8 @@
+n	(grammar, countable) Any of the forms of a verb which distinguish when an action or state of being occurs or exists. 
+n	(linguistics, grammar, countable) An inflected form of a verb that indicates tense. 
+n	(linguistics, uncountable) The property of indicating the point in time at which an action or state of being occurs or exists. 
+v	(grammar, transitive) To apply a tense to. 
+adj	Showing signs of stress or strain; not relaxed. 
+adj	Pulled taut, without any slack. 
+v	(transitive) To make tense. 
+v	(intransitive) To become tense. 

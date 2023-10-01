@@ -1,0 +1,8 @@
+adj	Pertaining to the nucleus of an atom. 
+adj	Involving energy released by nuclear reactions (fission, fusion, radioactive decay). 
+adj	Relating to a weapon that derives its force from rapid release of energy through nuclear reactions. 
+adj	(by extension, metaphoric, of a solution or response) Involving an extreme course of action. 
+adj	(biology) Pertaining to the nucleus of a cell. 
+adj	(archaic) Pertaining to a centre around which something is developed or organised; central, pivotal. 
+n	Nuclear power. 
+n	Nuclear weapon 

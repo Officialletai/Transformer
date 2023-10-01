@@ -1,0 +1,22 @@
+adj	(cooking) (of food) Not cooked. 
+adj	(of materials, products, etc.) Not treated or processed; in a natural state, unrefined, unprocessed. 
+adj	Having had the skin removed or abraded; chafed, tender; exposed, lacerated. 
+adj	New or inexperienced. 
+adj	Crude in quality; rough, uneven, unsophisticated. 
+adj	(statistics, of data) Uncorrected, without analysis. 
+adj	(of weather) Unpleasantly cold or damp. 
+adj	(of an emotion, personality, etc.) Unmasked, undisguised, strongly expressed. 
+adj	Candid in a representation of unpleasant facts, conditions, etc. 
+adj	(of language) Unrefined, crude, or insensitive, especially with reference to sexual matters. 
+adj	(obsolete) Not covered; bare; bald. 
+adv	(slang) Without a condom. 
+n	(sugar refining, sugar trade) An unprocessed sugar; a batch of such. 
+n	A galled place; an inveterate sore. 
+n	(by extension, figuratively) A point about which a person is particularly sensitive. 
+n	(anime fandom slang) A recording or rip of a show that has not been fansubbed. 
+n	(manga fandom slang) A scan that has not been cleaned (purged of blemishes arising from the scanning process) and has not been scanlated. 
+v	(slang) To anally or vaginally penetrate without a condom. 
+n	A surname from Old English. 
+n	(India, acronym) Initialism of Research and Analysis Wing. 
+n	(games) Abbreviation of rules as written: the actual rules appearing in the rulebook, as opposed to house rules, or to rules that might have been intended (in the event of a mistake in the rulebook). 
+n	(computing) Initialism of read after write, a kind of data hazard. 

@@ -1,0 +1,10 @@
+adj	Constituting a whole together with other parts or factors; not omittable or removable 
+adj	(mathematics) Of, pertaining to, or being an integer. 
+adj	(mathematics) Relating to integration. 
+adj	(obsolete) Whole; undamaged. 
+n	(mathematics) One of the two fundamental operations of calculus (the other being differentiation), whereby a function's displacement, area, volume, or other qualities arising from the study of infinitesimal change are quantified, usually defined as a limiting process on a sequence of partial sums. Denoted using a long s: ∫, or a variant thereof. 
+n	(specifically) Any of several analytic formalizations of this operation: the Riemann integral, the Lebesgue integral, etc. 
+n	(mathematics) A definite integral: the result of the application of such an operation onto a function and a suitable subset of the function's domain: either a number or positive or negative infinity. In the former case, the integral is said to be finite or to converge; in the latter, the integral is said to diverge. In notation, the domain of integration is indicated either below the sign, or, if it is an interval, with its endpoints as sub- and super-scripts, and the function being integrated forming part of the integrand (or, generally, differential form) appearing in front of the integral sign. 
+n	(mathematics) An indefinite integral: the result of the application of such an operation onto a function together with an indefinite domain, yielding a function; a function's antiderivative; 
+n	(mathematics, historical or obsolete) The fluent of a given fluxion in Newtonian calculus. 
+n	(space science, ESA) Abbreviation of International Gamma-Ray Astrophysics Laboratory. (a satellite of the European Space Agency) 

@@ -1,0 +1,11 @@
+n	(uncountable) The quality of being different. 
+n	(countable) A characteristic of something that makes it different from something else. 
+n	(countable) A disagreement or argument. 
+n	(countable, uncountable) Significant change in or effect on a situation or state. 
+n	(countable) The result of a subtraction; sometimes the absolute value of this result. 
+n	(obsolete) Choice; preference. 
+n	(heraldry) An addition to a coat of arms to distinguish two people's bearings which would otherwise be the same. See augmentation and cadency. 
+n	(logic) The quality or attribute which is added to those of the genus to constitute a species; a differentia. 
+n	(logic circuits) A Boolean operation which is true when the two input variables are different but is otherwise false; the XOR operation ( scriptstyle A◌̅B+◌̅AB). 
+n	(relational algebra) The set of elements that are in one set but not another ( scriptstyle A◌̅B). 
+v	(obsolete, transitive) To distinguish or differentiate. 

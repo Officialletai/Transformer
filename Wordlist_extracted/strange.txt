@@ -1,0 +1,15 @@
+adj	Not normal; odd, unusual, surprising, out of the ordinary. 
+adj	Unfamiliar, not yet part of one's experience. 
+adj	(slang, of sex, genitals, etc) Outside of one's current relationship; unfamiliar. 
+adj	(particle physics) Having the quantum mechanical property of strangeness. 
+adj	(mathematics) Of an attractor: having a fractal structure. 
+adj	(obsolete) Belonging to another country; foreign. 
+adj	(obsolete) Backward; slow. 
+adj	(obsolete) Not familiar; unaccustomed; inexperienced. 
+adj	(law) Not belonging to one. 
+v	(obsolete, transitive) To alienate; to estrange. 
+v	(obsolete, intransitive) To be estranged or alienated. 
+v	(obsolete, intransitive) To wonder; to be astonished at (something). 
+n	(slang, uncountable) Sex outside of one's current relationship. 
+n	A surname. 
+n	A community in King township, Ontario, Canada, named after Frederick William Strange. 

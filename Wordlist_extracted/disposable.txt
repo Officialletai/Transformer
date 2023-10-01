@@ -1,0 +1,4 @@
+n	Any object that is designed to be disposed of rather than refilled or repaired. 
+adj	That can be disposed of. 
+adj	That is designed to be discarded rather than reused, refilled or repaired. 
+adj	Available to be used. 

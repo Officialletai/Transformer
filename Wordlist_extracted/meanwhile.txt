@@ -1,0 +1,4 @@
+n	The time between two events. 
+adv	During the time that something is happening. 
+adv	At the same time, but elsewhere. 
+adv	In contrast or opposed to aspects previously mentioned. 

@@ -1,0 +1,21 @@
+adj	Uncomplicated; taken by itself, with nothing added. 
+adj	Without ornamentation; plain. 
+adj	Free from duplicity; guileless, innocent, straightforward. 
+adj	Undistinguished in social condition; of no special rank. 
+adj	(now rare) Trivial; insignificant. 
+adj	(now colloquial, euphemistic) Feeble-minded; foolish. 
+adj	(chemistry, pharmacology) Consisting of one single substance; uncompounded. 
+adj	(mathematics) Of a group: having no normal subgroup. 
+adj	(botany) Not compound, but possibly lobed. 
+adj	(of a steam engine) Using steam only once in its cylinders, in contrast to a compound engine, where steam is used more than once in high-pressure and low-pressure cylinders. 
+adj	(zoology) Consisting of a single individual or zooid; not compound. 
+adj	(mineralogy) Homogenous. 
+adj	(obsolete) Mere; not other than; being only. 
+n	(pharmacology) A herbal preparation made from one plant, as opposed to something made from more than one plant. 
+n	(obsolete, by extension) A physician. 
+n	(logic) A simple or atomic proposition. 
+n	(obsolete) Something not mixed or compounded. 
+n	(weaving) A drawloom. 
+n	(weaving) Part of the apparatus for raising the heddles of a drawloom. 
+n	(Roman Catholicism) A feast which is not a double or a semidouble. 
+v	(transitive, intransitive, archaic) To gather simples, i.e. medicinal herbs. 

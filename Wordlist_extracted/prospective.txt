@@ -1,0 +1,11 @@
+adj	Likely or expected to happen or become. 
+adj	Anticipated in the near or far future. 
+adj	Of or relating to a prospect; furnishing a prospect. 
+adj	Looking forward in time; acting with foresight. 
+adj	(medicine, of research) A study that starts with the present situation and follows participants into the future 
+adj	(grammar) Indicating grammatically an activity about to begin. 
+n	(obsolete) The scene before or around, in time or in space; view; prospect. 
+n	(obsolete) A perspective glass. 
+n	1613 March 2 (first performance), Francis Beaumont, “The Masque of the Inner-Temple and Gray’s Inn, Gray’s Inn and the Inner-Temple;[…]”, in The Dramatic Works of Ben Jonson, and Beaumont and Fletcher:[…], volume IV, London: […] John Stockdale,[…], published 1811, OCLC 910211381, page 573, column 2: 
+n	[T]hey [two pavillions] were trimmed on the inside with rich armour and military furniture, hanged up as upon the walls; and behind the tents there were represented, in prospective, the tops of divers other tents, as if it had been a camp. 
+n	(informal, often plural) A prospective (potential) member, student, employee, date, partner, etc. 

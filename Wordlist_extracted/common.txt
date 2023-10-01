@@ -1,0 +1,20 @@
+adj	Mutual; shared by more than one. 
+adj	Occurring or happening regularly or frequently; usual. 
+adj	Found in large numbers or in a large quantity; usual. 
+adj	Simple, ordinary or vulgar. 
+adj	(grammar) Of, pertaining or belonging to the common gender. 
+adj	(grammar) Of or pertaining to common nouns as opposed to proper nouns. 
+adj	Vernacular, referring to the name of a kind of plant or animal, i.e., common name vs. scientific name. 
+adj	(obsolete) Profane; polluted. 
+adj	(obsolete) Given to lewd habits; prostitute. 
+n	Mutual good, shared by more than one. 
+n	A tract of land in common ownership; common land. 
+n	The people; the community. 
+n	(law) The right of taking a profit in the land of another, in common either with the owner or with other persons; so called from the community of interest which arises between the claimant of the right and the owner of the soil, or between the claimants and other commoners entitled to the same right. 
+v	(obsolete) To communicate (something). 
+v	(obsolete) To converse, talk. 
+v	(obsolete) To have sex. 
+v	(obsolete) To participate. 
+v	(obsolete) To have a joint right with others in common ground. 
+v	(obsolete) To board together; to eat at a table in common. 
+n	A surname. 

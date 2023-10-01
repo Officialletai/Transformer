@@ -1,0 +1,14 @@
+adj	Distant; remote in space. 
+adj	Remote in time. 
+adj	Long. 
+adj	More remote of two. 
+adj	Extreme, as measured from some central or neutral position. 
+adj	Extreme, as a difference in nature or quality. 
+adj	(programming, not comparable) Outside the currently selected segment in a segmented memory architecture. 
+adv	To, from or over a great distance in space, time or other extent. 
+adv	Very much; by a great amount. 
+v	(transitive, rare) To send far away. 
+n	Spelt (a type of wheat, Triticum spelta), especially in the context of Roman use of it. 
+n	(UK, dialect) A litter of piglets; a farrow. 
+n	floor area ratio 
+n	(aviation, proscribed) Initialism of Federal Aviation Regulations. 

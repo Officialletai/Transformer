@@ -1,0 +1,7 @@
+n	(Canada, South Africa, US, West Midlands, colloquial, informal) Mother. 
+n	(informal) An adult female owner of a pet. 
+v	(transitive, Canada, US, informal) To care for in a motherly way. 
+n	(informal) One’s mother. 
+n	A surname from Khmer. 
+adj	(statistics) Initialism of month-over-month; compared to the same time period in the previous month. 
+n	(hardware, software) Initialism of message-oriented middleware (hardware or software infrastructure supporting sending and receiving of messages between distributed systems.) [(computing) Hardware or software infrastructure supporting sending and receiving of messages between distributed systems] 

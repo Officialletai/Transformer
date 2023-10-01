@@ -1,0 +1,47 @@
+n	(networking) An HTTP request method used to send an arbitrary amount of data to a web server. 
+v	(computing) To successfully perform a power-on self-test. 
+n	A long dowel or plank protruding from the ground; a fencepost; a lightpost. 
+n	(construction) A stud; a two-by-four. 
+n	A pole in a battery. 
+n	(dentistry) A long, narrow piece inserted into a root canal to provide retention for a crown. 
+n	(vocal music, chiefly a cappella) A prolonged final melody note, among moving harmony notes. 
+n	(paper, printing) A printing paper size measuring 19.25 inches x 15.5 inches. 
+n	(sports) A goalpost. 
+n	A location on a basketball court near the basket. 
+n	(obsolete) The doorpost of a victualler's shop or inn, on which were chalked the scores of customers; hence, a score; a debt. 
+n	The vertical part of a crochet stitch. 
+v	(transitive) To hang (a notice) in a conspicuous manner for general review. 
+v	To hold up to public blame or reproach; to advertise opprobriously; to denounce by public proclamation. 
+v	(accounting) To carry (an account) from the journal to the ledger. 
+v	To inform; to give the news to; to make acquainted with the details of a subject; often with up. 
+v	(transitive, gambling) To pay down (the stake). 
+v	(transitive, poker) To pay (a blind). 
+n	(obsolete) Each of a series of men stationed at specific places along a postroad, with responsibility for relaying letters and dispatches of the monarch (and later others) along the route. 
+n	(dated) A station, or one of a series of stations, established for the refreshment and accommodation of travellers on some recognized route. 
+n	A military base; the place at which a soldier or a body of troops is stationed; also, the troops at such a station. 
+n	(now historical) Someone who travels express along a set route carrying letters and dispatches; a courier. 
+n	(UK, Australia, New Zealand) An organisation for delivering letters, parcels etc., or the service provided by such an organisation. 
+n	(UK, Australia, New Zealand) A single delivery of letters; the letters or deliveries that make up a single batch delivered to one person or one address. 
+n	A message posted in an electronic or Internet forum, or on a blog, etc. 
+n	(American football) A moderate to deep passing route in which a receiver runs 10-20 yards from the line of scrimmage straight down the field, then cuts toward the middle of the field (towards the facing goalposts) at a 45-degree angle. 
+n	(obsolete) Haste or speed, like that of a messenger or mail carrier. 
+n	(obsolete) One who has charge of a station, especially a postal station. 
+v	To travel with relays of horses; to travel by post horses, originally as a courier. 
+v	To travel quickly; to hurry. 
+v	(UK, Australia, New Zealand) To send (an item of mail etc.) through the postal service. 
+v	(horse-riding) To rise and sink in the saddle, in accordance with the motion of the horse, especially in trotting. 
+v	(Internet) To publish (a message) to a newsgroup, forum, blog, etc. 
+adv	With the post, on post-horses; by a relay of horses (changing at every staging-post); hence, express, with speed, quickly. 
+adv	Sent via the postal service. 
+n	An assigned station; a guard post. 
+n	An appointed position in an organization, job. 
+v	To enter (a name) on a list, as for service, promotion, etc. 
+v	To assign to a station; to set; to place. 
+n	(film, informal) Post-production. 
+n	(medicine, informal) A post mortem (investigation of body's cause of death). 
+n	(newspapers) A common name (often in combination) for a newspaper or periodical, such as The Washington Post or the New York Post. 
+n	A surname. 
+n	A village in Iran 
+n	An unincorporated community in Oregon 
+n	A city, the county seat of Garza County, Texas. 
+n	(computing) Acronym of power-on self-test. 

@@ -1,0 +1,3 @@
+adj	Limited within bounds. 
+adj	Available only to certain authorized groups of people. 
+adj	(US, historical) Only available to customers who do not belong to racial, ethnic or religious minorities. 

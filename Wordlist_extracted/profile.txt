@@ -1,0 +1,16 @@
+n	(countable) The outermost shape, view, or edge of an object. 
+n	(countable) The shape, view, or shadow of a person's head from the side; a side view. 
+n	(countable) A summary or collection of information, especially about a person 
+n	(Internet, countable) A specific page or field in which users can provide various types of personal information in software or Internet systems. 
+n	(figuratively, uncountable) Reputation, prominence; noticeability. 
+n	(uncountable) The amount by which something protrudes. 
+n	(archaeology) A smoothed (e.g., troweled or brushed) vertical surface of an excavation showing evidence of at least one feature or diagnostic specimen; the graphic recording of such as by sketching, photographing, etc. 
+n	Character; totality of related characteristics; signature; status (especially in scientific, technical, or military uses). 
+n	(architecture) A section of any member, made at right angles with its main lines, showing the exact shape of mouldings etc. 
+n	(civil engineering) A drawing exhibiting a vertical section of the ground along a surveyed line, or graded work, as of a railway, showing elevations, depressions, grades, etc. 
+n	(military slang) An exemption from certain types of duties due to injury or disability. 
+v	(transitive) To create a summary or collection of information about (a person, etc.). 
+v	To act based on such a summary, especially one that is a stereotype; to engage in profiling. 
+v	(transitive) To draw in profile or outline. 
+v	(transitive, engineering) To give a definite form by chiselling, milling, etc. 
+v	(computing, transitive) To measure the performance of various parts of (a program) so as to locate bottlenecks. 

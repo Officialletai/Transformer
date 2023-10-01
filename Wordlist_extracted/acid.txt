@@ -1,0 +1,10 @@
+adj	Sour, sharp, or biting to the taste; tart; having the taste of vinegar. 
+adj	(figuratively) Sour-tempered. 
+adj	Of or pertaining to an acid; acidic. 
+adj	(music) Denoting a musical genre that is a distortion (as if hallucinogenic) of an existing genre, as in acid house, acid jazz, acid rock. 
+n	A sour substance. 
+n	Any compound which yields H+ ions (protons) when dissolved in water; an Arrhenius acid. 
+n	Any compound that easily donates protons to a base; a Brønsted acid. 
+n	Any compound that can accept a pair of electrons to form a covalent bond; a Lewis acid. 
+n	(uncountable, slang) LSD, lysergic acid diethylamide. 
+n	(databases) Acronym of atomicity, consistency, isolation, and durability, a set of properties that guarantee database transactions are processed reliably. [(uncountable) The quality or state of being atomic.] 

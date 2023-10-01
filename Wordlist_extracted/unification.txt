@@ -1,0 +1,3 @@
+n	The act of unifying. 
+n	The state of being unified. 
+n	(mathematical logic, computer science) Given two terms, their join with respect to a specialisation order. 

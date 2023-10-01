@@ -1,0 +1,13 @@
+adj	Devoid of content; containing nothing or nobody; vacant. 
+adj	(computing, programming, mathematics) Containing no elements (as of a string, array, or set), opposed to being null (having no valid value). 
+adj	(obsolete) Free; clear; devoid; often with of. 
+adj	Having nothing to carry, emptyhanded; unburdened. 
+adj	Destitute of effect, sincerity, or sense; said of language. 
+adj	Unable to satisfy; hollow; vain. 
+adj	Destitute of reality, or real existence; unsubstantial. 
+adj	Destitute of, or lacking, sense, knowledge, or courtesy. 
+adj	(of some female animals, especially cows and sheep) Not pregnant; not producing offspring when expected to do so during the breeding season. 
+adj	(obsolete, of a plant or tree) Producing nothing; unfruitful. 
+v	(transitive, ergative) To make empty; to void; to remove the contents of. 
+v	(intransitive) Of a river, duct, etc: to drain or flow toward an ultimate destination. 
+n	(usually plural) A container, especially a bottle, whose contents have been used up, leaving it empty. 

@@ -1,0 +1,20 @@
+adj	Belonging to one by birth. 
+adj	Characteristic of or relating to people inhabiting a region from prehistoric times. 
+adj	Born or grown in the region in which it lives or is found; not foreign or imported. 
+adj	(biology, of a species) Which occurs of its own accord in a given locality, to be contrasted with a species introduced by humans. 
+adj	(computing, of software) Pertaining to the system or architecture in question. 
+adj	(mineralogy) Occurring naturally in its pure or uncombined form. 
+adj	Arising by birth; having an origin; born. 
+adj	Original; constituting the original substance of anything. 
+adj	Naturally related; cognate; connected (with). 
+n	A person who is native to a place; a person who was born in a place. 
+n	(in particular) A person of aboriginal descent, as distinguished from a person who was or whose ancestors were foreigners or settlers/colonizers. Alternative letter-case form of Native (aboriginal inhabitant of the Americas or Australia). 
+n	A native speaker. 
+n	Ostrea edulis, a kind of oyster. 
+adj	(US, Canada) Indian: Native American or First Nation; of or relating to (North) American Indians. 
+adj	(Australia, New Zealand) Aboriginal; of or relating to Australian Aboriginal peoples, Aborigines. 
+adj	(South Africa) Related to black Africans, especially Bantu. 
+n	(US, Canada) A Native American. 
+n	(Australia, New Zealand) An Aborigine. 
+n	(South Africa, dated, possibly offensive) A black African, especially a Bantu. 
+adj	Alternative letter-case form of Native (of or relating to the native inhabitants of the Americas, or of Australia). [(US, Canada) Indian: Native American or First Nation; of or relating to (North) American Indians.] 

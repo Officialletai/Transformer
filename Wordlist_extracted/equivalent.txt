@@ -1,0 +1,9 @@
+adj	Similar or identical in value, meaning or effect; virtually equal. 
+adj	(mathematics) Of two sets, having a one-to-one correspondence. 
+adj	(mathematics) Relating to the corresponding elements of an equivalence relation. 
+adj	(chemistry) Having the equal ability to combine. 
+adj	(cartography) Of a map, equal-area. 
+adj	(geometry) Equal in measure but not admitting of superposition; applied to magnitudes. 
+n	Anything that is virtually equal to something else, or has the same value, force, etc. 
+n	(chemistry) An equivalent weight. 
+v	(transitive) To make equivalent to; to equal. 

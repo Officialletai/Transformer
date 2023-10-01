@@ -1,0 +1,17 @@
+v	(transitive) To exercise influence over; to suggest or dictate the behavior of. 
+v	(transitive, statistics) (construed with for) To design (an experiment) so that the effects of one or more variables are reduced or eliminated. 
+v	(transitive, archaic) to verify the accuracy of (something or someone, especially a financial account) by comparison with another account 
+v	(transitive, obsolete) to call to account, to take to task, to challenge 
+v	(transitive) to hold in check, to curb, to restrain 
+n	(countable, uncountable) Influence or authority over something. 
+n	The method and means of governing the performance of any apparatus, machine or system, such as a lever, handle or button. 
+n	Restraint or ability to contain one's movements or emotions, or self-control. 
+n	A security mechanism, policy, or procedure that can counter system attack, reduce risks, and resolve vulnerabilities; a safeguard or countermeasure. 
+n	(project management) A means of monitoring for, and triggering intervention in, activities that are not going according to plan. 
+n	A control group or control experiment. 
+n	A duplicate book, register, or account, kept to correct or check another account or register. 
+n	(graphical user interface) An interface element that a computer user interacts with, such as a window or a text box. 
+n	(climatology) Any of the physical factors determining the climate of a place, such as latitude, distribution of land and water, altitude, exposure, prevailing winds, permanent high- or low-barometric-pressure areas, ocean currents, mountain barriers, soil, and vegetation. 
+n	(linguistics) A construction in which the understood subject of a given predicate is determined by an expression in context. See control. 
+n	(spiritualism, parapsychology) A spirit that takes possession of a psychic or medium and allows other spirits to communicate with the living. 
+n	(cycling, countable) A checkpoint along an audax route. 

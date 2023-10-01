@@ -1,0 +1,11 @@
+n	A set of things next to each other in a set order; a series 
+n	(uncountable) The state of being sequent or following; order of succession. 
+n	A series of musical phrases where a theme or melody is repeated, with some change each time, such as in pitch or length (example: opening of Beethoven's Fifth Symphony). 
+n	A musical composition used in some Catholic Masses between the readings. The most famous sequence is the Dies Irae (Day of Wrath) formerly used in funeral services. 
+n	(mathematics) An ordered list of objects, typically indexed with natural numbers. 
+n	(now rare) A subsequent event; a consequence or result. 
+n	A series of shots that depict a single action or style in a film, television show etc. 
+n	(card games) A meld consisting of three or more cards of successive ranks in the same suit, such as the four, five and six of hearts. 
+v	(transitive) to arrange in an order 
+v	(transitive, biochemistry) to determine the order of things, especially of amino acids in a protein, or of bases in a nucleic acid 
+v	(transitive) to produce (music) with a sequencer 

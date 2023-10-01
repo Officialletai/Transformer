@@ -1,0 +1,8 @@
+adj	Not stable. 
+adj	Having a strong tendency to change. 
+adj	Fluctuating; not constant. 
+adj	Fickle. 
+adj	Unpredictable. 
+adj	(chemistry) Readily decomposable. 
+adj	(physics) Radioactive, especially with a short half-life. 
+v	(transitive) To release (an animal) from a stable. 

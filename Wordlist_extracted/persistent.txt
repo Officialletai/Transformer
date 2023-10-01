@@ -1,0 +1,7 @@
+adj	Obstinately refusing to give up or let go. 
+adj	Insistently repetitive. 
+adj	Indefinitely continuous. 
+adj	(botany) Lasting past maturity without falling off. 
+adj	(computing) Of data or a data structure: not transient or temporary, but remaining in existence after the termination of the program that creates it. 
+adj	(mathematics) Describing a fractal process that has a positive Brown function 
+adj	(mathematics, stochastic processes, of a state) non-transient. 

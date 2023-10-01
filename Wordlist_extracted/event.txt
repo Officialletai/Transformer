@@ -1,0 +1,12 @@
+n	An occurrence; something that happens. 
+n	A prearranged social activity (function, etc.) 
+n	One of several contests that combine to make up a competition. 
+n	An end result; an outcome (now chiefly in phrases). 
+n	(physics) A point in spacetime having three spatial coordinates and one temporal coordinate. 
+n	(computing) A possible action that the user can perform that is monitored by an application or the operating system (event listener). When an event occurs an event handler is called which performs a specific task. 
+n	(probability theory) A set of some of the possible outcomes; a subset of the sample space. 
+n	(obsolete) An affair in hand; business; enterprise. 
+n	(medicine) An episode of severe health conditions. 
+v	(obsolete) To occur, take place. 
+v	(obsolete, intransitive) To be emitted or breathed out; to evaporate. 
+v	(obsolete, transitive) To expose to the air, ventilate. 

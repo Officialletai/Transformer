@@ -1,0 +1,5 @@
+adj	Having traits or characteristics in common; alike, comparable. 
+adj	(mathematics) Of geometrical figures including triangles, squares, ellipses, arcs and more complex figures, having the same shape but possibly different size, rotational orientation, and position; in particular, having corresponding angles equal and corresponding line segments proportional; such that one can be had from the other using a sequence of rotations, translations and scalings. 
+adj	(mathematics, linear algebra) Of two square matrices; being such that a conjugation sends one matrix to the other. 
+n	That which is similar to, or resembles, something else, as in quality, form, etc. 
+n	(homeopathy) A material that produces an effect that resembles the symptoms of a particular disease. 

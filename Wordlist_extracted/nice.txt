@@ -1,0 +1,19 @@
+adj	Pleasant, satisfactory. 
+adj	Of a person: friendly, attractive. 
+adj	Respectable; virtuous. 
+adj	(with and) Shows that the given adjective is desirable, or acts as a mild intensifier; pleasantly, quite. 
+adj	Showing refinement or delicacy, proper, seemly 
+adj	(obsolete) Silly, ignorant; foolish. 
+adj	(now rare) Particular in one's conduct; scrupulous, painstaking; choosy. 
+adj	(dated) Having particular tastes; fussy, fastidious. 
+adj	(obsolete) Particular as regards rules or qualities; strict. 
+adj	Showing or requiring great precision or sensitive discernment; subtle. 
+adj	(obsolete) Easily injured; delicate; dainty. 
+adj	(obsolete) Doubtful, as to the outcome; risky. 
+adv	(colloquial) Nicely. 
+n	niceness. 
+v	(transitive, computing, Unix) To run a process with a specified (usually lower) priority. 
+n	A coastal city, the capital of the Alpes-Maritimes department, in the Provence-Alpes-Côte d'Azur region in southeast France. 
+n	A surname. (pronounced /ni:s/ or /naɪs/) 
+n	A census-designated place in Lake County, California, United States. 
+n	(UK) Initialism of National Institute for Health and Care Excellence. 

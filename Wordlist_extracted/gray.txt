@@ -1,0 +1,24 @@
+adj	Having a color somewhere between white and black, as the ash of an ember. 
+adj	Dreary, gloomy. 
+adj	Having an indistinct, disputed or uncertain quality. 
+adj	Gray-haired. 
+adj	Old. 
+adj	Relating to older people. 
+v	To become gray. 
+v	To cause to become gray. 
+v	(demography, slang) To turn progressively older, alluding to graying of hair through aging (used in context of the population of a geographic region) 
+v	(transitive, photography) To give a soft effect to (a photograph) by covering the negative while printing with a ground-glass plate. 
+n	An achromatic colour intermediate between black and white. 
+n	An animal or thing of grey colour, such as a horse, badger, or salmon. 
+n	(chiefly US, ufology) an extraterrestrial humanoid with grayish skin, bulbous black eyes, and an enlarged head. 
+n	(US, two-up) A penny with a tail on both sides, used for cheating. 
+n	In the International System of Units, the derived unit of absorbed dose of radiation (radiation absorbed by a patient); one joule of energy absorbed per kilogram of the patient's mass. Symbol: Gy 
+n	A surname transferred from the nickname; originally a nickname for someone with a gray beard or hair. 
+n	A male given name. 
+n	A city, the county seat of Jones County, Georgia. 
+n	A minor city in Audubon County, Iowa. 
+n	An unincorporated community in Knox County, Kentucky. 
+n	A census-designated place in Terrebonne Parish, Louisiana. 
+n	A town and census-designated place therein, in Cumberland County, Maine. 
+n	A census-designated place in Washington County, Tennessee. 
+n	A rural locality in north-east Tasmania, Australia. 

@@ -1,0 +1,7 @@
+adj	Of or pertaining to the practice of medicine. 
+adj	Intended to have a therapeutic effect; medicinal. 
+adj	Requiring medical treatment. 
+adj	Pertaining to the state of one's health. 
+adj	(UK) Pertaining to or requiring treatment by other than surgical means. 
+n	(informal) A medical examination. 
+v	To check someone's health. 

@@ -1,0 +1,7 @@
+n	A single item in a statistical study. 
+n	A quantity calculated from the data in a sample, which characterises an important aspect in the sample (such as mean or standard deviation). 
+n	A person, or personal event, reduced to being an item of statistical information. 
+v	(transitive) To analyze or describe using statistics. 
+v	(intransitive) To cite or calculate statistics. 
+v	(transitive) To comprise (as statistics) 
+adj	Alternative form of statistical [Of or pertaining to statistics.] 

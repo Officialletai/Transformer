@@ -1,0 +1,75 @@
+n	(pharmacology) A dose of liquid medicine in the form of a drop (sense 1). 
+n	(pharmacology, chiefly in the plural) A liquid medicine that is intended to be administered in drops (sense 1). 
+n	(chiefly Australia, Britain) A small amount of an alcoholic beverage. 
+n	(chiefly Britain) Usually preceded by the: alcoholic spirits in general. 
+n	(Ireland, informal) A single measure of whisky. 
+n	Often preceded by a defining word: a small, round piece of hard candy, such as a lemon drop; a lozenge. 
+n	(architecture) An ornament resembling a pendant; a gutta. 
+n	The cover mounted on a swivel over a keyhole that rests over the keyhole when not in use to keep out debris, but is swiveled out of the way before inserting the key. 
+n	(agriculture) A fruit which has fallen off a tree, etc., or has been knocked off accidentally, rather than picked. 
+n	(American football) A dropped pass. 
+n	(law enforcement) A trapdoor (“hinged platform”) on a gallows; a gallows itself. 
+n	(online gaming, video games) An item made available for the player to pick up from the remains of a defeated enemy. 
+n	(technology) 
+n	(theater) A curtain which falls in front of a theatrical stage; also, a section of (cloth) scenery lowered on to the stage like a curtain. 
+n	An act of moving downwards under the force of gravity; a descent, a fall. 
+n	An instance of making a delivery of people, supplies, or things, especially by parachute out of an aircraft (an airdrop), but also by truck, etc. 
+n	A release (of music, a video game, etc). 
+n	(gambling) The amount of money that a gambler exchanges for chips in a casino. 
+n	(law enforcement, informal) Preceded by the: execution by hanging. 
+n	(sports) 
+n	(US, banking, dated) An unsolicited credit card issue. 
+n	A decline in degree, quality, quantity, or rate. 
+n	(sewing) 
+n	The distance below a cliff or other high position through which someone or something could fall; hence, a steep slope. 
+n	The vertical length of a hanging curtain. 
+n	(engineering) The distance of the axis of a shaft below the base of a hanger. 
+n	(law enforcement) The distance that a person drops when being executed by hanging. 
+n	(nautical) The depth of a (square) sail (generally applied to the courses only); the vertical dimension of a sail. 
+n	A place where items or supplies may be left for others to collect, whether openly (as with a mail drop), or secretly or illegally (as in crime or espionage); a drop-off point. 
+n	(informal) Only used in get the drop on, have the drop on An advantage. 
+n	(music) A point in a song, usually electronic music such as dubstep, house, trace, or trap, where there is a very noticeable and pleasing change in bass, tempo, and/or overall tone; a climax, a highlight. 
+v	(intransitive) Of a liquid: to fall in drops or droplets. 
+v	(intransitive, also figuratively) To fall (straight down) under the influence of gravity, like a drop of liquid. 
+v	(intransitive) To fall or sink quickly or suddenly to the ground. 
+v	(intransitive) To collapse in exhaustion or injury; also, to fall dead, or to fall in death. 
+v	(intransitive) To fall into a particular condition or state. 
+v	(intransitive) To come to an end (by not being kept up); to lapse, to stop. 
+v	(intransitive) Of a song or sound: to lower in key, pitch, tempo, or other quality. 
+v	(intransitive) Of a voice: to lower in timbre, often due to puberty. 
+v	(intransitive) To fall behind or to the rear of a group of people, etc., as a result of not keeping up with those at the front. 
+v	(intransitive) Usually followed by by, in, or into: of a person: to visit someone or somewhere informally or without a prior appointment. 
+v	(intransitive, computing, music, television, colloquial) Of a programme, software, a music album or song, etc.: to enter public distribution. 
+v	(intransitive, gambling) To drop out of the betting. 
+v	(intransitive, physiology, informal) Of the testicles: to hang further away from the body and begin producing sperm due to puberty. 
+v	(intransitive, obsolete) To let drops fall; to discharge itself in drops. 
+v	(transitive) To drip (a liquid) in drops or small amounts. 
+v	(transitive, ergative, also figuratively) To let (something) fall; to allow (something) to fall (either by releasing hold of, or losing one's grip on). 
+v	To quickly lower or take down (one's trousers), especially in public. 
+v	(cooking) To cook (food, especially fast food), particularly by lowering into hot oil to deep-fry, or by grilling. 
+v	(transitive) To reduce; to make smaller. 
+v	(transitive) Of an animal (usually a sheep): to give birth to (young); of a bird: to lay (an egg). 
+v	(transitive) To mention (something) casually or incidentally, usually in conversation. 
+v	(transitive) To let (a letter, etc.) fall into a postbox; hence, to send (a letter, email, or other message) in an offhand manner. 
+v	(transitive) To make (someone or something) fall to the ground from a blow, gunshot, etc.; to bring down, to shoot down. 
+v	(transitive) To set down (someone or something) from a vehicle; to stop and deliver or deposit (someone or something); to drop off. 
+v	(transitive) To lower (a sound, a voice, etc.) in pitch or volume. 
+v	(transitive, music) To tune (a guitar string, etc.) to a lower note. 
+v	(transitive) To cease concerning oneself over (someone or something); to have nothing more to do with (a discussion, subject, etc.). 
+v	(transitive) To dispose or get rid of (something); to lose, to remove. 
+v	(transitive) To cease to include (something), as if on a list; to dismiss, to eject, to expel. 
+v	(transitive) To cancel or cease to participate in (a scheduled course, event, or project). 
+v	To lose, spend, or otherwise part with (money). 
+v	To pass or use (counterfeit cheques, money, etc.). 
+v	To impart (something). 
+v	Especially in drop acid: to swallow (a drug, particularly LSD). 
+v	(transitive, computing, music, television, colloquial) To release (a programme, software, a music album or song, etc.) to the public. 
+v	(transitive, linguistics) To fail to write, or (especially) to pronounce (a syllable, letter, etc.). 
+v	To play (a portion of music) in the manner of a disc jockey. 
+v	To perform (rap music). 
+v	(originally US) To (unexpectedly) lose (a competition, game, etc.). 
+v	(cricket) Of a fielder: to fail to dismiss (a batsman) by accidentally dropping a batted ball that had initially been caught. 
+v	(rugby) To score (a goal) by means of a drop kick. 
+v	(transitive, archaic) To cover (something) with or as if with drops, especially of a different colour; to bedrop, to variegate. 
+v	(intransitive, computing) To enter a more basic interface. 
+v	(transitive, computing) To present the user with a more basic interface. 

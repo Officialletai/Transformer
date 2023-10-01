@@ -1,0 +1,12 @@
+adj	Very large in size or extent. 
+adj	Very large or bulky and heavy and solid. 
+adj	(informal) To a very great extent; total, utter. 
+adj	(colloquial) Of particularly exceptional quality or value; awesome. 
+adj	(colloquial, informal, Ireland) Outstanding, beautiful. 
+adj	(medicine) Affecting a large portion of the body, or severe. 
+adj	(physics) Having a large mass. 
+adj	(physics, of a particle) Having any mass. 
+adj	(geology) Homogenous, unstructured. 
+adj	(mineralogy) Not having an obvious crystalline structure. 
+n	(mineralogy) A homogeneous mass of rock, not layered and without an obvious crystal structure. 
+n	(MLE, slang) A group of people from a locality, or sharing a collective aim, interest, etc. 

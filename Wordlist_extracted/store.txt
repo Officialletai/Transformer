@@ -1,0 +1,10 @@
+n	A place where items may be accumulated or routinely kept. 
+n	A supply held in storage. 
+n	(mainly North American) A place where items may be purchased; a shop. 
+n	(computing, dated) Memory. 
+n	A great quantity or number; abundance. 
+n	A head of store cattle (feeder cattle to be sold to others for finishing); a store cattle beast. 
+v	(transitive) To keep (something) while not in use, generally in a place meant for that purpose. 
+v	Contain. 
+v	Have the capacity and capability to contain. 
+v	(transitive, computing) To write (something) into memory or registers. 

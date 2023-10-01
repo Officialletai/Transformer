@@ -1,0 +1,16 @@
+n	(biology) A physical, chemical, infective agent aggressing an organism. 
+n	(biology) Aggression toward an organism resulting in a response in an attempt to restore previous conditions. 
+n	(countable, physics) The internal distribution of force across a small boundary per unit area of that boundary (pressure) within a body. It causes strain or deformation and is typically symbolised by σ or τ. 
+n	(countable, physics) Force externally applied to a body which cause internal stress within the body. 
+n	(uncountable) Emotional pressure suffered by a human being or other animal. 
+n	(countable, phonetics, loosely) A suprasegmental feature of a language having additional attention raised to a sound, word or word group by means of of loudness, duration or pitch; phonological prominence. 
+n	(countable, phonetics, strictly) The suprasegmental feature of a language having additional attention raised to a sound by means of of loudness and/or duration; phonological prominence phonetically achieved by means of dynamics as distinct from pitch. 
+n	(uncountable) Emphasis placed on a particular point in an argument or discussion (whether spoken or written). 
+n	(Scotland, law) distress; the act of distraining; also, the thing distrained. 
+v	(transitive) To apply force to (a body or structure) causing strain. 
+v	(transitive) To apply emotional pressure to (a person or animal). 
+v	(intransitive, informal) To suffer stress; to worry or be agitated. 
+v	(transitive) To emphasise (a syllable of a word). 
+v	(transitive) To emphasise (words in speaking). 
+v	(transitive) To emphasise (a point) in an argument or discussion. 
+n	Obsolete form of distress. [Physical or emotional discomfort, suffering, or alarm, particularly of a more acute nature.] 

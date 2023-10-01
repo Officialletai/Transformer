@@ -1,0 +1,15 @@
+adj	From or in a nearby location. 
+adj	(computing, of a variable or identifier) Having limited scope (either lexical or dynamic); only being accessible within a certain portion of a program. 
+adj	(mathematics, not comparable, of a condition or state) Applying to each point in a space rather than the space as a whole. 
+adj	(medicine) Of or pertaining to a restricted part of an organism. 
+adj	Descended from an indigenous population. 
+n	A person who lives near a given place. 
+n	A branch of a nationwide organization such as a trade union. 
+n	(Britain) One's nearest or regularly frequented public house or bar. 
+n	(programming) A locally scoped identifier. 
+n	(US, slang, journalism) An item of news relating to the place where the newspaper is published. 
+n	(finance) An independent trader who acts for themselves rather than on behalf of investors. 
+n	(fandom slang, derogatory) A Twitter user who is not a part of Stan Twitter. 
+adv	In the local area; within a city, state, country, etc. 
+n	(rail transport) Clipping of local train. [(rail transport) A train (either the service or the train itself) making stops at all stations along its route.] 
+n	(colloquial, medicine) Clipping of local anesthetic. [(medicine) An anesthetic (anesthetic substance) that causes loss of sensation only to the area to which it is applied.] 

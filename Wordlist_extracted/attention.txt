@@ -1,0 +1,4 @@
+n	(uncountable) Mental focus. 
+n	(countable) An action or remark expressing concern for or interest in someone or something, especially romantic interest. 
+n	(uncountable, military) A state of alertness in the standing position. 
+n	(uncountable, machine learning) A technique in neural networks that mimics cognitive attention, enhancing the important parts of the input data while giving less priority to the rest. 

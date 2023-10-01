@@ -1,0 +1,8 @@
+adj	Intended for defence; protective. 
+adj	Intended to deter attack. 
+adj	Performed so as to minimise risk. 
+adj	Displaying an inordinate sensitivity to criticism or intrusion; oversensitive; thin-skinned. 
+adj	(cricket) Of a bowling or fielding tactic designed to prevent the other side from scoring runs; of a batting tactic designed to prevent being out. 
+adj	(chiefly sports) Pertaining to defense, as opposed to attack. 
+adj	In a state or posture of defense. 
+n	A means, attitude or position of defense. 

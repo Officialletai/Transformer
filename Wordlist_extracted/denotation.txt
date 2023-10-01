@@ -1,0 +1,6 @@
+n	The act of denoting, or something (such as a symbol) that denotes 
+n	(logic, linguistics, semiotics) The primary, surface, literal, or explicit meaning of a signifier such as a word, phrase, or symbol; that which a word denotes, as contrasted with its connotation; the aggregate or set of objects of which a word may be predicated. 
+n	(philosophy, logic) The intension and extension of a word 
+n	(semantics) Something signified or referred to; a particular meaning of a symbol 
+n	(computer science) Any mathematical object which describes the meanings of expressions from the languages, formalized in the theory of denotational semantics 
+n	(media studies) A first level of analysis: what the audience can visually see on a page. Denotation often refers to something literal, and avoids being a metaphor. 

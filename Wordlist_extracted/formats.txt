@@ -1,0 +1,7 @@
+n	The layout of a publication or document. 
+n	(by extension) The form of presentation of something. 
+n	(radio) The type of programming that a radio station broadcasts; such as a certain genre of music, news, sports, talk, etc. 
+n	(computing) A file type. 
+v	To create or edit the layout of a document. 
+v	Change a document so it will fit onto a different type of page. 
+v	(computing) To prepare a mass storage medium for initial use, erasing any existing data in the process. 

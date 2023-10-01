@@ -1,0 +1,4 @@
+adj	Using manipulation purposefully. 
+adj	Tending to manipulate. 
+adj	(derogatory) Reaching one's goals at the expense of other people by using them. 
+n	(mathematics) A manipulable object designed to demonstrate a mathematical concept. 

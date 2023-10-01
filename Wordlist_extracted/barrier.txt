@@ -1,0 +1,9 @@
+n	A structure that bars passage. 
+n	An obstacle or impediment. 
+n	A boundary or limit. 
+n	(grammar) A node (in government and binding theory) said to intervene between other nodes A and B if it is a potential governor for B, c-commands B, and does not c-command A. 
+n	(physiology) A separation between two areas of the body where specialized cells allow the entry of certain substances but prevent the entry of others. 
+n	(historical) The lists in a tournament. 
+n	(historical, in the plural) A martial exercise of the 15th and 16th centuries. 
+v	(transitive) To block or obstruct with a barrier. 
+n	A surname from French. 

@@ -1,0 +1,16 @@
+adj	Of or relating to the language spoken in ancient Rome and other cities of Latium which is now rarely used. 
+adj	Of or relating to the script of the language spoken in ancient Rome and many modern alphabets. 
+adj	Of or relating to ancient Rome or its Empire. 
+adj	Of or relating to Latium (modern Lazio), the region around Rome. 
+adj	Of or relating to the customs and people descended from the ancient Romans and their Empire. 
+adj	Of or from Latin America or of Latin American culture. 
+adj	(Christianity) Roman Catholic; of or pertaining to the Roman Rite of the Catholic Church. 
+n	(uncountable) The language of the ancient Romans, other Latins and of the Roman Catholic church, especially Classical Latin. 
+n	The Latin alphabet or writing system. 
+n	(printing) The nonsense placeholder text (often based on real Latin) used in greeking. 
+n	(countable) A person native to ancient Rome or its Empire. 
+n	(countable) A person from one of the modern European countries (including Italy, Spain etc.) whose language is descended from Latin. 
+n	(countable) A person from Latin America. 
+n	(Christianity) A person adhering to Roman Catholic practice. 
+n	A person native to the ancient region of Latium. 
+n	A surname from Middle English. 

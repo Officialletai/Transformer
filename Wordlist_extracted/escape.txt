@@ -1,0 +1,17 @@
+v	(intransitive) To get free; to free oneself. 
+v	(transitive) To avoid (any unpleasant person or thing); to elude, get away from. 
+v	(intransitive) To avoid capture; to get away with something, avoid punishment. 
+v	(transitive) To elude the observation or notice of; to not be seen or remembered by. 
+v	(transitive, computing) To cause (a single character, or all such characters in a string) to be interpreted literally, instead of with any special meaning it would usually have in the same context, often by prefixing with another character. 
+v	(computing) To halt a program or command by pressing a key (such as the "Esc" key) or combination of keys. 
+n	The act of leaving a dangerous or unpleasant situation. 
+n	Leakage or outflow, as of steam or a liquid, or an electric current through defective insulation. 
+n	Something that has escaped; an escapee. 
+n	A holiday, viewed as time away from the vicissitudes of life. 
+n	(computing) escape key 
+n	(programming) The text character represented by 27 (decimal) or 1B (hexadecimal). 
+n	(snooker) A successful shot from a snooker position. 
+n	(manufacturing) A defective product that is allowed to leave a manufacturing facility. 
+n	(obsolete) That which escapes attention or restraint; a mistake, oversight, or transgression. 
+n	(obsolete) A sally. 
+n	(architecture) An apophyge. 

@@ -1,0 +1,13 @@
+n	A roving motion; course without definite direction; lack of rule or method; chance. 
+n	(obsolete) Speed, full speed; impetuosity, force. 
+n	(obsolete) The full range of a bullet or other projectile; hence, the angle at which a weapon is tilted to allow the greatest range. 
+n	(figuratively, colloquial) An undefined, unknown or unimportant person; a person of no consequence. 
+n	(mining) The direction of a rake-vein. 
+n	(printing, historical) A frame for composing type. 
+adj	Having unpredictable outcomes and, in the ideal case, all outcomes equally probable; resulting from such selection; lacking statistical correlation. 
+adj	(mathematics) Of or relating to probability distribution. 
+adj	(computing) Pseudorandom; mimicking the result of random selection. 
+adj	(somewhat colloquial) Representative and undistinguished; typical and average; selected for no particular reason. 
+adj	(somewhat colloquial) Apropos of nothing; lacking context; unexpected; having apparent lack of plan, cause, or reason. 
+adj	(colloquial) Characterized by or often saying random things; habitually using non sequiturs. 
+adj	(UK, slang) Being out of the ordinary; unusual or unexpected. 

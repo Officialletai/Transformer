@@ -1,0 +1,12 @@
+adj	Final; last in a series. 
+adj	(of a syllable) Last in a word or other utterance. 
+adj	Being the greatest possible; maximum; most extreme. 
+adj	Being the most distant or extreme; farthest. 
+adj	That will happen at some time; eventual. 
+adj	Last in a train of progression or consequences; tended toward by all that precedes; arrived at, as the last result; final. 
+adj	Incapable of further analysis; incapable of further division or separation; constituent; elemental. 
+n	The most basic or fundamental of a set of things 
+n	The final or most distant point; the conclusion 
+n	The greatest extremity; the maximum 
+v	(transitive, archaic) To finish; to complete. 
+n	(uncountable, sports) Ellipsis of ultimate frisbee/ultimate disc. 

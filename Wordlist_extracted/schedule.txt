@@ -1,0 +1,11 @@
+n	(obsolete) A slip of paper; a short note. 
+n	(law) A written or printed table of information, often forming an annex or appendix to a statute or other regulatory instrument, or to a legal contract. 
+n	(US, law) One of the five divisions into which controlled drugs are classified, or the restrictions denoted by such classification. 
+n	A serial record of items, systematically arranged. 
+n	A procedural plan, usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur. 
+n	(computer science) An allocation or ordering of a set of tasks on one or several resources. 
+v	To create a time-schedule. 
+v	To plan an activity at a specific date or time in the future. 
+v	To add a name to the list of people who are participating in something. 
+v	(Australia, medicine) To admit (a person) to hospital as an involuntary patient under a schedule of the applicable mental health law. 
+n	(law, formal) Alternative letter-case form of schedule, commonly used in legislation and legal documents. [(obsolete) A slip of paper; a short note.] 

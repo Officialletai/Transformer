@@ -1,0 +1,10 @@
+adj	Necessary. 
+adj	Very important; of high importance. 
+adj	(biology) Necessary for survival but not synthesized by the organism, thus needing to be ingested. 
+adj	Being in the basic form; showing its essence. 
+adj	Really existing; existent. 
+adj	(geometry) Such that each complementary region is irreducible, the boundary of each complementary region is incompressible by disks and monogons in the complementary region, and no leaf is a sphere or a torus bounding a solid torus in the manifold. 
+adj	(medicine) Idiopathic. 
+adj	Having the nature of essence; not physical. 
+n	A necessary ingredient. 
+n	A fundamental ingredient. 

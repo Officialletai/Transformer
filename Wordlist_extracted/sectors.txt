@@ -1,0 +1,12 @@
+n	section 
+n	zone (designated area). 
+n	(geometry) part of a circle, extending to the center; circular sector 
+n	(computer hardware) fixed-sized unit (traditionally 512 bytes) of sequential data stored on a track of a digital medium (compare to block) 
+n	(military) an area designated by boundaries within which a unit operates, and for which it is responsible 
+n	(military) one of the subdivisions of a coastal frontier 
+n	(science fiction) a fictional region of space designated for navigational or governance purposes. 
+n	(calculation) an instrument consisting of two rulers of equal length joined by a hinge. 
+n	a field of economic activity 
+n	(engineering) A toothed gear whose face is the arc of a circle. 
+n	(motor racing) A fixed, continuous section of the track, such that sectors do not overlap but all sectors make up the whole track. 
+n	(climbing) An area of a crag, consisting of various routes 

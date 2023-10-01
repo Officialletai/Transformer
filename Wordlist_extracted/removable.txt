@@ -1,0 +1,2 @@
+adj	Able to be removed. 
+n	Something that can be removed. 

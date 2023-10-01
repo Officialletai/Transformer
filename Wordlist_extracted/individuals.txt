@@ -1,0 +1,7 @@
+n	A person considered alone, rather than as belonging to a group of people. 
+n	(law) A single physical human being as a legal subject, as opposed to a legal person such as a corporation. 
+n	An object, be it a thing or an agent, as contrasted to a class. 
+n	(statistics) An element belonging to a population. 
+adj	Relating to a single person or thing as opposed to more than one. 
+adj	Intended for a single person as opposed to more than one person. 
+adj	Not divisible without losing its identity. 

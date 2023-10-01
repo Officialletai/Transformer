@@ -1,0 +1,10 @@
+n	A centre, midpoint. 
+n	The part between the beginning and the end. 
+n	(cricket) The middle stump. 
+n	The central part of a human body; the waist. 
+n	(grammar) The middle voice. 
+adj	Located in the middle; in between. 
+adj	Central. 
+adj	(grammar) Pertaining to the middle voice. 
+v	(obsolete) To take a middle view of. 
+v	(obsolete, nautical, transitive) To double (a rope) into two equal portions; to fold in the middle. 

@@ -1,0 +1,5 @@
+n	Any period of seven consecutive days. 
+n	A period of seven days beginning with Sunday or Monday. 
+n	A period of five days beginning with Monday. 
+n	A subdivision of the month into longer periods of work days punctuated by shorter weekend periods of days for markets, rest, or religious observation such as a sabbath. 
+adj	(postpositive) Seven days after (sometimes before) a specified date. 

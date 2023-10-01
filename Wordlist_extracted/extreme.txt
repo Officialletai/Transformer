@@ -1,0 +1,13 @@
+adj	Of a place, the most remote, farthest or outermost. 
+adj	In the greatest or highest degree; intense. 
+adj	Excessive, or far beyond the norm. 
+adj	Drastic, or of great severity. 
+adj	Of sports, difficult or dangerous; performed in a hazardous environment. 
+adj	(archaic) Ultimate, final or last. 
+n	The greatest or utmost point, degree or condition. 
+n	Each of the things at opposite ends of a range or scale. 
+n	(obsolete, plural only) One of the last moments of life. 
+n	A drastic expedient. 
+n	(obsolete, plural only) Hardships, straits. 
+n	(mathematics) Either of the two numbers at the ends of a proportion, as 1 and 6 in 1:2=3:6. 
+adv	(archaic) Extremely. 

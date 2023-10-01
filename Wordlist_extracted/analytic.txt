@@ -1,0 +1,8 @@
+adj	Of, or relating to any form of analysis, or to analytics. 
+adj	Of, or relating to division into elements or principles. 
+adj	Having the ability to analyse. 
+adj	(logic, of a proposition) that follows necessarily; tautologous. 
+adj	(mathematics) Of, or relating to algebra or a similar method of analysis. 
+adj	(mathematical analysis) Being defined in terms of objects of differential calculus such as derivatives. 
+adj	(mathematics, of a function) Being able to be locally represented by convergent power series around every point of the domain. 
+adj	(linguistics) Of a language, having a grammar principally dependent on the arrangement of uninflected words within sentences to indicate meaning. Compare synthetic. 
