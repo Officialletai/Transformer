@@ -1,0 +1,7 @@
+adj	Desirous; keen to do or obtain something. 
+adj	(computing theory) Not employing lazy evaluation; calculating results immediately, rather than deferring calculation until they are required. 
+adj	(dated) Brittle; inflexible; not ductile. 
+adj	(obsolete, literally) Sharp; sour; acid. 
+adj	(obsolete, figuratively) Sharp; keen; bitter; severe. 
+n	A surname. 
+n	Alternative form of eagre (tidal bore). [a tidal bore] 

@@ -1,0 +1,4 @@
+adj	Not variable; unalterable; uniform; always having the same value. 
+adj	(mathematics) Constant. 
+adj	(by extension, grammar, of a word, or a grammatical class) That cannot undergo inflection, conjugation or declension. 
+n	Something that does not vary; a constant. 

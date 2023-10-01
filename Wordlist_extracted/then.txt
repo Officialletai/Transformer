@@ -1,0 +1,10 @@
+adv	(temporal location) At that time. 
+adv	(temporal location) Soon afterward. 
+adv	(sequence) Next in order of place. 
+adv	In addition; also; besides. 
+adv	(conjunctive) In that case. 
+adv	(sequence) At the same time; on the other hand. 
+adv	(UK, dialect, affirmation) Used to contradict an assertion. 
+adj	Being so at that time. 
+n	That time 
+n	A surname. 

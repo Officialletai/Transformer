@@ -1,0 +1,26 @@
+adv	(manner) Accurately, competently, satisfactorily. 
+adv	(manner) Completely, fully. 
+adv	(degree) To a significant degree. 
+adv	(degree, Britain, slang) Very (as a general-purpose intensifier). 
+adv	In a desirable manner; so as one could wish; satisfactorily; favourably; advantageously. 
+adj	In good health. 
+adj	(hypercorrect) Good, content. 
+adj	(archaic) Prudent; good; well-advised. 
+adj	(archaic, now chiefly Bermuda) Good to eat; tasty, delicious. 
+n	A hole sunk into the ground as a source of water, oil, natural gas or other fluids. 
+n	A place where a liquid such as water surfaces naturally; a spring. 
+n	A small depression suitable for holding liquid or other objects. 
+n	(figuratively) A source of supply. 
+n	(nautical) A vertical, cylindrical trunk in a ship, reaching down to the lowest part of the hull, through which the bilge pumps operate. 
+n	(nautical) The cockpit of a sailboat. 
+n	(nautical) A compartment in the middle of the hold of a fishing vessel, made tight at the sides, but having holes perforated in the bottom to let in water to keep fish alive while they are transported to market. 
+n	(nautical) A vertical passage in the stern into which an auxiliary screw propeller may be drawn up out of the water. 
+n	(military) A hole or excavation in the earth, in mining, from which run branches or galleries. 
+n	(architecture) An opening through the floors of a building, as for a staircase or an elevator; a wellhole. 
+n	The open space between the bench and the counsel tables in a courtroom. 
+n	(metalworking) The lower part of a furnace, into which the metal falls. 
+n	A well drink. 
+n	(video games) The playfield of Tetris and similar video games, into which the blocks fall. 
+n	(biology) In a microtiter plate, each of the small equal circular or square sections which serve as test tubes. 
+v	(intransitive) To issue forth, as water from the earth; to flow; to spring. 
+v	(intransitive) To have something seep out of the surface. 

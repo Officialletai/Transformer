@@ -1,0 +1,31 @@
+adj	Free from or lacking moisture. 
+adj	Unable to produce a liquid, as water, (petrochemistry) oil, or (farming) milk. 
+adj	(masonry) Built without or lacking mortar. 
+adj	(chemistry) Anhydrous: free from or lacking water in any state, regardless of the presence of other liquids. 
+adj	(figuratively) Athirst, eager. 
+adj	Free from or lacking alcohol or alcoholic beverages. 
+adj	(law) Describing an area where sales of alcoholic or strong alcoholic beverages are banned. 
+adj	(wine and other alcoholic beverages, ginger ale) Low in sugar; lacking sugar; unsweetened. 
+adj	(humor) Amusing without showing amusement. 
+adj	Lacking interest, boring. 
+adj	(fine arts) Exhibiting precise execution lacking delicate contours or soft transitions of color. 
+adj	(aviation) Not using afterburners or water injection for increased thrust. 
+adj	(sciences, somewhat derogatory) Involving computations rather than work with biological or chemical matter. 
+adj	(of a sound recording) Free from applied audio effects (especially reverb). 
+adj	Without a usual complement or consummation; impotent. 
+adj	Of a bite from an animal: not containing the usual venom. 
+adj	(Christianity) Of a mass, service, or rite: involving neither consecration nor communion. 
+n	The process by which something is dried. 
+n	(US) A prohibitionist (of alcoholic beverages). 
+n	An area with little or no rain, or sheltered from it. 
+n	(chiefly Australia, with "the") The dry season. 
+n	(Australia) An area of waterless country. 
+n	Unsweetened ginger ale; dry ginger. 
+n	(Britain, UK politics) A radical or hard-line Conservative; especially, one who supported the policies of British Prime Minister Margaret Thatcher in the 1980s. 
+v	(intransitive) To lose moisture. 
+v	(transitive) To remove moisture from. 
+v	(transitive, figuratively) To exhaust; to cause to run dry. 
+v	(intransitive, informal) For an actor to forget his or her lines while performing. 
+adj	(software engineering) Of code, having the quality of adhering to the principle of DRY; containing as little repetition as possible. 
+v	(software engineering) To cause code to become DRY; to remove repetition from code. 
+n	A surname. 

@@ -1,0 +1,11 @@
+adj	Quick; acting without delay. 
+adj	On time; punctual. 
+adj	(archaic) Ready; willing to act. 
+adj	(finance) Front: closest or nearest, in futures trading. 
+n	A reminder or cue. 
+n	(business, dated) A time limit given for payment of an account for produce purchased, this limit varying with different goods. 
+n	(computing) A sequence of characters that is displayed to indicate that a computer is ready to receive input. 
+n	(writing) A suggestion for inspiration given to an author. 
+v	(transitive) To lead (someone) toward what they should say or do. 
+v	(transitive, theater and television) To show or tell an actor/person the words they should be saying, or actions they should be doing. 
+v	(transitive) To initiate; to cause or lead to. 

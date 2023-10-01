@@ -1,0 +1,15 @@
+adj	Satisfied, pleased, contented. 
+n	Satisfaction, contentment; pleasure. 
+n	(obsolete) Acquiescence without examination. 
+n	That which contents or satisfies; that which if attained would make one happy. 
+n	(UK, House of Lords) An expression of assent to a bill or motion; an affirmative vote. 
+n	(UK, House of Lords, by metonymy) A member who votes in assent. 
+v	(transitive) To give contentment or satisfaction; to satisfy; to make happy. 
+v	(transitive, obsolete) To satisfy the expectations of; to pay; to requite. 
+adj	(obsolete) Contained. 
+n	(uncountable) That which is contained. 
+n	Subject matter; semantic information (or a portion or body thereof); that which is contained in writing, speech, video, etc. 
+n	The amount of material contained; contents. 
+n	(obsolete) Capacity for containing. 
+n	(mathematics) The n-dimensional space contained by an n-dimensional polytope (called volume in the case of a polyhedron and area in the case of a polygon); length, area or volume, generalized to an arbitrary number of dimensions. 
+n	(algebra, ring theory, of a polynomial with coefficients in a GCD domain) The greatest common divisor of the coefficients; (of a polynomial with coefficients in an integral domain) the common factor of the coefficients which, when removed, leaves the adjusted coefficients with no common factor that is noninvertible. 

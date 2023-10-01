@@ -1,0 +1,17 @@
+adj	Likely to be affected by or to experience something. 
+adj	Conditional upon something; used with to. 
+adj	Placed or situated under; lying below, or in a lower situation. 
+adj	Placed under the power of another; owing allegiance to a particular sovereign or state. 
+n	(grammar) In a clause: the word or word group (usually a noun phrase) about whom the statement is made. In active clauses with verbs denoting an action, the subject and the actor are usually the same. 
+n	An actor; one who takes action. 
+n	The main topic of a paper, work of art, discussion, field of study, etc. 
+n	A particular area of study. 
+n	A citizen in a monarchy. 
+n	A person ruled over by another, especially a monarch or state authority. 
+n	(music) The main theme or melody, especially in a fugue. 
+n	A human, animal or an inanimate object that is being examined, treated, analysed, etc. 
+n	(philosophy) A being that has subjective experiences, subjective consciousness, or a relationship with another entity. 
+n	(logic) That of which something is stated. 
+n	(mathematics) The variable in terms of which an expression is defined. 
+v	(transitive, construed with to) To cause (someone or something) to undergo a particular experience, especially one that is unpleasant or unwanted. 
+v	(transitive) To make subordinate or subservient; to subdue or enslave. 

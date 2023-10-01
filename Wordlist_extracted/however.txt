@@ -1,0 +1,6 @@
+adv	(conjunctive) Nevertheless; yet, still; in spite of that. 
+adv	(conjunctive) In contrast. 
+adv	(degree) To whatever degree or extent. 
+adv	(informal, manner) In any way that one likes or chooses; in a haphazard or spontaneous way. 
+adv	(interrogative) How ever: an emphatic form of how, used to ask in what manner. 
+adv	(obsolete) In any case, at any rate, at all events. 

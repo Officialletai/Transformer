@@ -1,0 +1,7 @@
+adj	Crowded with business or activities; having a great deal going on. 
+adj	Engaged in activity or by someone else. 
+adj	Having a lot going on; complicated or intricate. 
+adj	Officious; meddling. 
+v	(transitive, usually reflexive) To make somebody busy or active; to occupy. 
+v	(transitive) To rush somebody. 
+n	(slang, UK, Liverpudlian, derogatory) A police officer. 

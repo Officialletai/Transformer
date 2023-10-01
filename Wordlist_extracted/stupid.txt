@@ -1,0 +1,10 @@
+adj	Lacking in intelligence or exhibiting the quality of having been done by someone lacking in intelligence. 
+adj	To the point of stupor. 
+adj	(archaic) Characterized by or in a state of stupor; paralysed. 
+adj	(archaic) Lacking sensation; inanimate; destitute of consciousness; insensate. 
+adj	Dulled in feeling or sensation; torpid. 
+adj	(slang) Amazing. 
+adj	(slang) Darn, annoying. 
+adv	(slang) Extremely. 
+n	A stupid person; a fool. 
+n	(colloquial, uncountable) The condition or state of being stupid; stupidity, stupidness. 

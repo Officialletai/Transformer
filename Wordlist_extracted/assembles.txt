@@ -1,0 +1,3 @@
+v	(transitive) To put together. 
+v	(transitive, intransitive) To gather as a group. 
+v	(computing) To translate from assembly language to machine code. 

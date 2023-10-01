@@ -1,0 +1,5 @@
+n	Damage to the body of a living thing. 
+n	Other forms of damage sustained by a living thing, e.g. psychologically. 
+n	The violation of a person's reputation, rights, property, or interests. 
+n	(archaic) Injustice. 
+v	(obsolete) To wrong, to injure. 

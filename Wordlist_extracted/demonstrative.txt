@@ -1,0 +1,5 @@
+adj	that serves to demonstrate, show or prove 
+adj	given to open displays of emotion 
+adj	(grammar) that specifies the thing or person referred to 
+n	A demonstrative adjective. 
+n	A demonstrative pronoun. 

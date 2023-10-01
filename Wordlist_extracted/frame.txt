@@ -1,0 +1,43 @@
+v	(transitive) To fit, as for a specific end or purpose; make suitable or comfortable; adapt; adjust. 
+v	(transitive) To construct by fitting together or uniting various parts; fabricate by union of constituent parts. 
+v	(transitive) To bring or put into form or order; adjust the parts or elements of; compose; contrive; plan; devise. 
+v	(transitive) Of a constructed object such as a building, to put together the structural elements. 
+v	(transitive) Of a picture such as a painting or photograph, to place inside a decorative border. 
+v	(transitive) To position visually within a fixed boundary. 
+v	(transitive) To construct in words so as to establish a context for understanding or interpretation. 
+v	(transitive, criminology) Conspire to incriminate falsely a presumably innocent person. See frameup. 
+v	(intransitive, dialectal, mining) To wash ore with the aid of a frame. 
+v	(intransitive, dialectal) To move. 
+v	(intransitive, obsolete) To proceed; to go. 
+v	(tennis) To hit (the ball) with the frame of the racquet rather than the strings (normally a mishit). 
+v	(transitive, obsolete) To strengthen; refresh; support. 
+v	(transitive, obsolete) To execute; perform. 
+v	(transitive, obsolete) To cause; to bring about; to produce. 
+v	(intransitive, obsolete) To profit; avail. 
+v	(intransitive, obsolete) To fit; accord. 
+v	(intransitive, obsolete) To succeed in doing or trying to do something; manage. 
+n	The structural elements of a building or other constructed object. 
+n	Anything composed of parts fitted and united together; a fabric; a structure. 
+n	The structure of a person's body; the human body. 
+n	A rigid, generally rectangular mounting for paper, canvas or other flexible material. 
+n	A piece of photographic film containing an image. 
+n	A context for understanding or interpretation. 
+n	(snooker) A complete game of snooker, from break-off until all the balls (or as many as necessary to win) have been potted. 
+n	(networking) An independent chunk of data sent over a network. 
+n	(bowling) A set of balls whose results are added together for scoring purposes. Usually two balls, but only one ball in the case of a strike, and three balls in the case of a strike or a spare in the last frame of a game. 
+n	(bowling) The complete set of pins to be knocked down in their starting configuration. 
+n	(horticulture) A movable structure used for the cultivation or the sheltering of plants. 
+n	(philately) The outer decorated portion of a stamp's image, often repeated on several issues although the inner picture may change. 
+n	(philately) The outer circle of a cancellation mark. 
+n	(electronics, film, animation, video games) A division of time on a multimedia timeline, such as 1/30th or 1/60th of a second. 
+n	(Internet) An individually scrollable region of a webpage. 
+n	(baseball, slang) An inning. 
+n	(engineering, dated, chiefly UK) Any of certain machines built upon or within framework. 
+n	(dated) Frame of mind; disposition. 
+n	(obsolete) Contrivance; the act of devising or scheming. 
+n	(dated, video games) A stage or location in a video game. 
+n	(genetics, "reading frame") A way of dividing nucleotide sequences into a set of consecutive triplets. 
+n	(computing) A form of knowledge representation in artificial intelligence. 
+n	(mathematics) A complete lattice in which meets distribute over arbitrary joins. 
+n	A surname. 
+n	An unincorporated community in Kanawha County, West Virginia, United States. 

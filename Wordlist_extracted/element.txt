@@ -1,0 +1,23 @@
+n	(chemistry) Any one of the simplest chemical substances that cannot be decomposed in a chemical reaction or by any chemical means and made up of atoms all having the same number of protons. 
+n	One of the four basic building blocks of matter in theories of ancient philosophers and alchemists: water, earth, fire, and air. 
+n	(usually in the plural) A basic, simple substance out of which something is made, raw material. 
+n	(law) A required aspect or component of a cause of action. A deed is regarded as a violation of law only if each element can be proved. 
+n	(set theory) One of the objects in a set. 
+n	(mathematics) One of the entries of a matrix. 
+n	Any of the teeth of a zip fastener. 
+n	A small part of the whole. 
+n	A small but present amount of a quality, a hint. 
+n	A factor, one of the conditions contributing to a result. 
+n	(obsolete) The sky. 
+n	(obsolete) Any one of the heavenly spheres believed to carry the celestial bodies. 
+n	(in the plural only, with "the") Atmospheric forces such as strong winds and rains. 
+n	A place or state of being that an individual or object is best suited to. 
+n	(Christianity, usually in the plural) The bread and wine taken at Holy Communion. 
+n	A group of people within a larger group having a particular common characteristic. 
+n	(in the plural only) The basic principles of a field of knowledge, basics, fundamentals, rudiments. 
+n	A component in electrical equipment, often in the form of a coil, having a high resistance, thereby generating heat when a current is passed through it. 
+n	(mathematics) An infinitesimal interval of a quantity, a differential. 
+n	(astronomy) An orbital element; one of the parameters needed to uniquely specify a particular orbit. 
+n	(computing) One of the conceptual objects in a markup language, usually represented in text by tags. 
+v	(obsolete) To compound of elements. 
+v	(obsolete) To constitute and be the elements of. 

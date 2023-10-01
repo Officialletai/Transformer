@@ -1,0 +1,34 @@
+n	A cover, or partial cover, for the face, used for disguise or protection. 
+n	That which disguises; a pretext or subterfuge. 
+n	A festive entertainment of dancing or other diversions, where all wear masks; a masquerade. 
+n	A person wearing a mask. 
+n	(obsolete) A dramatic performance in which the actors wore masks and represented mythical or allegorical characters. 
+n	(architecture) A grotesque head or face, used to adorn keystones and other prominent parts, to spout water in fountains, and the like. 
+n	(fortification) In a permanent fortification, a redoubt which protects the caponiere. 
+n	(fortification) A screen for a battery. 
+n	(zoology) The lower lip of the larva of a dragonfly, modified so as to form a prehensile organ. 
+n	(publishing, film) A flat covering used to block off an unwanted portion of a scene or image. 
+n	(computing, programming) A pattern of bits used in bitwise operations; bitmask. 
+n	(computer graphics) A two-color (black and white) bitmap generated from an image, used to create transparency in the image. 
+n	(heraldry) The head of a fox, shown face-on and cut off immediately behind the ears. 
+n	(psychology) A social phenomenon where autistic people learn, practice, and perform certain behaviors and suppress others in order to appear more neurotypical. 
+v	(transitive) To cover (the face or something else), in order to conceal the identity or protect against injury; to cover with a mask or visor. 
+v	(transitive) To disguise as something else. 
+v	(transitive) To conceal from view or knowledge; to cover; to hide. 
+v	(transitive, military) To conceal; also, to intervene in the line of. 
+v	(transitive, military) To cover or keep in check. 
+v	(intransitive) To take part as a masker in a masquerade. 
+v	(intransitive) To wear a mask. 
+v	(intransitive, obsolete) To disguise oneself, to be disguised in any way. 
+v	(intransitive) To conceal or disguise one's autism. 
+v	(transitive) to cover or shield a part of a design or picture in order to prevent reproduction or to safeguard the surface from the colors used when working with an air brush or painting 
+v	(transitive, computing) To set or unset (certain bits, or binary digits, within a value) by means of a bitmask. 
+v	(transitive, computing) To disable (an interrupt, etc.) by setting or unsetting the associated bit. 
+n	mesh 
+n	(UK dialectal, Scotland) The mesh of a net; a net; net-bag. 
+n	(UK dialectal) Mash. 
+v	(transitive, UK dialectal) To mash. 
+v	(transitive, UK dialectal) (brewing) To mix malt with hot water to yield wort. 
+v	(transitive, Scotland dialectal) To be infused or steeped. 
+v	(UK dialectal, Scotland) To prepare tea in a teapot; alternative to brew. 
+v	(transitive, UK dialectal) To bewilder; confuse. 

@@ -1,0 +1,9 @@
+n	Someone whose job is to speak for someone's case in a court of law; a counsel. 
+n	Anyone who argues the case of another; an intercessor. 
+n	A person who speaks in support of something, or someone. 
+n	A person who supports others to make their voices heard, or ideally for them to speak up for themselves. 
+v	(transitive) To plead in favour of; to defend by argument, before a tribunal or the public; to support, vindicate, or recommend publicly. 
+v	(transitive) To encourage support for something. 
+v	(intransitive, with for) To engage in advocacy. 
+v	(Scotland, law) To appeal from an inferior court to the Court of Session. 
+v	(Scotland, law, in higher courts) To call a case before itself for decision. 

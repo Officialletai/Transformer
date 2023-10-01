@@ -1,0 +1,14 @@
+adj	Factually right, correct; factual. 
+adj	Rationally right, correct. 
+adj	Morally right; upright, righteous, equitable; fair. 
+adj	Proper, adequate. 
+adv	Only, simply, merely. 
+adv	(sentence adverb) Used to reduce the force of an imperative; simply. 
+adv	Used to convey a less serious or formal tone 
+adv	Used to show humility. 
+adv	(degree) absolutely, positively 
+adv	Moments ago, recently. 
+adv	By a narrow margin; closely; nearly. 
+adv	Exactly, precisely, perfectly. 
+n	A joust, tournament. 
+v	To joust, fight a tournament. 

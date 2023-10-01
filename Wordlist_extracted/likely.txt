@@ -1,0 +1,12 @@
+adj	probable; having a greater-than-even chance of occurring 
+adj	(as predicate, followed by to and infinitive) Reasonably to be expected; apparently destined, probable 
+adj	appropriate, suitable; believable; having a good potential 
+adj	plausible; within the realm of credibility 
+adj	promising; apt to achieve success or yield a desired outcome 
+adj	attractive; pleasant 
+adj	(obsolete) Similar; like; alike. 
+n	Something or somebody considered likely. 
+adv	(obsolete) Similarly. 
+adv	Probably. 
+n	A surname. 
+n	A census-designated place in Modoc County, California, United States. 

@@ -1,0 +1,15 @@
+n	(firearms) A finger-operated lever used to fire a gun. 
+n	A similar device used to activate any mechanism. 
+n	An event that initiates others, or incites a response. 
+n	A concept or image that upsets somebody by sparking a negative emotional response. 
+n	(psychology) An event, experience or other stimulus that initiates a traumatic memory or a strong reaction in a person. 
+n	(music) An electronic transducer allowing a drum, cymbal, etc. to control an electronic drum unit or similar device. 
+n	(music) A device that manually lengthens (or sometimes shortens) the slide or tubing of a brass instrument, allowing the pitch range to be altered while playing. 
+n	(electronics) A pulse in an electronic circuit that initiates some component. 
+n	(databases) An SQL procedure that may be initiated when a record is inserted, updated or deleted; typically used to maintain referential integrity. 
+n	(online gaming) A text string that, when received by a player, will cause the player to execute a certain command. 
+n	(archaic) A catch to hold the wheel of a carriage on a declivity. 
+v	(transitive) To fire a weapon. 
+v	(transitive) To initiate something. 
+v	(transitive, figuratively) To spark a response, especially a negative emotional response, in (someone). 
+v	(intransitive, especially electronics) To activate; to become active. 

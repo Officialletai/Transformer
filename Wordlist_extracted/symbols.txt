@@ -1,0 +1,10 @@
+n	A character or glyph representing an idea, concept or object. 
+n	A thing considered the embodiment of a concept or object. 
+n	(linguistics) A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a referent. See also icon and index. 
+n	A summary of a dogmatic statement of faith. 
+n	(crystallography) The numerical expression which defines a plane's position relative to the assumed axes. 
+n	(obsolete) That which is thrown into a common fund; hence, an appointed or accustomed duty. 
+n	(obsolete) Share; allotment. 
+n	(programming) An internal identifier used by a debugger to relate parts of the compiled program to the corresponding names in the source code. 
+n	(telecommunications) A signalling event on a communications channel; a signal that cannot be further divided into meaningful information. 
+v	To symbolize. 

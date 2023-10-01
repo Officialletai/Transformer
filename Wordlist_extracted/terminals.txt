@@ -1,0 +1,18 @@
+n	A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes. 
+n	A harbour facility where ferries embark and disembark passengers and load and unload vehicles. 
+n	A rail station where service begins and ends; the end of the line. For example: Grand Central Terminal in New York City. 
+n	A rate charged on all freight, regardless of distance, and supposed to cover the expenses of station service, as distinct from mileage rate, generally proportionate to the distance and intended to cover movement expenses. 
+n	A town lying at the end of a railroad, in which the terminal is located; more properly called a terminus. 
+n	A storage tank for bulk liquids (such as oil or chemicals) prior to further distribution. 
+n	(electronics) the end of a line where signals are either transmitted or received, or a point along the length of a line where the signals are made available to apparatus. 
+n	An electric contact on a battery. 
+n	(telecommunications) The apparatus to send and/or receive signals on a line, such as a telephone or network device. 
+n	(computing) A device for entering data into a computer or a communications system and/or displaying data received, especially a device equipped with a keyboard and some sort of textual display. 
+n	(computing) A computer program that emulates a physical terminal. 
+n	(computing theory) A terminal symbol in a formal grammar. 
+n	(biology) The end ramification (of an axon, etc.) or one of the extremities of a polypeptide. 
+adj	Fatal; resulting in death. 
+adj	Appearing at the end; top or apex of a physical object. 
+adj	Occurring at the end of a word, sentence, or period of time, and serves to terminate it 
+adj	(archaic) Occurring every term; termly. 
+v	To store bulk liquids (such as oil or chemicals) in storage tanks prior to further distribution. 

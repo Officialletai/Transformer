@@ -1,0 +1,6 @@
+n	A range of values or locations. 
+n	The space, area, volume, etc., to which something extends. 
+n	(computing) A contiguous area of storage in a file system. 
+n	The valuation of property. 
+n	(law) A writ directing the sheriff to seize the property of a debtor, for the recovery of debts of record due to the Crown. 
+adj	(obsolete) Extended. 

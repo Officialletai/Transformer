@@ -1,0 +1,30 @@
+adj	Not negative or neutral. 
+adj	(law) Formally laid down. 
+adj	Stated definitively and without qualification. 
+adj	Fully assured in opinion. 
+adj	(mathematics) Of number, greater than zero. 
+adj	Characterized by constructiveness or influence for the better. 
+adj	Overconfident, dogmatic. 
+adj	(chiefly philosophy) Actual, real, concrete, not theoretical or speculative. 
+adj	(physics) Having more protons than electrons. 
+adj	(grammar) Describing the primary sense of an adjective, adverb or noun; not comparative, superlative, augmentative nor diminutive. 
+adj	(grammar) Describing a verb that is not negated, especially in languages which have distinct positive and negative verb forms, e.g., Finnish. 
+adj	Derived from an object by itself; not dependent on changing circumstances or relations. 
+adj	Characterized by the existence or presence of distinguishing qualities or features, rather than by their absence. 
+adj	Characterized by the presence of features which support a hypothesis. 
+adj	(photography) Of a visual image, true to the original in light, shade and colour values. 
+adj	Favorable, desirable by those interested or invested in that which is being judged. 
+adj	Wholly what is expressed; colloquially downright, entire, outright. 
+adj	Optimistic. 
+adj	(chemistry) electropositive 
+adj	(chemistry) basic; metallic; not acid; opposed to negative, and said of metals, bases, and basic radicals. 
+adj	(slang) HIV positive. 
+adj	(New Age jargon) Good, desirable, healthful, pleasant, enjoyable; (often precedes 'energy', 'thought', 'feeling' or 'emotion'). 
+n	A thing capable of being affirmed; something real or actual. 
+n	A favourable point or characteristic. 
+n	Something having a positive value in physics, such as an electric charge. 
+n	(grammar) A degree of comparison of adjectives and adverbs. 
+n	(grammar) An adjective or adverb in the positive degree. 
+n	(photography) A positive image; one that displays true colors and shades, as opposed to a negative. 
+n	The positive plate of a voltaic or electrolytic cell. 
+n	A positive result of a test. 

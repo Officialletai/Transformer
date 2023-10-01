@@ -1,0 +1,28 @@
+v	To move towards the speaker. 
+v	To move towards the listener. 
+v	To move towards the object that is the focus of the sentence. 
+v	(in subordinate clauses and gerunds) To move towards the agent or subject of the main clause. 
+v	To move towards an unstated agent. 
+v	(intransitive) To arrive. 
+v	(intransitive) To appear, to manifest itself. 
+v	(with an infinitive) To begin to have an opinion or feeling. 
+v	(with an infinitive) To do something by chance, without intending to do it. 
+v	(intransitive) To take a position relative to something else in a sequence. 
+v	(intransitive, vulgar, slang) To achieve orgasm; to cum; to ejaculate. 
+v	(intransitive, of milk) To become butter by being churned. 
+v	(copulative, figuratively, with close) To approach a state of being or accomplishment. 
+v	(figuratively, with to) To take a particular approach or point of view in regard to something. 
+v	(copulative, fossil word) To become, to turn out to be. 
+v	(intransitive) To be supplied, or made available; to exist. 
+v	(slang) To carry through; to succeed in. 
+v	(intransitive) Happen. 
+v	To have a certain social background. 
+v	To be or have been a resident or native. 
+v	To have been brought up by or employed by. 
+v	To begin (at a certain location); to radiate or stem (from). 
+v	(intransitive, of grain) To germinate. 
+v	(transitive, informal) To pretend to be; to behave in the manner of. 
+n	(obsolete) Coming, arrival; approach. 
+n	(vulgar, slang) Semen 
+n	(vulgar, slang) Female ejaculatory discharge. 
+n	(typography, obsolete) Alternative form of comma in its medieval use as a middot ⟨·⟩ serving as a form of colon. 

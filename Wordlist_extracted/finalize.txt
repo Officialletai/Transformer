@@ -1,0 +1,2 @@
+v	(transitive) To make final or firm; to finish or complete. 
+v	(transitive, computing, programming) To prepare (an object) for garbage collection by calling its finalizer. 

@@ -1,0 +1,6 @@
+adj	Having distinct limits. 
+adj	Free from any doubt. 
+adj	Determined; resolved; decided. 
+adj	(linguistics) Designating an identified or immediately identifiable person or thing, or group of persons or things 
+n	(grammar) A word or phrase that designates a specified or identified person or entity. 
+n	(obsolete) Anything that is defined or determined. 

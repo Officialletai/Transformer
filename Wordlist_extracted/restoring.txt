@@ -1,0 +1,8 @@
+v	(transitive) To reestablish, or bring back into existence. 
+v	(transitive) To bring back to good condition from a state of decay or ruin. 
+v	(transitive) To give or bring back (that which has been lost or taken); to bring back to the owner; to replace. 
+v	(transitive) To give in place of, or as restitution for. 
+v	(transitive, computing) To recover (data, etc.) from a backup. 
+v	(transitive, music) To bring (a note) back to its original signification. 
+v	(obsolete) To make good; to make amends for. 
+n	(computing) The act of recovering data or a system from a backup. 

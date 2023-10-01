@@ -1,0 +1,6 @@
+adj	Happening right away, instantly, with no delay. 
+adj	Very close; direct or adjacent. 
+adj	Manifestly true; requiring no argument. 
+adj	(computer science, of an instruction operand) Embedded as part of the instruction itself, rather than stored elsewhere (such as a register or memory location). 
+adj	(procedure word, military) Used to denote that a transmission is urgent. 
+adj	(procedure word, military) An artillery fire mission modifier for to types of fire mission to denote an immediate need for fire: Immediate smoke, all guns involved must reload smoke and fire. Immediate suppression, all guns involved fire the rounds currently loaded and then switch to high explosive with impact fused (unless fuses are specified). 

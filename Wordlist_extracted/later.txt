@@ -1,0 +1,5 @@
+adv	Afterward in time (used with than when comparing with another time). 
+adv	At some unspecified time in the future. 
+adj	Coming afterward in time (used with than when comparing with another time). 
+adj	Coming afterward in distance (following an antecedent distance as embedded within an adverbial phrase) 
+adj	At some time in the future. 

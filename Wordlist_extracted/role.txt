@@ -1,0 +1,7 @@
+n	A character or part played by a performer or actor. 
+n	The expected behaviour of an individual in a society. 
+n	The function or position of something. 
+n	Designation that denotes an associated set of responsibilities, knowledge, skills, and attitudes 
+n	(grammar) The function of a word in a phrase. 
+n	(object-oriented programming) In the Raku programming language, a code element akin to an interface, used for composition of classes without adding to their inheritance chain. 
+n	(historical) An ancient unit of quantity, 72 sheets of parchment. 

@@ -1,0 +1,4 @@
+adj	(mathematics) At a constant ratio (to). Two magnitudes (numbers) are said to be proportional if the second varies in a direct relation arithmetically to the first. Symbol: ∝. 
+adj	(chiefly US) In proportion (to), proportionate. 
+adj	Of a typeface, having characters with natural (non-uniform) width (in contrast to monospace typefaces). 
+n	(mathematics, geometry, archaic) A proportion. 

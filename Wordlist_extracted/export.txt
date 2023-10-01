@@ -1,0 +1,8 @@
+adj	Of or relating to exportation or exports. 
+n	(countable) Something that is exported. 
+n	(uncountable) The act of exporting. 
+v	(transitive) To carry away. 
+v	(transitive) To sell (goods) to a foreign country. 
+v	(transitive) To cause to spread in another part of the world. 
+v	(transitive, computing) To send (data) from one program to another. 
+v	(transitive) To put up (a child) for international adoption. 

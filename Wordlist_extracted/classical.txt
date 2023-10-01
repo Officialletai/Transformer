@@ -1,0 +1,12 @@
+adj	Of or relating to the first class or rank, especially in literature or art. 
+adj	Of or pertaining to established principles in a discipline. 
+adj	(music) Describing Western music and musicians of the late 18th and early 19th centuries. 
+adj	(informal, music) Describing art music (rather than pop, jazz, blues, etc), especially when played using instruments of the orchestra. 
+adj	Of or pertaining to the ancient Greeks and Romans, especially to Greek or Roman authors of the highest rank, or of the period when their best literature was produced; of or pertaining to places inhabited by the ancient Greeks and Romans, or rendered famous by their deeds. 
+adj	Knowledgeable or skilled in the classics; versed in the classics. 
+adj	Conforming to the best authority in literature and art; chaste; pure; refined 
+adj	(physics) Pertaining to models of physical laws that do not take quantum or relativistic effects into account; Newtonian or Maxwellian. 
+adj	(cryptography) In contrast to quantum computing; pertaining to cryptographic algorithms that are not designed to resist attack by quantum computers, or cryptanalysis that does not take quantum computer capabilities into account. In some contexts may instead refer to older cryptographic algorithms, e.g. classical ciphers. 
+n	(countable) One that is classical in some way; for example, a classical economist. 
+n	Short for classical music. [(music) Music of the classical period; the music of Mozart, Haydn, etc; the musical period before the romantic.] 
+n	(chess) Short for classical chess. [(chess) Chess played at a slow time control, with games taking up to several hours (the most common format at professional tournaments).] 

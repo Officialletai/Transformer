@@ -1,0 +1,2 @@
+n	An indicator showing the depth of the water in a boiler. 
+n	A galvanometer, usually portable, for indicating the direction of a current. 

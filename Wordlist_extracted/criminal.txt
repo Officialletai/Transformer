@@ -1,0 +1,5 @@
+adj	Against the law; forbidden by law. 
+adj	Guilty of breaking the law. 
+adj	Of or relating to crime or penal law. 
+adj	(figuratively) Abhorrent or very undesirable. 
+n	A person who is guilty of a crime, notably breaking the law. 

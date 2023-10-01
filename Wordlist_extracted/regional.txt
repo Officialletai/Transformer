@@ -1,0 +1,5 @@
+adj	Of, or pertaining to, a specific region or district. 
+adj	Of, or pertaining to, a large geographic region. 
+adj	Of, or pertaining to, one part of the body. 
+adj	(Australia) Of a state or other geographic area, those parts which are not metropolitan, but are somewhat densely populated and usually contain a number of significant towns. 
+n	An entity or event with scope limited to a single region. 

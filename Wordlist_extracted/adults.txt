@@ -1,0 +1,8 @@
+n	A fully grown human or animal. 
+n	A person who has reached the legal age of majority. 
+adj	Fully grown. 
+adj	Intended for or restricted to adults rather than children. 
+adj	Containing material of an explicit sexual nature; of, or pertaining to, pornography. 
+adj	Vulgar or profane. 
+v	(intransitive, informal) To behave like an adult. 
+v	(nonstandard, rare) To (cause to) be or become an adult. 

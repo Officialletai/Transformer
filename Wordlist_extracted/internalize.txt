@@ -1,0 +1,4 @@
+v	To process new information in one's mind. 
+v	To refrain from expressing (a negative emotion), to one's psychological detriment; to bottle up. 
+v	(transitive, programming) To store (a string or other structure) in a shared pool, such that subsequent items with the same value can share the same instance. 
+v	(finance) To transfer stocks between brokers within an organization, rather than through the exchange. 

@@ -1,0 +1,9 @@
+adj	In effect or essence, if not in fact or reality; imitated, simulated. 
+adj	Having the power of acting or of invisible efficacy without the agency of the material or measurable part; potential. 
+adj	Nearly, almost. (A relatively recent development in meaning) 
+adj	Simulated in a computer or online. 
+adj	Operating by computer or in cyberspace; not physically present. 
+adj	(computing, object-oriented programming, of a class member) Capable of being overridden with a different implementation in a subclass. 
+adj	(physics) Pertaining to particles in temporary existence due to the Heisenberg uncertainty principle. 
+n	(computing, programming) A virtual member function of a class. 
+n	(gambling) A computer simulation of a real-world sport such as horse racing. 

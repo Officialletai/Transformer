@@ -1,0 +1,2 @@
+adj	That overlaps something else 
+n	The situation in which things overlap. 

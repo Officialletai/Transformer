@@ -1,0 +1,6 @@
+n	A place or institution for the confinement of persons held against their will in lawful custody or detention, especially (in US usage) a place where people are held for minor offenses or with reference to some future judicial proceeding. 
+n	(uncountable) Confinement in a jail. 
+n	(horse racing) The condition created by the requirement that a horse claimed in a claiming race not be run at another track for some period of time (usually 30 days). 
+n	In dodgeball and related games, the area where players who have been struck by the ball are confined. 
+n	(computing, FreeBSD) A kind of sandbox for running a guest operating system instance. 
+v	To imprison. 

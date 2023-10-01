@@ -1,0 +1,19 @@
+n	Sound uttered by the mouth, especially by human beings in speech or song; sound thus uttered considered as possessing some special quality or character 
+n	(phonetics) Sound made through vibration of the vocal cords; sonant, or intonated, utterance; tone; — distinguished from mere breath sound as heard in whispering and voiceless consonants. 
+n	The tone or sound emitted by an object 
+n	The faculty or power of utterance 
+n	That which is communicated; message; meaning. 
+n	An expressed opinion, choice, will, desire, or wish; the right or ability to make such expression or to have it considered 
+n	(archaic) Command; precept. 
+n	One who speaks; a speaker. 
+n	(literature) A particular style or way of writing that expresses a certain tone or feeling. 
+n	(grammar) A particular way of inflecting or conjugating verbs, or a particular form of a verb, by means of which is indicated the relation of the subject of the verb to the action which the verb expresses. 
+n	(music) In harmony, an independent vocal or instrumental part in a piece of composition. 
+n	(Internet, IRC) A flag associated with a user on a channel, determining whether or not they can send messages to the channel. 
+v	(transitive) To give utterance or expression to; to utter; to publish; to announce 
+v	(transitive, phonology) To utter audibly, with tone and not just breath. 
+v	(transitive) To fit for producing the proper sounds; to regulate the tone of 
+v	(transitive, obsolete) To vote; to elect; to appoint 
+v	(intransitive, obsolete) To clamor; to cry out 
+v	(transitive, Internet, IRC) To assign the voice flag to a user on IRC, permitting them to send messages to the channel. 
+v	(television, film) To act as a voice actor to portray a character. 

@@ -1,0 +1,3 @@
+adj	Reserved, engaged. 
+adj	Busy, unavailable. 
+adj	Subjugated, under the control of a foreign military presence. 

@@ -1,0 +1,28 @@
+n	A dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object. 
+n	Relative darkness, especially as caused by the interruption of light; gloom, obscurity. 
+n	A area protected by an obstacle (likened to an object blocking out sunlight). 
+n	(obsolete) A reflected image, as in a mirror or in water. 
+n	That which looms as though a shadow. 
+n	A small degree; a shade. 
+n	An imperfect and faint representation. 
+n	(UK, law enforcement) A trainee, assigned to work with an experienced officer. 
+n	One who secretly or furtively follows another. 
+n	An inseparable companion. 
+n	(typography) A drop shadow effect applied to lettering in word processors etc. 
+n	An influence, especially a pervasive or a negative one. 
+n	A spirit; a ghost; a shade. 
+n	(obsolete, Latinism) An uninvited guest accompanying one who was invited. 
+n	(psychology) In Jungian psychology, an unconscious aspect of the personality. 
+v	(transitive) To shade, cloud, or darken. 
+v	(transitive) To block light or radio transmission from. 
+v	(particularly espionage) To secretly or discreetly track or follow another, to keep under surveillance. 
+v	(transitive) To represent faintly and imperfectly. 
+v	(transitive) To hide; to conceal. 
+v	(transitive) To accompany (a professional) during the working day, so as to learn about an occupation one intends to take up. 
+v	(transitive, programming) To make (an identifier, usually a variable) inaccessible by declaring another of the same name within the scope of the first. 
+v	(transitive, computing) To apply the shadowing process to (the contents of ROM). 
+adj	Unofficial, informal, unauthorized, but acting as though it were. 
+adj	Having power or influence, but not widely known or recognized. 
+adj	(politics) Acting in a leadership role before being formally recognized. 
+adj	(Australia, politics) Part of, or related to, the opposition in government. 
+n	A surname. 

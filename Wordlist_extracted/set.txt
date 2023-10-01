@@ -1,0 +1,97 @@
+v	(transitive) To put (something) down, to rest. 
+v	(transitive) To attach or affix (something) to something else, or in or upon a certain place. 
+v	(transitive) To put in a specified condition or state; to cause to be. 
+v	(transitive) To start (a fire). 
+v	(transitive, dated) To cause to stop or stick; to obstruct; to fasten to a spot. 
+v	(transitive) To determine or settle. 
+v	(transitive) To adjust. 
+v	(transitive) To punch (a nail) into wood so that its head is below the surface. 
+v	(transitive) To arrange with dishes and cutlery, to set the table. 
+v	(transitive) To introduce or describe. 
+v	(transitive) To locate (a play, etc.); to assign a backdrop to, geographically or temporally. 
+v	(transitive) To compile, to make (a puzzle or challenge). 
+v	(transitive) To prepare (a stage or film set). 
+v	(transitive) To fit (someone) up in a situation. 
+v	(transitive) To arrange (type). 
+v	(transitive) To devise and assign (work) to. 
+v	(transitive, volleyball) To direct (the ball) to a teammate for an attack. 
+v	(intransitive) To solidify. 
+v	(transitive) To render stiff or solid; especially, to convert into curd; to curdle. 
+v	(intransitive) Of a heavenly body, to disappear below the horizon of a planet, etc, as the latter rotates. 
+v	(transitive, bridge) To defeat a contract. 
+v	(obsolete, now followed by "out", as in set out) To begin to move; to go forth. 
+v	(transitive, botany) To produce after pollination. 
+v	(intransitive, of fruit) To be fixed for growth; to strike root; to begin to germinate or form. 
+v	(intransitive, Southern US, Midwestern US, dialects) To sit (be in a seated position). 
+v	To hunt game with the aid of a setter. 
+v	(hunting, transitive, intransitive) Of a dog, to indicate the position of game. 
+v	To apply oneself; to undertake earnestly. 
+v	(transitive, intransitive) To fit music to words. 
+v	(transitive, intransitive) To place plants or shoots in the ground; to plant. 
+v	To become fixed or rigid; to be fastened. 
+v	To have a certain direction of motion; to flow; to move on; to tend. 
+v	(intransitive, country dancing) To acknowledge a dancing partner by facing him or her and moving first to one side and then to the other, while she or he does the opposite. 
+v	To place or fix in a setting. 
+v	To put in order in a particular manner; to prepare. 
+v	To extend and bring into position; to spread. 
+v	To give a pitch to, as a tune; to start by fixing the keynote. 
+v	To reduce from a dislocated or fractured state. 
+v	(masonry) To lower into place and fix solidly, as the blocks of cut stone in a structure. 
+v	(obsolete) To wager in gambling; to risk. 
+v	To adorn with something infixed or affixed; to stud; to variegate with objects placed here and there. 
+v	(obsolete) To value; to rate; used with at. 
+v	To establish as a rule; to furnish; to prescribe; to assign. 
+v	(Scotland) To suit; to become. 
+n	A punch for setting nails in wood. 
+n	A device for receiving broadcast radio waves (or, more recently, broadcast data); a radio or television. 
+n	(horticulture) A small tuber or bulb used instead of seed, particularly onion sets and potato sets. 
+n	The amount the teeth of a saw protrude to the side in order to create the kerf. 
+n	(engineering) A permanent change of shape caused by excessive strain, as from compression, tension, bending, twisting, etc. 
+n	A bias of mind; an attitude or pattern of behaviour. 
+n	(piledriving) A piece placed temporarily upon the head of a pile when the latter cannot otherwise be reached by the weight, or hammer. 
+n	(printing, dated) The width of the body of a type. 
+n	A young oyster when first attached. 
+n	Collectively, the crop of young oysters in any locality. 
+n	A series or group of something. (Note the similar meaning in Etymology 4, Noun) 
+n	(colloquial) The manner, state, or quality of setting or fitting; fit. 
+n	The pattern of a tartan, etc. 
+n	The camber of a curved roofing tile. 
+n	The full number of eggs set under a hen. 
+n	(obsolete, rare) That which is staked; a wager; hence, a gambling game. 
+adj	Fixed in position. 
+adj	Rigid, solidified. 
+adj	Ready, prepared. 
+adj	Intent, determined (to do something). 
+adj	Prearranged. 
+adj	Fixed in one’s opinion. 
+adj	(of hair) Fixed in a certain style. 
+n	A young plant fit for setting out; a slip; shoot. 
+n	A rudimentary fruit. 
+n	The setting of the sun or other luminary; (by extension) the close of the day. 
+n	(literally and figuratively) General movement; direction; drift; tendency. 
+n	A matching collection of similar things. (Note the similar meaning in Etymology 2, Noun.) 
+n	A collection of various objects for a particular purpose. 
+n	An object made up of several parts. 
+n	(set theory) A collection of zero or more objects, possibly infinite in size, and disregarding any order or repetition of the objects which may be contained within it. 
+n	(in plural, “sets”, mathematics, informal) Set theory. 
+n	A group of people, usually meeting socially. 
+n	The scenery for a film or play. 
+n	the general locations and area where a movie’s, a film’s, or a video’s scenery is arranged to be filmed also including places for actors, assorted crew, director, producers which are typically not filmed. 
+n	(dance) The initial or basic formation of dancers. 
+n	(exercise) A group of repetitions of a single exercise performed one after the other without rest. 
+n	(tennis) A complete series of games, forming part of a match. 
+n	(volleyball) A complete series of points, forming part of a match. 
+n	(volleyball) The act of directing the ball to a teammate for an attack. 
+n	(music) A musical performance by a band, disc jockey, etc., consisting of several musical pieces. 
+n	(music) A drum kit, a drum set. 
+n	(UK, education) A class group in a subject where pupils are divided by ability. 
+n	(poker, slang) Three of a kind, especially if two cards are in one's hand and the third is on the board. Compare trips (“three of a kind, especially with two cards on the board and one in one's hand”). 
+v	(UK, education) To divide a class group in a subject according to ability 
+n	(Egyptian mythology) An ancient Egyptian god, variously described as the god of chaos, the god of thunder and storms, or the god of destruction. 
+n	Gene for a human protein involved in apoptosis, transcription and nucleosome assembly. 
+n	Alternative form of sett: a hole made and lived in by a badger. [The system of tunnels that is the home of a badger.] 
+n	Alternative form of sett: pattern of threads and yarns. [The system of tunnels that is the home of a badger.] 
+n	Alternative form of sett: piece of quarried stone. [The system of tunnels that is the home of a badger.] 
+n	Initialism of Simulated Emergency Test., an amateur radio training exercise. 
+n	Initialism of Strategic Energy Technologies. Plan of the European Union. 
+n	Initialism of Stock Exchange of Thailand., the national stock exchange of Thailand. 

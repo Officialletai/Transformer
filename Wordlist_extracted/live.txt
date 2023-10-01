@@ -1,0 +1,35 @@
+v	(intransitive) To be alive; to have life. 
+v	(intransitive) To have permanent residence somewhere, to inhabit, to reside. 
+v	(intransitive, informal) (of an object) to have its proper place; to normally be stored. 
+v	(intransitive) To survive; to persevere; to continue. 
+v	(intransitive) To endure in memory; to escape oblivion. 
+v	(intransitive, hyperbolic) To cope. 
+v	(intransitive) To pass life in a specified manner. 
+v	(transitive) To spend, as one's life; to pass; to maintain; to continue in, constantly or habitually. 
+v	(transitive) To act habitually in conformity with; to practice; to exemplify in one's way of life. 
+v	(transitive, obsolete) To live as; to live being. 
+v	(intransitive) To outlast danger; to float (said of a ship, boat, etc). 
+v	(intransitive, followed by on, upon, or by) To maintain or support one's existence; to provide for oneself; to feed; to subsist. 
+v	(intransitive, informal) To make the most of life; to experience a full, rich life. 
+adj	(only used attributively) Having life; that is alive. 
+adj	Being in existence; actual. 
+adj	Having active properties; being energized. 
+adj	Operational; in actual use rather than in testing etc. 
+adj	(programming) Of an object or value: that may potentially be used in the future execution of a program. 
+adj	Taken from a living animal. 
+adj	(engineering) Imparting power; having motion. 
+adj	(sports) Still in active play. 
+adj	(card games) Of a card: not yet dealt or played. 
+adj	(broadcasting) Being broadcast ("on the air"), as it happens. 
+adj	(of a performance or speech) In person. 
+adj	(entertainment, performing) Recorded from a performance in front of an audience. 
+adj	Of firearms or explosives, capable of causing harm. 
+adj	Of an environment where sound is recorded: having noticeable reverberation. 
+adj	(circuitry) Electrically charged or energized, usually indicating that the item may cause electrocution if touched. 
+adj	(poker) Being a bet which can be raised by the bettor, usually in reference to a blind or straddle. 
+adj	(film) Featuring humans; not animated, in the phrases “live actors” or “live action”. 
+adj	Being in a state of ignition; burning. 
+adj	(obsolete, slang, of a person) Full of earnestness; active; wide awake; glowing. 
+adj	(obsolete) Vivid; bright. 
+adv	Of an event, as it happens; in real time; direct. 
+adv	Of making a performance or speech, in person. 

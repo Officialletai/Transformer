@@ -1,0 +1,36 @@
+adj	Divided. 
+adj	(algebra, of a short exact sequence) Having the middle group equal to the direct product of the others. 
+adj	(of coffee) Comprising half decaffeinated and half caffeinated espresso. 
+adj	(stock exchange, of an order, sale, etc.) Divided so as to be done or executed part at one time or price and part at another time or price. 
+adj	(stock exchange, historical, of quotations) Given in sixteenths rather than eighths. 
+adj	(London stock exchange) Designating ordinary stock that has been divided into preferred ordinary and deferred ordinary. 
+n	A crack or longitudinal fissure. 
+n	A breach or separation, as in a political party; a division. 
+n	A piece that is split off, or made thin, by splitting; a splinter; a fragment. 
+n	(leather manufacture) One of the sections of a skin made by dividing it into two or more thicknesses. 
+n	(gymnastics, cheerleading, dance, usually in the phrase "to do the splits") A maneuver of spreading or sliding the feet apart until the legs are flat on the floor 180 degrees apart, either sideways to the body or with one leg in front and one behind, thus lowering the body completely to the floor in an upright position. 
+n	(bodybuilding) A workout routine as seen by its distribution of muscle groups or the extent and manner they are targeted in a microcycle. 
+n	(baseball, slang) A split-finger fastball. 
+n	(bowling) A result of a first throw that leaves two or more pins standing with one or more pins between them knocked down. 
+n	A split shot or split stroke. 
+n	A dessert or confection resembling a banana split. 
+n	A unit of measure used for champagne or other spirits: 18.75 centiliters or one quarter of a standard 75-centiliter bottle. Commercially comparable to ¹⁄₂₀ (US) gallon, which is ¹⁄₂ of a fifth. 
+n	A bottle of wine containing 37.5 centiliters, half the volume of a standard 75-centiliter bottle; a demi. 
+n	(athletics) The elapsed time at specific intermediate points in a race. 
+n	(video games) The elapsed time at specific intermediate points in a speedrun. 
+n	(construction) A tear resulting from tensile stresses. 
+n	(gambling) A division of a stake happening when two cards of the kind on which the stake is laid are dealt in the same turn. 
+n	(music) A recording containing songs by multiple artists. 
+v	(transitive, ergative, of something solid) To divide fully or partly along a more or less straight line. 
+v	(intransitive, of something solid, particularly wood) To break along the grain fully or partly along a more or less straight line. 
+v	(transitive) To share; to divide. 
+v	(transitive, intransitive, slang) To leave. 
+v	(intransitive, of a couple) To separate. 
+v	(transitive, intransitive) To (cause to) break up; to throw into discord. 
+v	(algebra, transitive and intransitive, acts on a polynomial) To factor into linear factors. 
+v	To be broken; to be dashed to pieces. 
+v	(intransitive) To burst out laughing. 
+v	(intransitive, slang, dated) To divulge a secret; to betray confidence; to peach. 
+v	(sports, especially baseball) For both teams involved in a doubleheader to win one game each and lose another. 
+v	(intransitive, politics) To vote for candidates of opposite parties. 
+n	A port city in Croatia. 

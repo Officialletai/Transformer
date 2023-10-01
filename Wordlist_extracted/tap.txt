@@ -1,0 +1,42 @@
+n	A tapering cylindrical pin or peg used to stop the vent in a cask. 
+n	A device used to dispense liquids. 
+n	Liquor drawn through a tap; hence, a certain kind or quality of liquor. 
+n	A place where liquor is drawn for drinking. 
+n	(mechanics) A device used to cut an internal screw thread. (External screw threads are cut with a die.) 
+n	A connection made to an electrical or fluid conductor without breaking it. 
+n	An interception of communication by authority. 
+n	A device used to listen in secretly on telephone calls. 
+n	(medicine, informal) A procedure that removes fluid from a body cavity. 
+n	(finance) The situation where a borrowing government authority issues bonds over a period of time, usually at a fixed price, with volumes sold on a particular day dependent on market conditions. 
+v	To furnish with taps. 
+v	To draw off liquid from a vessel. 
+v	To deplete, especially of a liquid via a tap; to tap out. 
+v	To exploit. 
+v	To place a listening or recording device on a telephone or wired connection. 
+v	To intercept a communication without authority. 
+v	(mechanical) To cut an internal screw thread. 
+v	(card games, board games) To turn or flip a card or playing piece to remind players that it has already been used that turn (by analogy to "tapping," in the sense of drawing on to the point of temporary exhaustion, the resources or abilities represented by the card). 
+v	(informal) To cadge, borrow or beg. 
+v	(medicine, informal) To drain off fluid by paracentesis. 
+v	To advance someone for a post or job, or for membership of a club. 
+v	To strike lightly. 
+v	To touch one's finger, foot, or other body parts on a surface (usually) repeatedly. 
+v	To make a sharp noise. 
+v	(graphical user interface) To operate an electronic device (e.g. a mobile phone) by tapping a specific place on its (capacitive or other) touch screen. 
+v	To designate for some duty or for membership, as in 'a tap on the shoulder'. 
+v	(slang, vulgar, transitive) To have sexual intercourse with. 
+v	(combat sports) To submit to an opponent by tapping one's hand repeatedly. 
+v	(combat sports, transitive) To force (an opponent) to submit. 
+v	To put a new sole or heel on. 
+n	A gentle or slight blow; a light rap; a pat. 
+n	(computing, graphical user interface) The act of touching a touch screen. 
+n	A piece of leather fastened upon the bottom of a boot or shoe in repairing or renewing the sole or heel. 
+n	(military) A signal, by drum or trumpet, for extinguishing all lights in soldiers' quarters and retiring to bed; usually given about a quarter of an hour after tattoo. 
+n	(phonetics) A consonant sound made by a single muscle contraction, such as the sound [ɾ] in the standard American English pronunciation of body. 
+n	An Indian malarial fever. 
+n	(dance) Ellipsis of tap dance. [A rhythmic dance in which the heels and toes of the dancer's shoes make a series of clicks] 
+n	Short for tap of work. [Synonym of stroke of work] 
+n	Initialism of talk aloud protocol. [Synonym of think aloud protocol] 
+n	Initialism of think aloud protocol. [A data-gathering method used in a variety of research areas in people are asked to verbalise their thought processes as they do a specific task, and this is recorded for further analysis.] 
+n	(advertising) Initialism of total audience package: an offering that includes ads broadcast during every part of the schedule. 
+n	(software) Initialism of The Ada Project. 

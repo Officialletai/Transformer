@@ -1,0 +1,37 @@
+n	The central part of a fruit, containing the kernels or seeds. 
+n	The heart or inner part of a physical thing. 
+n	The anatomical core, muscles which bridge abdomen and thorax. 
+n	The center or inner part of a space or area. 
+n	The most important part of a thing or aggregate of things wherever located and whether of any determinate location at all; the essence. 
+n	A technical term for classification of things denoting those parts of a category that are most easily or most likely understood as within it. 
+n	(engineering) The portion of a mold that creates an internal cavity within a casting or that makes a hole in or through a casting. 
+n	(computer hardware) An individual computer processor, in the sense when several processors (called cores or CPU cores) are plugged together in one single integrated circuit to work as one (called a multi-core processor). 
+n	(engineering) The material between surface materials in a structured composite sandwich material. 
+n	(engineering, nuclear physics) The inner part of a nuclear reactor, in which the nuclear reaction takes place. 
+n	(military) The central fissile portion of a fission weapon. 
+n	A piece of ferromagnetic material (e.g., soft iron), inside the windings of an electromagnet, that channels the magnetic field. 
+n	(printing) A hollow cylindrical piece of cardboard around which a web of paper or plastic is wound. 
+n	(medicine) A tiny sample of organic material obtained by means of a fine-needle biopsy. 
+n	The bony process which forms the central axis of the horns in many animals. 
+n	A disorder of sheep caused by worms in the liver. 
+n	(biochemistry) The central part of a protein's structure, consisting mostly of hydrophobic amino acids. 
+n	A cylindrical sample of rock or other materials obtained by core drilling. 
+n	(physics) An atomic nucleus plus inner electrons (i.e., an atom, except for its valence electrons). 
+adj	Forming the most important or essential part. 
+v	To remove the core of an apple or other fruit. 
+v	To cut or drill through the core of (something). 
+v	To extract a sample with a drill. 
+n	(obsolete) A body of individuals; an assemblage. 
+n	A miner's underground working time or shift. 
+n	(automotive, machinery, aviation, marine) A deposit paid by the purchaser of a rebuilt part, to be refunded on return of a used, rebuildable part, or the returned rebuildable part itself. 
+n	(Greek mythology) The birth name of Persephone/Proserpina, the queen of the Underworld/Hades, and goddess of the seasons and of vegetation. She is the daughter of Zeus and Demeter, and the wife of Hades. 
+n	A female given name from Ancient Greek 
+n	(computing, informal, historical) Ellipsis of core memory.; magnetic data storage. [(computing, historical) A type of non-volatile random-access rewritable electronic memory using ferrite cores to magnetically store binary digits (bits).] 
+n	(historical units of measure) Alternative form of cor: a former Hebrew and Phoenician unit of volume. [A Hebrew unit of liquid volume, about equal to 230 L or 60 gallons.] 
+n	Acronym of corporate responsibility. 
+n	Acronym of Congress of Racial Equality. 
+n	Acronym of Center for Operations Research and Econometrics. 
+n	Acronym of Consortium for Oceanographic Research and Education. 
+n	Acronym of Council on Rehabilitation Education. 
+n	Acronym of Computing Research and Education Association. 
+n	Obsolete form of Korah. [A biblical character who rebelled against Moses.] 

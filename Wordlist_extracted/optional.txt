@@ -1,0 +1,3 @@
+adj	Not compulsory; left to personal choice; elective. 
+n	Something that is not compulsory, especially part of an academic course. 
+n	(programming, sometimes capitalized) In various programming languages, a kind of variable that is assigned a specific data type but may or may not hold an actual value. 

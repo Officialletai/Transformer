@@ -1,0 +1,1 @@
+adj	(mathematics, of a function) Assuming each of the values in its codomain; having its range equal to its codomain. 

@@ -1,0 +1,8 @@
+adj	Characterized by emphasis; forceful. 
+adj	Stated with conviction. 
+adj	(grammar) Belonging to a set of English tense forms comprising the auxiliary verb do + an infinitive without to. 
+adj	pharyngealized consonants in Arabic, Hebrew, other Northwest Semitic languages, and Berber languages 
+adj	ejective consonants in Ge'ez, Amharic, other Ethiopic Semitic languages, Chadic and Cushitic languages 
+adj	(phonology, archaic except in layman’s use) Referring to the above consonants as well as /ħ/ and /ʕ/ (these being seen as emphatic equivalents of /h/ and /ʔ/). 
+n	(phonology) An emphatic consonant. 
+n	(linguistics) A word or phrase adding emphasis, such as "a lot" or "really". 

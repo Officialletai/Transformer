@@ -1,0 +1,5 @@
+n	Something transposed from a thought to a document; the written account of an idea. 
+n	Documentary evidence and sources. 
+n	(computing, mechanical engineering) Documents that explain the operation of a particular machine or software program. 
+n	(programming) Comments that explain the usage of individual functions, libraries and blocks of code. 
+n	(non-native speakers' English) A documentary. 

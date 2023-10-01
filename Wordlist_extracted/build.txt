@@ -1,0 +1,11 @@
+v	(transitive) To form (something) by combining materials or parts. 
+v	(transitive) To develop or give form to (something) according to a plan or process. 
+v	(transitive) To increase or strengthen (something) by adding gradually to. 
+v	(transitive) To establish a basis for (something). 
+v	(intransitive) To form by combining materials or parts. 
+v	(intransitive) To develop in magnitude or extent. 
+v	(transitive, computing) To construct (software) by compiling its source code. 
+v	(intransitive, computing, of source code) To be converted into software by compilation, usually with minimal human intervention. 
+n	(countable, uncountable) The physique of a human or animal body, or other object; constitution or structure. 
+n	(computing, countable) Any of various versions of a software product as it is being developed for release to users. 
+n	(gaming, slang, countable) A structure, such as a building, statue, pool or forest, or a configuration of a character's items or skills, created by the player. 

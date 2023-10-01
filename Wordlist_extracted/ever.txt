@@ -1,0 +1,6 @@
+adv	Always, frequently, forever. 
+adv	Continuously, constantly, all the time (for the complete duration). 
+adv	At any time. 
+adv	In any way. 
+adv	(informal) As intensifier following an interrogative word. 
+adj	(epidemiology) Occurring at any time, occurring even but once during a timespan. 

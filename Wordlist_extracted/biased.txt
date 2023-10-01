@@ -1,0 +1,4 @@
+adj	Exhibiting bias; prejudiced. 
+adj	Angled at a slant. 
+adj	(electrical engineering) On which an electrical bias is applied. 
+adj	(statistics) Exhibiting a systematic distortion of results due to a factor not allowed for in its derivation; skewed. 

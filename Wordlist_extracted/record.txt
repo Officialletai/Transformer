@@ -1,0 +1,16 @@
+n	An item of information put into a temporary or permanent physical medium. 
+n	Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future reference. 
+n	(computing) A set of data relating to a single individual or item. 
+n	(programming) A data structure similar to a struct, in some programming languages such as C and Java based on classes and designed for storing immutable data. 
+n	The most extreme known value of some variable, particularly that of an achievement in competitive events. 
+adj	(attributive) Enough to break records; world-class; extreme. 
+v	(transitive) To make a record of information. 
+v	(transitive) To make an audio or video recording of. 
+v	(transitive, law) To give legal status to by making an official public record. 
+v	(intransitive) To fix in a medium, usually in a tangible medium. 
+v	(intransitive) To make an audio, video, or multimedia recording. 
+v	(transitive, intransitive, obsolete) To repeat; to practice. 
+v	(transitive, intransitive, obsolete) To sing or repeat a tune. 
+v	(obsolete) To reflect; to ponder. 
+n	A surname. 
+n	Ellipsis of phonograph record.: a disc, usually made from vinyl, on which sound is recorded and may be replayed on a phonograph. [A disc, usually made of a polymer, used to record sound for playback on a phonograph.] 

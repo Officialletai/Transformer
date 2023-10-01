@@ -1,0 +1,7 @@
+adj	At a distance; disconnected. 
+adj	Distant or otherwise inaccessible. 
+adj	(especially with respect to likelihood) Slight. 
+adj	Emotionally detached. 
+n	(broadcasting) An element of broadcast programming originating away from the station's or show's control room. 
+v	(computing) To connect to a computer from a remote location. 
+n	Ellipsis of remote control. [(countable) A device used to operate an appliance (such as a television, vehicle, or mechanical toy) from a short distance away.] 

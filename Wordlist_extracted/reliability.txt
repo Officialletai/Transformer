@@ -1,0 +1,3 @@
+n	The quality of being reliable, dependable, or trustworthy. 
+n	(education) the ability to measure the same thing consistently (of a measurement indicating the degree to which the measure is consistent); that is, repeated measurements would give the same result (See also validity). 
+n	(engineering) measurable time of work before failure 

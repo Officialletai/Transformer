@@ -1,0 +1,3 @@
+v	To restrain within boundaries; to limit; to confine 
+v	(specifically, mathematics) To consider (a function) as defined on a subset of its original domain. 
+adj	(obsolete) Restricted. 

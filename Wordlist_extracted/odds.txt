@@ -1,0 +1,3 @@
+n	The ratio of the probability of an event happening to that of it not happening. 
+n	The ratio of winnings to stake in betting situations. 
+n	(chess) An advantage given to a weaker opponent in order to equalize the game when playing casually, usually by removing one of the stronger player's pieces or by giving the weaker player more time. 

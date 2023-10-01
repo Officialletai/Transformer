@@ -1,0 +1,19 @@
+adj	Belonging to, concerning, or accessible only to an individual person or a specific group. 
+adj	Not accessible by the public. 
+adj	Not in governmental office or employment. 
+adj	Not publicly known; not open; secret. 
+adj	Protected from view or disturbance by others; secluded. 
+adj	Not traded by the public. 
+adj	Secretive; reserved. 
+adj	(US, of a room in a medical facility) Not shared with another patient. 
+adj	(not comparable, object-oriented programming) Accessible only to the class itself or instances of it, and not to other classes or even subclasses. 
+n	A soldier of the lowest rank in the army. 
+n	A doctor working in privately rather than publicly funded health care. 
+n	(euphemistic, in the plural) The genitals. 
+n	(obsolete) A secret message; a personal unofficial communication. 
+n	(obsolete) Personal interest; particular business. 
+n	(obsolete) Privacy; retirement. 
+n	(obsolete) One not invested with a public office. 
+n	(usually in the plural) A private lesson. 
+v	(Internet, transitive) To make something hidden from the public (without deleting it permanently). 
+n	(military) Alternative letter-case form of private [A soldier of the lowest rank in the army.] 

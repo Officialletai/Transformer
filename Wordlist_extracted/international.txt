@@ -1,0 +1,11 @@
+adj	between or among nations 
+adj	participated in by two or more nations 
+adj	common to, or affecting, two or more nations. 
+adj	serving two or more nations 
+adj	Of or concerning the association called the International. 
+adj	Independent of national boundaries; common to all people. 
+adj	Foreign; of another nation. 
+n	(sports) Someone who has represented their country in a particular sport. 
+n	(sports) A game or contest between two or more nations. 
+n	(politics) A transnational organization of political parties of similar ideology. 
+n	A make of truck and other vehicles formerly manufactured by International Harvester. 

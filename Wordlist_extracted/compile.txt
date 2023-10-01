@@ -1,0 +1,8 @@
+v	(transitive) To put together; to assemble; to make by gathering things from various sources. 
+v	(obsolete) To construct; to build. 
+v	(transitive, snooker) To achieve (a break) by making a sequence of shots. 
+v	(transitive, programming) To use a compiler to process source code and produce executable code. 
+v	(intransitive, programming) To be successfully processed by a compiler into executable code. 
+v	(obsolete, transitive) To contain or comprise. 
+v	(obsolete) To write; to compose. 
+n	(programming) An act of compiling code. 

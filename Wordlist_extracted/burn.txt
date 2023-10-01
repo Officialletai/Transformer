@@ -1,0 +1,40 @@
+n	A physical injury caused by heat, cold, electricity, radiation or caustic chemicals. 
+n	A sensation resembling such an injury. 
+n	The act of burning something with fire. 
+n	(slang) An intense non-physical sting, as left by shame or an effective insult. 
+n	(slang) An effective insult, often in the expression sick burn (excellent or badass insult). 
+n	Physical sensation in the muscles following strenuous exercise, caused by build-up of lactic acid. 
+n	(uncountable, UK, chiefly prison slang) Tobacco. 
+n	(computing) The writing of data to a permanent storage medium like a compact disc or a ROM chip. 
+n	The operation or result of burning or baking, as in brickmaking. 
+n	(uncountable) A disease in vegetables; brand. 
+n	(aerospace) The firing of a spacecraft's rockets in order to change its course. 
+v	(transitive) To cause to be consumed by fire. 
+v	(intransitive) To be consumed by fire, or in flames. 
+v	(transitive) To overheat so as to make unusable. 
+v	(intransitive) To become overheated to the point of being unusable. 
+v	(transitive) To make or produce by the application of fire or burning heat. 
+v	(transitive) To injure (a person or animal) with heat or chemicals that produce similar damage. 
+v	(transitive, surgery) To cauterize. 
+v	(transitive, intransitive) To sunburn. 
+v	(transitive) To consume, injure, or change the condition of, as if by action of fire or heat; to affect as fire or heat does. 
+v	(intransitive) To be hot, e.g. due to embarrassment. 
+v	(chemistry, transitive) To cause to combine with oxygen or other active agent, with evolution of heat; to consume; to oxidize. 
+v	(chemistry, dated) To combine energetically, with evolution of heat. 
+v	(transitive, computing) To write data to a permanent storage medium like a compact disc or a ROM chip. 
+v	(transitive, computing, by extension) To render subtitles into a video's content while transcoding it, making the subtitles part of the image. 
+v	(transitive, slang) To betray. 
+v	(transitive, slang) To insult or defeat. 
+v	(transitive) To waste (time); to waste money or other resources. 
+v	In certain games, to approach near to a concealed object which is sought. 
+v	(intransitive, curling) To accidentally touch a moving stone. 
+v	(transitive, card games) In pontoon, to swap a pair of cards for another pair, or to deal a dead card. 
+v	(photography) To increase the exposure for certain areas of a print in order to make them lighter (compare dodge). 
+v	(intransitive, physics, of an element) To be converted to another element in a nuclear fusion reaction, especially in a star. 
+v	(intransitive, slang, card games, gambling) To discard. 
+v	(transitive, slang) To shoot someone with a firearm. 
+v	(transitive, espionage) To compromise (an agent's cover story). 
+v	(transitive, espionage) To blackmail. 
+n	(Northern England, Scotland) A stream. 
+n	A village and civil parish in Selby district, North Yorkshire, England (OS grid ref SE5928). 
+n	A surname. 

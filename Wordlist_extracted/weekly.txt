@@ -1,0 +1,6 @@
+adv	Once every week. 
+adv	Every week. 
+adj	Of or relating to a week. 
+adj	Happening once a week, or every week. 
+n	A publication that is published once a week. 
+n	A surname. 

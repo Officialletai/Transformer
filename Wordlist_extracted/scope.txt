@@ -1,0 +1,15 @@
+n	The breadth, depth or reach of a subject; a domain. 
+n	(weaponry) A device used in aiming a projectile, through which the person aiming looks at the intended target. 
+n	Opportunity; broad range; degree of freedom. 
+n	(programming) The region of program source code in which a given identifier is meaningful, or a given object can be accessed. 
+n	(logic) The shortest sub-wff of which a given instance of a logical connective is a part. 
+n	(linguistics) The region of an utterance to which some modifying element applies. 
+n	(slang) A periscope, telescope, microscope or oscilloscope. 
+n	(medicine, colloquial) Any medical procedure that ends in the suffix -scopy, such as endoscopy, colonoscopy, bronchoscopy, etc. 
+v	(informal, transitive) To perform a cursory investigation of; scope out. 
+v	(medicine, colloquial) To perform any medical procedure that ends in the suffix -scopy, such as endoscopy, colonoscopy, bronchoscopy, etc. 
+v	To define the scope of something. 
+v	(programming) To limit (an object or variable) to a certain region of program source code. 
+v	(informal) To examine under a microscope. 
+v	(birdwatching, informal) To observe a bird using a spotting scope. 
+n	(obsolete) A bundle, as of twigs. 

@@ -1,0 +1,32 @@
+n	The translated name of various non-English units of measure 
+n	A unit of mass equal to 16 avoirdupois ounces (= 453.592 37 g). Today this value is the most common meaning of "pound" as a unit of weight. 
+n	A unit of mass equal to 12 troy ounces (≈ 373.242 g). Today, this is a common unit of mass when measuring precious metals, and is little used elsewhere. 
+n	The translated name of various non-English units of currency 
+n	The unit of currency used in the United Kingdom and its dependencies. It is divided into 100 pence. Symbol £. 
+n	Any of various units of currency used in Egypt, Lebanon, Sudan and Syria, and formerly in the Republic of Ireland, Cyprus and Israel. 
+n	Any of various units of currency formerly used in the United States. 
+n	(US) The symbol # (octothorpe, hash, number sign) 
+v	(slang, dated, transitive) To wager a pound on. 
+n	A place for the detention of stray or wandering animals. 
+n	(metonymically) The people who work for the pound. 
+n	(UK) A place for the detention of automobiles that have been illegally parked, abandoned, etc. 
+n	A section of a canal between two adjacent locks. 
+n	A kind of fishing net, having a large enclosure with a narrow entrance into which fish are directed by wings spreading outward. 
+n	(Newfoundland) a division inside a fishing stage where cod is cured in salt brine 
+v	To confine in, or as in, a pound; to impound. 
+v	(transitive) To strike hard, usually repeatedly. 
+v	(transitive) To crush to pieces; to pulverize. 
+v	(transitive, slang) To eat or drink very quickly. 
+v	(transitive, baseball, slang) To pitch consistently to a certain location. 
+v	(intransitive, of a body part, generally heart, blood, or head) To beat strongly or throb. 
+v	(transitive, vulgar, slang) To penetrate sexually, with vigour. 
+v	To advance heavily with measured steps. 
+v	(engineering) To make a jarring noise, as when running. 
+n	A hard blow. 
+n	A surname. 
+n	A town in Wise County, Virginia, United States. 
+n	A village and town in Marinette County, Wisconsin, United States, both named after Thaddeus C. Pound. 
+n	Ellipsis of pound weight. 
+n	Ellipsis of pound mass. 
+n	Ellipsis of pound force. 
+n	(informal, non-scientific) Short for pound-force. [A unit of force equal to a mass of one avoirdupois pound times a standard acceleration of gravity, equal to about 4.44822 newtons. Symbol lbf or lb_f.] 

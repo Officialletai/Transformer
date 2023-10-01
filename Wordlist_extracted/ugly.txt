@@ -1,0 +1,10 @@
+adj	Displeasing to the eye; aesthetically unpleasing. 
+adj	Displeasing to the ear or some other sense. 
+adj	Offensive to one's sensibilities or morality. 
+adj	(Southern US) Ill-natured; crossgrained; quarrelsome. 
+adj	Unpleasant; disagreeable; likely to cause trouble or loss. 
+n	(slang, uncountable) Ugliness. 
+n	(slang) An ugly person or thing. 
+n	(logistics, informal) Any product whose size and shape prevents it from fitting neatly on a pallet. 
+n	(UK, informal, dated) A shade for the face, projecting from a bonnet. 
+v	(transitive, nonstandard) To make ugly (sometimes with up). 

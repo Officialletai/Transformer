@@ -1,0 +1,9 @@
+v	(intransitive) To break apart and fall down suddenly; to cave in. 
+v	(intransitive) To cease to function due to a sudden breakdown; to fail suddenly and completely. 
+v	(intransitive) To fold compactly. 
+v	(transitive, computing) To hide additional directory (folder) levels below the selected directory (folder) levels. When a folder contains no additional folders, a minus sign (-) appears next to the folder. 
+v	(cricket) For several batsmen to get out in quick succession 
+v	(transitive) To cause something to collapse. 
+v	(intransitive) To pass out and fall to the floor or ground, as from exhaustion or other illness; to faint. 
+n	The act of collapsing. 
+n	Constant function, one-valued function (in automata theory) (in particular application causing a reset). 

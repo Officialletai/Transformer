@@ -1,0 +1,33 @@
+n	A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative. 
+n	(chemistry) One of the compounds formed from the reaction of an acid with a base, where a positive ion replaces a hydrogen of the acid. 
+n	(uncommon) A salt marsh, a saline marsh at the shore of a sea. 
+n	(slang) A sailor (also old salt). 
+n	(cryptography) Randomly chosen bytes added to a plaintext message prior to encrypting or hashing it, in order to render brute-force decryption more difficult. 
+n	A person who seeks employment at a company in order to (once employed by it) help unionize it. 
+n	(obsolete) Flavour; taste; seasoning. 
+n	(obsolete) Piquancy; wit; sense. 
+n	(obsolete) A dish for salt at table; a salt cellar. 
+n	(historical, in the plural) Epsom salts or other salt used as a medicine. 
+n	(figuratively) Skepticism and common sense. 
+n	(Internet slang) Tears; indignation; outrage; arguing. 
+n	(UK, historical) The money demanded by Eton schoolboys during the montem. 
+adj	Salty; salted. 
+adj	Saline. 
+adj	Related to salt deposits, excavation, processing or use. 
+adj	(figuratively, obsolete) Bitter; sharp; pungent. 
+adj	(figuratively, obsolete) Salacious; lecherous; lustful; (of animals) in heat. 
+adj	(colloquial, archaic) Costly; expensive. 
+v	(transitive) To add salt to. 
+v	(intransitive) To deposit salt as a saline solution. 
+v	(nautical, of a ship) To fill with salt between the timbers and planks for the preservation of the timber. 
+v	(mining) To blast metal into (as a portion of a mine) in order to cause to appear to be a productive seam. 
+v	(archaeology) To add bogus evidence to an archaeological site. 
+v	(transitive) To add certain chemical elements to (a nuclear weapon) so that it generates more radiation. 
+v	(transitive) To sprinkle throughout. 
+v	(cryptography) To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive. 
+v	(military, transitive) To sow with salt (of land), symbolizing a curse on its re-inhabitation. 
+v	(wiki) To lock a page title so it cannot be created. 
+n	(obsolete) A bounding; a leaping; a prance. 
+n	A village in Staffordshire, England. 
+n	A surname. 
+n	(politics) Initialism of Strategic Arms Limitation Talks. 

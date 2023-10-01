@@ -1,0 +1,13 @@
+n	That which resolves uncertainty; anything that answers the question of "what a given entity is". 
+n	Things that are or can be known about a given topic; communicable knowledge of something. 
+n	The act of informing or imparting knowledge; notification. 
+n	(law, countable) A statement of criminal activity brought before a judge or magistrate; in the UK, used to inform a magistrate of an offence and request a warrant; in the US, an accusation brought before a judge without a grand jury indictment. 
+n	(obsolete) The act of informing against someone, passing on incriminating knowledge; accusation. 
+n	(now rare) The systematic imparting of knowledge; education, training. 
+n	(now rare) The creation of form; the imparting of a given quality or characteristic; forming, animation. 
+n	(computing, formally) […] the meaning that a human assigns to data by means of the known conventions used in its representation. 
+n	(Christianity) Divine inspiration. 
+n	A service provided by telephone which provides listed telephone numbers of a subscriber. 
+n	(information theory) Any unambiguous abstract data, the smallest possible unit being the bit. 
+n	As contrasted with data, information is processed to extract relevant data. 
+n	(information technology) Any ordered sequence of symbols (or signals) (that could contain a message). 

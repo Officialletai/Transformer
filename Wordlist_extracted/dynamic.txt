@@ -1,0 +1,12 @@
+adj	Changing; active; in motion. 
+adj	Powerful; energetic. 
+adj	Able to change and adapt. 
+adj	(music) Having to do with the volume of sound. 
+adj	(computing) Happening at runtime instead of being predetermined at compile time. 
+adj	Pertaining to dynamics, the branch of mechanics concerned with the effects of forces on the motion of objects. 
+adj	(grammar) Of a verb: not stative, but fientive; indicating continued or progressive action on the part of the subject. 
+n	A characteristic or manner of an interaction; a behavior. 
+n	(physics) A moving force. 
+n	(music) The varying loudness or volume of a song or the markings that indicate the loudness. 
+n	(music) A symbol in a musical score that indicates the desired level of volume. 
+n	(grammar) A verb that indicates continued or progressive action on the part of the subject. 

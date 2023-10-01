@@ -1,0 +1,3 @@
+adj	Able to be sustained. 
+adj	Able to be produced or sustained for an indefinite period without damaging the environment, or without depleting a resource; renewable. 
+n	A renewable energy source. 

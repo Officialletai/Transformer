@@ -1,0 +1,8 @@
+adv	(location) In, on, or at this place. 
+adv	(location) To this place; used in place of the more dated hither. 
+adv	(abstract) In this context. 
+adv	At this point in the argument, narration, or other, usually written, work. 
+n	(abstract) This place; this location. 
+n	(abstract) This time, the present situation. 
+adj	Filler after a noun or demonstrative pronoun, solely for emphasis. 
+adj	Filler after a demonstrative pronoun but before the noun it modifies, solely for emphasis. 

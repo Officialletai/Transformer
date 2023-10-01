@@ -1,0 +1,13 @@
+n	The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc. 
+n	Unpleasant or destructive atmospheric conditions, and their effects. 
+n	(nautical) The direction from which the wind is blowing; used attributively to indicate the windward side. 
+n	(countable, figuratively) A situation. 
+n	(obsolete) A storm; a tempest. 
+n	(obsolete) A light shower of rain. 
+adj	(sailing, geology) Facing towards the flow of a fluid, usually air. 
+v	To expose to the weather, or show the effects of such exposure, or to withstand such effects. 
+v	(by extension) To sustain the trying effect of; to bear up against and overcome; to endure; to resist. 
+v	To break down, of rocks and other materials, under the effects of exposure to rain, sunlight, temperature, and air. 
+v	(nautical) To pass to windward in a vessel, especially to beat 'round. 
+v	(nautical) To endure or survive an event or action without undue damage. 
+v	(falconry) To place (a hawk) unhooded in the open air. 

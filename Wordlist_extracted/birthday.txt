@@ -1,0 +1,5 @@
+n	The anniversary of the day on which someone is born. 
+n	The anniversary of the day on which something is created. 
+n	The date on which someone is born or something is created, more commonly called birthdate or date of birth. 
+n	A birthday party. 
+v	(intransitive, informal) To celebrate one's birthday. 

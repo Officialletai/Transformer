@@ -1,0 +1,9 @@
+adj	Indefinably large, countlessly great; immense. 
+adj	Boundless, endless, without end or limits; innumerable. 
+adj	(with plural noun) Infinitely many. 
+adj	(mathematics) Greater than any positive quantity or magnitude; limitless. 
+adj	(set theory, of a set) Having infinitely many elements. 
+adj	(grammar) Not limited by person or number. 
+adj	(music) Capable of endless repetition; said of certain forms of the canon, also called perpetual fugues, constructed so that their ends lead to their beginnings. 
+n	Something that is infinite in nature. 
+n	(video games) A combo that can be used repeatedly without interruption. 

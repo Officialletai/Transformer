@@ -1,0 +1,9 @@
+n	An item of goods or supplies, especially food, obtained for future use. 
+n	The act of providing, or making previous preparation. 
+n	Money set aside for a future event. 
+n	(accounting) A liability or contra account to recognise likely future adverse events associated with current transactions. 
+n	(law) A clause in a legal instrument, a law, etc., providing for a particular matter; stipulation; proviso. 
+n	(Roman Catholicism) Regular induction into a benefice, comprehending nomination, collation, and installation. 
+n	(Britain, historical) A nomination by the pope to a benefice before it became vacant, depriving the patron of his right of presentation. 
+v	(transitive) To supply with provisions. 
+v	(transitive, computing) To supply (a user) with an account, resources, etc. so that they can use a system. 

@@ -1,0 +1,14 @@
+adj	Free from attack or danger; protected. 
+adj	Free from the danger of theft; safe. 
+adj	Free from the risk of eavesdropping, interception or discovery; secret. 
+adj	Free from anxiety or doubt; unafraid. 
+adj	Firm and not likely to fail; stable. 
+adj	Free from the risk of financial loss; reliable. 
+adj	Confident in opinion; not entertaining, or not having reason to entertain, doubt; certain; sure; commonly used with of. 
+adj	(obsolete) Overconfident; incautious; careless. 
+adj	Certain to be achieved or gained; assured. 
+v	To make safe; to relieve from apprehensions of, or exposure to, danger; to guard; to protect. 
+v	To put beyond hazard of losing or of not receiving; to make certain; to assure; frequently with against or from, or formerly with of. 
+v	To make fast; to close or confine effectually; to render incapable of getting loose or escaping. 
+v	To get possession of; to make oneself secure of; to acquire certainly. 
+v	(transitive, obsolete) To plight or pledge. 

@@ -1,0 +1,7 @@
+n	The surroundings of, and influences on, a particular item of interest. 
+n	The natural world or ecosystem. 
+n	All the elements that affect a system or its inputs and outputs. 
+n	A particular political or social setting, arena or condition. 
+n	(computing) The software and/or hardware existing on any particular computer system. 
+n	(programming) The environment of a function at a point during the execution of a program is the set of identifiers in the function's scope and their bindings at that point. 
+n	(computing) The set of variables and their values in a namespace that an operating system associates with a process. 

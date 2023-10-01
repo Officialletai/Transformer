@@ -1,0 +1,12 @@
+adj	Fully developed; grown up in terms of physical appearance, behaviour or thinking; ripe. 
+adj	Brought to a state of complete readiness. 
+adj	Profound; careful. 
+adj	(medicine, obsolete) Come to, or in a state of, completed suppuration. 
+adj	(television, film) Suitable for adults only, due to sexual themes, violence, etc. 
+v	(intransitive) To proceed toward maturity: full development or completion (either of concrete or of abstract things, e.g. plans, judgments, qualities). 
+v	(intransitive, of food, especially fruit) To attain maturity, to become mature or ripe. 
+v	(transitive) To bring (something) to maturity, full development, or completion. 
+v	(transitive) To make (something, e.g. fruit) ripe or mature. 
+v	(intransitive, of a person) To proceed toward or become mature or full-grown, either physically or psychologically; to gain experience or wisdom with age. 
+v	(transitive) To make (someone) mature. 
+v	(intransitive, finance) To reach the date when payment is due. 

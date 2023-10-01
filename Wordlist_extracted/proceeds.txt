@@ -1,0 +1,2 @@
+n	Revenue; gross revenue. 
+n	Profit; net revenue. 

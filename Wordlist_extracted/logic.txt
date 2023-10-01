@@ -1,0 +1,10 @@
+adj	logical 
+n	(uncountable) A method of human thought that involves thinking in a linear, step-by-step manner about how a problem can be solved. Logic is the basis of many principles including the scientific method. 
+n	(philosophy, logic) The study of the principles and criteria of valid inference and demonstration. 
+n	(uncountable, mathematics) The mathematical study of relationships between rigorously defined concepts and of mathematical proof of statements. 
+n	(countable, mathematics) A formal or informal language together with a deductive system or a model-theoretic semantics. 
+n	(uncountable) Any system of thought, whether rigorous and productive or not, especially one associated with a particular person. 
+n	(uncountable) The part of a system (usually electronic) that performs the boolean logic operations, short for logic gates or logic circuit. 
+v	(intransitive, derogatory) To engage in excessive or inappropriate application of logic. 
+v	(transitive) To apply logical reasoning to. 
+v	(transitive) To overcome by logical argument. 

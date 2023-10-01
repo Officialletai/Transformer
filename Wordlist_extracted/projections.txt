@@ -1,0 +1,14 @@
+n	Something which projects, protrudes, juts out, sticks out, or stands out. 
+n	The action of projecting or throwing or propelling something. 
+n	(archaic) The throwing of materials into a crucible, hence the transmutation of metals. 
+n	(archaic) The crisis or decisive point of any process, especially a culinary process. 
+n	The display of an image by devices such as movie projector, video projector, overhead projector or slide projector. 
+n	A forecast or prognosis obtained by extrapolation 
+n	(psychology) A belief or assumption that others have similar thoughts and experiences to one's own. This includes making accusations that would more fittingly apply to the accuser. 
+n	(photography) The image that a translucent object casts onto another object. 
+n	(cartography) Any of several systems of intersecting lines that allow the curved surface of the earth to be represented on a flat surface. The set of mathematics used to calculate coordinate positions. 
+n	(geometry) An image of an object on a surface of fewer dimensions. 
+n	(linear algebra) An idempotent linear transformation which maps vectors from a vector space onto a subspace. 
+n	(mathematics) A transformation which extracts a fragment of a mathematical object. 
+n	(category theory) A morphism from a categorical product to one of its (two) components. 
+n	(grammar) The preservation of the properties of lexical items while generating the phrase structure of a sentence. See Projection principle. 

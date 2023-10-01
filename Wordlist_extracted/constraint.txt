@@ -1,0 +1,5 @@
+n	Something that constrains; a restriction. 
+n	An irresistible force or compulsion. 
+n	The repression of one's feelings. 
+n	(mathematics) A condition that a solution to an optimization problem must satisfy. 
+n	(databases) A linkage or other restriction that maintains database integrity. 

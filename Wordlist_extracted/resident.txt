@@ -1,0 +1,10 @@
+n	A person, animal or plant living at a certain location or in a certain area. 
+n	A bird which does not migrate during the course of the year. 
+n	A physician receiving specialized medical training. 
+n	A diplomatic representative who resides at a foreign court, usually of inferior rank to an ambassador. 
+n	(law) A legal permanent resident, someone who maintains residency. 
+adj	Dwelling, or having an abode, in a place for a continued length of time; residing on one's own estate. 
+adj	Based in a particular place; on hand; local. 
+adj	(obsolete) Fixed; stable; certain. 
+adj	(computing, of memory) Currently loaded into RAM; contrasted with virtual memory. 
+n	(espionage) Alternative form of rezident [(espionage) The head spy in a rezidentura.] 

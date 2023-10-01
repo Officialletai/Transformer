@@ -1,0 +1,31 @@
+adj	Easily giving way under pressure. 
+adj	(of cloth or similar material) Smooth and flexible; not rough, rugged, or harsh. 
+adj	(of a sound) Quiet. 
+adj	Gentle. 
+adj	Expressing gentleness or tenderness; mild; conciliatory; courteous; kind. 
+adj	Gentle in action or motion; easy. 
+adj	Weak in character; impressible. 
+adj	Requiring little or no effort; easy. 
+adj	Not bright or intense. 
+adj	Having a slight angle from straight. 
+adj	(phonetics) Voiced; sonant; lenis. 
+adj	(phonetics, rare) Voiceless. 
+adj	(Slavic phonology) Palatalized. 
+adj	(slang) Lacking strength or resolve; not tough, wimpy. 
+adj	(of water) Low in dissolved calcium compounds. 
+adj	(UK, colloquial) Foolish. 
+adj	(physics) Of a ferromagnetic material; a material that becomes essentially non-magnetic when an external magnetic field is removed, a material with a low magnetic coercivity. (compare hard) 
+adj	(of a person) Physically or emotionally weak. 
+adj	Incomplete, or temporary; not a full action. 
+adj	(UK, of a man) Effeminate. 
+adj	Agreeable to the senses. 
+adj	Not harsh or offensive to the sight; not glaring or jagged; pleasing to the eye. 
+adj	(photography, of light) Made up of nonparallel rays, tending to wrap around a subject and produce diffuse shadows. 
+adj	(computing) Emulated with software; not physically real. 
+adj	(of a drug) Not likely to cause addiction. 
+adj	(finance) Of a market: having more supply than demand; being a buyer's market. 
+n	A soft or foolish person; an idiot. 
+n	(colloquial) A soft sound or part of a sound. 
+n	(gaming, dated) Video game 
+adv	(obsolete) Softly; without roughness or harshness; gently; quietly. 
+n	(motorsports) Ellipsis of soft tyre. (A tyre whose compound is softer than mediums, and harder than supersofts.) 

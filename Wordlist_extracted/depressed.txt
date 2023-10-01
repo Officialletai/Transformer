@@ -1,0 +1,4 @@
+adj	Unhappy; despondent. 
+adj	Suffering from clinical depression. 
+adj	Suffering damaging effects of economic recession. 
+adj	(mathematics) Reduced to a lower degree or form. 

@@ -1,0 +1,4 @@
+adj	lying underneath 
+adj	basic or fundamental 
+adj	implicit 
+n	(finance) The entity from whose performance a derivative derives its value. 

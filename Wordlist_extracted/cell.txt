@@ -1,0 +1,25 @@
+n	A single-room dwelling for a hermit. 
+n	(now historical) A small monastery or nunnery dependent on a larger religious establishment. 
+n	A small room in a monastery or nunnery accommodating one person. 
+n	A room in a prison or jail for one or more inmates. 
+n	Each of the small hexagonal compartments in a honeycomb. 
+n	(biology, now chiefly botany) Any of various chambers in a tissue or organism having specific functions. 
+n	(entomology) The discal cell of the wing of a lepidopteran insect. 
+n	(obsolete) Specifically, any of the supposed compartments of the brain, formerly thought to be the source of specific mental capacities, knowledge, or memories. 
+n	A section or compartment of a larger structure. 
+n	(obsolete, chiefly literary) Any small dwelling; a remote nook, a den. 
+n	A device which stores electrical power; used either singly or together in batteries; the basic unit of a battery. 
+n	(biology) The basic unit of a living organism, consisting of a quantity of protoplasm surrounded by a cell membrane, which is able to synthesize proteins and replicate itself. 
+n	(meteorology) A small thunderstorm, caused by convection, that forms ahead of a storm front. 
+n	(computing) The minimal unit of a cellular automaton that can change state and has an associated behavior. 
+n	(card games) In FreeCell-type games, a space where one card can be placed. 
+n	A small group of people forming part of a larger organization, often an outlawed one. 
+n	(communication) A short, fixed-length packet, as in asynchronous transfer mode. 
+n	(communication) A region of radio reception that is a part of a larger radio network. 
+n	(geometry) A three-dimensional facet of a polytope. 
+n	(statistics) The unit in a statistical array (a spreadsheet, for example) where a row and a column intersect. 
+n	(architecture) The space between the ribs of a vaulted roof. 
+n	(architecture) A cella. 
+n	(entomology) An area of an insect wing bounded by veins. 
+v	(transitive) To place or enclose in a cell. 
+n	(US, informal) A cellular phone. 

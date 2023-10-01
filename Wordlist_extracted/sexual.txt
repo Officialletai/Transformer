@@ -1,0 +1,9 @@
+adj	Arising from the fact of being male or female; pertaining to sex or gender, or to the social relations between the sexes. 
+adj	(biology) Capable of sexual reproduction; sexed, sexuate. 
+adj	Pertaining to sexual intercourse or other intimate physical contact. 
+adj	Characterised by sexual feelings or behaviour; possessing sexuality. 
+adj	Pertaining to sexuality as a cultural phenomenon; relating to sexual behaviour or conduct. 
+adj	(LGBT, of a person, rare) Experiencing sexual attraction; not asexual. 
+adj	(obsolete) Pertaining to the female sex. 
+n	(biology) A species which reproduces by sexual rather than asexual reproduction, or a member of such a species. 
+n	(LGBT) A person who experiences sexual attraction, a person who has interest in or desire for sex (especially as contrasted with an asexual). 

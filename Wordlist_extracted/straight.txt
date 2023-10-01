@@ -1,0 +1,35 @@
+adj	Not crooked or bent; having a constant direction throughout its length. 
+adj	(of a path, trajectory, etc.) Direct, undeviating. 
+adj	Perfectly horizontal or vertical; not diagonal or oblique. 
+adj	(cricket) Describing the bat as held so as not to incline to either side; on, or near a line running between the two wickets. 
+adj	Direct in communication; unevasive, straightforward. 
+adj	Free from dishonesty; honest, law-abiding. 
+adj	Serious rather than comedic. 
+adj	In proper order; as it should be. 
+adj	In a row, in unbroken sequence; consecutive. 
+adj	(tennis) Describing the sets in a match of which the winner did not lose a single set. 
+adj	(US, politics) Making no exceptions or deviations in one's support of the organization and candidates of a political party. 
+adj	(US, politics) Containing the names of all the regularly nominated candidates of a party and no others. 
+adj	(colloquial) Conventional, mainstream, socially acceptable. 
+adj	(colloquial) Heterosexual. 
+adj	(colloquial, of a romantic or sexual relation) Occurring between people of opposite sex (sometimes, but only sometimes, specifically between heterosexual ones). 
+adj	(slang, sex work) Related to conventional sexual intercourse. 
+adj	(colloquial) Not using alcohol, drugs, etc. 
+adj	(fashion) Not plus size; thin. 
+adj	(rare, now chiefly religion) Strait; narrow. 
+adj	(obsolete) Stretched out; fully extended. 
+adj	(slang) Thorough; utter; unqualified. 
+adj	Of spirits: undiluted, unmixed; neat. 
+adj	(sciences, mathematics) Concerning the property allowing the parallel transport of vectors along a course that keeps tangent vectors remain as such throughout that course (a course which is straight, a straight curve, is a geodesic). 
+adv	Of a direction relative to the subject, precisely; as if following a direct line. 
+adv	Directly; without pause, delay or detour. 
+adv	Continuously; without interruption or pause. 
+adv	Of speech or information, without prevarication or holding back; directly; straightforwardly; plainly. 
+n	Something that is not crooked or bent such as a part of a road or track. 
+n	(poker) Five cards in sequence. 
+n	(colloquial) A heterosexual. 
+n	(slang) A normal person; someone in mainstream society. 
+n	(slang) A cigarette, particularly one containing tobacco instead of marijuana. 
+n	A chiropractor who relies solely on spinal adjustment, with no other treatments. 
+v	(transitive) To straighten. 
+n	A surname. 

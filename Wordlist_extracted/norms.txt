@@ -1,0 +1,10 @@
+n	That which is normal or typical. 
+n	A rule that is imposed by regulations and/or socially enforced by members of a community. 
+n	(philosophy, computer science) A sentence with non-descriptive meaning, such as a command, permission, or prohibition. 
+n	if v ne 0 then |v| ne 0; 
+n	given a scalar k, |kv|=|k|·|v|, where |k| is the absolute value of k; 
+n	given two vectors v,w, |v+w|<|v|+|w| (the triangle inequality). 
+n	(chess) A high level of performance in a chess tournament, several of which are required for a player to receive a title. 
+v	(mathematical analysis) To endow (a vector space, etc.) with a norm. 
+n	A diminutive of the male given name Norman 
+n	Initialism of naturally occurring radioactive materials. 

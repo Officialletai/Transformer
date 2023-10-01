@@ -1,0 +1,12 @@
+n	What something does or is used for. 
+n	A professional or official position. 
+n	An official or social occasion. 
+n	Something which is dependent on or stems from another thing; a result or concomitant. 
+n	A relation where one thing is dependent on another for its existence, value, or significance. 
+n	(mathematics) A relation in which each element of the domain is associated with exactly one element of the codomain. 
+n	(computing) A routine that receives zero or more arguments and may return a result. 
+n	(biology) The physiological activity of an organ or body part. 
+n	(chemistry) The characteristic behavior of a chemical compound. 
+n	(anthropology) The role of a social practice in the continued existence of the group. 
+v	(intransitive) To have a function. 
+v	(intransitive) To carry out a function; to be in action. 

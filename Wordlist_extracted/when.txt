@@ -1,0 +1,6 @@
+adv	(interrogative) At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time. 
+adv	At an earlier time and under different, usually less favorable, circumstances. 
+adv	(relative) At which, on which, during which: often omitted or replaced with that. 
+adv	(fused relative) The time at, on or during which. 
+adv	(informal, in definitions or explanations) A circumstance or situation in which. 
+n	The time at which something happens. 

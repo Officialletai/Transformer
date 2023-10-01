@@ -1,0 +1,19 @@
+n	(geometry) A figure formed by two rays which start from a common point (a plane angle) or by three planes that intersect (a solid angle). 
+n	(geometry) The measure of such a figure. In the case of a plane angle, this is the ratio (or proportional to the ratio) of the arc length to the radius of a section of a circle cut by the two rays, centered at their common point. In the case of a solid angle, this is the ratio of the surface area to the square of the radius of the section of a sphere. 
+n	A corner where two walls intersect. 
+n	A change in direction. 
+n	A viewpoint; a way of looking at something. 
+n	(media) The focus of a news story. 
+n	Any of various hesperiid butterflies. 
+n	(slang, professional wrestling) A storyline between two wrestlers, providing the background for and approach to a feud. 
+n	(slang) An ulterior motive; a scheme or means of benefitting from a situation, usually hidden, often immoral 
+n	A projecting or sharp corner; an angular fragment. 
+n	(astrology) Any of the four cardinal points of an astrological chart: the Ascendant, the Midheaven, the Descendant and the Imum Coeli. 
+v	(transitive, often in the passive) To place (something) at an angle. 
+v	(intransitive, informal) To change direction rapidly. 
+v	(transitive, informal) To present or argue something in a particular way or from a particular viewpoint. 
+v	(transitive, cue sports) To hamper (oneself or one's opponent) by leaving the cue ball in the jaws of a pocket such that the surround of the pocket (the "angle") blocks the path from cue ball to object ball. 
+n	A fishhook; tackle for catching fish, consisting of a line, hook, and bait, with or without a rod. 
+v	(intransitive, figuratively) To try to catch fish with a hook and line. 
+v	(informal, with for) To attempt to subtly persuade someone to offer a desired thing. 
+n	(historical) A member of a Germanic tribe first mentioned by Tacitus, one of several which invaded Britain and merged to become the Anglo-Saxons; an Anglian. 

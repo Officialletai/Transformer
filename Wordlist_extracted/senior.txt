@@ -1,0 +1,10 @@
+adj	Older; superior 
+adj	Higher in rank, dignity, or office. 
+adj	(US) Of or pertaining to a student's final academic year at a high school (twelfth grade) or university. 
+n	(now chiefly US) An old person. 
+n	Someone older than someone else (with possessive). 
+n	Someone seen as deserving respect or reverence because of their age. 
+n	(obsolete, biblical) An elder or presbyter in the early Church. 
+n	Somebody who is higher in rank, dignity, or office. 
+n	(US, Philippines) A final-year student at a high school or university. 
+n	A surname. 

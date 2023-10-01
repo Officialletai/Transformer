@@ -1,0 +1,37 @@
+n	(historical) A type of women's undergarment of dress length worn under dresses or skirts, a slip or chemise. 
+n	A simple straight-hanging, loose-fitting dress. 
+n	A change of workers, now specifically a set group of workers or period of working time. 
+n	An act of shifting; a slight movement or change. 
+n	(US) The gear mechanism in a motor vehicle. 
+n	(computing) A control code or character used to change between different character sets. 
+n	(computing) An instance of the use of such a code or character. 
+n	(computing) A bit shift. 
+n	(baseball) An infield shift. 
+n	(Ireland, crude slang, often with the definite article, usually uncountable) The act of kissing passionately. 
+n	(archaic) A contrivance, a device to try when other methods fail. 
+n	(archaic) A trick, an artifice. 
+n	(construction) The extent, or arrangement, of the overlapping of plank, brick, stones, etc., that are placed in courses so as to break joints. 
+n	(mining) A breaking off and dislocation of a seam; a fault. 
+n	(genetics) A mutation in which the DNA or RNA from two different sources (such as viruses or bacteria) combine. 
+n	(music) In violin-playing, any position of the left hand except that nearest the nut. 
+n	A period of time in which one's consciousness resides in another reality, usually achieved through meditation or other means. 
+v	(transitive, sometimes figuratively) To move from one place to another; to redistribute. 
+v	(transitive, intransitive, figuratively) To change in form or character; switch. 
+v	(intransitive) To change position. 
+v	(intransitive, India) To change residence; to leave and live elsewhere. 
+v	(obsolete, transitive) To change (clothes, especially underwear). 
+v	(obsolete, transitive, reflexive) To change (someone's) clothes; sometimes specifically, to change underwear. 
+v	(intransitive) To change gears (in a car). 
+v	(typewriters) To move the keys of a typewriter over in order to type capital letters and special characters. 
+v	(computer keyboards) To switch to a character entry mode for capital letters and special characters. 
+v	(transitive, computing) To manipulate a binary number by moving all of its digits left or right; compare rotate. 
+v	(transitive, computing) To remove the first value from an array. 
+v	(transitive) To dispose of. 
+v	(intransitive) To hurry; to move quickly. 
+v	(Ireland, vulgar, slang) To engage in sexual petting. 
+v	(archaic) To resort to expedients for accomplishing a purpose; to contrive; to manage. 
+v	To practice indirect or evasive methods. 
+v	(music) In violin-playing, to move the left hand from its original position next to the nut. 
+v	To change the reality one's consciousness resides in through meditation or other means. 
+n	(computing) A modifier key whose main function is shifting between two or more functions of any of certain other keys (usually by pressing Shift and the other button simultaneously). 
+n	Alternative spelling of Shift (“a modifier button of computer keyboards”). [(computing) A modifier key whose main function is shifting between two or more functions of any of certain other keys (usually by pressing Shift and the other button simultaneously).] 

@@ -1,0 +1,4 @@
+n	(uncountable) The condition of being visible. 
+n	(countable) The degree to which things may be seen. 
+n	(programming) The scope within which a variable or function is able to be accessed directly. 
+n	(obsolete, rare) Something worthy of being seen; a sight. 

@@ -1,0 +1,41 @@
+n	A chopping block: a cuboid base for cutting or beheading. 
+n	A wig block: a simplified head model upon which wigs are worn. 
+n	A mould on which hats, bonnets, etc., are shaped. 
+n	(printing, dated) A piece of hard wood on which a stereotype or electrotype plate is mounted. 
+n	A case or frame housing one or more sheaves (pulleys), used with ropes to increase or redirect force, for example as part of lifting gear or a sailing ship's rigging. See also block and tackle. 
+n	A section of split logs used as fuel. 
+n	A set of sheets (of paper) joined together at one end, forming a cuboid shape. 
+n	(falconry) The perch on which a bird of prey is kept. 
+n	(philately) A joined group of four (or in some cases nine) postage stamps, forming a roughly square shape. 
+n	(viticulture) A discrete group of vines in a vineyard, often distinguished from others by variety, clone, canopy training method, irrigation infrastructure, or some combination thereof. 
+n	(computing) A logical data storage unit containing one or more physical sectors (see cluster). 
+n	(programming) A region of code in a program that acts as a single unit, such as a function or loop. 
+n	(cryptography) A fixed-length group of bits making up part of a message. 
+n	(chemistry) A portion of a macromolecule, comprising many units, that has at least one feature not present in adjacent portions. 
+n	(rail transport) A section of a railroad where the block system is used. 
+n	(computing) A contiguous range of Unicode code points used to encode characters of a specific type; can be of any size evenly divisible by 16, up to 65,536 (a full plane). 
+n	A contiguous group of urban lots of property, typically several acres in extent, not crossed by public streets. 
+n	The distance from one street to another in a city or suburb that is built (approximately) to a grid pattern. 
+n	A roughly cuboid building. 
+n	A cellblock. 
+n	Interference or obstruction of cognitive processes. 
+n	(sports) An action to interfere with the movement of an opposing player or of the object of play (ball, puck). 
+n	A temporary or permanent ban that prevents access to an online account or service, or connection to or from a designated telephone number, IP address, or similar. 
+n	(slang) The human head. 
+n	(UK) Solitary confinement. 
+n	(obsolete) A blockhead; a stupid fellow; a dolt. 
+v	(transitive) To fill or obstruct (something) so that it is not possible to pass. 
+v	(transitive) To prevent (something or someone) from passing. 
+v	(transitive) To prevent (something from happening or someone from doing something). 
+v	(transitive, sports) To impede (an opponent or opponent's play). 
+v	(transitive, theater) To specify the positions and movements of the actors for (a section of a play or film). 
+v	(transitive, cricket) To hit with a block. 
+v	(intransitive, cricket) To play a block shot. 
+v	(transitive) To bar (someone undesirable) from connecting via telephone, instant messaging, etc., or from accessing an online account or service, or similar. 
+v	(transitive) To bar (a message or communication), or bar connection with (an online account or service, a designated telephone number, IP address, etc.). 
+v	(programming, intransitive) To wait for some condition to become true. 
+v	(transitive) To stretch or mould (a knitted item, a hat, etc.) into the desired shape. 
+v	(transitive) To shape or sketch out roughly. 
+v	(transitive, slang, obsolete) To knock (a person's hat) down over their eyes. 
+n	A surname. 
+n	Misspelling of bloc. [A group of voters or politicians who share common goals.] 

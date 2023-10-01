@@ -1,0 +1,2 @@
+n	A group, often named or numbered, to which items are assigned based on similarity or defined criteria. 
+n	(mathematics) A collection of objects, together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative. 

@@ -1,0 +1,14 @@
+adj	Passing from one side of something to the other. 
+adj	Finished; complete. 
+adj	Without a future; done for. 
+adj	No longer interested; wearied or turned off by experience. 
+adj	Proceeding from origin to destination without delay due to change of equipment. 
+adj	(soccer) In possession of the ball beyond the last line of defence but not necessarily the goalkeeper; through on goal. 
+adv	From one side to the other by way of the interior. 
+adv	From one end to the other. 
+adv	During a period of time; throughout 
+adv	To the end. 
+adv	Completely. 
+adv	Out into the open. 
+n	A large slab of stone laid in a dry-stone wall from one side to the other; a perpend. 
+n	(obsolete) A coffin, sarcophagus or tomb of stone; a large slab of stone laid on a tomb. 

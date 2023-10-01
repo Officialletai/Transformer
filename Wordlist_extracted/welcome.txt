@@ -1,0 +1,10 @@
+adj	Whose arrival is a cause of joy; received with gladness; admitted willingly to the house, entertainment, or company. 
+adj	Producing gladness. 
+adj	Free to have or enjoy gratuitously. 
+n	The act of greeting someone’s arrival, especially by saying "Welcome!"; reception. 
+n	The utterance of such a greeting. 
+n	Kind reception of a guest or newcomer. 
+n	The state of being a welcome guest. 
+v	To affirm or greet the arrival of someone, especially by saying "Welcome!". 
+v	To accept something willingly or gladly. 
+n	A surname. 

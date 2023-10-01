@@ -1,0 +1,2 @@
+adj	Involved in the transportation or correct positioning of a protein inside or outside a specific region of the cell. 
+n	An instance of targeting. 

@@ -1,0 +1,4 @@
+n	(countable, uncountable) The act of contradicting. 
+n	(countable) A statement that contradicts itself, i.e., a statement that claims that the same thing is true and that it is false at the same time and in the same senses of the terms. 
+n	(countable) A logical inconsistency among two or more elements or propositions. 
+n	(logic, countable) A proposition that is false for all values of its propositional variables or Boolean atoms. 

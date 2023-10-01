@@ -1,0 +1,7 @@
+adv	Introducing a complete question. 
+adv	Introducing a verb phrase (bare infinitive clause). 
+adv	Introducing a noun or other phrase. 
+adv	(relative) For which cause, reason, or purpose. 
+adv	(fused relative) The cause, reason, or purpose for which. 
+n	Reason. 
+n	(UK, dialect, archaic) A young heifer. 

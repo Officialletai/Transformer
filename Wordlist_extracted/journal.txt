@@ -1,0 +1,11 @@
+n	A diary or daily record of a person, organization, vessel etc.; daybook. 
+n	A newspaper or magazine dealing with a particular subject. 
+n	(accounting) A chronological record of payments or receipts. 
+n	(accounting) A general journal. 
+n	(computing) A chronological record of changes made to a database or other system; along with a backup or image copy that allows recovery after a failure or reinstatement to a previous time; a log. 
+n	(engineering) The part of a shaft or axle that rests on bearings. 
+v	To archive or record something. 
+v	To scrapbook. 
+v	To insert (a shaft, etc.) in a journal bearing. 
+adj	(obsolete) Daily. 
+n	The amount of land that can be worked in a day. 

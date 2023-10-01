@@ -1,0 +1,26 @@
+n	Something used for fastening, which can only be opened with a key or combination. 
+n	(computing, by extension) A mutex or other token restricting access to a resource. 
+n	A segment of a canal or other waterway enclosed by gates, used for raising and lowering boats between levels. 
+n	(firearms) The firing mechanism. 
+n	Complete control over a situation. 
+n	Something sure to be a success. 
+n	(rugby) A player in the scrum behind the front row, usually the tallest members of the team. 
+n	A fastening together or interlacing; a closing of one thing upon another; a state of being fixed or immovable. 
+n	A place impossible to get out of, as by a lock. 
+n	A device for keeping a wheel from turning. 
+n	A grapple in wrestling. 
+v	(intransitive) To become fastened in place. 
+v	(transitive) To fasten with a lock. 
+v	(intransitive) To be capable of becoming fastened in place. 
+v	(transitive) To intertwine or dovetail. 
+v	(intransitive, break dancing) To freeze one's body or a part thereof in place. 
+v	To furnish (a canal) with locks. 
+v	To raise or lower (a boat) in a lock. 
+v	To seize (e.g. the sword arm of an antagonist) by turning one's left arm around it, to disarm them. 
+v	(Internet, transitive) To modify (a thread) so that users cannot make new posts in it. 
+v	(Internet, transitive, Wikimedia jargon) To prevent a page from being edited by other users. 
+v	(intransitive, rugby) To play in the position of lock. 
+n	A tuft or length of hair, wool, etc. 
+n	A small quantity of straw etc. 
+n	(Scotland, law, historical) A quantity of meal, the perquisite of a mill-servant. 
+n	A surname. 

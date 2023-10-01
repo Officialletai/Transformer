@@ -1,0 +1,56 @@
+n	Something from which other things extend; a foundation. 
+n	A supporting, lower or bottom component of a structure or object. 
+n	The starting point of a logical deduction or thought; basis. 
+n	A permanent structure for housing military personnel and material. 
+n	The place where decisions for an organization are made; headquarters. 
+n	(cooking, painting, pharmacy) A basic but essential component or ingredient. 
+n	A substance used as a mordant in dyeing. 
+n	(cosmetics) Foundation: a cosmetic cream to make the face appear uniform. 
+n	(chemistry) Any of a class of generally water-soluble compounds, having bitter taste, that turn red litmus blue, and react with acids to form salts. 
+n	A safe zone in the children's games of tag and hide-and-go-seek. 
+n	(baseball) One of the four places that a runner can stand without being subject to being tagged out when the ball is in play. 
+n	(architecture) The lowermost part of a column, between the shaft and the pedestal or pavement. 
+n	(biology, biochemistry) A nucleotide's nucleobase in the context of a DNA or RNA biopolymer. 
+n	(botany) The end of a leaf, petal or similar organ where it is attached to its support. 
+n	(electronics) The name of the controlling terminal of a bipolar transistor (BJT). 
+n	(geometry) The lowest side of a triangle or other polygon, or the lowest face of a cone, pyramid or other polyhedron laid flat. 
+n	(heraldry) The lowest third of a shield or escutcheon. 
+n	(heraldry) The lower part of the field. See escutcheon. 
+n	(mathematics) A number raised to the power of an exponent. 
+n	(mathematics) Synonym of radix. 
+n	(topology) The set of sets from which a topology is generated. 
+n	(topology) A topological space, looked at in relation to one of its covering spaces, fibrations, or bundles. 
+n	(group theory) A sequence of elements not jointly stabilized by any nontrivial group element. 
+n	(acrobatics, cheerleading) In hand-to-hand balance, the person who supports the flyer; the person that remains in contact with the ground. 
+n	(linguistics) A morpheme (or morphemes) that serves as a basic foundation on which affixes can be attached. 
+n	(military, historical) The smallest kind of cannon. 
+n	(archaic) The housing of a horse. 
+n	(historical, sometimes in the plural) A kind of skirt (often of velvet or brocade, but sometimes of mail or other armour) which hung from the middle to about the knees, or lower. 
+n	(obsolete) The lower part of a robe or petticoat. 
+n	(obsolete) An apron. 
+n	A line in a survey which, being accurately determined in length and position, serves as the origin from which to compute the distances and positions of any points or objects connected with it by a system of triangles. 
+n	(politics) A group of voters who almost always support a single party's candidates for elected office. 
+n	(Marxism) The forces and relations of production that produce the necessities and amenities of life. 
+n	A material that holds paint or other materials together; a binder. 
+n	(slang) freebase cocaine 
+v	(transitive) To give as its foundation or starting point; to lay the foundation of. 
+v	(transitive) To be located (at a particular place). 
+v	(acrobatics, cheerleading) To act as a base; to be the person supporting the flyer. 
+v	(slang) To freebase. 
+adj	(obsolete) Low in height; short. 
+adj	Low in place or position. 
+adj	(obsolete) Of low value or degree. 
+adj	(archaic) Of low social standing or rank; vulgar, common. 
+adj	Morally reprehensible, immoral; cowardly. 
+adj	(now rare) Inferior; unworthy, of poor quality. 
+adj	(of a metal) Not considered precious or noble. 
+adj	Alloyed with inferior metal; debased. 
+adj	(obsolete) Of illegitimate birth; bastard. 
+adj	Not classical or correct. 
+adj	(law) Not held by honourable service. 
+n	(now chiefly US, historical) The game of prisoners' bars. 
+n	A surname transferred from the nickname. 
+n	(aviation) Short for base leg. [(aviation) The part of a landing before final approach, flown downwind of and at right angles to the runway.] 
+adj	Obsolete form of bass. [Of sound, a voice or an instrument, low in pitch or frequency.] 
+n	Alternative form of BASE 
+n	Acronym of building, antenna-tower, span, earth. [(uncountable) The act or process by which something is built; construction.] 

@@ -1,0 +1,11 @@
+adj	(not comparable) The same in all respects. 
+adj	(mathematics, not comparable) Exactly identical, having the same value. 
+adj	(obsolete) Fair, impartial. 
+adj	(comparable) Adequate; sufficiently capable or qualified. 
+adj	(obsolete) Not variable; equable; uniform; even. 
+adj	(music) Intended for voices of one kind only, either all male or all female; not mixed. 
+v	(mathematics, copulative) To be equal to, to have the same value as; to correspond to. 
+v	(transitive) To make equivalent to; to cause to match. 
+v	(informal) To have as its consequence. 
+n	A person or thing of equal status to others. 
+n	(obsolete) State of being equal; equality. 

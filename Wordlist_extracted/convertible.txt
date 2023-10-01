@@ -1,0 +1,8 @@
+adj	Able to be exchanged, one for the other, especially 
+adj	(logic) Able to undergo conversion (i.e., inversion) without falsehood. 
+adj	Able to be turned, especially 
+adj	Able to be turned into a different thing, especially 
+n	(dated, in the plural) Interchangeable things or terms. 
+n	(vehicles) A convertible car: a car with a removable or foldable roof able to convert from a closed to open vehicle and back again. 
+n	(finance) A convertible security: a stock, bond, etc. that can be turned into another (usually common stock) under certain set terms. 
+n	(computing) A computer able to convert from laptop to tablet and back again. 

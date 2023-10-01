@@ -1,0 +1,6 @@
+adj	Without limit; forever, or until further notice; not definite. 
+adj	Vague or unclear. 
+adj	Undecided or uncertain. 
+adj	(mathematics) Being an integral without specified limits. 
+adj	(linguistics) Designating an unspecified or unidentified person or thing or group of persons or things 
+n	(grammar) A word or phrase that designates an unspecified or unidentified person or thing or group of persons or things. 

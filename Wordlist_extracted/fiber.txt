@@ -1,0 +1,9 @@
+n	(countable) A single elongated piece of a given material, roughly round in cross-section, often twisted with other fibers to form thread. 
+n	(uncountable) A material in the form of fibers. 
+n	(textiles) A material whose length is at least 1000 times its width. 
+n	Dietary fiber. 
+n	(figuratively) Moral strength and resolve. 
+n	(mathematics) The preimage of a given point in the range of a map. 
+n	(category theory) The pullback of a morphism along a global element (called the fiber of the morphism over the global element). 
+n	(computing) A kind of lightweight thread of execution. 
+n	(cytology) A long tubular cell found in bodily tissue. 

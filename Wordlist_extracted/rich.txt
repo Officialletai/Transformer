@@ -1,0 +1,18 @@
+adj	Wealthy: having a lot of money and possessions. 
+adj	Having an intense fatty or sugary flavour. 
+adj	Remunerative. 
+adj	Plentiful, abounding, abundant, fulfilling. 
+adj	Yielding large returns; productive or fertile; fruitful. 
+adj	Composed of valuable or costly materials or ingredients; procured at great outlay; highly valued; precious; sumptuous; costly. 
+adj	Not faint or delicate; vivid. 
+adj	(informal) Very amusing. 
+adj	(informal) Ridiculous, absurd, outrageous, preposterous, especially in a galling, hypocritical, or brazen way. 
+adj	(computing) Elaborate, having complex formatting, multimedia, or depth of interaction. 
+adj	Of a solute-solvent solution: not weak (not diluted); of strong concentration. 
+adj	Of a fuel-air mixture: having more fuel (thus less air) than is necessary to burn all of the fuel; less air- or oxygen- rich than necessary for a stoichiometric reaction. 
+adj	(finance) Trading at a price level which is high relative to historical trends, a similar asset, or (for derivatives) a theoretical value. 
+n	The rich people of a society or the world collectively, the rich class of a society. 
+v	(obsolete, transitive) To enrich. 
+v	(obsolete, intransitive) To become rich. 
+n	A diminutive of the male given name Richard. 
+n	A surname transferred from the given name. 

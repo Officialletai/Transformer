@@ -1,0 +1,9 @@
+n	Currently unrealized ability (with the most common adposition being to) 
+n	(physics) The gravitational potential: the radial (irrotational, static) component of a gravitational field, also known as the Newtonian potential or the gravitoelectric field. 
+n	(physics) The work (energy) required to move a reference particle from a reference location to a specified location in the presence of a force field, for example to bring a unit positive electric charge from an infinite distance to a specified point against an electric field. 
+n	(grammar) A verbal construction or form stating something is possible or probable. 
+adj	Existing in possibility, not in actuality. 
+adj	(archaic) Being potent; endowed with energy adequate to a result 
+adj	(physics) A potential field is an irrotational (static) field. 
+adj	(physics) A potential flow is an irrotational flow. 
+adj	(grammar) Referring to a verbal construction of form stating something is possible or probable. 

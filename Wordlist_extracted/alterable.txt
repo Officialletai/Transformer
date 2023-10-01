@@ -1,0 +1,2 @@
+adj	Capable of being changed, changeable, mutable 
+n	Something that can be altered; a variable. 

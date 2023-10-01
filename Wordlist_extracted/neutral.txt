@@ -1,0 +1,14 @@
+adj	Not taking sides in a conflict such as war; nonaligned. 
+adj	Favouring neither the supporting nor opposing viewpoint of a topic of debate; unbiased. 
+adj	Neither positive nor negative. 
+adj	Neither beneficial nor harmful. 
+adj	(biology) Having no sex; neuter. 
+adj	Having no obvious colour; gray 
+adj	(physics) Neither positive nor negative; possessing no charge or equivalent positive and negative charge such that there is no imbalance. 
+adj	(chemistry) Having a pH of or near 7, neither acidic nor alkaline. 
+n	A nonaligned state, or a member of such a state. 
+n	A person who takes no side in a dispute. 
+n	An individual or entity serving as an arbitrator or adjudicator. 
+n	A neutral hue. 
+n	The position of a set of gears in which power cannot be transmitted to the drive mechanism. 
+n	An electrical terminal or conductor which has zero or close to zero voltage with respect to the ground. 

@@ -1,0 +1,27 @@
+n	(obsolete) Guidance; help. 
+n	(chiefly in the plural, now archaic) A polite approach made to another person, especially of a romantic nature; an amorous advance. 
+n	A manner of speaking or writing to another; language, style. 
+n	A formal approach to a sovereign, especially an official appeal or petition; later (specifically) a response given by each of the Houses of Parliament to the sovereign's speech at the opening of Parliament. 
+n	An act of addressing oneself to a person or group; a discourse or speech, or a record of this. 
+n	A description of the location of a property, usually with at least a street name and number, name of a town, and now also a postal code; such a description as superscribed for direction on an envelope or letter. 
+n	(by extension) The property itself. 
+n	(computing) A number identifying a specific storage location in computer memory; a string of characters identifying a location on the internet or other network; sometimes (specifically) an e-mail address. 
+n	(now rare) Preparedness for some task; resourcefulness; skill, ability. 
+n	(obsolete) The act of getting ready; preparation. 
+n	(golf, Scotland) The act of bringing the head of the club up to the ball in preparation for swinging. 
+v	(intransitive, obsolete) To prepare oneself. 
+v	(intransitive, obsolete) To direct speech. 
+v	(transitive, obsolete) To aim; to direct. 
+v	(transitive, obsolete) To prepare or make ready. 
+v	(transitive, reflexive) To prepare oneself; to apply one's skill or energies (to some object); to betake. 
+v	(reflexive) To direct one’s remarks (to someone). 
+v	(transitive, archaic) To clothe or array; to dress. 
+v	(transitive) To direct, as words (to anyone or anything); to make, as a speech, petition, etc. (to any audience). 
+v	(transitive) To direct speech to; to make a communication to, whether spoken or written; to apply to by words, as by a speech, petition, etc., to speak to. 
+v	(transitive) To direct in writing, as a letter; to superscribe, or to direct and transmit. 
+v	(transitive) To make suit to as a lover; to court; to woo. 
+v	(transitive) To consign or entrust to the care of another, as agent or factor. 
+v	(transitive) To address oneself to; to prepare oneself for; to apply oneself to; to direct one's speech, discourse or efforts to. 
+v	(transitive, formal) To direct attention towards a problem or obstacle, in an attempt to resolve it. 
+v	(transitive, computing) To refer to a location in computer memory. 
+v	(transitive, golf, Scotland) To get ready to hit (the ball on the tee). 

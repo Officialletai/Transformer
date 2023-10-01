@@ -1,0 +1,5 @@
+adj	Capable of being regained or recovered. 
+adj	Restorable from sickness, faintness, danger, etc. 
+adj	Capable of being brought back to a former condition, or recovered from. 
+adj	Obtainable from a debtor or possessor 
+n	(accounting) Amounts of reinsurance coverage that are due from a reinsurer. 

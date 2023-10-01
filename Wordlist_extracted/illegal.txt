@@ -1,0 +1,10 @@
+adj	Contrary to or forbidden by law, especially criminal law. 
+adj	Breaching certain enacted statutes of positive law; not lawful, not legal (cf. immoral, unethical) 
+adj	Forbidden by established rules. 
+adj	(philately, of an issue printed for collectors) Totally fictitious, and often issued on behalf of a non-existent territory or country. 
+adj	(of a person, sometimes offensive) Being or doing something illegally. 
+adj	(chiefly US, sometimes offensive) Being an illegal immigrant; residing in a country illegally. 
+n	(obsolete) An illegal act or technique. 
+n	(colloquial, in the plural, as illegals) Contraband, esp. illegal substances such as drugs. 
+n	(colloquial, offensive) An illegal immigrant. 
+n	(espionage) A spy working abroad illegally and undercover, without visible ties to his or her country’s authorities. 

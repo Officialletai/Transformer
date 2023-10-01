@@ -1,0 +1,4 @@
+n	A person who performs labor for a living, especially manual labor. 
+n	A nonreproductive social insect, such as ant, bee, termite, or wasp. 
+n	(rare) A female ant, bee, termite or wasp. 
+n	(computing) A thread performing one instance of a particular task within a program. 

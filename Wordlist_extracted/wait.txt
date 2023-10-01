@@ -1,0 +1,14 @@
+v	(transitive, now rare) To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.) 
+v	(intransitive) To delay movement or action until some event or time; to remain neglected or in readiness. 
+v	(intransitive, US) To wait tables; to serve customers in a restaurant or other eating establishment. 
+v	(transitive, obsolete) To attend on; to accompany; especially, to attend with ceremony or respect. 
+v	(obsolete) To attend as a consequence; to follow upon; to accompany. 
+v	(obsolete, colloquial) To defer or postpone (especially a meal). 
+v	(intransitive) To remain faithful to one’s partner or betrothed during a prolonged period of absence. 
+n	A delay. 
+n	An ambush. 
+n	(obsolete) One who watches; a watchman. 
+n	(in the plural, obsolete, UK) Hautboys, or oboes, played by town musicians. 
+n	(in the plural, UK) Musicians who sing or play at night or in the early morning, especially at Christmas time; serenaders; musical watchmen. [formerly waites, wayghtes.] 
+n	A surname. 
+n	(computing) Short for wait state. [(computing) Any of several instances in which a computer's processor cannot execute instructions (either for the entire computer, or just for a specific task) until an I/O operation completes, or until an interrupt is resolved] 

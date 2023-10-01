@@ -1,0 +1,11 @@
+adj	Located directly across from something else, or from each other. 
+adj	(botany) Of leaves and flowers, positioned directly across from each other on a stem. 
+adj	Facing in the other direction. 
+adj	Of either of two complementary or mutually exclusive things. 
+adj	Extremely different; inconsistent; contrary; repugnant; antagonistic. 
+n	Something opposite or contrary to something else. 
+n	A person or thing that is entirely different from or the reverse of someone or something else; used to show contrast between two people or two things. 
+n	An opponent. 
+n	An antonym. 
+n	(mathematics) An additive inverse. 
+adv	In an opposite position. 

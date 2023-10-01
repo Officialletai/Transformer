@@ -1,0 +1,25 @@
+adj	Not positive nor neutral. 
+adj	(physics) Of electrical charge of an electron and related particles 
+adj	(mathematics) Of a number: less than zero 
+adj	(weather) Less than zero degrees Celsius or Fahrenheit. 
+adj	(linguistics, logic) Denying a proposition. 
+adj	Damaging; undesirable; unfavourable. 
+adj	(often used pejoratively) Pessimistic; not tending to see the bright side of things. 
+adj	Of or relating to a photographic image in which the colours of the original, and the relations of left and right, are reversed. 
+adj	(chemistry) Metalloidal, nonmetallic; contrasted with positive or basic. 
+adj	(New Age jargon, derogatory) Often preceded by emotion, energy, feeling, or thought: to be avoided, bad, difficult, disagreeable, painful, potentially damaging, unpleasant, unwanted. 
+adj	Characterized by the presence of features which do not support a hypothesis. 
+adj	(slang) HIV negative. 
+adj	(slang) COVID-19 negative. 
+n	Refusal or withholding of assents; prohibition, veto 
+n	An unfavorable point or characteristic. 
+n	(law) A right of veto. 
+n	(photography) An image in which dark areas represent light ones, and the converse. 
+n	(grammar) A word that indicates negation. 
+n	(mathematics) A negative quantity. 
+n	(weightlifting) A repetition performed with a weight in which the muscle begins at maximum contraction and is slowly extended; a movement performed using only the eccentric phase of muscle movement. 
+n	The negative plate of a voltaic or electrolytic cell. 
+v	(transitive) To refuse; to veto. 
+v	(transitive) To contradict. 
+v	(transitive) To disprove. 
+v	(transitive) To make ineffective; to neutralize, to negate. 

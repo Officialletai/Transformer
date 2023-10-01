@@ -1,0 +1,13 @@
+adj	Pertaining to the start or beginning of a series of events. 
+adj	(cricket) describing the first period of play, usually up to the fall of the first wicket; describing a batsman who opens the innings or a bowler who opens the attack 
+n	An act or instance of making or becoming open. 
+n	A gap permitting passage through. 
+n	An act or instance of beginning. 
+n	The first performance of a show or play by a particular troupe. 
+n	The initial period when a show at an art gallery or museum is first opened, especially the first evening. 
+n	The first few measures of a musical composition. 
+n	The first few moves in a game. 
+n	A time available in a schedule. 
+n	An unoccupied employment position. 
+n	An opportunity, as in a competitive activity. 
+n	(mathematics) In mathematical morphology, the dilation of the erosion of a set. 

@@ -1,0 +1,11 @@
+adj	With little or no sound; free of disturbing noise. 
+adj	Having little motion or activity; calm. 
+adj	Not busy, of low quantity. 
+adj	Not talking much or not talking loudly; reserved. 
+adj	Not showy; undemonstrative. 
+adj	(software) Requiring little or no interaction. 
+v	(transitive) To cause (someone or something) to become quiet. 
+v	(intransitive) To become quiet or calm. 
+n	The absence of sound; quietness. 
+n	The absence of movement; stillness, tranquility. 
+n	The absence of disturbance or trouble; peace, security. 

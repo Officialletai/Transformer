@@ -1,0 +1,8 @@
+n	The act or process of putting in; infusion. 
+n	That which is put in, as in an amount. 
+n	Contribution of work or information, as an opinion or advice. 
+n	Data fed into a process with the intention of it shaping or affecting the output of that process. 
+n	(electronics) An input jack. 
+v	(transitive) To put in; put on. 
+v	(transitive) To enter data. 
+v	(transitive) To accept data that is entered. 

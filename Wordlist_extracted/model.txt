@@ -1,0 +1,19 @@
+n	A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing. 
+n	A person, usually an attractive male or female that is hired to show items or goods to the public, such as items that are given away as prizes on a TV game show. 
+n	A representation of a physical object, usually in miniature. 
+n	A simplified representation used to explain the workings of a real world system or event. 
+n	A style, type, or design. 
+n	The structural design of a complex system. 
+n	A successful example to be copied, with or without modifications. 
+n	(logic) An interpretation function which assigns a truth value to each atomic proposition. 
+n	(logic) An interpretation which makes a set of sentences true, in which case that interpretation is called a model of that set. 
+n	(medicine) An animal that is used to study a human disease or pathology. 
+n	Any copy, or resemblance, more or less exact. 
+n	(software architecture) In software applications using the model-view-controller design pattern, the part or parts of the application that manage the data. 
+adj	Worthy of being a model; exemplary. 
+v	(transitive) to display for others to see, especially in regard to wearing clothing while performing the role of a fashion model 
+v	(transitive) to use as an object in the creation of a forecast or model 
+v	(transitive) to make a miniature model of 
+v	(transitive) to create from a substance such as clay 
+v	(intransitive) to make a model or models 
+v	(intransitive) to be a model of any kind 

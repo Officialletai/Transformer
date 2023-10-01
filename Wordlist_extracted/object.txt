@@ -1,0 +1,10 @@
+n	A thing that has physical existence but is not alive. 
+n	Objective; goal, end or purpose of something. 
+n	(grammar) The noun phrase which is an internal complement of a verb phrase or a prepositional phrase. In a verb phrase with a transitive action verb, it is typically the receiver of the action. 
+n	A person or thing toward which an emotion is directed. 
+n	(object-oriented programming) An instantiation of a class or structure. 
+n	(category theory) An instance of one of the two kinds of entities that form a category, the other kind being the arrows (also called morphisms). 
+n	(obsolete) Sight; show; appearance; aspect. 
+v	(intransitive) To disagree with or oppose something or someone; (especially in a Court of Law) to raise an objection. 
+v	(transitive, obsolete) To offer in opposition as a criminal charge or by way of accusation or reproach; to adduce as an objection or adverse reason. 
+v	(transitive, obsolete) To set before or against; to bring into opposition; to oppose. 

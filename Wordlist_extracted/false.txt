@@ -1,0 +1,16 @@
+adj	Untrue, not factual, factually incorrect. 
+adj	Based on factually incorrect premises. 
+adj	Spurious, artificial. 
+adj	Uttering falsehood; dishonest or deceitful. 
+adj	Not faithful or loyal, as to obligations, allegiance, vows, etc.; untrue; treacherous. 
+adj	Not well founded; not firm or trustworthy; erroneous. 
+adj	Not essential or permanent, as parts of a structure which are temporary or supplemental. 
+adj	Used in the vernacular name of a species (or group of species) together with the name of another species to which it is similar in appearance. 
+adj	(music) Out of tune. 
+v	(electronics, telecommunications, of a decoder) To incorrectly decode noise as if it were a valid signal. 
+v	(obsolete) To violate, to betray (a promise, an agreement, one’s faith, etc.). 
+v	(obsolete) To counterfeit, to forge. 
+v	(obsolete) To make false, to corrupt from something true or real. 
+adv	In a dishonest and disloyal way; falsely. 
+n	One of two options on a true-or-false test. 
+adj	(electronics) one of two states of a Boolean variable; logic 0. 

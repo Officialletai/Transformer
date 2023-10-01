@@ -1,0 +1,7 @@
+n	(countable) an oath or affirmation; a vow 
+n	(countable) A transaction between two persons whereby the first person undertakes in the future to render some service or gift to the second person or devotes something valuable now and here to his use. 
+n	(uncountable) Reason to expect improvement or success; potential. 
+n	(countable, computing, programming) A placeholder object representing the eventual result of an asynchronous operation. 
+n	(countable, obsolete) bestowal or fulfillment of what is promised 
+v	(transitive, intransitive) To commit to (some action or outcome), or to assure (a person) of such commitment; to make an oath or vow. 
+v	(intransitive) To give grounds for expectation, especially of something good. 

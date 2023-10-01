@@ -1,0 +1,13 @@
+n	An optical or other representation of a real object; a graphic; a picture. 
+n	A mental picture of something not real or not present. 
+n	A statue or idol. 
+n	(computing) A file that contains all information needed to produce a live working copy. (See disk image and image copy.) 
+n	A characteristic of a person, group or company etc., style, manner of dress, how one is or wishes to be, perceived by others. 
+n	(mathematics) What a function maps to. 
+n	(mathematics) The subset of a codomain comprising those elements that are images of something. 
+n	(radio) A form of interference: a weaker "copy" of a strong signal that occurs at a different frequency. 
+n	(obsolete) Show; appearance; cast. 
+v	(transitive) To represent by an image or symbol; to portray. 
+v	(transitive) To reflect, mirror. 
+v	(transitive) To create an image of. 
+v	(transitive, computing) To create a complete backup copy of a file system or other entity. 

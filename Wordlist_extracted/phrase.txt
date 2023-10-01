@@ -1,0 +1,8 @@
+n	A short written or spoken expression. 
+n	(grammar) A word or, more commonly, a group of words that functions as a single unit in the syntax of a sentence, usually consisting of a head, or central word, and elaborating words. 
+n	(music) A small section of music in a larger piece. 
+n	(archaic) A mode or form of speech; diction; expression. 
+n	(dance) A short individual motion forming part of a choreographed dance. 
+v	(transitive) To express (an action, thought or idea) by means of particular words. 
+v	(intransitive, music) To perform a passage with the correct phrasing. 
+v	(transitive, music) To divide into melodic phrases. 

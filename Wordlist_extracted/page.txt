@@ -1,0 +1,32 @@
+n	One of the many pieces of paper bound together within a book or similar document. 
+n	One side of a paper leaf on which one has written or printed. 
+n	(figuratively) Any record or writing; a collective memory. 
+n	(typography) The type set up for printing a page. 
+n	(computing) A screenful of text and possibly other content. 
+n	(Internet) A web page. 
+n	(computing) A block of contiguous memory of a fixed length. 
+v	(transitive) To mark or number the pages of, as a book or manuscript. 
+v	(intransitive, often with “through”) To turn several pages of a publication. 
+v	(transitive) To furnish with folios. 
+n	(obsolete) A serving boy; a youth attending a person of high degree, especially at courts, often as a position of honor and education. 
+n	(Britain) A youth employed for doing errands, waiting on the door, and similar service in households. 
+n	(US, Canada) A boy or girl employed to wait upon the members of a legislative body. 
+n	(in libraries) The common name given to an employee whose main purpose is to replace materials that have either been checked out or otherwise moved, back to their shelves. 
+n	A contrivance, as a band, pin, snap, or the like, to hold the skirt of a woman’s dress from the ground. 
+n	A track along which pallets carrying newly molded bricks are conveyed to the hack. 
+n	(telecommunications, dated) A message sent to someone's pager. 
+n	Any one of several species of colorful South American moths of the genus Urania. 
+v	(transitive) To attend (someone) as a page. 
+v	(transitive, US, obsolete in UK) To call or summon (someone). 
+v	(transitive, telecommunications, dated) To contact (someone) by means of a pager or other mobile device. 
+v	(transitive) To call (somebody) using a public address system to find them. 
+n	(countable) An English and Scottish surname originating as an occupation for someone who was a servant. 
+n	(rare) A male given name transferred from the surname. 
+n	A city in Arizona, United States 
+n	A village in Nebraska, United States 
+n	A city in North Dakota, United States 
+n	An unincorporated community in Oklahoma, United States 
+n	A surname from French. 
+n	Alternative form of Paige; A female given name. [A southern English surname originating as an occupation, a variant of Page.] 
+n	Ellipsis of Page County. [One of 99 counties in Iowa, United States. County seat: Clarinda. Named after Captain John Page.] 
+n	(biochemistry, molecular biology) Acronym of polyacrylamide gel electrophoresis. 

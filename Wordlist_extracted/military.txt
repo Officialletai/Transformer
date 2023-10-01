@@ -1,0 +1,5 @@
+adj	Characteristic of members of the armed forces. 
+adj	(Canada, US) Relating to armed forces such as the army, marines, navy and air force (often as distinguished from civilians or police forces). 
+adj	Relating to war. 
+adj	Relating to armies or ground forces. 
+n	Armed forces. 

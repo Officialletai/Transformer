@@ -1,0 +1,51 @@
+adj	Able to be accessed. 
+adj	Able to have something pass through or along it. 
+adj	(of a body part) not covered, showing what is inside 
+adj	Not physically drawn together, closed, folded or contracted; extended. 
+adj	(not comparable) Actively conducting or prepared to conduct business. 
+adj	(comparable) Receptive. 
+adj	(not comparable) Public 
+adj	(not comparable) Candid, ingenuous, not subtle in character. 
+adj	(now regional) Mild (of the weather); free from frost or snow. 
+adj	(mathematics, logic, of a formula) Having a free variable. 
+adj	(mathematics, topology, of a set) Which is part of a predefined collection of subsets of X, that defines a topological space on X. 
+adj	(graph theory, of a walk) Whose first and last vertices are different. 
+adj	(computing, not comparable, of a file, document, etc.) In current use; mapped to part of memory. 
+adj	(engineering, gas and liquid flow, of valve or damper) To be in a position allowing fluid to flow. 
+adj	(electricity, of a switch or circuit breaker) To be in a position preventing electricity from flowing. 
+adj	(business) Not fulfilled. 
+adj	Not settled or adjusted; not decided or determined; not closed or withdrawn from consideration. 
+adj	(music, stringed instruments) Of a note, played without pressing the string against the fingerboard. 
+adj	(music) Of a note, played without closing any finger-hole, key or valve. 
+adj	Not of a quality to prevent communication, as by closing waterways, blocking roads, etc.; hence, not frosty or inclement; mild; used of the weather or the climate. 
+adj	(law, of correspondence) Written or sent with the intention that it may made public or referred to at any trial, rather than by way of confidential private negotiation for a settlement. 
+adj	(phonetics) Uttered with a relatively wide opening of the articulating organs; said of vowels. 
+adj	(phonetics) Uttered, as a consonant, with the oral passage simply narrowed without closure. 
+adj	(phonetics, of a syllable) That ends in a vowel; not having a coda. 
+adj	(computing, education) Made public, usable with a free licence and without proprietary components. 
+adj	(medicine) Resulting from an incision, puncture or any other process by which the skin no longer protects an internal part of the body. 
+adj	(computing, used before "code") Source code of a computer program that is not within the text of a macro being generated. 
+adj	(of a multi-word compound) Having component words separated by spaces, as opposed to being joined together or hyphenated; for example, time slot as opposed to timeslot or time-slot. 
+v	(transitive) To make something accessible or allow for passage by moving from a shut position. 
+v	(transitive) To make (an open space, etc.) by clearing away an obstacle or obstacles, in order to allow for passage, access, or visibility. 
+v	(transitive, intransitive, engineering, gas and liquid flow, of valve or damper) To move to a position allowing fluid to flow. 
+v	(transitive, intransitive, electricity, of a switch, fuse or circuit breaker) To move to a position preventing electricity from flowing. 
+v	(Manglish, Philippines) To turn on; to switch on. 
+v	(transitive) To bring up, broach. 
+v	(transitive) To enter upon, begin. 
+v	(transitive) To spread; to expand into an open or loose position. 
+v	(transitive) To make accessible to customers or clients. 
+v	(transitive) To start (a campaign). 
+v	(intransitive) To become open. 
+v	(intransitive) To begin conducting business. 
+v	(intransitive, cricket) To begin a side's innings as one of the first two batsmen. 
+v	(intransitive, poker) To bet before any other player has in a particular betting round in a game of poker. 
+v	(transitive, intransitive, poker) To reveal one's hand. 
+v	(computing, transitive, intransitive, of a file, document, etc.) To load into memory for viewing or editing. 
+v	(transitive, nursing) To make (a bed) ready for a patient by folding back the bedcovers. 
+v	(obsolete) To disclose; to reveal; to interpret; to explain. 
+n	(with the) Open or unobstructed space; an exposed location. 
+n	(with the) Public knowledge or scrutiny; full view. 
+n	(electronics) A defect in an electrical circuit preventing current from flowing. 
+n	A sports event in which anybody can compete. 
+n	The act of something being opened, such as an e-mail message. 

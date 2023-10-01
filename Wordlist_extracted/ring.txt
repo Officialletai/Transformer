@@ -1,0 +1,49 @@
+n	A circumscribing object, (roughly) circular and hollow, looking like an annual ring, earring, finger ring etc. 
+n	A round piece of (precious) metal worn around the finger or through the ear, nose, etc. 
+n	(Britain) A bird band, a round piece of metal put around a bird's leg used for identification and studies of migration. 
+n	(UK) A burner on a kitchen stove. 
+n	In a jack plug, the connector between the tip and the sleeve. 
+n	(historical) An instrument, formerly used for taking the sun's altitude, consisting of a brass ring suspended by a swivel, with a hole at one side through which a solar ray entering indicated the altitude on the graduated inner surface opposite. 
+n	(botany) A flexible band partly or wholly encircling the spore cases of ferns. 
+n	A circular group of people or objects. 
+n	(astronomy) A formation of various pieces of material orbiting around a planet or young star. 
+n	(Britain) A large circular prehistoric stone construction such as Stonehenge. 
+n	A piece of food in the shape of a ring. 
+n	A place where some sports or exhibitions take place; notably a circular or comparable arena, such as a boxing ring or a circus ring; hence the field of a political contest. 
+n	The open space in front of a racecourse stand, used for betting purposes. 
+n	An exclusive group of people, usually involving some unethical or illegal practices. 
+n	(chemistry) A group of atoms linked by bonds to form a closed chain in a molecule. 
+n	(geometry) A planar geometrical figure included between two concentric circles. 
+n	(typography) A diacritical mark in the shape of a hollow circle placed above or under the letter; a kroužek. 
+n	(historical) An old English measure of corn equal to the coomb or half a quarter. 
+n	(computing theory) A hierarchical level of privilege in a computer system, usually at hardware level, used to protect data and functionality (also protection ring). 
+n	(firearms) Either of the pair of clamps used to hold a telescopic sight to a rifle. 
+n	(cartomancy) The twenty-fifth Lenormand card. 
+v	(transitive) To enclose or surround. 
+v	(transitive, figuratively) To make an incision around; to girdle; to cut away a circular tract of bark from a tree in order to kill it. 
+v	(transitive) To attach a ring to, especially for identification. 
+v	(transitive) To surround or fit with a ring, or as if with a ring. 
+v	(falconry) To rise in the air spirally. 
+v	(transitive) To steal and change the identity of (cars) in order to resell them. 
+v	(Australia, transitive) To ride around (a group of animals, especially catle) to keep them milling in one place; hence (intransitive), to work as a drover, to muster cattle. 
+n	The resonant sound of a bell, or a sound resembling it. 
+n	(figuratively) A pleasant or correct sound. 
+n	(figuratively) A sound or appearance that is characteristic of something. 
+n	(colloquial) A telephone call. 
+n	Any loud sound; the sound of numerous voices; a sound continued, repeated, or reverberated. 
+n	A chime, or set of bells harmonically tuned. 
+v	(intransitive) Of a bell, etc., to produce a resonant sound. 
+v	(transitive) To make (a bell, etc.) produce a resonant sound. 
+v	(transitive) To produce (a sound) by ringing. 
+v	(intransitive, figuratively) To produce the sound of a bell or a similar sound. 
+v	(intransitive, figuratively) Of something spoken or written, to appear to be, to seem, to sound. 
+v	(transitive, colloquial, Britain, Australia, New Zealand) To telephone (someone). 
+v	(intransitive) to resound, reverberate, echo. 
+v	(intransitive) To produce music with bells. 
+v	(dated) To repeat often, loudly, or earnestly. 
+n	(algebra) An algebraic structure which consists of a set with two binary operations: an additive operation and a multiplicative operation, such that the set is an abelian group under the additive operation, a monoid under the multiplicative operation, and such that the multiplicative operation is distributive with respect to the additive operation. 
+n	(algebra) An algebraic structure as above, but only required to be a semigroup under the multiplicative operation, that is, there need not be a multiplicative identity element. 
+n	(mathematical analysis, measure theory) A family of sets that is closed under finite unions and differences. 
+n	A surname originating as an occupation for a maker of rings as jewelry or as in harness. 
+n	A parish of County Waterford, Ireland. 
+n	(Internet) Short for webring. [(Internet, dated) A collection of related websites which are interlinked in a circular structure, each site having links to the previous and next site in the ring.] 

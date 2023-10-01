@@ -1,0 +1,3 @@
+v	(transitive) To consider equal or equivalent. 
+v	(transitive, mathematics) To set as equal. 
+n	(programming) A statement in assembly language that defines a symbol having a particular value. 

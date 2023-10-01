@@ -1,0 +1,15 @@
+adj	Having a large physical extent from side to side. 
+adj	Large in scope. 
+adj	(sports) Operating at the side of the playing area. 
+adj	On one side or the other of the mark; too far sideways from the mark, the wicket, the batsman, etc. 
+adj	(phonetics, dated) Made, as a vowel, with a less tense, and more open and relaxed, condition of the organs in the mouth. 
+adj	(Scotland, Northern England, now rare) Vast, great in extent, extensive. 
+adj	(obsolete) Located some distance away; distant, far. 
+adj	(obsolete) Far from truth, propriety, necessity, etc. 
+adj	(computing) Of or supporting a greater range of text characters than can fit into the traditional 8-bit representation. 
+adj	(Scotland, slang) Antagonistic, provocative. 
+adv	extensively 
+adv	completely 
+adv	away from or to one side of a given goal 
+adv	So as to leave or have a great space between the sides; so as to form a large opening. 
+n	(cricket) A ball that passes so far from the batsman that the umpire deems it unplayable; the arm signal used by an umpire to signal a wide; the extra run added to the batting side's score 

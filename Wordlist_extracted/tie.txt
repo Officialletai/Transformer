@@ -1,0 +1,25 @@
+n	A knot; a fastening. 
+n	A knot of hair, as at the back of a wig. 
+n	A necktie (item of clothing consisting of a strip of cloth tied around the neck). See also bow tie, black tie. 
+n	A twist tie, a piece of wire embedded in paper, strip of plastic with ratchets, or similar object which is wound around something and tightened. 
+n	A strong connection between people or groups of people. 
+n	(construction) A structural member firmly holding two pieces together. 
+n	(rail transport, US) A horizontal wooden or concrete structural member that supports and ties together rails. 
+n	The situation in which two or more participants in a competition are placed equally. 
+n	(cricket) The situation at the end of all innings of a match where both sides have the same total of runs (different from a draw). 
+n	(sports, US) An equalizer, a run, goal, point, etc which causes participants in a competition to be placed equally or have the same score(s). 
+n	(sports, Britain) A meeting between two players or teams in a competition. 
+n	(music) A curved line connecting two notes of the same pitch denoting that they should be played as a single note with the combined length of both notes. 
+n	(statistics) One or more equal values or sets of equal values in the data set. 
+n	(surveying) A bearing and distance between a lot corner or point and a benchmark or iron off site. 
+n	(graph theory) A connection between two vertices. 
+n	A tiewig. 
+v	(transitive) To twist (a string, rope, or the like) around itself securely. 
+v	(transitive) To form (a knot or the like) in a string or the like. 
+v	(transitive) To attach or fasten (one thing to another) by string or the like. 
+v	(transitive, sometimes figuratively) To secure (something) by string or the like. 
+v	(transitive, intransitive) To have the same score or position as another in a competition or ordering. 
+v	(US, transitive) To have the same score or position as (another) in a competition or ordering. 
+v	(music) To unite (musical notes) with a line or slur in the notation. 
+v	(US, dated, colloquial) To believe; to credit. 
+v	(programming, transitive) In the Perl programming language, to extend (a variable) so that standard operations performed upon it invoke custom functionality instead. 

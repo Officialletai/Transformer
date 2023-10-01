@@ -1,0 +1,4 @@
+adj	Capable of being computed, or enumerated. 
+adj	(computing theory) Of a problem, solvable by a Turing machine or any thereto Turing-equivalent model; Turing-computable. 
+adj	(mathematics) of a number, able to be approximated to arbitrary precision by a computable function 
+adj	(mathematics, set theory) Of a countably infinite set, having a computable indicator function. 

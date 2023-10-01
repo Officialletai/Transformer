@@ -1,0 +1,3 @@
+adj	Joined into a single entity. 
+adj	Involving the joint activity of multiple agents. 
+n	(chiefly Britain) any of many football teams formed by the amalgamation of smaller ones 

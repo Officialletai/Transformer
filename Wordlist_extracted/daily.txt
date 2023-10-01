@@ -1,0 +1,12 @@
+adj	That occurs every day, or at least every working day 
+adj	diurnal, by daylight, as opposed to nightly 
+n	A newspaper that is published every day. 
+n	(UK) A cleaner who comes in daily. 
+n	(UK, slang) A daily disposable. 
+n	(video games) A quest in a massively multiplayer online game that can be repeated every day for cumulative rewards. 
+n	(US, automotive, colloquial) A daily driver. 
+n	(US, film, television) Raw, unedited footage traditionally developed overnight and viewed by the cast and crew the next day. 
+v	(US, automotive, colloquial) To drive an automobile frequently, on a daily basis, for regular and mundane tasks. 
+adv	quotidianly, every day 
+adv	diurnally, by daylight 
+n	A surname. 

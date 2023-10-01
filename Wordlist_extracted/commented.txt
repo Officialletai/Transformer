@@ -1,0 +1,9 @@
+n	A spoken or written remark. 
+n	(uncountable) The act of commenting. 
+n	(linguistics) The part of a sentence that provides new information regarding the current theme. 
+n	(programming) A remark embedded in source code in such a way that it will be ignored by the compiler or interpreter, typically to help people to understand the code. 
+v	(transitive) To remark. 
+v	(intransitive, with "on" or "about") To make remarks or notes. 
+v	(transitive, obsolete) To comment or remark on. 
+v	(transitive, software, of code) To insert comments into (source code). 
+v	(transitive, software, of code) To comment out (code); to disable by converting into a comment. 

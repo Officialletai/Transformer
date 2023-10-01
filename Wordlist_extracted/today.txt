@@ -1,0 +1,6 @@
+adv	On the current day or date. 
+adv	In the current era; nowadays. 
+n	A current day or date. 
+n	(informal or meteorology) From 6am to 6pm on the current day. 
+n	The present time period; nowadays. 
+adj	(informal) Current; up to date. 

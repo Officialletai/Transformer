@@ -1,0 +1,21 @@
+n	(countable) A group, collection, category or set sharing characteristics or attributes. 
+n	(sociology, countable) A social grouping, based on job, wealth, etc. In Britain, society is commonly split into three main classes: upper class, middle class and working class. 
+n	(uncountable) The division of society into classes. 
+n	(uncountable) Admirable behavior; elegance. 
+n	(education, countable and uncountable) A group of students in a regularly scheduled meeting with a teacher. 
+n	A series of lessons covering a single subject. 
+n	(countable) A group of students who commenced or completed their education during a particular year. A school class. 
+n	(countable) A category of seats in an airplane, train or other means of mass transportation. 
+n	(taxonomy, countable) A rank in the classification of organisms, below phylum and above order; a taxon of that rank. 
+n	Best of its kind. 
+n	(statistics) A grouping of data values in an interval, often used for computation of a frequency distribution. 
+n	(set theory) A collection of sets definable by a shared property. 
+n	(military) A group of people subject to be conscripted in the same military draft, or more narrowly those persons actually conscripted in a particular draft. 
+n	(object-oriented programming, countable) A set of objects having the same behavior (but typically differing in state), or a template defining such a set in terms of its common properties, functions, etc. 
+n	One of the sections into which a Methodist church or congregation is divided, supervised by a class leader. 
+v	(transitive) To assign to a class; to classify. 
+v	(intransitive) To be grouped or classed. 
+v	(transitive) To divide into classes, as students; to form into, or place in, a class or classes. 
+adj	(Ireland, Tyneside, slang) great; fabulous 
+n	(astronomy) Abbreviation of Cosmology Large Angular Scale Surveyor. 
+n	(astronomy) Abbreviation of Cosmology Large Angular Scale Survey. 

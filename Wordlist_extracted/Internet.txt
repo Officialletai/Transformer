@@ -1,0 +1,8 @@
+n	(uncountable) Internet access or connection; internet connectivity. 
+n	Any set of computer networks that communicate using the Internet Protocol; an intranet. 
+n	(Internet slang, humorous) A fictitious unit of scoring awarded for making outstanding posts on the internet. 
+v	(intransitive, Internet, informal) To use the Internet; specifically, to search for information using the Internet. 
+v	(archaic, rare) To entwine or link (several things) together, so as to form a network; to interconnect, to network. 
+v	(specifically, networking) To connect (a computer, an electronic device, etc.) into a computer network (in particular, the Internet). 
+n	The specific internet consisting of a global network of computers that communicate using Internet Protocol (IP) and that use Border Gateway Protocol (BGP) to identify the best paths to route those communications. 
+n	Alternative letter-case form of Internet (“the specific internet consisting of a global network of computers that communicate using Internet Protocol (IP) and that use Border Gateway Protocol (BGP) to identify the best paths to route those communications”) [The specific internet consisting of a global network of computers that communicate using Internet Protocol (IP) and that use Border Gateway Protocol (BGP) to identify the best paths to route those communications.] 

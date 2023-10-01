@@ -1,0 +1,3 @@
+n	(uncountable) The act or process of compiling or gathering together from various sources. 
+n	(countable) That which is compiled; especially, a book or document composed of materials gathering from other books or documents. 
+n	(countable, uncountable, computing) Translation of source code into object code by a compiler. 

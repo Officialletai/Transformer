@@ -1,0 +1,9 @@
+n	A characteristic or quality of a thing. 
+n	An object that is considered typical of someone or some function, in particular as an artistic convention. 
+n	(grammar) A word that qualifies a noun, a qualifier. 
+n	(logic) That which is predicated or affirmed of a subject; a predicate; an accident. 
+n	(computing, object-oriented programming) An option or setting belonging to some object. 
+n	(programming) A semantic item with which a method or other code element may be decorated. 
+n	(computer graphics, dated) A numeric value representing the colours of part of the screen display. 
+v	To ascribe (something) to a given cause, reason etc. 
+v	To associate ownership or authorship of (something) to someone. 

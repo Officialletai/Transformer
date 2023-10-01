@@ -1,0 +1,27 @@
+n	(now rare) Something (or someone) that completes; the consummation. 
+n	(obsolete) The act of completing something, or the fact of being complete; completion, completeness, fulfilment. 
+n	The totality, the full amount or number which completes something. 
+n	(obsolete) Something which completes one's equipment, dress etc.; an accessory. 
+n	(nautical) The whole working force of a vessel. 
+n	(heraldry) Fullness (of the moon). 
+n	(astronomy, geometry) An angle which, together with a given angle, makes a right angle. 
+n	Something which completes, something which combines with something else to make up a complete whole; loosely, something perceived to be a harmonious or desirable partner or addition. 
+n	(grammar, linguistics) A word or group of words that completes a grammatical construction in the predicate and that describes or is identified with the subject or object. 
+n	(music) An interval which, together with the given interval, makes an octave. 
+n	(optics) The color which, when mixed with the given color, gives black (for mixing pigments) or white (for mixing light). 
+n	(set theory) Given two sets, the set containing one set's elements that are not members of the other set (whether a relative complement or an absolute complement). 
+n	(immunology) One of several blood proteins that work with antibodies during an immune response. 
+n	(logic) An expression related to some other expression such that it is true under the same conditions that make other false, and vice versa. 
+n	(electronics) A voltage level with the opposite logical sense to the given one. 
+n	(computing) A bit with the opposite value to the given one; the logical complement of a number. 
+n	(computing, mathematics) The diminished radix complement of a number; the nines' complement of a decimal number; the ones' complement of a binary number. 
+n	(computing, mathematics) The radix complement of a number; the two's complement of a binary number. 
+n	(computing, mathematics) The numeric complement of a number. 
+n	(genetics) A nucleotide sequence in which each base is replaced by the complementary base of the given sequence: adenine (A) by thymine (T) or uracil (U), cytosine (C) by guanine (G), and vice versa. 
+n	Obsolete spelling or misspelling of compliment. 
+n	(biochemistry) Synonym of alexin 
+v	To complete, to bring to perfection, to make whole. 
+v	To provide what the partner lacks and lack what the partner provides, thus forming part of a whole. 
+v	To change a voltage, number, color, etc. to its complement. 
+v	(obsolete) Old form of compliment 
+n	(economics) Abbreviation of complementary good. [(economics) a good whose appeal increases with the popularity of its complement] 

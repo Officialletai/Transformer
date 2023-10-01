@@ -1,0 +1,7 @@
+n	A person who is running in an election. 
+n	A person who is applying for a job. 
+n	A participant in an examination. 
+n	Something or somebody that may be suitable. 
+n	(genetics) A gene which may play a role in a given disease. 
+v	(uncommon) To stand as a candidate for an office, especially a religious one. 
+v	(nonstandard, chiefly in jargon and non-native speakers' English) To make or name (something) a candidate (for use, for study as a next project, for investigation as a possible cause of something, etc). 

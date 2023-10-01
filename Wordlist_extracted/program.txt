@@ -1,0 +1,11 @@
+n	A set of structured activities. 
+n	A leaflet listing information about a play, game or other activity. 
+n	(politics) A set of principle goals which are supported by a political party or individual candidate 
+n	(broadcasting) A performance of a show or other broadcast on radio or television. 
+n	(computing) A software application, or a collection of software applications, designed to perform a specific task. 
+n	(especially in the phrase "get with the program") A particular mindset or method of doing things. 
+v	(transitive) To enter a program or other instructions into (a computer or other electronic device) to instruct it to do a particular task. 
+v	(transitive) To develop (software) by writing program code. 
+v	(transitive) To put together the schedule of an event. 
+v	(broadcasting) To schedule the programming; to determine what will be broadcast. 
+v	(transitive) To cause to automatically behave in a particular way. 

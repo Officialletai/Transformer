@@ -1,0 +1,11 @@
+v	(intransitive) To increase in extent. 
+v	(intransitive) To possess a certain extent; to cover an amount of space. 
+v	(transitive) To cause to increase in extent. 
+v	(transitive) To cause to last for a longer period of time. 
+v	(transitive) To straighten (a limb). 
+v	(transitive) To bestow; to offer; to impart; to apply. 
+v	To increase in quantity by weakening or adulterating additions. 
+v	(UK, law) To value, as lands taken by a writ of extent in satisfaction of a debt; to assign by writ of extent. 
+v	(object-oriented programming) Of a class: to be an extension or subtype of, or to be based on, a prototype or a more abstract class. 
+v	(intransitive, US, military) To reenlist for a further period. 
+n	Misspelling of extent. [A range of values or locations.] 

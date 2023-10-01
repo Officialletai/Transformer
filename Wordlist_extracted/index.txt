@@ -1,0 +1,26 @@
+n	An alphabetical listing of items and their location. 
+n	The index finger; the forefinger. 
+n	A movable finger on a gauge, scale, etc. 
+n	(typography) A symbol resembling a pointing hand, used to direct particular attention to a note or paragraph. 
+n	That which points out; that which shows, indicates, manifests, or discloses. 
+n	A sign; an indication; a token. 
+n	(linguistics) A type of noun where the meaning of the form changes with respect to the context. E.g., 'Today's newspaper' is an indexical form since its referent will differ depending on the context. See also icon and symbol. 
+n	(economics) A single number calculated from an array of prices or of quantities. 
+n	(sciences) A number representing a property or ratio, a coefficient. 
+n	(mathematics) A raised suffix indicating a power. 
+n	(computing, especially programming and databases) An integer or other key indicating the location of data e.g. within an array, vector, database table, associative array, or hash table. 
+n	(computing, databases) A data structure that improves the performance of operations on a table. 
+n	(obsolete) A prologue indicating what follows. 
+v	(transitive) To arrange an index for something, especially a long text. 
+v	To inventory, to take stock. 
+v	(chiefly economics) To normalise in order to account for inflation; to correct for inflation by linking to a price index in order to maintain real levels. 
+v	To measure by an associated value. 
+v	(linguistics, transitive) To be indexical for (some situation or state of affairs); to indicate. 
+v	(computing) To access a value in a data container by an index. 
+n	An unincorporated community in Miller County, Arkansas. 
+n	An unincorporated community in Morgan County, Kentucky. 
+n	A ghost town in Cass County, Missouri. 
+n	A small hamlet in Otsego County, New York. 
+n	An unincorporated community in King George County, Virginia. 
+n	A town in Snohomish County, Washington. 
+n	An unincorporated community in Gilmer County, West Virginia. 

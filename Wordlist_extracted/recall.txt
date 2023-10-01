@@ -1,0 +1,12 @@
+v	(transitive) To withdraw, retract (one's words etc.); to revoke (an order). 
+v	(transitive) To call back, bring back or summon (someone) to a specific place, station etc. 
+v	(transitive, US politics) To remove an elected official through a petition and direct vote. 
+v	(transitive) To bring back (someone) to or from a particular mental or physical state, activity etc. 
+v	(transitive) To call back (a situation, event etc.) to one's mind; to remember, recollect. 
+v	(transitive, intransitive) To call again, to call another time. 
+v	(transitive) To request or order the return of (a faulty product). 
+n	Request of the return of a faulty product. 
+n	(chiefly US politics) The right or procedure by which a public official may be removed from office before the end of their term of office, by a vote of the people to be taken on the filing of a petition signed by a required number or percentage of qualified voters. 
+n	(US politics) The right or procedure by which the decision of a court may be directly reversed or annulled by popular vote, as was advocated, in 1912, in the platform of the Progressive Party for certain cases involving the police power of the state. 
+n	Memory; the ability to remember. 
+n	(information retrieval, machine learning) The fraction of (all) relevant material that is returned by a search. 

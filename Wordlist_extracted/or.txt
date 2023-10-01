@@ -1,0 +1,15 @@
+n	(heraldry) The gold or yellow tincture on a coat of arms. 
+adj	(heraldry) Of gold or yellow tincture on a coat of arms. 
+adv	(obsolete) Early (on). 
+adv	(obsolete) Earlier, previously. 
+n	(logic) The binary operator inclusive or, true if one at least one of two inputs is true. In infix notation. 
+n	Oregon, a state of the United States of America. 
+n	Orissa, a state of India. 
+n	A surname. 
+n	(logic, electronics) Alternative form of OR [(logic) The binary operator inclusive or, true if one at least one of two inputs is true. In infix notation.] 
+n	(healthcare, countable) Initialism of operating room. [A room in a hospital used for performing surgical operations.] 
+n	(sciences, uncountable) Initialism of operations research. [(operations) The application of scientific methods and techniques to problems of decision making, especially in business management and government administration.] 
+n	(sports, countable) Initialism of Olympic Record. 
+n	(anatomy, countable) Initialism of odorant receptor. 
+n	(anatomy, countable) Initialism of olfactory receptor. 
+n	(Wikimedia jargon) Initialism of original research. 

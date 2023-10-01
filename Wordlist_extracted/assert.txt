@@ -1,0 +1,7 @@
+v	To declare with assurance or plainly and strongly; to state positively. 
+v	To use or exercise and thereby prove the existence of. 
+v	To maintain or defend, as a cause or a claim, by words or measures; to vindicate a claim or title to 
+v	(reflexive) To insist on the legitimacy of one's rights, opinion, etc; not to allow oneself to be dismissed; to ensure that one is taken into consideration; to make oneself respected; to be assertive. 
+v	(programming) To specify that a condition or expression is true at a certain point in the code. 
+v	(electronics) To set a signal on a line using a voltage or electric current. 
+n	(computer science) an assertion; a section of source code which tests whether an expected condition is true. 

@@ -1,0 +1,6430 @@
+ARITHMETIC:
+ATextbookforMath01
+3rdedition(2012)
+AnthonyWeaver
+DepartmentofMathematicsandComputerScience
+BronxCommunityCollegePage23rdEdition.Copyrightc/circlecopyrtAnthonyWeaver,June2012,DepartmentofMathematicsandComputer
+Science,CPH315,BronxCommunityCollege,2155UniversityAvenue,Bronx,NY10453.
+Thankstothefollowingcolleaguesforvariouscombinationsofproof-reading,technicalhelp,im-
+provementsinpedagogyand/orexposition:
+NikosApostolakis,LuisFernandez,MarieHercule,UmaIyer,ToniKasper,AlexanderKheyﬁts,
+RomanKossak,GeorgeLeibman,EmanuelPaki,MariaPsarelli,PhilippRothmaler,CamiloSanabria.
+Responsibilityforerrorsremainswithme.
+–A.W.June,2012.
+Page3Page4Contents
+1WholeNumbers 9
+1.0.1 Exercises.......................................10
+1.1AddingWholeNumbers...................................10
+1.1.1 Commutativity,Associativity,Identity.......................10
+1.1.2 Multi-digitaddition.................................11
+1.1.3 Exercises.......................................12
+1.2SubtractingWholeNumbers................................14
+1.2.1 Commutativity,Associativity,Identity.......................15
+1.2.2 Multi-digitsubtractions...............................15
+1.2.3 CheckingSubtractions...............................16
+1.2.4 Borrowing......................................16
+1.2.5 Exercises.......................................18
+1.3MultiplyingWholeNumbers.................................20
+1.3.1 Commutativity,Associativity,Identity,theZeroProperty.............21
+1.3.2 Multi-digitmultiplications..............................21
+1.3.3 Exercises.......................................25
+1.4PowersofWholeNumbers.................................26
+1.4.1 SquaresandCubes.................................27
+1.4.2 Exercises.......................................27
+1.4.3 SquareRoots....................................28
+1.4.4 Exercises.......................................29
+1.5DivisionofWholeNumbers.................................29
+1.5.1 QuotientandRemainder..............................30
+1.5.2 LongDivision....................................31
+1.5.3 Exercises.......................................35
+1.6Orderofoperations.....................................36
+1.6.1 Exercises.......................................38
+1.7Average...........................................39
+1.7.1 Exercises.......................................39
+1.8Perimeter,AreaandthePythagoreanTheorem ......................40
+1.8.1 Exercises.......................................47
+2FractionsandMixedNumbers 49
+2.1Whatfractionsmean....................................49
+2.2ProperandImproperFractions...............................50
+2.2.1 ZeroasNumeratorandDenominator........................51
+52.2.2 Exercises.......................................52
+2.3MixedNumbers.......................................53
+2.3.1 Convertinganimproperfractionintoamixedorwholenumber..........53
+2.3.2 Exercises.......................................54
+2.3.3 Convertingamixedorwholenumbertoanimproperfraction...........55
+2.3.4 Exercises.......................................56
+2.4MultiplicationofFractions.................................57
+2.4.1 Exercises.......................................59
+2.5EquivalentFractions.....................................59
+2.5.1 CancellationandLowestTerms...........................60
+2.5.2 Exercises.......................................62
+2.6PrimeFactorizationandtheGCF..............................62
+2.6.1 Exercises.......................................64
+2.6.2 FindingtheGCF...................................64
+2.6.3 Exercises.......................................65
+2.6.4 CancellingtheGCFforlowestterms........................65
+2.6.5 Exercises.......................................66
+2.7Pre-cancellingwhenMultiplyingFractions.........................67
+2.7.1 Exercises.......................................69
+2.8AddingandSubtractingFractions.............................69
+2.8.1 Exercises.......................................70
+2.8.2 AddingandSubtractingUnlikeFractions......................71
+2.8.3 TheLCM ......................................72
+2.8.4 Exercises.......................................73
+2.8.5 TheLCD.......................................74
+2.8.6 Exercises.......................................75
+2.9ComparisonofFractions...................................76
+2.9.1 Exercises.......................................78
+2.10DivisionofFractions.....................................78
+2.10.1Reciprocals.....................................78
+2.10.2Exercises.......................................79
+2.10.3DivisionisMultiplicationbytheReciprocaloftheDivisor.............79
+2.10.4Exercises.......................................81
+2.11MixedNumbersandMixedUnits..............................82
+2.11.1VerticalAdditionandSubtraction.........................82
+2.11.2Exercises.......................................84
+2.11.3MeasurementsinMixedUnits...........................85
+2.11.4Exercises.......................................87
+2.12Combinedoperationswithfractionsandmixednumbers..................87
+2.12.1Exercises.......................................89
+3DecimalsandPercents 91
+3.1Decimalplacevalues....................................92
+3.1.1 Exercises.......................................93
+3.2SigniﬁcantandInsigniﬁcant0’s...............................93
+3.3ComparingDecimals.....................................94
+3.3.1 Exercises.......................................95
+Page63.4Rounding-oﬀ.........................................95
+3.4.1 Exercises.......................................97
+3.5AddingandSubtractingDecimals..............................97
+3.5.1 Exercises.......................................99
+3.6MultiplyingandDividingDecimalsbyPowersof10....................99
+3.6.1 Exercises.......................................101
+3.7Multiplicationofgeneraldecimals..............................101
+3.7.1 Exercises.......................................102
+3.8Divisionofadecimalbyawholenumber..........................103
+3.8.1 Exercises.......................................108
+3.9Divisionofadecimalbyadecimal.............................108
+3.9.1 Exercises.......................................109
+3.10Percents,Conversions....................................110
+3.10.1Exercises.......................................111
+3.11Fractionalpartsofnumbers.................................113
+3.11.1Exercises.......................................113
+4RatioandProportion 115
+4.1Ratio.............................................115
+4.1.1 Exercises.......................................117
+4.2Proportions.........................................117
+4.2.1 Thecross-productproperty.............................118
+4.2.2 Solvingaproportion.................................119
+4.2.3 Exercises.......................................122
+4.3Percentproblems......................................122
+4.3.1 Exercises.......................................124
+4.4Rates.............................................125
+4.4.1 Exercises.......................................126
+4.5Similartriangles.......................................127
+4.5.1 Exercises.......................................131
+5SignedNumbers 135
+5.1Addingsignednumbers...................................135
+5.1.1 Exercises.......................................139
+5.1.2 Opposites,Identity.................................140
+5.1.3 Exercises.......................................140
+5.1.4 Associativity.....................................141
+5.1.5 Exercises.......................................142
+5.2Subtractingsignednumbers.................................143
+5.2.1 Exercises.......................................145
+5.3MultiplyingSignedNumbers................................146
+5.3.1 Exercises.......................................149
+5.4DividingSignedNumbers..................................150
+5.4.1 Divisionand0....................................152
+5.4.2 Exercises.......................................153
+5.5PowersofSignedNumbers.................................153
+5.5.1 Exercises.......................................155
+Page75.6SquareRootsandSignedNumbers.............................156
+5.6.1 Exercises.......................................158
+5.7EvaluatingExpressions...................................158
+5.7.1 Exercises.......................................161
+5.8UsingFormulae.......................................162
+5.8.1 Exercises.......................................164
+5.9LinearEquationsinOneVariable..............................164
+5.9.1 Findingsolutions..................................165
+5.9.2 Exercises.......................................169
+Page8Chapter1
+WholeNumbers
+Thenaturalnumbersarethecountingnumbers:1,2,3,4,5,6,....Thedotsindicatethatthesequence
+isinﬁnite–countingcangoonforever,sinceyoucanalwaysgetthenextnumberbysimplyadding1
+tothepreviousnumber.Inordertowritenumberseﬃciently,andforotherreasons,wealsoneedthe
+number0.Lateron,wewillneedthesequenceofnegativenumbers−1,−2,−3,−4,−5,−6,....Taken
+together,allthesenumbersarecalledtheintegers.
+Ithelpstovisualizetheintegerslaidoutonanumberline,with0inthemiddle,andthenatural
+numbersincreasingtotheright.Therearenumbersbetweenanytwointegersonthenumberline.In
+fact,everylocationonthelinerepresentssomenumber.Somelocationsrepresentfractionssuchas
+one-half(between0and1)orfour-thirds(between1and2).Otherlocationsrepresentnumberswhich
+cannotbeexpressedasfractions,suchasπ.(πislocatedbetween3and4andexpressestheratioof
+thecircumferencetothediameterofanycircle.)
+0 1 2 3 4 5 −1 −2 −3 −4 −5
+Fornow,weconcentrateonthenon-negativeintegers(including0),whichwecallwholenumbers.
+Weneedonlytensymbolstowriteanywholenumber.Thesesymbolsarethedigits
+0,1,2,3,4,5,6,7,8,9.
+Wewritelargerwholenumbersusingaplace-valuesystem.Thedigitintheright-mostplace
+indicateshowmanyonesthenumbercontains,thedigitinthesecond-from-rightplaceindicateshow
+manytensthenumbercontains,thedigitinthethird-from-rightplaceindicateshowmanyhundreds
+thenumbercontains,etc.
+Example1.
+7standsfor7ones
+72standsfor7tens+2ones
+349standsfor3hundreds+4tens+9ones
+6040standsfor6thousands+0hundreds+4tens+0ones
+Noticethatwhenyoumoveleft,theplacevalueincreasesten-fold.Soifanumberhasﬁvedigits,
+theﬁfth-from-rightplaceindicateshowmanyten-thousandsthenumbercontains.(Ten-thousandisten
+timesathousand.)
+91.0.1 Exercises
+1.35standsfor
+2.209standsfor
+3.9532standsfor
+4.21045standsfor
+1.1 AddingWholeNumbers
+Whenweaddtwoormoreintegers,theresultiscalledthesum.Weassumeyouknowthesumsof
+single-digitnumbers.Forpractice,dothefollowingexample.
+Example2.Fillinthemissingsquaresinthedigit-additiontablebelow.Forexample,thenumberin
+therowlabelled3andthecolumnlabelled4isthesum3+4=7.
++
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+0
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+1
+2
+3
+ 7
+4
+5
+6
+7
+ 12
+8
+9
+Table1.1:Thedigitadditiontable
+1.Doyounoticeanypatternsorregularitiesinthedigit-additiontable?Canyouexplainthem?
+2.Whyisthesecondlinefromthetopidenticaltothetopline?
+3.Whatcanyousayabouttheleft-mostcolumnandthesecond-from-leftcolumn?
+1.1.1 Commutativity,Associativity,Identity
+Theﬁrstquestionleadsustoanimportantpropertyofaddition,namely,thatforanytwonumbersx
+andy,
+x+y=y+x.
+Page10Inotherwords,theorderinwhichtwonumbersareaddeddoesnoteﬀectthesum.Thispropertyof
+additioniscalledcommutativity.
+Thelasttwoquestionsleadustoanimportantpropertyof0,namely,foranynumberx,
+x+0=x=0+x.
+Inotherwords,when0isaddedtoanynumber,x,yougettheidenticalnumber,x,again.Becauseof
+thisproperty,0iscalledtheadditiveidentity.
+Oneﬁnalpropertyofadditionisexpressedinthefollowingequation
+(x+y)+z=x+(y+z),
+whichsaysthatifthreenumbersareadded,itdoesn’tmatterhowyou“associate”theadditions:you
+canaddtheﬁrsttwonumbersﬁrst,andthenaddthethirdtothat,or,youcouldaddthesecondtwo
+numbersﬁrst,andthenaddtheﬁrsttothat.Thispropertyofadditioniscalledassociativity.
+Example3.Findthesumof2,3,and5byassociatingintwodiﬀerentways.
+Solution.Associating2and3,wecalculate
+(2+3)+5=5+5=10.
+Ontheotherhand,associating3and5,wecalculate
+2+(3+5)=2+8=10.
+Thesumisthesameinbothcases.
+1.1.2 Multi-digitaddition
+Toaddnumberswithmorethanonedigit,welineupthenumbersverticallysothattheonesplaces
+(right-most)aredirectlyontopofeachother,andallotherplacesaresimilarlyarranged.Thenweadd
+thedigitsineachplacetoobtainthesum.
+Example4.Findthesumof25and134.
+Solution.Welineupthenumbersverticallysothatthe5intheonesplaceof25isoverthe4inthe
+onesplaceof134.Ifwedothiscarefully,alltheotherplaceslineupvertically,too.Sothereisa“ones”
+column,a“tens”columntotheleftofit,anda“hundreds”columntotheleftofthat:
+25
+134
+Thenwedrawalineandaddthedigitsineachcolumntogetthesum:
+25
++ 134
+159
+Page11Sometimesweneedto“carry”adigitfromoneplacetothenexthigherplace.Forexample,when
+adding38+47,weﬁrstaddtheonesplaces,8+7=15.But15hastwodigits:itstandsfor1ten
++5ones.We“putdown”the5intheonesplace,and“carry”the1(standingforaten)tothetens
+column.Sowehave:
+Example5.Findthesum
+38
++ 47
+Solution.Putdownthe5intheonesplace:
+38
++ 47
+5
+andcarrythe1tothetopofthetenscolumn:
+{1}
+38
++ 47
+5
+andﬁnishthejobbyaddingupthetenscolumn,includingthecarriedone:
+{1}
+38
++ 47
+85
+Thesumis85.
+Sincecarryingaltersthesuminthecolumnimmediatelytotheleftoftheoneweareworkingon,
+inmulti-digitaddition,wealwaysstartwiththeright-mostcolumnandproceedleftward.
+1.1.3 Exercises
+Findthesums,carryingwherenecessary.
+1.
+26
++ 55
+Page122.
+383
++ 47
+3.
+32
+45
++ 64
+4.
+129
+377
++ 4503
+5.
+909
+777
++ 6964
+6.
+320
+984
+902
++ 4503
+Page137.
+9
+999
+902
++ 9502
+8.
+56320
+9864
+904
++ 6503
+9.
+32000
+9844
+902
++ 4503
+10.
+2997
+9844
+205
++ 54908
+1.2 SubtractingWholeNumbers
+Anotherwaytosaythat5+2=7istosaythat5=7−2.Inwords,“5isthediﬀerenceof7and2,”
+or“5istheresultoftakingaway2from7.”Theoperationoftakingawayonenumberfromanother,
+orﬁndingtheirdiﬀerence,iscalledsubtraction.Fornow,wehavetobecarefulthatthenumberwe
+takeawayisnolargerthanthenumberwestartwith:wecannothave3marblesandtake7ofthem
+away!Lateron,whenweintroducenegativenumbers,wewon’thavetoworryaboutthis.
+Weassumeyourememberthediﬀerencesofsingle-digitnumbers.Justtomakesure,dothefollowing
+example.
+Example6.Fillinthemissingsquaresinthedigit-subtractiontablebelow.Here’sastart:thenumber
+intherowlabelled7andthecolumnlabelled2isthediﬀerence7−2=5.Thedigitintherowlabelled
+3andthecolumnlabelled3isthediﬀerence3−3=0.(Squaresthathaveanasterisk(∗)willbeﬁlled
+inlaterwithnegativenumbers.)
+Page14−
+0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+0
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+1
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+2
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+3
+ 0
+ *
+ *
+ *
+ *
+ *
+ *
+4
+ *
+ *
+ *
+ *
+ *
+5
+ *
+ *
+ *
+ *
+6
+ *
+ *
+ *
+7
+ 5
+ *
+ *
+8
+ *
+9
+ 4
+Table1.2:Thedigitsubtractiontable
+1.2.1 Commutativity,Associativity,Identity
+Whenwestudynegativenumbers,wewillseethatsubtractionisnotcommutative.Wecanseebya
+simpleexamplethatsubtractionisalsonotassociative.
+Example7.Verifythat(7−4)−2isnotequalto7−(4−2).
+Solution.Associatingthe7and4,weget
+(7−4)−2=3−2=1,
+butassociatingthe4andthe2,weget
+7−(4−2)=7−2=5,
+adiﬀerentanswer.Untilweestablishanorderofoperations,wewillavoidexampleslikethis!
+Itistruethat
+x−0=x
+foranynumberx.However,0isnotanidentityforsubtraction,since0−xisnotequalto0(unless
+x=0).Tomakesenseof0−x,wewillneednegativenumbers.
+1.2.2 Multi-digitsubtractions
+Toperformsubtractionsofmulti-digitnumbers,weneedtodistinguishthenumber“beingdiminished”
+fromthenumberwhichis“doingthediminishing”(beingtakenaway).Thelatternumberiscalledthe
+subtrahend,andtheformer,theminuend.Fornow,wetakecarethatthesubtrahendisnolargerthan
+theminuend.
+Tosetupthesubtraction,welinethenumbersupvertically,withtheminuendoverthesubtrahend,
+andtheonesplaceslinedupontheright.
+Example8.Findthediﬀerenceof196and43.
+Solution.Thesubtrahendis43(thesmallernumber),soitgoesonthebottom.Welineupthenumbers
+verticallysothatthe6intheonesplaceof196isoverthe3intheonesplaceof43.
+196
+43
+Thenwedrawalineandsubtractthedigitsineachcolumn,startingwiththeonescolumnand
+workingrighttoleft,togetthediﬀerence:
+Page15196
+−43
+153
+1.2.3 CheckingSubtractions
+Subtractionisthe“opposite”ofaddition,soanysubtractionproblemcanberestatedintermsof
+addition.Usingthepreviousexample,andaddingthediﬀerencetothesubtrahend,weobtain
+153
++ 43
+196
+whichistheoriginalminuend.Ingeneral,ifsubtractionhasbeenperformedcorrectly,addingthe
+diﬀerencetothesubtrahendreturnstheminuend.Thisgivesusagoodwaytochecksubtractions.
+Example9.Checkwhetherthefollowingsubtractioniscorrect:
+94
+−51
+33
+Solution.Addingthe(supposed)diﬀerencetothesubtrahend,weget
+33
++ 51
+84
+whichisnotequaltotheminuend(94).Thusthesubtractionisincorrect.Weleaveittoyoutoﬁx
+it!
+1.2.4 Borrowing
+Sometimes,whensubtracting,weneedto“borrow”adigitfromahigherplaceandadditsequivalent
+toalowerplace.
+Example10. Findthediﬀerence:
+85
+−46
+Solution.Thedigitsubtractionintheonescolumnisnotpossible(wecan’ttake6from5).Instead
+weremoveor”borrow”1tenfromthetensplaceoftheminuend,andconvertitinto10ones,which
+weaddtotheonesintheonesplaceoftheminuend.Theminuendisnowrepresentedas{7}{15},
+Page16standingfor7tens+15ones.Itlooksfunny(asif15wereadigit),butitdoesn’tchangethevalueof
+theminuend,whichisstill7×10+15=85.Werepresenttheborrowingoperationlikethis:
+{7}{15}
+8 5
+−4 6
+Ignoringtheoriginalminuend,wehave15−6=9fortheonesplace,and7−3=4forthetensplace,
+asfollows:
+{7}{15}
+8 5
+−4 6
+3 9
+Thediﬀerenceis39.Wecancheckthisbyverifyingthatthediﬀerence+thesubtrahend=theoriginal
+minuend:
+39
++ 46
+85
+Sometimesyouhavetogomorethanoneplacetothelefttoborrowsuccessfully.Thishappens
+whenthenexthigherplacehasa0digit–thereisnothingtoborrowfrom.
+Example11. Findthediﬀerence:
+207
+−69
+Solution.Intheonescolumnwecan’ttake9from7,soweneedtoborrowfromahigherplace.We
+can’tborrowfromthetensplace,becauseithas0tens.Butwecanborrowfromthehundredsplace.
+Weborrow1hundred,andconvertitinto9tensand10ones.Theminuendisnowrepresentedas
+{1}{9}{17},standingfor1hundred+9tens+17ones,(asif17wereadigit).Werepresentthe
+borrowingasbefore:
+{1}{9}{17}
+2 0 7
+−6 9
+Ignoringtheoriginalminuend,wehave17−9=8fortheonesplace,9−6=3forthetensplace,and
+1−0=1forthehundredsplace:
+{1}{9}{17}
+2 0 7
+−6 9
+1 3 8
+Page17Thediﬀerenceis138.Tocheck,weverifythatthediﬀerence+thesubtrahend=theoriginalminuend:
+138
++ 69
+207
+(Youmayhavenoticedthatthecarryingyoudointheadditionchecksimplyreversestheborrowing
+doneintheoriginalsubtraction!)
+1.2.5 Exercises
+Findthediﬀerences,borrowingwherenecessary.Checkthatthediﬀerence+thesubtrahend=the
+minuend.
+1.
+94
+−37
+2.
+275
+−181
+3.
+350
+−76
+4.
+500
+−191
+5.
+600
+−199
+Page186.
+1500
+−1191
+7.
+5678
+−4567
+8.
+50000
+−4999
+9.
+801
+−790
+10.
+6389
+−999
+11.
+500000
+−43210
+12.
+9001010
+−1111111
+Page191.3 MultiplyingWholeNumbers
+Multiplicationisreallyjustrepeatedaddition.Whenwesay“4times3equals12,”wecanthinkofit
+asstartingat0andadding3fourtimesover:
+0+3+3+3+3=12.
+Wecanleaveoutthe0,since0istheadditiveidentity(0+3=3).Usingthesymbol×formultiplication,
+wewrite
+3+3+3+3=4×3=12.
+Theresultofmultiplyingtwoormorenumbersiscalledtheproductofthenumbers.Insteadofthe×
+symbol,weoftenuseacentraldot(·)toindicateaproduct.Thus,forexample,insteadof2×4=8,
+wecanwrite
+2·4=8.
+Example12. Weassumeyouremembertheproductsofsmallwholenumbers,soitshouldbeeasyfor
+youtoreproducethepartialmultiplicationtablebelow.Forexample,thenumberintherowlabelled7
+andthecolumnlabelled5istheproduct7·5=35.
+×
+0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+1
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+2
+ 0
+ 2
+ 4
+ 6
+ 8
+ 10
+ 12
+ 14
+ 16
+ 18
+ 20
+ 22
+ 24
+3
+ 0
+ 3
+ 6
+ 9
+ 12
+ 15
+ 18
+ 21
+ 24
+ 27
+ 30
+ 33
+ 36
+4
+ 0
+ 4
+ 8
+ 12
+ 16
+ 20
+ 24
+ 28
+ 32
+ 36
+ 40
+ 44
+ 48
+5
+ 0
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+ 35
+ 40
+ 45
+ 50
+ 55
+ 60
+6
+ 0
+ 6
+ 12
+ 18
+ 24
+ 30
+ 36
+ 42
+ 48
+ 54
+ 60
+ 66
+ 72
+7
+ 0
+ 7
+ 14
+ 21
+ 28
+ 35
+ 42
+ 49
+ 56
+ 63
+ 70
+ 77
+ 84
+8
+ 0
+ 8
+ 16
+ 24
+ 32
+ 40
+ 48
+ 56
+ 64
+ 72
+ 80
+ 88
+ 96
+9
+ 0
+ 9
+ 18
+ 27
+ 36
+ 45
+ 54
+ 63
+ 72
+ 81
+ 90
+ 99
+ 108
+10
+ 0
+ 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+ 90
+ 100
+ 110
+ 120
+11
+ 0
+ 11
+ 22
+ 33
+ 44
+ 55
+ 66
+ 77
+ 88
+ 99
+ 110
+ 121
+ 132
+12
+ 0
+ 12
+ 24
+ 36
+ 48
+ 60
+ 72
+ 84
+ 96
+ 108
+ 120
+ 132
+ 144
+Table1.3:Multiplicationtable
+1.Doyounoticeanypatternsorregularitiesinthemultiplicationtable?Canyouexplainthem?
+2.Whydoesthesecondrowfromthetopcontainonly0’s?
+3.Whyisthethirdrowfromthetopidenticaltotheﬁrstrow?
+4.Ismultiplicationcommutative?Howcanyoutellfromthetable?
+Page201.3.1 Commutativity,Associativity,Identity,theZeroProperty
+Anexaminationofthemultiplicationtableleadsustoanimportantpropertyof0,namely,whenany
+number,N,ismultipliedby0,theproductis0:
+0·N=N·0=0.
+Italsoshowsusanimportantpropertyof1,namely,whenanynumber,N,ismultipliedby1,the
+productistheidenticalnumber,x,again:
+1·N=N·1=N.
+Forthisreason,1iscalledthemultiplicativeidentity.
+Thefollowingexampleshouldhelpyoutoseethatmultiplicationiscommutative.
+Example13. Theﬁgureshowstwowaysofpilinguptwelvesmallsquares.Ontheleft,wehavepiled
+up3rowsof4squares(3×4);ontheright,wehavepiledup4rowsof3squares(4×3).Inboth
+cases,ofcourse,thetotalnumberofsquaresistheproduct3×4=4×3=12.
+Figure1.1:3×4=4×3=12
+Exampleslikethefollowinghelpyoutoseethatmultiplicationisassociative.
+Example14. Wecanﬁndtheproduct3×4×5intwodiﬀerentways.Wecouldﬁrstassociate3and
+4,getting
+(3×4)×5=12×5=60,
+orwecouldﬁrstassociate4and5,getting
+3×(4×5)=3×20=60.
+Theproductisthesameinbothcases.
+1.3.2 Multi-digitmultiplications
+Tomultiplynumberswhenoneofthemhasmorethanonedigit,weneedtodistinguishthenumber
+“beingmultiplied”fromthenumberwhichis“doingthemultiplying.”Thelatternumberiscalledthe
+multiplier,andtheformer,themultiplicand.Itreallymakesnodiﬀerencewhichnumberiscalledthe
+multiplierandwhichthemultiplicand(becausemultiplicationiscommutative!).Butitsavesspaceif
+wechoosethemultipliertobethenumberwiththefewestdigits.
+Tosetupthemultiplication,welinethenumbersupvertically,withthemultiplicandoverthe
+multiplier,andtheonesplaceslinedupontheright.
+Page21Example15. Tomultiply232by3,wewrite
+232
+×3
+Wemultiplyplace-by-place,puttingtheproductsintheappropriatecolumn.3×2onesis6ones,so
+weput6intheonesplace
+232
+×3
+6
+3×3tensis9tens,soweput9inthetensplace
+232
+×3
+96
+Finally,3×2hundredsis6hundreds,sothatweputdown6inthehundredsplace,andweare
+done:
+232
+×3
+696
+Sometimesweneedtocarryadigitfromoneplacetothenexthigherplace,asinaddition.For
+example,4×5=20,anumberwithtwodigits.Sowewould“putdown”the0inthecurrentplace,
+and“carry”the2tothecolumnrepresentingthenexthigherplace,asinthenextexample.
+Example16. Multiply251by4.
+Solution.Thestepsare
+251
+×4
+Fortheonesplace,
+251
+×4
+4
+Forthetensplace,4×5=20,soweputdownthe0inthetensplaceandcarrythe2tothehundreds
+column:
+{2}
+251
+×4
+04
+Page22Forthehundredsplace,4×2hundredsis8hundreds,towhichweaddthe2hundredsthatwere
+carried.Thisgivesus10hundreds,or1thousand.Weputdown0inthehundredsplace,and1inthe
+thousandsplace.
+{2}
+251
+× 4
+1004
+Theproductof251and4is1004.
+Ifthemultiplierhasmorethanonedigit,theprocedureisalittlemorecomplicated.Wegetpartial
+products(oneforeachdigitofthemultiplier)whichareaddedtoyieldthetotalproduct.
+Example17. Considertheproduct
+24
+×32
+Sincethemultiplierstandsfor3tens+2ones,wecansplittheproductintotwopartialproducts
+24
+×2
+48
+and
+24
+×3
+Noticethatinthesecondpartialproductthemultiplierisinthetenscolumn.Thisisalmostexactly
+likehavinga1-digitmultiplier.Thesecondpartialproductisobtainedbysimplyputtingdowna0in
+theonesplaceandshiftingthedigitproductsoneplacetotheleft:
+24
+×3
+720
+(Noticethatweputdown2andcarried1whenweperformedthedigitproduct3×4=12.)Thetotal
+productisthesumofthetwopartialproducts:48+720=768.Wecanwritethewholeprocedure
+compactlybyaligningthetwopartialproductsvertically
+24
+×32
+48
+720
+Page23andthenperformingtheaddition
+24
+×32
+48
++ 720
+768
+Here’sanotherexample.
+Example18. Findtheproductof29and135.
+Solution.Wechoose29asthemultipliersinceithasthefewestdigits.
+135
+×29
+Weusethe1-digitmultiplier9toobtaintheﬁrstpartialproduct
+{3}{4}
+135
+×29
+1215
+Noticethatweputdown5andcarried4tothetensplace,andalsoputdown1andcarried3tothe
+hundredsplace.Nextweusethe1-digitmultiplier2(standingfor2tens)toobtainthesecondpartial
+product,shiftedleftbyputtinga0intheonesplace
+{1}
+135
+×29
+1215
+2700
+(Whatcarrydidweperform?)Finally,weaddthepartialproductstoobtainthe(total)product
+135
+×29
+1215
++ 2700
+3915
+Notethatthewholeprocedureiscompactlyrecordedinthelaststep,whichisallthatyouneedtowrite
+down.
+Page241.3.3 Exercises
+Findtheproducts.
+1.
+122
+×4
+2.
+83
+×5
+3.
+104
+×7
+4.
+3008
+× 9
+5.
+212
+×43
+6.
+83
+×56
+Page257.
+136
+× 27
+8.
+308
+× 109
+9.
+2103
+×44
+10.
+837
+×54
+1.4 PowersofWholeNumbers
+Ifwestartwith1andrepeatedlymultiplyby3,4timesover,wegetanumberthatiscalledthe4th
+powerof3,written
+34=1×3×3×3×3.
+Thefactorof1isunderstoodandusuallyomitted.Insteadwesimplywrite
+34=3×3×3×3.
+Intheexpression34,3iscalledthebase,and4theexponent(orpower).
+Example19. The5thpowerof2,or25,istheproduct
+2×2×2×2×2=32.
+The3rdpowerof4,or43,istheproduct
+4×4×4=64.
+Wemakethefollowingdeﬁnitioninthecaseswheretheexponentis0.
+Page26ForanynonzeronumberN,
+N0=1.
+(00isundeﬁned.)
+Thismakessenseifyouremembertheharmlessfactorof1thatisunderstoodineveryexponential
+expression.(You’llseeanotherjustiﬁcationwhenyoustudyalgebra.)
+Although00isundeﬁned,expressionssuchas02,03,etc.,with0baseandnonzeroexponent,make
+perfectsense(e.g.,03=0×0×0=0).
+Example20. 170=1.05=0.01=0.00isundeﬁned.
+1.4.1 SquaresandCubes
+Certainpowersaresofamiliarthattheyhavespecialnames.Forexample,the2ndpoweriscalledthe
+squareandthe3rdpoweriscalledthecube.Thus52isread“5squared,”and73isreadas“7cubed.”
+Thesourceofthesespecialnamesisgeometric(seeSection1.8).Theareaofasquare,xunitsona
+side,isx2squareunits.Thismeansthatthesquarecontainsx2smallsquares,eachoneunitonaside.
+Forexample,theﬁgurebelowshowsasquare6unitsonaside,witharea62=36squareunits.
+=
+Similarly,thevolumeofacube,yunitsonaside,isy3cubicunits.Thismeansthatthecube
+containsy3littlecubes,eachoneunitonaside.Forexample,thevolumeofanicecubethatmeasures
+2cm(centimeters)onasideis23=8cubiccentimeters.
+1.4.2 Exercises
+1.Rewriteusinganexponent:8×8×8×8
+2.Rewriteusinganexponent:4·4·4·4·4·4
+3.Evaluate25
+4.Evaluate90
+5.Evaluate07
+6.Evaluate54
+7.Evaluate102
+Page278.Evaluate103
+9.Completethefollowingtableofsquares:
+02=0
+ 62=
+ 122=
+ 182=
+12=
+ 72=49
+ 132=
+ 192=
+22=
+ 82=
+ 142=
+ 202=
+32=
+ 92=
+ 152=
+ 302=
+42=
+ 102=
+ 162=
+ 402=
+52=
+ 112=
+ 172=
+ 502=
+10.Completethefollowingtableofcubes:
+03=
+ 33=
+ 63=
+ 93=
+13=
+ 43=64
+ 73=
+ 103=
+23=
+ 53=
+ 83=
+ 1003=
+1.4.3 SquareRoots
+Ifthereisanumber,whosesquareisthenumbern,wecallitthesquarerootofn,andsymbolizeitby
+√
+n.
+Forexample,22=4,so2isthesquarerootof4,andwewrite
+√
+4=2.
+Similarly,32=9,so3isthesquarerootof9,andwewrite
+√
+9=3.
+Actually,everypositivewholenumberhastwosquareroots,onepositiveandonenegative.Thepositive
+squarerootiscalledtheprincipalsquareroot,and,fornow,whenwesaysquareroot,wemeanthe
+principalone.
+Awholenumberwhosesquarerootisalsoawholenumberiscalledaperfectsquare.Theﬁrstfew
+perfectsquaresare1,4,9,16,25,36,49,64,81,100,121.Clearly,therearelotsofwholenumbers
+thatarenotperfectsquares.Butthesenumbersmusthavesquareroots.Usingourgeometricintuition,
+itiseasytobelievethattherearegeometricsquareswhoseareasarenotperfectsquarenumbers.For
+example,ifwewanttoconstructasquarewhoseareais5squareunits,wecouldstartwithasquare
+whoseareais4squareunits,andsteadilyexpanditonallsidesuntilwegetthedesiredsquare.
+Area=4 Area=5 Area=92√
+53
+Page28Thesidelengthofthemiddlesquareisanumberwhich,whensquared,yields5,thatis,√
+5.Wecan
+seethat√
+5isbiggerthan√
+4=2,andlessthan√
+9=3.
+Ingeneral,ifawholenumberliesbetweentwoperfectsquares,itssquarerootmustliebetweenthe
+twocorrespondingsquareroots.
+Example21. Since21liesbetweentheperfectsquares16and25,√
+21mustliebetween√
+16=4and√
+25=5.
+Example22. Betweenwhattwoconsecutivewholenumbersdoes√
+53lie?
+Solution.Since53liesbetweentheperfectsquares49and64,thesquareroot√
+53mustliebetween√
+49=7and√
+64=8.
+1.4.4 Exercises
+Findthesquareroots:
+1.√
+49
+2.√
+81
+3.√
+169
+4.√
+121
+5.√
+64
+Betweenwhattwoconsecutivewholenumbersdothefollowingsquarerootslie?
+6.√
+19
+7.√
+75
+8.√
+26
+9.√
+32
+10.Completethesquare-roottable:
+√
+0=
+ =6
+ =12
+ =18
+√
+1=
+ =7
+ =13
+ =19
+√
+4=
+ =8
+ =14
+ =20
+√
+9=
+ =9
+ =15
+ =30
+=4
+ =10
+ =16
+ =40
+=5
+ =11
+ =17
+ =50
+1.5 DivisionofWholeNumbers
+Howmanytimesdoes23“gointo”100?Putanotherway,startingwith100,howmanytimescanwe
+subtract23withoutobtaininganegativenumber?Theansweriseasilyseentobe4.Moreover,itis
+Page29easytoseethatthereissomething“leftover,”namely,8.Herearethecomputations:
+100
+−23
+77
+−23
+54
+−23
+31
+−23
+8
+Thisoperation(repeatedsubtraction)iscalleddivision.Thenumberwestartwith(100intheexample)
+iscalledthedividend,andthenumberwerepeatedlysubtract(23intheexample)iscalledthedivisor.
+Weusethesymbol÷,andnotethatthedividendiswrittenﬁrst:
+dividend÷divisor.
+1.5.1 QuotientandRemainder
+Unliketheotherthreeoperations(addition,subtraction,multiplication),theresultofadivisionofwhole
+numbersconsistsofnotonebuttwowholenumbers:thenumberofsubtractionsperformed(4inthe
+example),andthenumberleftover(8intheexample).Thesetwonumbersarecalledthequotient
+andtheremainder,respectively.
+Wholenumberdivisionswithremainder0arecalledexact.Forexample,48÷6hasquotient8and
+remainder0,sothedivisionisexactandwecanwrite
+48÷6=8,
+withtheunderstandingthattheremainderis0.Exactdivisionscanberestatedintermsofmultiplication.
+Subtracting6(8times)from48yieldsexactly0.Ontheotherhand,startingat0andadding6(8
+times)returns48.Recallingthatmultiplicationisashorthandforthiskindofrepeatedaddition,wesee
+thatthetwostatements
+48÷6=8 and 48=6·8
+sayexactlythesamething.Ingeneral,
+a÷b=c and a=b·c
+areequivalentstatements.
+Example23. Expressthestatement72=8·9asanexactdivisionintwoways.
+Solution.Wecangetto0bystartingat72andrepeatedlysubtracting8(9times),orbyrepeatedly
+subtracting8(9times).So,usingthedivisionsymbol,wecanwrite
+72÷8=9
+orwecanwrite
+72÷9=8.
+Page30Example24. Thedivision63÷7isexact.Expressthisfactusinganappropriatemultiplication.
+Solution.Sincethequotientis9andtheremainderis0,wecanwrite
+63÷7=9 or 63=9·7.
+1.5.2 LongDivision
+Divisionswithmulti-digitdivisorsand/ordividendscangetcomplicated,soweremindyouofastandard
+way(longdivision)oforganizingthecomputations.Hereiswhatitlookslike:
+dividend divisorquotient
+***
+***
+***
+***
+***
+remainder
+Thehorizontallinesindicatesubtractionsofintermediatenumbers;thereisonesubtractionforeach
+digitinthequotient.Forexample,thefactthatthedivision100÷23hasquotient4andremainder8
+isexpressedinthelongdivisionformasfollows:
+100 234
+−92
+8
+The4repeatedsubtractionsof23aresummarizedasthesinglesubtractionof4·23=92.
+Inlongdivision,wetrytoestimatethenumberofrepeatedsubtractionsthatwillbeneeded,multiply
+thisestimatebythedivisor,andhopeforanumberthatiscloseto,butnotgreaterthan,thedividend.
+Itwillbeeasytoseewhenourestimateistoolarge,andtoadjustitdownward.Ifitistoosmall,the
+resultofthesubtractionwillbetoobig–therewasactually“room”forfurthersubtraction.Going
+backtoourexample,100÷23,itismoreorlessclearthatwewillneedmorethan2subtractions,since
+23×2=46,whichleavesabigremainderof54(biggerthanthedivisor,23).23×3=69,whichalso
+leavesaremainderthatistoobig.Since23×5=115,whichisbiggerthanthedividend,100,weknow
+thatthebestestimateforthequotientis4.Now23×4=92.Wesubtract92from100,leavingthe
+remainder8,whichislessthanthedivisor,asitshouldbe.Tocheckourcalculations,weverifythat
+23×4+8=100.(Inthischeck,themultiplicationisdonebeforetheaddition–thisisthestandard
+Page31orderofoperations,whichwewillsaymoreaboutlater.)
+Let’stryanothersimpledivisionproblem.
+Example25. Findthequotientandremainderofthedivision162÷42.
+Solution.Puttingthedividendanddivisorintothelongdivisionform,wehave
+162 42
+Let’sestimatethenumberofsubtractionsthatwe’llneedtoperform.40goesinto160fourtimes,so,
+perhapsfourisagoodguess.But4×42=168,whichistoobig(biggerthanthedividend).Sowe
+lowerourestimateby1.Weget3×42=126,whichislessthanthedividend,sothismustbethe
+rightchoice.
+162 423
+−126
+Subtracting,weobtaintheremainder
+162 423
+−126
+36
+whichislessthanthedivisor,asitshouldbe.Thus,thequotientis3andtheremainderis36.Asa
+check,weverifythat3×42+36=162.(Multiplicationbeforeaddition.)
+Page32Whenthedividendislarge,estimatingthequotientisnotsoeasy.Thenextexampleshowshowto
+breaktheproblemdownbyconsideringrelated,butsmallerdividends.
+Example26. Findthequotientandremainderofthedivision3060÷15.
+Solution.Ifwereadthedividendfromtheleft,onedigitatatime,weget,successively,thenumbers3,
+30,306,and3060.Ofcourse,accordingtotheplace-valuesystem,thesenumbersstandfor3thousands,
+30hundreds,etc.,butwedonotneedtothinkthisway.Toﬁndtheleft-mostdigitofthequotient,
+observethatthedivisor,15,doesnot“gointo”3,butitdoesgointo30(2times,exactly).Toindicate
+thisweput,fortheﬁrstdigitofthequotient,thedigit2,directlyovertheright-mostdigit(0)in30:
+3060 152
+Nowwecomputetheproduct15×2=30andsubtractitfromtheinitiallyselectedpartofthedividend,
+i.e.,from30:
+3060 152
+−30
+0
+Inthiscase,wegetaremainderof0.Butwearenotdoneyet.Wetreatthisintermediateremainder
+asifitwereanewdividend.Does15“gointo”0?No–weneedalargerdividend.Togetone,we
+“bringdown”thedigit6:
+3060 152
+−30
+06
+Now06=6(why?),and15doesnotgointo6.Moreprecisely,itgoesintoit0times.Weindicate
+thisbyputtinga0directlyabovethedigit6inthedividend:
+Page333060 1520
+−30
+06
+Thenwebringdownthenext(andthelast)digit(0)ofthedividend:
+3060 1520
+−30
+060
+Thisgivesusanewdividendof060=60,and15goesinto60fourtimes.Soweputdown4abovethe
+ﬁnaldigitintheoriginaldividend.
+3060 15204
+−30
+060
+Multiplying15by4,wesubtractthisproductfrom60.Thisﬁnaldiﬀerenceistheremainder.
+Page343060 15204
+−30
+060
+−60
+0
+Wehavereachedtheendofourdividend–therearenomoredigitstobringdown.Hence,ourdivision
+stops.Thequotientis204,andtheremainderis0.Wecheckbyverifyingthat15×204+0=3060.
+1.5.3 Exercises
+Expresseachexactdivisionasanequivalentmultiplication.
+1.88÷22=4
+2.42÷6=7
+3.51÷17=3
+4.168÷14=12
+5.96÷12=8
+Findthequotientandremainderofeachdivision.
+6.37÷11
+7.712÷101
+8.3007÷110
+9.3333÷111
+10.3456÷241
+11.457÷41
+12.578÷19
+13.317÷21
+14.907÷201
+15.712÷21
+Page351.6 Orderofoperations
+Weoftendocalculationsthatinvolvemorethanoneoperation.Forexample
+1+2×3
+involvesbothadditionandmultiplication.Whichdowedoﬁrst?Ifwedothemultiplicationﬁrst,the
+resultis1+6=7,andifwedotheadditionﬁrst,theresultis3×3=9.Obviously,ifwewantthe
+expression
+1+2×3
+tohaveadeﬁniteandunambiguousmeaning,weneedaconventionoragreementabouttheorderof
+operations.Itcouldhavebeenotherwise,buttheconventioninthiscaseis:
+multiplicationbeforeaddition.
+Withthisconvention,whenIwrite1+2×3,youknowthatImean7(not9).Theprecedenceof
+multiplicationcanbemadeexplicitusingthegroupingsymbols()(parentheses):
+1+(2×3)=1+6=7.
+Ifoneofusinsiststhattheadditionbedoneﬁrst,wecandothatbyre-settingtheparentheses:
+(1+2)×3=3×3=9.
+Thusgroupingsymbolscanbeusedtoforceanydesiredorderofoperations.Commongroupingsymbols,
+besidesparentheses,arebrackets,[],andbraces,{}.Thesquarerootsymbol√
+isalsoagrouping
+symbol.Forexample√
+4+5=√
+9=3.
+The√
+symbolactslikeapairofparentheses,tellingustoevaluatewhatisinside(inthiscase,the
+sum4+5)ﬁrst,beforetakingthesquareroot.
+Theorderofoperationsis:
+1.operationswithingroupingsymbolsﬁrst;
+2.exponentsandrootsnext;
+3.multiplicationsanddivisions(inorderofappearance)next;
+4.additionsandsubtractions(inorderofappearance)last.
+“Inorderofappearance”meansinorderfromlefttoright.Thusintheexpression
+2+5−3,
+theadditioncomesﬁrst,soitisevaluatedﬁrst,
+2+5−3=7−3=4,
+whileintheexpression
+8−6+11,
+thesubtractionisdoneﬁrstbecauseitcomesﬁrst,
+8−6+11=2+11=13.
+Page36Example27. Evaluate6·5−4÷2+2.
+Solution.Allfouroperationsappearhere.Therearenogroupingsymbols,exponentsorroots.Following
+theorderofoperations,aswellastheorderofappearance,wedothecomputationsinthefollowing
+order:multiplication,division,subtraction,addition.Thecomputationsareasfollows:
+6·5−4÷2+2=
+30−4÷2+2=
+30−2+2=
+28+2=
+30
+Inthenexttwoexamples,weusethesamenumbersandthesameoperations,butweinsertgrouping
+symbolstochangetheorderofoperations.Asexpected,thischangestheﬁnalresult.
+Example28. Evaluate6·(5−4)÷2+2.
+Solution.Thegroupingsymbolsforceustodothesubtractionﬁrst.Afterthat,theusualorderof
+operationsisfollowed.
+6·(5−4)÷2+2=
+6·1÷2+2=
+6÷2+2=
+3+2=
+5
+Example29. Evaluate6·5−4÷[2+2].
+Solution.Nowthegroupingsymbols(brackets)forceustodotheadditionﬁrst.
+6·5−4÷[2+2]=
+6·5−4÷4=
+30−4÷4=
+30−1=
+29
+Inthenextexample,therearegroupingsymbolswithingroupingsymbols.Thestrategyhereisto
+workfromtheinsideoutward.
+Example30. Evaluate62−[3+(3−1)]2.
+Page37Solution.Wehaveparentheseswithinbrackets.Theparenthesesencloseuptheinnermostgroup,which
+iswherewestart.(Thatiswhat“fromtheinsideoutward”means.)Thustheﬁrstoperationtobedone
+is3−1=2,yielding
+62−[3+2]2.
+Next,thebracketedgroup,[3+2]isevaluated,yielding
+62−52.
+Atthispoint,therearenomoregroupingsymbols,andtheorderofoperationstellsustoevaluatethe
+expressionswithexponentsnext,yielding
+36−25.
+Allthatisleftistheremainingsubtraction,
+36−25=11.
+Example31. Evaluate/radicalbig
+(11−5)2+(24÷2−4)2.
+Solution.Weevaluatethetwoinnergroups(11−5)and(24÷2−4)ﬁrst.Inthesecondgroup,division
+precedessubtraction,yielding12−4=8.Thustheexpressionisreducedto
+/radicalbig
+62+82.
+Nextweevaluatethetwoexpressionswithexponents,obtaining
+√
+36+64.
+Then,rememberingthat√
+isagroupingsymbol,weevaluatethegroup36+64=100,andﬁnally,
+evaluatethesquareroot√
+100=10.
+1.6.1 Exercises
+Evaluatetheexpressionsusingthecorrectorderofoperations.
+1.6+16÷4
+2.16·4−48
+3.15−9−4
+4.2·6+2(√
+36−1)
+5.4×3×2÷8−3
+6.(2·5)2
+7.√
+21−30÷6
+8.[18÷(9÷3)]2
+9.2+2×8−(4+4×3)
+Page381.7 Average
+Theaverageof2numbersistheirsum,dividedby2.Theaverageof3numbersistheirsum,divided
+by3.Ingeneral,theaverageofnnumbersistheirsum,dividedbyn.
+Example32. Findtheaverageofeachofthefollowingmulti-setsofnumbers.(Amulti-setisasetin
+whichthesamenumbercanappearmorethanonce.)(a){10,12};(b){5,6,13};(c){8,12,9,7,14}.
+Solution.Ineachcase,wetakethesumofallthenumbersinthemulti-set,andthen(followingthe
+orderofoperations),dividebynumberofnumbers:
+(a)(10+12)÷2=11; (b)(5+6+13)÷3=8; (c)(8+12+9+7+14)÷5=10.
+Theaverageofamulti-setofnumbersisadescriptionofthewholemulti-set,intermsofonlyone
+number.Ifallthenumbersinthemulti-setwerethesame,theaveragewouldbethatnumber.For
+example,theaverageofthemulti-set{5,5,5}is
+(5+5+5)÷3=5,
+andtheaverageofthemulti-set{2,2,2,2,2,2}is
+(2+2+2+2+2+2)÷6=2.
+Thisgivesusanotherwaytodeﬁnetheaverageofamulti-setofnnumbers:itisthatnumberwhich,
+addedtoitselfntimes,givesthesametotalsumasthesumofalltheoriginalnumbersinthemulti-set.
+1.7.1 Exercises
+Findtheaverageofeachofthefollowingmulti-setsofnumbers.
+1.{1,2,3,4,5,6,7}
+2.{13,13,19,15}
+3.{206,196,204}
+4.{85,81,92}
+5.Abaseballteamhad7gamescancelledduetoraininthe2010season.Thenumberofcancelled
+gamesinthe2002-2009seasonswere5,6,2,10,9,4,6,5.Whatwastheaveragenumberof
+cancelledgamesforthe2002-2010seasons?
+6.Supposetheaverageofthemulti-set{20,22,N,28}is25,whereNstandsforanunknownnumber.
+FindthevalueofN.
+Page391.8 Perimeter,AreaandthePythagoreanTheorem
+Squaresandrectanglesareexamplesofpolygon s–closedshapesthatcanbedrawnonaﬂatsurface,
+usingsegmentsofstraightlineswhichdonotcrosseachother.“Closed”meansthatthelinesegments
+formaboundary,withnogaps,whichenclosesaunique“inside”region,andseparatesitfromthe
+“outside”region.
+Example33. Whichofthefollowingﬁguresarepolygons?
+(a) (b) (c) (d) (e)
+Solution.(b)isnotapolygonsincenotallofitssidesarestraightlines.(c)isnotapolygonbecause
+itdoesnothaveaunique”inside”region.(d)isnotapolygonbecauseitisnotclosed.
+Therearetwousefulnumericalquantitiesassociatedwithapolygon:theperimeter,whichisthe
+lengthofitsboundary,andthearea,whichis(roughlyspeaking)the“amountofspace”itencloses.
+Perimetersaremeasuredusingstandardunitsoflengthsuchasfeet(ft),inches(in),meters(m),
+centimeters(cm).Areasaremeasuredusingsquareunits,suchassquarefeet(ft2),squareinches
+(in2),squaremeters(m2),squarecentimeters(cm2).
+Toﬁndtheperimeterofapolygon,wesimplyﬁndthesumofthelengthsofitssides.
+Example34. Findtheperimeterofeachpolygon.Assumethelengthsaremeasuredinfeet.
+34 1
+5
+575 (a)6
+1
+1
+1(b)
+Solution.Addingthelengthsofthesides,weﬁndthattheperimeterofpolygon(a)is
+3+4+1+5+5=18ft.
+Similarly,theperimeterofthepolygon(b)is
+7+5+6+1+1+1=21ft.
+Page40Findingtheareaofapolygoncanbecomplicated,butitisquitesimpleifthepolygoncanbedivided
+upintorectangles.Arectangleisafour-sidedpolygonwithtwopairsofoppositeparallelsides,and
+“square”corners.Thesquarecorners–alsoknownasrightangles–implythatthepairedopposite
+sideshavethesamelength.Thelengthoftheshorterpairofsidesisoftencalledthewidthanddenoted
+w,andthelengthofthelongerpairiscalledthelengthanddenotedl.
+length=lwidth=wl
+w
+Thesmallsquaresinthecornersaretheretoindicatethatthepolygonisarectangle.
+Example35. Estimatetheareaoftherectanglebelow,ifthesquareintheupperleftcorneris1unit
+onaside.
+length=lwidth=wl
+w11
+Solution.Ifthecornersquareis1unitonaside,theareaoftherectangleisthenumberofsquaresof
+thatsizethatﬁtinsidetherectangle.Asthenextﬁgureshows,21suchsquareunitsﬁtinside,in3rows
+of7.Thewidth(w)isevidently3units,andthelength(l)7units.Theareaistheproduct3×7=21
+squareunits.
+length=7width=37
+3
+Theexampleillustratesageneralfact:theareaofarectangleistheproductofthelengthand
+Page41thewidth.IfAdenotesthearea,theformulais
+A=l·w.
+Itisalsoclearthattheperimeterofarectangleisthesumoftwicethelengthandtwicethe
+width,sincetotravelallthewayaroundtheboundaryoftherectangle,boththelengthandthewidth
+mustbetraversedtwice.IfPdenotestheperimeter,theformulais
+P=2l+2w.
+Example36. IntheﬁgurebelowwehavedrawnanL-shapedpolygononagrid.Findtheareaand
+perimeterofthepolygon.Taketheunitofareatobeoneofthelargesquaresofthegrid,andassume
+thesesquaresare1cmonaside.
+0 1 2 3 4 5 6 7 80123456789
+Solution.Usingthegrid,itiseasytoﬁndthelengthsofallsixsidesofthepolygon.Forexample,the
+left-handverticalsideis7cmlong(stretchingfrom1to8onthescaleatleft),andthetopsideis2
+cmlong.ContinuingclockwisearoundtheL-shape,weseethatthesidelengthsare
+7,2,5,4,2,6cm,
+respectively.Fromthis,itfollowseasilythattheperimeterPisgivenbythesum
+7+2+5+4+2+6=26cm.
+Toﬁndthearea,wedrawalinewhichdividestheL-shapeintotworectangles(labeledR1andR2)in
+theﬁgurebelow.(Wecouldhavedrawnadiﬀerentlinetoobtainadiﬀerentdivisionintotworectangles
+–doyouseeit?)
+Page42R1
+R27
+2 42
+ItisevidentthatR1haslength7cmandwidth2cm.SotheareaofR1is
+A1=2·7=14cm2.
+Similarly,sincethelengthofR2is4cmandthewidthis2cm,theareaofR2is
+A2=2·4=8cm2.
+ItisvisuallyobviousthatthetotalareaAoftheL-shapedpolygonisthesumA1+A2oftheareasof
+R1andR2.Thus
+A=14cm2+8cm2=22cm2.
+Usingthegrid,youcaneasilyverifythisresultbycountingthenumberoflargesquaresinsidethe
+polygon.
+Thegridisnotnecessary,aslongaswearegivenenoughside-lengths,andassumesquarecorners.
+Example37. Findtheareaandperimeteroftheright-angled(square-cornered)polygonbelow.Assume
+thesidelengthsaremeasuredinfeet.
+Page4365
+32
+1
+5
+Solution.Therearesomemissingsidelengths(forexample,theverticalsideontheupperright),but
+theareacanbedeterminedwithoutthem,usingsubtraction.Wecanvisualizethepolygonasalarge
+rectangleoflength6ft.andwidth5ft,outofwhicharectangular“bite,”oflength3ftandwidth2
+ft,hasbeentaken.
+65
+3 “bite”2
+1
+5
+Theareaofthelargerectangle(biteincluded)is6·5=30ft2,andtheareaofthebitealoneis3·2=6
+ft2.Thustheareaoftheoriginalpolygonis
+30−6=24ft2.
+Toﬁndtheperimeter,weneedthemissingsidelengths.Fortheverticalsideontheupperright,we
+reasonasfollows.Theleftedgeis6ft,andsothetotallengthofalltherightverticaledgesmustalso
+be6ft.Thetwoknownverticaledgesontherighthavelengths1and3,andtheunkownedgemust
+Page44makeupthediﬀerence.Soitslengthmustbe
+6−(1+3)=2ft.
+Theothermissingside(theshorthorizontalone)is2ft.Addingupallthesidelengths,starting
+(arbitrarily)withthebottomedgeandproceedingcounter-clockwise,yieldstheperimeter:
+5+1+2+3+2+2+5+6=26ft.
+Ifwecutarectangleintwobydrawingadiagon alfromonecornertotheoppositecorner,weget
+tworighttriangles,eachhavingexactlythesamesizeandshape,andthereforethesamearea.
+Righttrianglesareinterestingintheirownright,andweoftenconsidertheminisolation,without
+referencetotherectangletheycamefrom.Thesideofarighttrianglethatisoppositetherightangle
+(thelongestside)isknownasthehypotenuse.Thetwoshortersidesarecalledthelegs.Intheﬁgure
+below,thelegsarelabeledaandb,andthehypotenuseislabeledc.
+a
+bc
+Afamousformula,calledthePythagoreantheorem,statesthat,inanyrighttrianglewithlegsof
+lengthaandb,andhypotenuseoflengthc,thefollowingrelationholds:
+a2+b2=c2.
+Wecanusethistoobtainaformulaforthelengthofthehypotenuseofarighttriangleintermsofthe
+lengthsofthelegs.
+c=/radicalbig
+a2+b2.
+Page45Sincetheareaofarighttriangleisexactlyhalftheareaoftherectangleitcamefrom,itfollows
+thattheareaofarighttriangleistheproductofthelengthsofthelegs,dividedby2.IfA
+denotesthearea,andthelengthsofthelegsareaandbasintheﬁgure,theformulais
+A=(a·b)÷2.
+Example38. Findtheareaandperimeterofatrianglewhoselegshavelength3feetand4feet.
+Solution.Puttinga=4andb=3,weﬁndtheareausingtheformula
+A=(a·b)÷2=(4·3)÷2=12÷2=6ft2.
+Toﬁndtheperimeter,weﬁrstﬁndthelengthofthehypotenuseusingtheformula
+c=/radicalbig
+a2+b2=/radicalbig
+42+32=√
+16+9=√
+25=5ft.
+Thustheperimeterisa+b+c=4ft+3ft+5ft=12ft.
+Nowwecanﬁndtheareaandperimeterofanypolygonthatcanbedividedupintorectanglesand
+righttriangles.
+Example39. Findtheareaandperimeterofthepolygonbelow.Thelargesquaresofthegridmeasure
+1centimeter(cm)onaside.
+0 1 2 3 4 5 6 7 8 9 1001234
+Solution.Drawingtwoverticallines,wecandivideupthepolygonintotworighttriangles,T1andT2,
+andarectangle,R.
+0 1 2 3 4 5 6 7 8 9 1001234
+T1T2 R
+Page46Therectanglehaslength6cmandwidth2cm,soithasarea6·2=12cm2.Bothtriangleshavelegs
+oflength1and2,sotheareaofeachis(2·1)÷2=1cm2.Addingthethreeareasgivesthetotalarea
+ofthepolygon:1+12+1=14cm2.Toﬁndtheperimeter,weusethePythagoreantheoremtoﬁnd
+thelengthsofthetwoslantedsides:
+c=/radicalbig
+a2+b2=/radicalbig
+12+22=√
+5.
+Thustheperimeteris√
+5+7+√
+5+7=14+2√
+5cm.
+Since√
+5isnotaninteger,wedonotsimplifytheexpressionfurther.Butwecanmakethefollowing
+estimate:Since√
+5isbetween2and3,2√
+5isbetween4and6,anditfollowsthattheperimeteris
+between18and20centimeters.
+1.8.1 Exercises
+1.Findtheareaofarighttrianglewhoselegsare5inand12in.
+2.Findtheperimeteroftherighttriangleinthepreviousexample.
+3.Findtheareaofarectanglewhoselengthis8ftandwhosewidthis7feet.
+4.Findtheperimeteroftherectangleinthepreviousexample.
+5.Findthelengthofthediagonalofasquarewhichis2cmonaside.Betweenwhattwowhole
+numbersdoestheanswerlie?
+6.Findtheareaandperimeterofthepolygonbelow.
+0 1 2 3 4 5 6 7012345678
+Page47Page48Chapter2
+FractionsandMixedNumbers
+Fractionsareexpressionssuchas
+3
+19ormoregenerallya
+b,
+whereaandbarewholenumbers,andb/negationslash=0.Thenumbersaandbarecalledterms.Thetermontop
+iscalledthenumerator,andthetermonthebottomiscalledthedenominator.Thehorizontalline
+inthemiddleiscalledthefractionbar.Sometimestosavespace,wewritefractionsinoneline,using
+aslashinsteadofthefractionbar,puttingthenumeratorontheleftandthedenominatorontheright:
+a
+b=a/b.
+Whenreadingafractionoutloud,weattachthesuﬃxthorthstothedenominator,saying“abths”
+fora/b.
+Example40. Thefractions1
+8and6
+13arespoken“oneeighth,”and“sixthirteenths,”respectively.
+Ifthedenominatoris2or3,wesay“halves”or“thirds”(nottwothsorthreeths!),respectively.Ifthe
+denominatoris4,wesometimessay“fourths,”andsometimes,”quarters.”
+Example41. 5/2isspoken“ﬁvehalves.”4/3isspoken“fourthirds.”3/4isspoken“threefourths,”
+or“threequarters.”
+Sometimes,insteadofusingthethsuﬃx,wejustsay“aoverb.”Thus4/9canbespokenas“four
+ninths,”orjust”fourovernine.”
+2.1 Whatfractionsmean
+Fractionsrepresentpartsofawholeinapreciseway.Inthefractiona/b,thedenominatorbrepresents
+thenumberofequalpartsintowhichthewholehasbeendivided,andthenumeratorrepresentshow
+manyofthosepartsarebeingtakenintoaccount.Forexample,ifarectangleisdividedupinto3equal
+parts,and2ofthosepartsareshaded,thentheshadedportionrepresents2
+3(two-thirds)ofthewhole
+rectangle.
+49× ×× ×
+2
+3
+Wecandivideanyconvenientﬁgureintoequalparts(notjustarectangle),torepresentafraction.For
+example,thecirclebelowhasbeendividedinto5equal“wedges,”andthreeofthemareshaded.So
+thepicturerepresentsthefraction3
+5.
+Example42. Useasquaretorepresentthefraction5/16.
+Solution.Since16isaperfectsquare,it’seasytomakeasquare4unitsonaside,anddividethatinto
+16smallsquaresofequalsize.Thenweshade5ofthem(any5willdo)torepresent5/16.
+2.2 ProperandImproperFractions
+Afractioniscalledproperifitsnumeratorislessthanitsdenominator.Aproperfractionrepresents
+lessthanonewhole.Animproperfractionhasanumeratorthatisgreaterthanorequaltothe
+denominatorandrepresentsanumberthatisgreaterthan(orequalto)onewhole.
+Page50Example43. Theﬁgurebelowrepresentsthreefractionswithdenominator9:theﬁrstone(2/9)is
+proper,representinganumberlessthan1.Theothertwoareimproper.Theoneinthemiddle(9/9)
+representsthewholenumber1.Thelast(10/9)representsanumberthatisgreaterthan1.
+2
+99
+9=110
+9=1+1
+9
+9/9=1illustratesthegeneralfactthatthewholenumber1canberepresentedininﬁnitelymany
+waysasafraction–justtakeanyfractionwhosenumeratoranddenominatorareequal.Forexample,
+1=2
+2=9
+9=159
+159.
+Intuitively,ifanobjectisdividedintoequalparts,andallthepartsaretaken,then,infact,thewhole
+(1whole)hasbeentaken.
+Foranywholenumbera(except0),
+a
+a=1.
+Anywholenumbercanberepresentedasafraction.Forexample,torepresentthewholenumber
+3,wecanthinkofthreewholerectangles,each“divided”into1“part,”andwrite
+3=3
+1.
+Moregenerally,
+Foranywholenumbera(including0),
+a=a
+1.
+2.2.1 ZeroasNumeratorandDenominator
+Thewholenumber0canbewrittenasafractionininﬁnitelymanyways:
+0=0
+b,foranynon-zerob.
+Page51Itiseasytounderstandwhythisistrue:youcandividesomethingintoanynumberofequalpieces
+(say,bofthem),butifyoutakenoneofthem,youhavetakenanamountequalto0–nomatterthe
+valueofb.Thus,
+0=0
+1=0
+2=0
+3=...
+So0cancertainlybethenumeratorofafraction.Canitbethedenominator?Theanswerisno.
+Hereisonewaytothinkaboutit:doesitmakesensetodividesomethinginto0pieces?(1piece,yes,
+but0pieces?)Arelatedquestionis:Can0bethedivisorinadivisionproblem?Ifyouthinkso,then
+answerthis:howmanytimesdoes0gointo7?Thinkingbacktoouroriginaldeﬁnitionofdivisionas
+repeatedsubtraction,thequestionis“howmanytimescan0besubtractedfrom7beforewearriveata
+negativenumber?”Theansweris“asmanytimesasyoulike!,”sincesubtracting0hasnoeﬀecton7,
+oranyothernumber.Forthesereasonsweattachnomeaningtoafractionwithdenominator0,saying,
+ifitcomesup,thatitisundeﬁned.
+Foranywholenumbern,including0,thefractionn
+0isun-
+deﬁned.
+Thereisanotherreasonwhy0cannotbethedenominatorofafraction.Multiplicationanddivision
+aremutuallyinverseoperations,meaningthattheequationa
+b=cisequivalenttotheequationa=b·c
+wheneverb/negationslash=0.Supposewecouldassignanumericalvaluetothefraction1/0,say,1
+0=1.That
+wouldmeanthat1=0·1.Butofcourse,0·1=0,sowearriveat1=0,anobviouscontradiction.
+2.2.2 Exercises
+1.Whatimproperfractiondoesthefollowingpicturerepresent?
++ +
+Userectangles,circles,orsquarestorepresentthefollowingfractions.
+2.3
+2
+3.3
+4
+4.5
+8
+5.11
+6
+6.4
+3
+7.6
+2
+8.Writeﬁvefractionswhichareequalto1.
+Page529.Writeﬁvefractionswhichareequalto0.
+10.Write15asafraction.
+2.3 MixedNumbers
+Wehaveseenthatanimproperfractionrepresentseitherawholenumberorawholenumberplusa
+properfraction.Inthelatterform,itiscalledamixednumber.Eventhoughitisasum,the+sign
+isomitted.Thus
+31
+2
+represents3“wholes”plusanextra1
+2.
+2.3.1 Convertinganimproperfractionintoamixedorwholenumber
+Supposewehaveanimproperfraction
+numerator
+denominator.
+Toconvertthistoamixednumber,wesimplyperformthedivision
+numerator÷denominator,
+obtainingaquotientandaremainder.Thenweusethesetobuildthemixednumberasfollows:the
+quotientisthewholenumberpart;theremainderoverthedivisoristhefractionalpart.Notethatthe
+fractionalpartobtainedinthiswayisalwaysproper,becausetheremainderisalwayssmallerthanthe
+divisor.Summarizing:
+numerator
+denominator=quotientremainder
+divisor
+Example44. Writetheimproperfraction13/3asamixednumber.
+Solution.Dividing13by3yieldsaquotientof4andaremainderof1.Thecorrespondingmixednumber
+haswholenumberpart4andfractionalpart1/3.Thus
+13
+3=41
+3.
+Iftheremainderis0,themixednumberisactuallyjustawholenumber.
+Example45. Writetheimproperfraction84/7asamixednumber.
+Page53Solution.Dividing84by7yieldsaquotientof12andaremainderof0.Thus
+84
+7=120
+7=12,
+awholenumber.
+Herearesomeeverydayusesofmixednumbers.
+Example46. Fivehikerswanttosharesevenchocolatebarsfairly.Howmanybarsdoeseachhiker
+get?
+Solution.Forfairness,eachoftheﬁvehikersshouldgetthesameamount:exactlyoneﬁfthofthe
+chocolate.Therearesevenbars,sotheamount(inchocolatebars)thateachhikershouldgetis
+7
+5=12
+5.
+Eachhikergets12
+5chocolatebars.
+Example47. Julissawaited5minutesforthetrainonMonday,2minutesonTuesday,andthen4,8,
+and3minutesonWednesday,Thursday,andFriday,respectively.Whatwasheraveragewaittimefor
+theweek?
+Solution.Recallthattheaverageofasetofnumbersistheirsum,dividedbythenumberofnumbers.
+Inthiscase,wewanttheaverageoftheﬁvenumbers{5,2,4,8,3},whichis
+5+2+4+8+3
+5=22
+5=42
+5.
+Heraveragewaittimewas42
+5minutes.(Extracredit:howlongistwoﬁfthsofaminute,inseconds?)
+2.3.2 Exercises
+Convertthefollowingimproperfractionsintomixednumbers:
+1.19
+3
+2.11
+2
+3.135
+5
+4.99
+98
+5.77
+5
+Usemixednumberstoanswerthefollowingquestions:
+6.Threeboyssharefoursandwichesfairly.Howmanysandwichesdoeseachboyget?
+7.Whatistheaverageofthesetofnumbers{11,14,9,12}?
+8.DuringtheﬁrstsevendaysofJanuary,Billtravels31,37,46,31,77,50and40milesrespectively.
+Whatishisaveragedailytraveldistance?
+Page542.3.3 Convertingamixedorwholenumbertoanimproperfraction
+Sometimesweneedtochangeamixednumberbackintoanimproperfraction.Thekeyfact,again,is
+thatthefractiona
+a
+isalwaysequalto1,foranynumberaexcept0.Forexample,
+3
+3=1.
+Example48. Convertthemixednumber21
+3toanimproperfraction,usingthefactthat3
+3=1.
+Solution.Thinkofthewholenumber2inthefollowingway:
+2=1+1=3
+3+3
+3.
+Itfollowsthatthemixednumber21
+3canbewritten
+3
+3+3
+3+1
+3.
+Theﬁgurebelowshouldmakeitclearthatthissumisequaltotheimproperfraction7
+3.
+1=3
+3+
+1=3
+3+
+1
+3=7
+3
+(Theﬁgurealsodemonstratesthatfractionswiththesamedenominatoradduptoanewfraction,with
+thesamedenominator,andanumeratorwhichisthesumofalltheoldnumerators.We’llsaymore
+aboutaddingfractionslater.)
+Theprocedureinthepreviousexampleiseasilyturnedintoageneralformula.
+ThemixednumberNp
+qisequaltotheimproperfractionN·q+p
+q.
+Remembertofollowtheorderofoperations(multiplicationbeforeaddition)whenevaluatingN·q+p.
+Example49. Convertthemixednumber82
+3intoanimproperfraction,usingtheboxedrule.
+Page55Solution.
+82
+3=8·3+2
+3=24+2
+3=26
+3.
+Example50. Writethewholenumber8asanimproperfractioninthreediﬀerentways.
+Solution.Wecanthinkofthewholenumber8asthe“mixed”number80
+qforanynonzeroq.Bythe
+boxedrule,
+8=8·q+0
+q=8·q
+q.
+Pickingthreenonzeronumbersforq,say,2,5and10,weget
+8=8·2
+2=16
+2, 8=8·5
+5=40
+5, and8=8·10
+10=80
+10.
+2.3.4 Exercises
+Convertthemixednumbersintoimproperfractions:
+1.11
+2
+2.81
+3
+3.153
+8
+4.53
+4
+5.115
+6
+UsingN=N·q
+qforanynonzeroq,writethreefractionsequaltoeachgivenwholenumber:
+6.5
+7.11
+8.10
+Page562.4 MultiplicationofFractions
+Fractionsarenumbersintheirownright,andwewillrecallhowtoadd,subtract,multiplyanddivide
+them.Webeginwithmultiplication,sinceitisoneoftheeasiestoperationstoperform.
+Weunderstandwhatitmeanstotake,let’ssay,athirdofsomething:divideitintothreepieces,
+andtakeoneofthepieces.Similarly,totakethree-fourthsofsomething,divideitintofourpieces,and
+takethreeofthem.Whatifthe“something”isitselfafraction?Forexample,whatisthreefourthsof
+2
+3?Itissomefraction,butwhichone?
+We’lltrytomakesenseofthisquestionbyrepresentingfractionsasshadedportionsofrectangles.
+Representthefraction2
+3usingarectangledividedinto3equalverticalparts,with2ofthemshaded.
+Dividethesamerectangleinto4equalhorizontalparts,andshade3ofthem(usingadiﬀerentshading).
+Thedouble-shadedportionrepresentsthedesiredfraction,3
+4of2
+3.Bycounting,youcanseethatit
+consistsof6outof12smallerrectangles.
+× ×× ×
+× ×× ×× ×
+2
+33
+4
+Thepicturesshowthat3
+4of2
+3isthefraction6
+12.
+Example51. Whatisonehalfofonethird?
+Solution.Startwitharectangledividedinto3equalverticalparts,andshadeoneoftheparts,to
+representthefraction1/3.Thendividethewholerectanglehorizontallyinto2equalparts,andshade
+oneofthehorizontalpartsusingadiﬀerentshading.Therectangleisnowcutinto2·3=6equalparts,
+andthetwoshadingsoverlapinprecisely1ofthe6parts.
+× ×× ×
+× ×× ×× ×
+1
+31
+2·1
+3=1
+61
+2
+Thus1
+2of1
+3isthefraction1
+6.
+Thetwoexamplesillustrateasimpleruleforﬁndinga“fractionofafraction,”ora
+bofc
+d.Thenew
+denominatoristheproductofthedenominatorsofthetwooriginalfractions,sincedividingarectangle
+intobverticalpartsandalsodhorizontalpartsresultsinb·dsmallerrectangularparts.Eachofthe
+Page57ashadedverticalrectanglesisdividedintodpartsofwhichcarediﬀerentlyshaded.Hencethereare
+a·cdoublyshadedsmallerrectangles,sothata·cisthenewnumerator.Theruleis
+a
+bofc
+d=a·c
+b·d.
+Weusethisruletodeﬁnemultiplicationoffractions,replacing“of”bythemultiplicationsymbol·(or
+×):
+a
+b·c
+d=a·c
+b·d
+Inwords:Theproductoftwofractionsistheproductofthenumeratorsovertheproductofthe
+denominators.
+Example52. Findtheproduct3
+8·5
+7.
+Solution.Usingtheboxedrule,
+3
+8·5
+7=3·5
+8·7=15
+56.
+Itiseasytoseethatfractionmultiplicationisjustanexpandedversionofwholenumbermultipli-
+cation,sinceeverywholenumberisafractionwithdenominator1.Thustheboxedruleapplieswhen
+one(orboth!)ofthemultiplicandsisawholenumber.
+Example53. Whatistwothirdsofﬁve?Thatis,ﬁndtheproduct2
+3·5.
+Solution.Writing5asthefraction5/1andusingthefractionmultiplicationrule,weget
+2
+3·5
+1=2·5
+3·1=10
+3.
+Example54. Onethirdofatwelve-memberjuryarewomen.Howmanywomenareonthejury?
+Solution.Onethirdoftwelveequals1
+3·12
+1=12
+3=4.Therearefourwomenonthejury.
+Youmayhavenoticedthatinourveryﬁrstexamplewithrectangles,
+3
+4·2
+3=6
+12,
+exactlyhalfoftherectangleendsupdoubly-shaded(6ishalfof12).Soitiscorrect(andsimpler)to
+saythat
+3
+4·2
+3=1
+2.
+Doesthiscontradictourrule?No,because1/2and6/12representthesamenumber.We’llexplain
+this,andexaminesomeothertechnicaldetailsregardingtherepresentationoffractions,inthenext
+sections.Thenwe’llcontinuewiththearithmetic(division,addition,subtraction)offractions.
+Page582.4.1 Exercises
+Findthefollowingproducts.(Justusethefractionproductrule–noneedtodrawrectangles.)
+1.1
+3·5
+7
+2. Onehalfofonehalf
+3. Twothirdsofonethird
+4.3
+4·3
+4
+5. 3·5
+8
+6./parenleftbigg2
+3/parenrightbigg2
+7.1
+2·7
+8·3
+2.5 EquivalentFractions
+Fractionswhichlookverydiﬀerentcanrepresentthesamenumber.Forexample,thefractions
+2
+4,5
+10,6
+12,and50
+100
+allrepresentthenumber1
+2.Whatpropertydoallthesefractionsshare?Eachhasadenominatorthat
+isexactlytwiceitsnumerator;thesimplestfractionwiththispropertyis1
+2.
+Fractionswhichrepresentthesamenumberarecalledequivalent,andweusetheequalsignto
+indicatethis.Thus,forexample,
+1
+2=50
+100.
+Thereisaneasywaytotellwhentwofractionsareequivalent.Wegiveitherebecauseitissosimple
+andpleasing,butwepostponetheexplanationuntilwediscussproportions.
+a
+b=c
+dif(andonlyif)a·d=b·c.
+Inwords:twofractionsareequivalentif(andonlyif)theircross-productsareequal.Across-productis
+theproductofthenumeratorofonefractionandthedenominatoroftheother.
+Startingwithagivenfraction,wecangenerateequivalentfractionseasily,usingthefactthat1is
+themultiplicativeidentity,andthat
+1=c
+c
+foranynon-zeroc.Thena
+b=a
+b·1=a
+b·c
+c,
+andsowehave
+Page59TheFundamentalPropertyofFractions:
+Ifwemultiplyboththenumeratoranddenominatorofafractionbyanynonzero
+c,thenthenewfractionisequivalenttotheoriginalone,andrepresentsthesame
+number:a
+b=a·c
+b·c.
+Example55. Writetwofractionsequivalentto2
+3.
+Solution.Weusethefactthat2
+3=2·c
+3·c
+foranynonzeroc.Pickingtwovaluesforc,say,6and7,wegettwofractionsequivalentto2/3:
+2
+3=2·6
+3·6=12
+18and2
+3=2·7
+3·7=14
+21.
+Ofcourse,otherchoicesofcwouldhaveproducedotherfractionsequivalentto2/3.
+2.5.1 CancellationandLowestTerms
+Theboxedruleaboveproducesequivalentfractionswithhigher(larger)terms.Itissometimespossible
+togotheotherway,producinglower(smaller)terms.Ifbothnumeratoranddenominatorhavea
+commonfactor–awholenumbergreaterthan1whichdividesthembothwithzeroremainder–we
+can“cancel”itbydivision.Thetwoquotientsbecomethetermsofanequivalentfractionwithlower
+terms.Forexample,thenumeratoranddenominatorof18
+24havethecommonfactor6.Thus
+18
+24=18÷6
+24÷6=3
+4.
+Ingeneral,
+Foranynon-zeroc,
+a
+b=a÷c
+b÷c.
+Thismethodofobtaininglowertermsiscalledcancellationorcancellingout.Itisoftenindicatedas
+follows:
+18
+24=>3
+18
+>4
+24=3
+4.
+Thisisusefulshort-hand,butithasonedisadvantage:thecommonfactor(6,inthiscase)isnotmade
+visible.Toensureaccuracy,youcanshowthecommonfactorexplicitly,beforecancellingit.Thus,
+explicitly,
+18
+24=3·6
+4·6=3·6
+4·6=3
+4.
+Page60Example56. Findlowertermsforthefraction28
+70.
+Solution.Since7isacommonfactorofthenumeratoranddenominator,itcanbecancelled,yielding
+>4
+28
+>10
+70=4
+10(cancelling7).
+Stilllowertermsarepossible,since4and10havethecommonfactor2:
+>24
+>5
+10=2
+5(cancelling2).
+Iftheonlycommonfactorofthenumeratoranddenominatoris1,thennofurtherreductionis
+possible,andthefractionissaidtobeinlowestterms.Forexample,2and5havenocommonfactor
+otherthan1,sothefraction2
+5,andalsotheimproper5
+2,areinlowestterms.
+Example57. Reducethefraction24
+36tolowestterms.
+Solution.Acommonfactorofthenumeratoranddenominatoris4,sowecanreducethetermsas
+follows:
+24
+36=>6
+24
+>9
+36=6
+9(cancelling4);
+6and9havethecommonfactor3,sowecanfurtherreduce
+6
+9=2
+6
+3
+9=2
+3(cancelling3).
+Itisclearthat2
+3isinlowestterms,since2and3havenocommonfactorotherthan1.
+Notethatthisreductiontolowesttermscouldhavebeenaccomplishedinonestep,hadwerealized,
+attheoutset,thatboth24and36aredivisibleby12:
+24
+36=>2
+24
+>3
+36=2
+3(cancelling12).
+Example58. Reducethefraction13
+39tolowestterms.
+Solution.Acommonfactorofthenumeratoranddenominatoris13,sothat
+13
+39=1·13
+3·13=1
+3.
+Example59. Reducethefraction15
+3tolowestterms.
+Solution.15
+3=5
+1=5.
+Page612.5.2 Exercises
+Usingtherulea
+b=a·c
+b·cforanynonzeroc,writefourfractionsequivalenttoeachgivenfraction:
+1.1
+4
+2.3
+4
+3.1
+5
+4.2
+5
+5.1
+8
+6.5
+8
+Usingcancellation,reduceeachfractiontolowestterms.Convertimproperfractionstomixednumbers.
+7.12
+8
+8.12
+18
+9.20
+45
+10.84
+60
+11.54
+108
+12.360
+120
+2.6 PrimeFactorizationandtheGCF
+Reducingafractiontolowesttermsrequiresrecognizingacommonfactor(greaterthan1)ofthe
+numeratoranddenominator.Doingitinonesteprequiresﬁndingandusingthelargestorgreatest
+commonfactor.Inthissection,wedevelopasystematicwayofﬁndingthegreatestcommonfactor
+(GCF)ofasetofnumbers.
+Awholenumbergreaterthan1isprimeifithasnofactorsotherthanitselfand1.Theﬁrstfew
+primenumbersare
+2,3,5,7,11,13,17,19,23,29,31,....
+Thedotsindicatethatthereareinﬁnitelymanylargerprimes.(Thisfactisnotobviousbutwasproved
+morethantwothousandyearsagobyEuclid.)Thewholenumbersgreaterthan1whicharenotprime
+Page62arecalledcomposite.(Notethat1isaspecialcaseaccordingtothesedeﬁnitions:itisneitherprime
+norcomposite!)Theﬁrstfewcompositenumbersare
+4,6,8,9,10,12,14,15,16,18,20,21,22,24,25,26,27,28,30,...
+Howdoweknowthatthesenumbersarecomposite?Becauseeachhasatleastonefactor,otherthan
+1anditself.Forexample,15hasfactors3and5,thatis,15=3·5.
+Everycompositewholenumberhasauniqueprimefactorization,whichisitsexpressionasthe
+productofitsprimefactors,listedinorderofincreasingsize.Forexample:
+4=2·2 =22
+6=2·3
+8=2·2·2 =23
+9=3·3 =32
+10=2·5
+12=2·2·3 =22·3
+14=2·7
+15=3·5
+16=2·2·2·2 =24
+(2.1)
+Toﬁndprimefactorizations,weuserepeateddivisionwithprimedivisors.Startbytestingthe
+numberfordivisibilitybythesmallestprime,2(anumberisdivisibleby2ifitsﬁnaldigitiseven:
+0,2,4,6or8).Ifitisdivisibleby2,wedivideby2asmanytimesaspossible,untilwearriveata
+quotientwhichisnolongerdivisibleby2.Wethenrepeattheprocedure,startingwiththelastquotient
+obtained,andusingthenextlargerprime,3(anumberisdivisibleby3ifthesumofitsdigitsisdivisible
+by3–didyouknowthat?).Repeatingagain(ifnecessary)withthenextlargerprime,weeventually
+arriveataquotientwhichisitselfaprimenumber.Atthatpoint,wearealmostﬁnished.Wecollect
+alltheprimesthatwereusedasdivisors(ifthesameprimehasbeenusedmorethanonce,itshouldbe
+collectedasmanytimes),togetherwiththeﬁnal(prime)quotient.Theproductofallthesenumbersis
+theprimefactorization.
+Example60. Findtheprimefactorizationof300.
+Solution.300,beingeven,isdivisibleby2,sowestartbydividingby2.Thestepsareasfollows:
+300÷2=150;
+150÷2=75; 75isnotdivisibleby2;moveonto3
+75÷3=25; 25isnotdivisibleby3;moveonto5
+25÷5=5; 5isaprimenumber;stop.
+Theprimesthatwereusedasdivisorswere2,2,3,5.Notethat2wasusedtwice,soitislistedtwice.
+Theﬁnalprimequotientis5.Theprimefactorizationistheproductofallthoseprimedivisorsandthe
+ﬁnalprimequotient:
+300=2·2·3·5·5or22·3·52.
+Wecaneasilycheckourworkbymultiplyingtheprimefactorsandverifyingthattheproductobtained
+istheoriginalnumber.
+Page632.6.1 Exercises
+Findtheprimefactorizationsofthefollowingnumbers.Checktheresultsbymultiplication.
+1.60
+2.48
+3.81
+4.360
+5.85
+6.154
+7.Whichofthenumbersaboveisdivisibleby3?
+2.6.2 FindingtheGCF
+Usingprimefactorizations,itiseasytoﬁndthegreatestcommonfactorofasetofnumbers.
+Example61. Findthegreatestcommonfactor(GCF)ofthetwo-numberset{a,b},whereaandb
+havethefollowingprimefactorizations.
+a=24·32·7 andb=2·34·11.
+Solution.First,lookforthecommonprimefactorsofaandb:theyare2and3.Notethat7and11
+arenotcommon,andthereforecannotbefactorsoftheGCF.Nowlookatthepowers(exponents)on
+2and3.Asmallpowerofanyprimeisafactorofanylargerpowerofthesameprime.Thesmallest
+powerof2thatappearsis2=21(inthefactorizationofb),andthesmallestpowerof3thatappears
+is32(inthefactorizationofa).ItfollowsthattheGCFistheproductofthetwosmallestpowersof2
+and3.Thus
+GCF{a,b}=21·32=18.
+Noticethattheactualvaluesofaandb(whichwecouldhavedeterminedbymultiplication)werenot
+used–onlytheirprimefactorizations.
+Hereisasummaryoftheprocedure:
+ToﬁndtheGCFofasetofnumbers:
+1.ﬁndtheprimefactorizationofeachnumber;
+2.determinetheprimefactorscommontoallthenumbers;
+3.iftherearenocommonprimefactors,theGCFis1;otherwise
+4.foreachcommonprimefactor,ﬁndthesmallestexponentthatappearson
+it;
+5.theGCFistheproductofthecommonprimefactorswiththeexponents
+foundinstep4.
+Page64Example62. (a)FindtheGCFoftheset{60,135,150}.(b)FindtheGCFofthesubset{60,150}.
+Solution.(a)Followingtheboxedprocedure:
+1.theprimefactorizationsare
+60=2·2·3·5=22·3·5
+135=3·3·3·5=33·5
+150=2·3·5·5=2·3·52
+2.thecommonprimefactorsare3and5;
+3.(doesnotapplytothisexample);
+4.thesmallestexponenton3is1(inthefactorizationsof60and150);thesmallestexponenton5
+isalso1(inthefactorizationsof60and135);
+5.theGCFis31·51=15.
+(b)Forthetwo-numbersubset{60,150},thecommonprimefactorsare2,3and5.Thesmallest
+exponentonallthreefactorsis1.SotheGCFis21·31·51=30.
+CanyouexplainwhytheGCFinpart(b)isbiggerthaninpart(a)?
+2.6.3 Exercises
+FindtheGCFofeachofthefollowingsetsofnumbers:
+1.{72,48}
+2.{72,48,36}
+3.{72,36}
+4.{48,36}
+5.{36,15}
+6.{36,14}
+7.{15,14}
+2.6.4 CancellingtheGCFforlowestterms
+KnowingthattheGCFof{60,150}=30allowsustoreducethefraction60
+150tolowesttermsinone
+step:wesimplycancelitout.Thus,
+60
+150=*260
+*5150=2
+5(cancellingtheGCF,30).
+Recallthatthisisshort-handfor60÷30
+150÷30=2
+5.
+Page65Example63. Reduce168
+252tolowesttermsbyﬁndingandcancellingtheGCF.
+Solution.Theprimefactorizationsofthenumeratoranddenominatorare
+168=23·3·7
+252=22·32·7.
+Thesmallestexponenton2is2,andthesmallestexponentson3and7are1;itfollowsthattheGCF
+is22·3·7=84.CancellingtheGCFyieldslowestterms:
+168
+252=*2168
+*3252=2
+3(cancellingtheGCF,84).
+2.6.5 Exercises
+ReduceeachfractiontolowesttermsbyﬁndingandcancellingtheGCFofthenumeratoranddenomi-
+nator.Convertimproperfractionstomixednumbers.
+1.36
+72
+2.48
+36
+3.14
+48
+4.36
+14
+5.14
+15
+6.72
+84
+7.48
+180
+8.96
+56
+9.105
+147
+10.300
+360
+Page662.7 Pre-cancellingwhenMultiplyingFractions
+Inthefractionproduct
+21
+5·15
+14,
+wecouldsimplyfollowtherulethattheproductoffractionsistheproductofthenumeratorsoverthe
+productofthedenominators,
+21·15
+5·14,
+calculatetheproductsinthenumeratoranddenominatorand,ﬁnally,reducetheresultingfractionto
+lowesttermsbycancellingouttheGCF.Butthere’sashort-cut:Sincemultiplicationiscommutative,
+wecanreversetheorderofmultiplicationinthenumerator,obtaining
+15·21
+5·14=15
+5·21
+14.
+Thefractionsontheright-handsideareeasilyreducedtolowesttermsbycancellingtheobviousGCFs
+(5and7,respectively)
+>3
+15
+>15·>3
+21
+>2
+14,
+leavingasimplerproduct
+3
+1·3
+2=9
+2,
+whichhasthefurtheradvantagethatthesolution,9
+2,isalreadyinlowestterms.Thetrickofcancelling
+beforemultiplying–pre-cancellation–savesusfrombiggernumbers,
+21
+5·15
+14=315
+70,
+andtheextraworkofﬁndingtheGCF{315,70}=35forcancellation:
+*9315
+*270=9
+2(cancelling35),
+Thegeneralruleisthis:
+Inaproductoffractions,afactorwhichiscommontoone
+ofthenumeratorsandoneofthedenominatorscanbecan-
+celledbeforemultiplying.Thenumeratoranddenominator
+neednotbelongtothesamefraction.
+Noticethatpre-cancellationworkswithanynumberoffactors.
+Example64. Findtheproduct
+3
+4·8
+5·10
+9.
+Page67Solution.Thenumeratoroftheﬁrstfraction(3)hasacommonfactorwiththedenominatorofthe
+thirdfraction(9),sotheproductisequalto
+>13
+4·8
+5·10
+>39=1
+4·8
+5·10
+3.
+Continuingon,thenumeratorofthesecondfraction(8)hasacommonfactorwiththedenominatorof
+theﬁrstfraction(4),sotheproductisequalto
+1
+>14·>28
+5·10
+3=1·2
+5·10
+3.
+Finally,thenumeratorofthethirdfraction(10)hasacommonfactorwiththedenominatorofthe
+secondfraction(5),so(omittingthefactor1)theproductisequalto
+2
+>15·>2
+10
+3=2
+1·2
+3.
+Nofurthercancellationispossible.Theﬁnalanswerisnowasimpleproduct
+2
+1·2
+3=4
+3=11
+3,
+whichisalreadyinlowestterms.Thesecancellationscouldhavebeendoneinadiﬀerentorder,or
+(carefully)allatonce.
+Mixednumbersaremultipliedbysimplyconvertingthemintoimproperfractions.
+Example65. Findtheproduct23
+8·11
+4·22
+3.Expresstheresultasamixednumber.
+Solution.Rewritingeachmixednumberasanimproperfraction,wehavetheproduct
+19
+8·5
+4·8
+3.
+Cancelling8’s,wehave
+19·5
+4·3=85
+12=71
+12.
+Example66. Agastankwitha131
+2-galloncapacityisonlyonethirdfull.Howmuchgasisinthe
+tank?
+Solution.Weneedtoﬁndtheproduct1
+3·131
+2.Converting131
+2totheimproperfraction27
+2,wehave
+1
+3·131
+2=1
+3·27
+2.
+Cancellingthecommonfactor3,
+1
+1
+3·>9
+27
+2=9
+2.
+Converting9
+2toamixednumber,weconcludethatthetankcontains41
+2gallonsofgas.
+Page682.7.1 Exercises
+Findtheproducts,usingpre-cancellationwherepossible.Checkthattheanswersareinlowestterms.
+Expressanyimproperfractionsasmixednumbers.
+1.4
+5·7
+12
+2.32
+45·9
+16·15
+6
+3.12·5
+8·2
+3
+4.9
+22·21
+12·24
+7
+5.2
+3of24.
+6.3
+4of2
+3of50.
+7.22
+3·13
+4.
+Usemultiplicationtoanswerthefollowingquestions.
+8.Whatistheareaofarectanglewithlength21
+2feetandwidth23
+10feet?
+9.A121
+2-gallonﬁshtankisonlythree-ﬁfthsfull.Howmanygallonsofwatermustbeaddedtoﬁllit
+up?
+10.22
+3cupsofbeansareneededtomake4bowlsofchili.Howmanycupsareneededtomake8bowls?
+1bowl?3bowls?
+2.8 AddingandSubtractingFractions
+IfIeatathirdofapizzaforlunch,andanotherthirdfordinner,thenIhaveeatentwothirdsintotal.
+Thatis,
+1
+3+1
+3=2
+3.
+Similarlogicapplieswheneverweaddtwo(ormore)fractionswiththesamedenominator–wesimply
+addthenumerators,whilekeepingthedenominatorﬁxed:
+a
+c+b
+c=a+b
+c.
+Averysimilarruleholdsforsubtractionoffractionswiththesamedenominator:
+Page69a
+c−b
+c=a−b
+c.
+Fractionswiththesamedenominatorarecalledlikefractions.
+Example67. Herearethreeexamplesinvolvingadditionorsubtractionoflikefractions:
+1
+5+2
+5=1+2
+5=3
+5
+13
+7−2
+7=13−2
+7=11
+7=14
+7
+7
+8−5
+8=7−5
+8=2
+8=1
+4.
+Noticethatwereducedtolowesttermswherenecessary,andchangedimproperfractionstomixed
+numbers.
+2.8.1 Exercises
+Addorsubtractthelikefractionsasindicated.Reducetheﬁnalanswerstolowesttermsifnecessary.
+Changeimproperfractionstomixednumbers.
+1.1
+5+3
+5=
+2.7
+5+13
+5=
+3.11
+15+13
+15+8
+15=
+4.20
+51−3
+51=
+5.5
+13−4
+13=
+6.11
+25+9
+25−3
+25=
+7.109
+7−11
+7=
+8.13
+2−1
+2=
+9.10
+7+6
+7−11
+7=
+10.11
+25−2
+25+8
+25=
+Page702.8.2 AddingandSubtractingUnlikeFractions
+Hereistheruleforaddinganytwofractions,likeorunlike:
+a
+b+c
+d=ad+bc
+bd
+Comparedtotheruleformultiplyingfractions(Section2.4),itlooksabitstrange.Butitiseasily
+proved,using(yetagain)thefactthat1=b/band1=d/d,foranynonzerobord.
+a
+b+c
+d=a
+b·d
+d+c
+d·b
+b
+=ad
+bd+bc
+bd
+=ad+bc
+bd
+Example68. Add2
+5+3
+7.
+Solution.Usingtheboxedrule,
+2
+5+3
+7=2·7+5·3
+5·7=14+15
+35=19
+35.
+Example69. Add15
+16+19
+24.
+Solution.Usingtheboxedrule,
+15
+16+19
+24=15·24+16·19
+16·24=664
+384.
+CancellingtheGCF,8,weobtainthesuminlowestterms,83
+48.
+Theruleworksforlikefractionstoo:
+Example70. Usetheboxedruletoshowthat4
+5+3
+5=7
+5.
+Solution.
+4
+5+3
+5=20+15
+25=35
+25=7
+5.
+Notethatanextrafactorof5wasintroduced,andthencancelledattheend.(Aneedlesscomplication!)
+Page71Adisadvantageoftheboxedisthatitproducesafractionwhichmaybefarfromlowestterms.
+Anotherdisadvantageisthatitdoesn’textendeasilytosumsofmorethantwofractions.Toremedy
+these,wedevelopamethod,somewhatanalogoustopre-cancellationinmultiplication,whichproduces
+thesumofanysetoffractionsinaformwhichisascloseaspossibletolowestterms.Theideaisto
+replaceeachfractionbyanequivalentfraction,eachhavingthesame(common)denominator,whichis
+assmallaspossible.
+Example71. Findthesum:
+2
+3+1
+5.
+Solution.Observethat2
+3=2·5
+3·5=10
+15and1
+5=1·3
+5·3=3
+15.
+Itfollowsthat2
+3+1
+5=10
+15+3
+15.
+Nowwehavelikefractions,andso
+10
+15+3
+15=10+3
+15=13
+15.
+Sinceequivalentfractionsrepresentthesamenumber,weconcludethat
+2
+3+1
+5=13
+15.
+Why(andhow)didwechoose15asthecommondenominator?Andhowdoweknowitisthe
+smallestcommondenominatorwecouldhaveused?Wecouldhavechosenanynumberthatisamultiple
+ofboth3and5(thetwooriginaldenominatorsintheexample).Themultiplesof3are
+3,6,9,12,15,18,21,etc.,
+andthemultiplesof5are
+5,10,15,20,25,30,etc.,
+anditiseasytoseethatthesmallestnumberthatisamultipleofboth–theleastcommonmultiple–
+is15.
+2.8.3 TheLCM
+Themethodoflistingsmallmultiplesisoftenthesimplestwaytoﬁndtheleastcommonmultiple,or
+LCM,ofasetofwholenumbers.
+Example72. FindtheLCM{6,10,15}.
+Solution.Themultiplesof6are
+6,12,18,24,30,36,...,
+themultiplesof10are
+10,20,30,40,...,
+andthemultiplesof15are
+15,30,45,....
+Itisevidentthatthesmallestnumberwhichisamultipleofallthreenumbersis30.
+Page72TheLCMcanalsobefoundusingprimefactorizations.Thisisusefulwhenthenumbersarerather
+large.
+Example73. FindtheLCMofthetwo-numberset{a,b},whereaandbhavethefollowingprime
+factorizations.
+a=24·32·7 andb=2·34·11.
+Solution.TheLCMmustbeamultipleofbothnumbers,sothatitmustbedivisiblebythehighest
+powerofeveryprimefactorthatappearsinanyoneofthefactorizations.Theprimefactorsofaandb
+are2,3,7and11.Thehighestpowersthatappearare
+24,34,71,111.
+TheLCMistheproductofthesepowers:
+LCM{a,b}=24·34·7·11.
+Thisisaratherlargenumber,butitisthesmallestwhichisamultipleofbothaandb.Noticethatthe
+actualvaluesofaandb,andtheirLCM(whichwecouldcalculatebymultiplication)werenotneeded
+–onlytheirprimefactorizations.
+Hereisasummaryoftheprocedure:
+ToﬁndtheLCMofasetofnumbers:
+1.ﬁndtheprimefactorizationofeachnumber;
+2.foreachprimefactor,ﬁndthelargestexponentthatappearsonitinanyof
+thefactorizations;
+3.theLCMistheproductoftheprimefactorswiththeexponentsfoundin
+step2.
+ComparethisprocedurewiththeprocedureforﬁndingtheGCFofasetofnumbers.Therearesimilarities
+andsigniﬁcantdiﬀerences.
+2.8.4 Exercises
+FindtheLCMofthefollowingsetsofnumbers.Usetheprimefactorizationmethodforlargernumbers.
+1.LCM{25,10}
+2.LCM{48,60}
+3.LCM{10,15,25}
+4.LCM{8,12}
+5.LCM{9,6,12}
+6.LCM{60,168}
+Page737.LCM{51,34,17}
+8.LCM{15,12}
+9.LCM{18,8}
+10.LCM{3,4,5}
+11.LCM{4,14}
+12.LCM{2,5,9}
+13.LCM{32·52·11,34·72}
+2.8.5 TheLCD
+Toaddunlikefractionssothatthesumisinlowestterms,weusetheLCMoftheirdenominators.
+Thisissuchafrequentoperationwithfractionsthatithasitsownname:theLCDorLeastCommon
+Denominator.
+Example74. FindtheLCDofthefractions
+1
+8,3
+10,and1
+18.
+Solution.TheLCDofthefractionsistheLCMoftheirdenominators,
+LCM{8,10,18}.
+Lookingattheprimefactorizations
+8=23, 10=2·5, 18=2·32,
+andtakingthehighestpowerofeachprimethatoccurs,weseethattheLCMis
+23·32·5=360.
+ThisisLCDofthefractions.
+Example75. Findthesumoftheunlikefractions1
+8+3
+10+1
+18.
+Solution.TheLCDistheLCMfromthepreviousexample:360.Nowweobservethat
+360 = 8·45 = 10·36 = 18·20.
+Thus1
+8=1·45
+8·45,3
+10=3·36
+10·36and1
+18=1·20
+18·20.
+Itfollowsthat
+1
+8+3
+10+1
+18=1·45
+8·45+3·36
+10·36+1·20
+18·20(2.2)
+=45+108+20
+360
+=173
+360.
+Sincethe173isnotdivisibleby2,3,or5,thefractionisinlowestterms.
+Page74Practicallythesamemethodworksforsubtractingunlikefractions.
+Example76. Findthediﬀerence14
+25−2
+10,usingtheLCD.Reducetolowestterms,ifnecessary.
+Solution.TheLCDisLCM{25,10}=50.Now50=25·2=10·5.So
+14
+25=14·2
+25·2=28
+50, and2
+10=2·5
+10·5=10
+50.
+Thus,thediﬀerenceofthetwofractionsis
+28
+50−10
+50=28−10
+50=18
+50.
+Thelatterfractionisnotinlowestterms,sincetheGCFof18and50is2.CancellingtheGCF,weget
+18
+50=>9
+18
+>25
+50=9
+25.
+Example77. Subtract1
+3−1
+4,andreducetolowesttermsifnecessary.
+Solution.TheLCDis12.Changingbothfractionstoequivalentfractionswithdenominator12,weget
+1
+3=1·4
+3·4=4
+12and1
+4=1·3
+4·3=3
+12.
+Thus,
+1
+3−1
+4=4
+12−3
+12=4−3
+12=1
+12.
+Thelatterfractionisalreadyinlowestterms,sowearedone.
+Example78. Findthesum4
+5+3
+4,reducetolowestterms,andexpresstheanswerasamixednumber.
+Solution.TheLCD{4,5}=20,sothat
+4
+5+3
+4=4·4
+5·4+3·5
+4·5=16
+20+15
+20=31
+20=111
+20.
+2.8.6 Exercises
+Addorsubtractthefollowingfractionsasindicated,reducetolowesttermsifnecessary,andchange
+improperfractionstomixednumbers.
+1.1
+5+3
+6
+2.7
+5+13
+3
+3.15
+1+2
+3
+Page754.1
+5+0
+2
+5.2
+3+3
+4+4
+5
+6.11
+15+13
+25
+7.17
+51−3
+50
+8.5
+3−4
+13
+9.11
+5−2
+25
+10.11
+7−11
+17
+11.3
+2−1
+12
+12.6
+7−11
+17
+13.11
+20−2
+25
+2.9 ComparisonofFractions
+Whentwofractionshavethesamedenominator,itisclearthatthelargerfractionistheonewiththe
+largernumerator.Thissuggestsasimplewaytocompareanysetoffractions:replaceeachfractionby
+anequivalentfractionhavingtheLCD.Thenthelargestfractionistheonewiththelargestnumerator,
+thesecond-largestistheonewiththesecond-largestnumerator,etc.
+Example79. Whichislarger,2
+3or3
+4?
+Solution.TheLCDis12,
+2
+3=8
+12, and3
+4=9
+12.
+Thelargerofthetwofractionswithdenominator12istheonewiththelargernumerator,9
+12.Itfollows
+that3
+4islargerthan2
+3.
+Theinequalitysymbols<(lessthan)and>(greaterthan)areusedtostatesizecomparisons
+betweennumbers.Forexample,theinequalities
+1
+2<1, 21
+3>2
+statethat1
+2islessthan1,andthat21
+3isgreaterthan2.Visualizingthenumberlineyieldsagoodrule
+ofthumb:
+Page76“LeftisLess”
+M<N if MisleftofN onthenumberline:
+| | | | | | | | | | |
+0 1M < N
+2 3 4 5 −1 −2 −3 −4 −5
+Itisahappycoincidencethatthesymbol<for“Lessthan”looksratherliketheletter“L.”
+Numbersarrangedinincreasingorderarewrittenfromlefttoright,separatedbythe<symbol.
+(Thisistheleft-to-rightorderingonthenumberline.)Wecanalsoarrangenumbersindecreasing
+order,fromlefttoright,separatedbythe>(“greaterthan”)symbol.
+Example80. Arrangethefractions3
+4,2
+3,and7
+9inincreasingorder.
+Solution.LCD{3,4,9}=36,and
+3
+4=27
+362
+3=24
+367
+9=28
+36.
+Weareaskedtoarrangethefractionsinincreasingorder,sowelisttheminincreasingorderoftheir
+numerators,separatedbytheinequalitysymbol<.Thus,
+24
+36<27
+36<28
+36.
+Now,goingbacktotheequivalentfractionsinlowestterms,wehave
+2
+3<3
+4<7
+9.
+Example81. Arrangethenumbers13
+5,13
+4,16
+7,and11
+12indecreasingorder.
+Solution.Recallthataproperfractionislessthan1,so11
+12isobviouslythesmallestofthefournumbers
+(theothersbeingmixednumbersgreaterthan1).Tocomparetheotherthreenumbers,itisenoughto
+comparetheirfractionalparts,becauseeachhasthesamewholenumberpart(1).Tocompare3
+5,3
+4,
+and6
+7,weﬁndtheLCM{5,4,7}=140,andwriteequivalentfractionswithdenominator140:
+3
+5=84
+1403
+4=105
+1406
+7=120
+140.
+Indecreasingorder,thenumeratorsare120>105>84.Thecorrespondingorderingofthefractionsis
+6
+7>3
+4>3
+5,
+Page77anditfollowsthatthecorrespondingorderofthemixednumbers(eachwithwholenumberpart1)is
+16
+7>13
+4>13
+5.
+Adjoiningthesmallest(proper)fraction11
+12attheend,wehave,ﬁnally,thedecreasingorder
+16
+7>13
+4>13
+5>11
+12.
+2.9.1 Exercises
+1.Arrangeindecreasingorder:4
+9,3
+8,and1
+3.
+2.Arrangeinincreasingorder:3
+5,3
+4,and5
+7.
+3.Is5
+12ofaninchmoreorlessthan7
+16ofaninch?
+4.Is95
+8inchescloserto9or10inches?
+5.Astockpricechangedfrom55
+8to53
+4.Didthepricegoupordown?
+2.10DivisionofFractions
+Ourintuitionisnotverygoodwhenwethinkofdividingtwofractions.Howmanytimesdoes2
+3“go
+into”3
+4,forexample?Equivalently,whatfractionresultsfromthedivisionproblem
+3
+4÷2
+3?
+Itisnotatallobvious.Wewillderiveasimplerule,butwe’llneedanauxiliaryconcept.
+2.10.1 Reciprocals
+Twonon-zeronumbersarereciprocaliftheirproductis1.Thus,ifxandyarenonzeronumbers,and
+if
+x·y=1,
+thenxisthereciprocalofy,and,also,yisthereciprocalofx.
+Theruleformultiplyingfractions,togetherwithobviouscancellations,showsthat
+a
+b·b
+a= 1
+a·b
+b· 1
+a=1·>1
+b
+>1
+b·1=1
+1=1.
+Thismeansthat
+Page78Thereciprocalofthefractiona
+bisthefractionb
+a.
+(bothaandbnonzero)
+Sinceeverywholenumberncanbewrittenasthefractionn
+1,wehavethefollowingspecialcase:
+Thereciprocalofthewholenumbern(nonzero)
+isthefraction1
+n.
+Example82. Thereciprocalof5is1
+5.Thereciprocalof1
+9is9.Thereciprocalof3
+8is8
+3,or,expressed
+asamixednumber,22
+3.
+Wenotesomeimportantfactsandspecialcases:
+•thereciprocalofthereciprocalofanumberisthenumberitself.Forexample,thereciprocalof
+2/3is3/2,andinturn,thereciprocalof3/2is2/3.
+•1istheonly(positive)numberthatisitsownreciprocal(since1=1
+1.)
+•thereciprocalofanumberlessthan1isanumbergreaterthan1,andviceversa(sincethe
+reciprocalofaproperfractionisanimproperfraction).
+•0hasnoreciprocal(sincedivisionby0isundeﬁned).
+2.10.2 Exercises
+Findthereciprocalsofthefollowingnumbers.Changeimproperfractionstomixedorwholenumbers.
+1.3
+7
+2.11
+3.14
+5
+4.1
+25
+5.5
+6
+2.10.3 DivisionisMultiplicationbytheReciprocaloftheDivisor
+Consideragainthedivisionproblem
+3
+4÷2
+3.
+UsingtheLCD,thisisequivalentto
+9
+12÷8
+12
+Page79Wewanttoknowhowmanytimes8thingsofacertainsize(1/12)gointo9thingsofthesamesize.
+Theactualdenominatordoesn’treallymatter,onlythatitisthesameforbothfractions.Inthisform
+itseemsobviousthattheansweristhequotientofthenumerators,9
+8.
+Now,howwerethenumbers9and8obtainedfromtheoriginalfractions?Well,inwritingequivalent
+fractionswiththeLCD,wecomputedthenumeratorsasfollows:9=3·3and8=4·2.Wehave
+shownthat
+3
+4÷2
+3=3·3
+4·2=3
+4·3
+2.
+Theoriginaldivisionturnedintomultiplicationbythereciprocalofthedivisor,andtheLCDwasn’t
+actuallyneeded.
+Wehavederivedasimplerule:
+a
+b÷c
+d=a
+b·d
+c
+Inwords:thequotientoftwofractionsistheproductofthedividendandthereciprocalofthedivisor.
+Example83. Performthedivision5
+12÷5
+6.
+Solution.Weconvertthedivisionintomultiplicationbythereciprocalof5
+6.
+5
+12÷5
+6=5
+12·6
+5
+=30
+60
+=1
+2(cancelling30).
+Example84. Whatis3
+7dividedby6?
+3
+7÷6=3
+7÷6
+1
+=3
+7·1
+6
+=3
+42
+=1
+14(cancelling3).
+Wecandividemixednumbers,too,bysimplyconvertingthemintoimproperfractionsﬁrst.
+Example85. Performthedivision28
+9÷11
+2.Expresstheresultasamixednumber.
+Solution.Convertingmixednumberstoimproperfractions,wehave
+28
+9÷11
+2=26
+9÷3
+2.
+Page80Nowweconvertthedivisionintomultiplicationbythereciprocalof3
+2:
+=26
+9·2
+3.
+Nopre-cancellationispossible,so
+26·2
+9·3=52
+27=125
+27,
+where,atthelaststep,weconvertedtheimproperfractionintoamixednumber.
+Example86. Howmanybooks,each13
+4inchthick,canﬁtona35inchbookshelf?
+Solution.Thequestioncallsfordivision,sinceweneedtoknowhowmanytimes13
+4“goesinto”35.
+35÷13
+4=35
+1÷7
+4=35
+1·4
+7.
+Cancelling7,weget
+5
+1·4
+1=20
+1=20.
+So,exactly20bookswillﬁtontheshelf.
+2.10.4 Exercises
+Performthedivisions.Reducetolowestterms,andchangeimproperfractionstomixednumbers.
+1.1
+5÷3
+2
+2.15÷2
+3
+3.8
+15÷16
+21
+4.101
+2÷55
+6
+5.7
+8÷21
+4
+6.100
+34÷50
+17
+7.100÷33
+8.100
+3÷5
+Usedivisiontoanswerthefollowingquestions.
+9.Howmany11
+2inchpiecescanbecutfromaboardthatis36incheslong?
+10.Seedsaresoldin21
+2-ouncepackets.Agardenerneeds32ouncesofseed.Howmanypacketsshould
+hebuytobesurehehasenough?
+Page812.11MixedNumbersandMixedUnits
+Mixednumberscanbeaddedandsubtractedbyﬁrstconvertingthemintoimproperfractions,andvery
+oftenthisiswhatwedo.Butaproblemsuchas
+751
+2+593
+4
+isnotwell-suitedtothismethod.Ifweconverttoimproperfractions,thenumeratorsofbothfractions
+wouldbequitelargeandunwieldy.
+2.11.1 VerticalAdditionandSubtraction
+Wecanalignmixednumbersverticallysothatthefractionalandwholenumberpartsline-up,and
+thenseparatelyaddthefractionandwholenumbercolumns.Wemustensurethattheresultingmixed
+numberisinproperform(thefractionalpartmustbeaproperfraction),andthisinvolvesaprocedure
+analogousto“carrying”inwholenumberaddition.
+Example87. Add21
+2+63
+4.
+Solution.Weﬁrstalignthewholenumberandfractionalplacesvertically:
+21
+2
++ 63
+4
+Toaddthefractionalparts,wewritethembothwiththeirLCD,whichis4.
+22
+4
++ 63
+4
+Thenweaddthecolumnsseparately.
+22
+4
++ 63
+4
+85
+4
+Theresultingmixednumber,85
+4,isnotinproperform,because5
+4=11
+4.Soweleavetheproperfractional
+part,1
+4,inthefractionscolumn,andcarrythewholenumberpart,1,overtothewholenumbercolumn.
+(Weindicatethecarryingbywriting{1}abovethewholenumbercolumn.)Thenwerecomputethe
+Page82wholenumbersum,obtainingtheﬁnalanswerinproperform:
+{1}
+22
+4
++ 63
+4
+91
+4
+Tosubtractmixednumbers,wesometimesneeda“borrowing”procedure,analogoustotheproce-
+dureweusewhensubtractingwholenumbers.
+Example88. Subtract7−32
+5.
+Solution.Notethatthewholenumber7isamixednumberwith0fractionalpart,andwecanrepresent
+0asafractionusinganyconvenientdenominator.Heretheconvenientchoiceis5.Sowewrite7=70
+5.
+Aligningwholenumberpartsvertically,wehave
+70
+5
+−32
+5
+Nowweseethatthesubtractioninthefractionsplaceisnotpossible(wecan’ttake2ﬁfthsfrom0
+ﬁfths),soweneedtoborrow1fromthewholenumberscolumn.1=n
+nforanyconvenientn(except
+0),andinthisexample,itisconvenienttowrite1=5
+5.Borrowing1=5
+5from7(reducingitto6),
+andadding1=5
+5to0
+5atthetopofthefractionscolumn,wehave
+65
+5
+−32
+5
+33
+5
+Bothofthepreviousexamplescouldhavebeendonebyﬁrstconvertingthemixednumbersinto
+improperfractions.Forexample,
+7−32
+5=35
+5−17
+5=18
+5=33
+5.
+Perhapsyouﬁndthiseasier.Buthereisanexamplethatwouldinvolvemuchmoreworkifwewereto
+usethatmethod.
+Example89. Subtract1532
+15−674
+9.
+Page83Solution.TheLCD{15,9}=45,andsince2
+15=6
+45and4
+9=20
+45,wewrite,inverticalform,
+1536
+45
+−6720
+45
+Thesubtractioninthefractionscolumnisnotpossible,soweborrow1from153(intheform45
+45)and
+additto6
+45,obtaining
+15251
+45
+−6720
+45
+Nowthesubtractioninthefractionscolumnispossible,andweobtain
+15251
+45
+−6720
+45
+8531
+45
+Thefractionalpartisinlowestterms,andwearedone.
+Ifwehaddonethepreviousexamplebyﬁrstconvertingthemixednumbersintoimproperfractions,we
+wouldhavehadtoworkwithratherlargenumerators:
+6891
+45−3035
+45
+Notimpossible,buttheothermethodiseasier!
+2.11.2 Exercises
+Addorsubtractthemixednumbersasindicated.Expresstheﬁnalanswersasmixednumbersinproper
+form.
+1.11
+3+1
+2
+2.32
+5+71
+3+13
+5
+3.11
+5+10
+4.753
+4+912
+3
+Page845.1211
+15−213
+20
+6.37
+8−21
+4
+7.12
+3−14
+13
+8.33
+5+11
+2+3
+10
+9.11
+7−3
+7
+10.213
+5−193
+4
+11.36
+7−11
+12
+12.511
+20−44
+5
+2.11.3 MeasurementsinMixedUnits
+Whenanumberresultsfromameasurement,itisgivenintermsofaunitofmeasure,orunitforshort.
+Forexample,ifyouuseastandardrulertomeasurethelengthofatable,thelengthisgiveninunitsof
+feet(ft).All1-footrulersaredividedinto12smallerunitscalledinches(in),sothat
+1ft=12in.
+Moreprecisemeasurementscanbegivenintermsofthemixedunitsfeet-and-inches.Forexample,
+thelengthofyourtablemightbe3feet6inchesor3ft6in.
+Otherfamiliarexamplesofmixedunitsarehours-and-minutes,orhours-minutes-and-seconds.The
+abbreviationsarehr,minandsec.Ofcourse,
+1hr=60minand1min=60sec.
+Mixedunitsarejustlikemixednumbers,becausethesmallerunitsaresimplefractionsofthelarger
+ones:
+1in=1
+12ft 1min=1
+60hr 1sec=1
+60min.
+Itfollowsthatmeasurementsinmixedunitscanbeaddedandsubtractedjustlikemixednumbers.The
+notionofproperformremainssince,forexample,ameasurementof
+4ft17in
+makessense,butisproperlywrittenas
+5ft5in,
+sinceanymeasurementofover12inchesisatleast1foot.Borrowingandcarryingaresometimes
+needed,andareeasilyaccomplished,asthenextexampleshows.
+Page85Example90. HugoandHectorgotoseparatemoviesthatstartatthesametime.Hugo’smovieis2
+hoursand5minuteslong,whileHector’sis1hourand43minutes.HowlongwillHectorhavetowait,
+afterhismovieisover,forHugotocomeout?
+Solution.Hector’swaitingtimeisthediﬀerenceinthelengthsofthemovies,
+2hr 5min
+−1hr43min
+Thesubtractionintheminutescolumncan’tbedone,soweborrow1hr=60minfromthehours
+column,reducingthenumberofhoursatthetopofthehourscolumnfrom2to1,andincreasingthe
+numberofminutesatthetopoftheminutescolumnfrom5minto5min+60min=65min.
+1hr65min
+−1hr43min
+0hr22min
+Hectorwillhavetowait22minutes.
+Here’sanexampleinvolvinglengthmeasurements.
+Example91. Twoboardsarelaidend-to-end.Oneoftheboardsmeasures6ft8in,andtheother
+measures11ft10in.Whatisthetotallengthoftheboards?Giveyouranswerinproperform.
+Solution.Weneedtocalculatethemixed-unitsum
+6ft 8in
++ 11ft10in
+Addingtheinchescolumn,weobtain18in=1ft6in.Soweputdown6inintheinchescolumn,and
+carry1fttothetopofthefeetcolumn:
+{1ft}
+6ft 8in
++ 11ft10in
+6in
+Weaddupthefeetcolumntoobtaintheﬁnalanswer:
+{1ft}
+6ft 8in
++ 11ft10in
+18ft 6in
+Thetotallength,inproperform,is18ft6in.
+Page862.11.4 Exercises
+1.Acarpentercutsa6ft7inpiecefroma9ft4inboard.Whatisthelengthoftheleftoverpiece?
+2.Findtheperimeterofthepolygon:
+6ft7in4ft2in
+4ft8in
+2ft6in 3ft8in
+3.Aﬁlmcriticwatchedthreemovies.Theﬁrstwas21
+2hrs,thesecond2hrs15min,andthelast1
+hr45min.(a)Whatwasthetotallengthofthemovies?(b)Whatwastheaveragelengthofthe
+movies?
+2.12Combinedoperationswithfractionsandmixednumbers
+Recallthatwhenthereismorethanoneoperationtobeperformedinacalculation,weagreetofollow
+theorderofoperations:
+1.operationswithingroupingsymbolsﬁrst;
+2.exponentsandrootsnext;
+3.multiplicationsanddivisions(inorderofappearance)next;
+4.additionsandsubtractions(inorderofappearance)last.
+Weremindyouthat“inorderofappearance”meansinorderfromlefttoright,andthat“groupingsym-
+bols”includeparentheses,brackets,braces(curlybrackets),thesquarerootsymbol,andthehorizontal
+fractionlineasina+b
+c−d.
+Example92. Calculate2−3
+5+1
+2.
+Solution.Subtractioncomesﬁrstintheleft-to-rightorder.Rewriting2as10
+5,wehave
+/parenleftbigg10
+5−3
+5/parenrightbigg
++1
+2=7
+5+1
+2
+=14
+10+5
+10(LCD=10)
+=19
+10
+=19
+10.
+Page87Example93. Calculate2−/parenleftbigg3
+5+1
+2/parenrightbigg
+.
+Solution.Thisdiﬀersfromthepreviousexampleonlyintheparentheses,whichforceustodothe
+additionﬁrst.Rewriting3
+5and1
+2withtheLCD10,wehave
+2−/parenleftbigg6
+10+5
+10/parenrightbigg
+=2−11
+10
+=20
+10−11
+10
+=9
+10.
+Example94. Calculate/parenleftbigg2
+3/parenrightbigg2
++12
+3·1
+10.
+Solution.Weevaluatetheexpressionwithanexponentﬁrst((2
+3)2=4
+9),followedbythemixednumber
+multiplication,followedbytheaddition.
+/parenleftbigg2
+3/parenrightbigg2
++12
+3·1
+10=4
+9+12
+3·1
+10
+=4
+9+5
+3·1
+10(convertingthemixednumbertoanimproperfraction)
+=4
+9+5
+30
+=4
+9+1
+6(cancelling5)
+=8
+18+3
+18(LCD=18)
+=11
+18.
+Example95. Calculate11
+4·2
+3−11
+6÷11
+2.
+Solution.Theorderofoperationsismultiplication,division,subtraction.Weﬁrstconvertmixednum-
+bersintoimproperfractions,andchangethedivisionintomultiplicationbythereciprocal.
+5
+4·2
+3−7
+6÷3
+2=10
+12−7
+6·2
+3
+=10
+12−14
+18
+=5
+6−7
+9(lowestterms)
+=15
+18−14
+18(LCD=18)
+=1
+18.
+Page88Example96. Calculate/braceleftbig
+1+/bracketleftbig
+2+/parenleftbigg
+11
+4·2
+3−11
+6÷11
+2/parenrightbigg/bracketrightbig/bracerightbig
+.
+Solution.Inthisexamplewehaveso-callednestedgroupingsymbols,thatis,groupingsymbolsinside
+othergroupingsymbols.Inthiscase,wemustwork“fromtheinsideout.”Thismeansweworkwithin
+theinnermostgroupingsymbolsﬁrst.Fromthepreviousexampleweknowthat
+11
+4·2
+3−11
+6÷11
+2=1
+18,
+thusweget
+/braceleftbig
+1+/bracketleftbig
+2+/parenleftbigg
+11
+4·2
+3−11
+6÷11
+2/parenrightbigg/bracketrightbig/bracerightbig
+=/braceleftbig
+1+/bracketleftbig
+2+/parenleftbigg1
+18/parenrightbigg/bracketrightbig/bracerightbig
+={1+/bracketleftbig37
+18/bracketrightbig
+}=55
+18=31
+18.
+2.12.1 Exercises
+Calculate,usingthecorrectorderofoperations.Expressimproperfractionsasmixednumbers.
+1.3
+4+2
+3÷4
+9
+2.2−3
+4+31
+2
+3./parenleftbigg3
+4+31
+2/parenrightbigg
+−2
+4./parenleftbigg
+81
+4−12
+3/parenrightbigg
+÷1
+3
+5.71
+2÷3
+5+17
+8·22
+5
+6./parenleftbigg3
+4/parenrightbigg2
++24
+5·11
+4
+7.Findtheperimeterofarectanglewithlength21
+2ftandwidth13
+4ft.
+8.Juliahastwoclosets.Theﬂoorofoneisasquare31
+2ftonaside.Theﬂooroftheotherisa
+rectangleofwidth31
+2ftandlength41
+2ft.Shewantstoputsquaretilesontheﬂoorsoftheclosets.
+Howmuchwillitcostifthetilesare$5persquarefoot?
+Page89Page90Chapter3
+DecimalsandPercents
+Decimalsaremixednumbersinwhichtheproperfractionalparthasadenominatorwhichis10,or100,
+or1000,or,moregenerally,apowerof10.Herearesomepowersof10:
+100=1
+101=10
+102=100
+103=1000
+104=10000
+10n=1followedbyn0’s.
+Thenumberaboveandtotherightof10istheexponent,orpower,andindicatesthenumberoftimes
+that10appearsasafactor.Thus
+103=10×10×10=1000,
+andsoforth.
+Herearesomeexamplesofmixednumbersinwhichthedenominatorofthefractionalpartisapower
+often,togetherwiththeirrepresentationsasdecimals:
+13
+10= 1.3
+2137
+100= 21.37
+1321
+1000= 13.021
+Thedecimalpoint(whichlooksliketheperiodattheendofasentence)separatesthewholenumber
+partfromtheproperfractionalpart.Thedigitstotherightofthedecimalpointrepresentthefractional
+partaccordingtothefollowingrule:
+•thedigitstotherightofthedecimalpointconstitutethenumerator;
+•thenumberofdigitstotherightofthedecimalpointisthepowerof10whichconstitutesthe
+denominator.
+91Thereisnoneedtoshowthefractionbar.Asweshallsee,thismakescomputationveryeasy.There
+aresomesubtletiestowatchoutfor,however.Intheexample
+1321
+1000= 13.021,
+wehadtouse021torepresentthenumerator21becauseweneedthreedigitstoshowthatthe
+denominatoris103.
+3.1 Decimalplacevalues
+InChapter1weshowedthatanywholenumbercanbewrittenusingjustthedigits0,1,2,3,4,
+5,6,7,8,9,byusingtheplacevaluesystem.Thus,youwillrecallthat
+4267standsfor4thousands+2hundreds+6tens+7ones.
+Usingpowersof10,wecanwritethismorecompactly:
+4267=4×103+2×102+6×101+7×100.
+Thedecimalpointallowsustoadjoinmoreplaces(totherightofthedecimalpoint),withplacevalues
+lessthan1.Thus
+23.59standsfor2tens+3ones+5tenths+9hundredths.
+Theﬁrstplacetotherightofthedecimalpointhastheplacevalue1
+10,oronetenth;thesecondplaceto
+therightofthedecimalpointhastheplacevalue1
+100,oronehundredth,andsoforth.Moregenerally,
+Thenthplacetotherightofthedecimalpointhastheplacevalue1
+10n.
+ThisisacontinuationofthepatternweestablishedinChapter1:aswemovetotheright,placevalues
+decreaseten-fold(byafactorofonetenth).Ifweadopttheconventionthat
+10−n=1
+10n,
+thenthesequenceofplacevalues,fromlefttoright,isjustthesequenceofdecreasingpowersoften:
+...,103,102,101,100(decimalpoint)10−1,10−2,10−3,...
+...,thousands,hundreds,tens,ones(decimalpoint)tenths,hundredths,thousandths,...
+Example97. Namethedigitintensplace,andthedigitinthehundredthsplace,inthedecimal
+304.671.
+Solution.Thetens(101)placeisthesecondplacetotheleftofthedecimalpoint.Thedigitinthat
+placeis0.Thehundredths(10−2)placeisthesecondplacetotherightofthedecimalpoint.Thedigit
+inthatplaceis7.
+Example98. Whatisthedigitintheten-thousandthsplaceofthedecimal0.00286?
+Solution.Oneten-thousandthis1
+10000=1
+104,
+sotheten-thousandthsplaceisthefourthplacetotherightofthedecimalpoint.Thedigitinthat
+placeis8.
+Page923.1.1 Exercises
+1.19.01standsfor
+2.0.946standsfor
+3.98.6standsfor
+4.Namethedigitinthehundred-thousandthsplaceinthedecimal1.870457.
+5.Expressthefollowingmixednumbersasdecimals:
+(a)223
+100
+(b)237
+1000
+(c)197
+10
+(d)12
+10000.
+6.Expressthefollowingdecimalsasmixednumbersorproperfractions:
+(a)14.3
+(b)28.61
+(c)100.1
+(d)4.003
+3.2 SigniﬁcantandInsigniﬁcant0’s
+Decimalsarereadaloudinthefollowingway:
+•readthewholenumberpart;
+•read“and”forthedecimalpoint;
+•readthedigitstotherightofthedecimalpointasiftheyrepresentedawholenumber;
+•appendtheplace-nameofthelastdecimalplace.
+Example99. (a)1.13isreadaloudas“oneandthirteenhundredths.”
+(b)31.045isreadaloudas“thirty-oneandforty-ﬁvethousandths”.
+(c)48.006isreadaloudas“forty-eightandsixthousandths.”
+Inthedecimal48.006,thefractionalpart.006standsfor0tenths+0hundredths+6thousandths.
+Readingaloud,wesimplysay“sixthousandths.”Nonetheless,thetwo0’sin.006areabsolutelynecessary.
+Ifwehadwritten.6insteadof.006,wewouldhavenamedadiﬀerentfraction,namely,6
+10,ratherthan
+6
+1000.Ontheotherhand,inthedecmial006.23,theﬁrsttwo0’sareunnecessary,sincethewhole
+number006isjust6.Inoneinstancethe0’sarecrucial,andintheother,theyareunnecessary.
+Howdoweknowwhich0’saresigniﬁcant,andwhichareinsigniﬁcant?Wecanprecedeanywhole
+numberorwholenumberpartofadecimalbyasmany0’saswewant,becausethese0’sdonotchange
+thevalueofthenumber(asin006=6).Similarly,wecanfollowthefractionalpartofadecimal
+withasmany0’saswewant,becausethese0’sdonotchangethevalueofthenumber.Forexample,
+.98000=.98because.98000=9×10−1+8×10−2+0×10−3+0×10−4+0×10−5.Inthesecases,
+the0’sareinsigniﬁcant.Incontrast,internal0’sholdaplaceandcannotbeomitted.
+Page93Example100. 2.3004isnotequalto2.304,orto2.34,becausethefractionalparts,3004
+10000,304
+1000,and
+34
+100arenotequal.The0’sinthehundredthsandthousandthsplacesof42.3004aresigniﬁcant,and
+thereforecannotbeomitted.
+Inadecimal,a0digitisinsigniﬁcant,andmaybeomitted,if(andonlyif)
+•itprecedestheleft-mostnon-zerodigitofthewholenumberpart;or
+•itfollowstheright-mostnon-zerodigitofthefractionalpart.
+Allother0’saresigniﬁcant,andcannotbeomitted.
+Example101. Inthedecimal0304.90800,the0between3and4,andthe0between9and8are
+signiﬁcant;theothersareinsigniﬁcant.Thus
+0304.90800=304.908.
+Example102. Does23400containanyinsigniﬁcant0’s?
+Solution.23400isawholenumber.Thedecimalpointisnotshown,butis“understood”tobeatthe
+rightmostend.Itfollowsthatthetwo0’sin23400areinternal,andtherefore,signiﬁcant.
+Itissometimesconvenienttopreserveoradjoinnon-signiﬁcant0’s.Forexample,whenadecimal
+representsaproperfraction,thewholenumberpartis0,butthat0,totheleftofthedecimalpoint,is
+oftenretainedforemphasisorclarity,eventhoughitisinsigniﬁcant.Thustheproperfraction67
+100=.67
+isoftenwrittenas0.67.
+3.3 ComparingDecimals
+Insigniﬁcant0’sarealsousefulincomparingdecimalsastosize.Recallthatwhenfractionshavethe
+same(common)denominator,theonewiththelargestnumeratorrepresentsthelargestnumber.Itis
+veryeasytoﬁndacommondenominatorfortwoormoredecimals,becausethenumberofdecimal
+placestotherightofthedecimalpointisallthatisneededtodeterminethedenominator:ifthereare
+nplacestotherightofthedecimalpoint,thedenominatoris10n.Givenasetofdecimals,wejust
+ﬁndtheonewiththelargestnumberofdecimalplacestotherightofthedecimalpoint,andusethat
+numbertodeterminethecommondenominator.Thereisnocomputationinvolved:wesimply“pad
+out”theshorterdecimalswithinsigniﬁcant0’stotherightofthedecimalplaceuntilallhavethesame
+numberofdecimalplaces.Thenitiseasytotellwhichdecimalhasthelargestnumerator,andhence,
+whichislargest.
+Example103. Arrangethedecimalsindescendingorder,fromlargesttosmallest:0.102,0.09876,0.2.
+Solution.Ofthethreegivendecimals,0.09876isthelongest,with5placestotherightofthedecimal
+point.Sowepadoutallthreeto5places,usinginsigniﬁcant0’s:Thus
+0.102=0.10200 (3.1)
+0.09876=0.09876
+0.2=0.20000
+Page94Inthisform,thedecimalshaveacommondenominatorof105=100000:
+0.102=10200
+1000000.09876=9876
+1000000.2=20000
+100000.
+Now,itiseasytoseewhichhasthelargestnumerator,whichthesecond-largest,andwhichthesmallest.
+Hencewehave
+0.2>0.102>0.09876.
+3.3.1 Exercises
+Eliminatetheinsigniﬁcant0’sinthefollowingdecimals.
+1.210304.0900
+2.00206.006070
+3.210.00
+4.21030900
+Arrangeeachgroupofdecimalsindescendingorder,fromlargesttosmallest:
+5.0.2,.009,.121.
+6.1.31,1.9,1.224.
+7.0.106,0.5,0.61.
+8.9.104,9.14,9.137,9.099.
+3.4 Rounding-oﬀ
+Thenumbers
+0.1,0.11,0.111,0.1111,0.11111
+getcloserandclosertogether(onthenumberline)aswemovefromlefttoright.Afterafewsteps,
+theyarealmosttooclosetogethertovisualize.Thesecondnumberwasobtainedfromtheﬁrstby
+adding1
+100,andthelastfromthesecond-to-lastbyaddingjust1
+100000,averysmallquantityindeed.
+Suchsmallquantitiescanbeimportantinthesciences,butevenincircumstanceswhereprecisionis
+important,thereisalwaysalimitbeyondwhichsmalldiﬀerencesbecomenegligible–notworthworrying
+about.(Forexample,whenyourbankcalculatestheinterestonyoursavingsaccount,itcalculates,but
+thenignores,amountsthatarelessthanonehalfofonecent.)Beingprecise,butnotoverlyprecise,is
+thepurposeofrounding-oﬀnumbers.
+Toroundoﬀanumber,wemustﬁrstdecidehowprecisetobe.Thatmeanschoosingtheplace
+whosevalueweconsiderthesmallestworthworryingabout.Forexample,innegotiatinganannual
+salary,wewouldprobablynotargueaboutamountslessthan$100,butinnegotiatinganhourlywage,
+wewouldbewillingtoargueaboutpennies.Intheﬁrstinstance,wewouldroundoﬀourdollaramounts
+tothenearesthundred,andinthesecond,tothenearesthundredth(cent).
+Page95Example104. $175iscloserto$200thanto$100,so,roundingtothenearesthundred,wesaythat
+anannualsalaryof$36,175isapproximately$36,200.Wewrite
+36175≈36200(tothenearesthundred).
+Thesymbol≈means“approximatelyequalto.”
+Example105. 16.84iscloserto16.80thanto16.90,so,tothenearesttenth,
+16.84≈16.8.
+Noticethatwedroppedtheinsigniﬁcant0in16.80.
+Example106. 0.135isexactlyhalfwaybetween0.130and0.140,so,ifwewanttoroundtothenearest
+hundredth,itisnotclearwhetherweshouldround“up”to0.140,or“down”to0.130.Here,wehave
+tomakeuparule.Theconventionisthat“halfwayisalmosthome,”soweroundup.
+0.135≈0.14(tothenearesthundredth),
+where,again,wehavedroppedtheinsigniﬁcant0in0.140.
+Belowisasummaryoftheprocedureforroundingoﬀanumberexpressedasadecimaltoagiven
+place,calledtheround-oﬀplace.
+Toroundoﬀadecimaltoagivenplace(theround-oﬀplace):
+1.Preservethedigitintheround-oﬀplaceiftheright-neighboringdigitisless
+than5;otherwise,increasethedigitintheround-oﬀplaceby1;
+2.Replacealldigitstotherightoftheround-oﬀplaceby0’s;
+3.Eliminateinsigniﬁcant0’s(excepta0intheround-oﬀplace).
+Example107. Round26.03tothenearesttenth.
+Solution.Theround-oﬀplaceisthetenthsplace,andtheright-neighboringdigit(3)islessthan5,so
+wepreservethedigitintheround-oﬀplace(0)andreplacealldigitstotheright(thereisonlyone)with
+0.Weget26.00.Heretheexceptioninstep3oftheprocedureapplies:boththe0’sareinsigniﬁcant,
+butwekeepthe0intheround-oﬀplace(otherwiseitmightseemasifwehadroundedtothenearest
+unit).Thus
+26.03≈26.0(tothenearesttenth)
+Example108. Round51tothenearesthundred.
+Solution.Theroundoﬀplace(hundreds)doesn’tappear,butwecanshowitbyadjoininganinsigniﬁcant
+0ontheleft:51=051.Therightneighboroftheround-oﬀdigitis5,so,bythe“halfway”convention,
+weroundthe0intheround-oﬀplaceupto1,andreplacealldigitstotherightwith0.Weget
+51≈100(tothenearesthundred).
+Noticethatthetwo0’sin100aresigniﬁcant,andcannotbeeliminated!
+Page96Oneﬁnalremarkaboutstep2oftheprocedure.Ifthedigitintheround-oﬀplaceis9,andweneed
+toroundup(to10),wemustcarrythe1totheleft-neighboringplace.
+Example109. Round6.597tothenearesthundredth.
+Solution.The9intheround-oﬀplacehasright-neighbor7,whichisgreaterthan5.Soweincrease9
+to10,andcarrythe1tothe(left-neighboring)tenthsplace:
+6.597≈6.60(tothenearesthundredth)
+Noticewepreservedtheinsigniﬁcant0,sinceitisintheround-oﬀplace.
+3.4.1 Exercises
+Roundoﬀeachnumbertwice:(a)tothenearestten;(b)tothenearesthundredth.
+1.304.0900
+2.96.075
+3.115.497
+4.100.0055
+5.7.009
+3.5 AddingandSubtractingDecimals
+Oneoftheadvantagesofdecimalsoverordinaryfractionsiseaseofcomputation.Thefouroperations
+(addition,subtraction,multiplicationanddivision)aredonealmostexactlyaswithwholenumbers.The
+onlyquestioniswheretoputthedecimalpoint.
+Additionandsubtractionaretheeasiest:welineupthenumbersvertically,withtheonesplaces
+alignedontopofeachother.Thisputsthedecimalpointsinalignmentaswell.Thedecimalpointinthe
+sumisplaceddirectlybelowthedecimalpointsinthenumbersbeingadded.Carryingandborrowing
+aredoneaswithwholenumbers.
+Example110. Findthesumof96.8and342.03.
+Solution.Lineupthenumbersverticallysothattheonesplaces(andhencetheneighboringdecimal
+points)aredirectlyontopofeachother.
+98.8
++ 342.03
+Forclarity,youcan“padout”thetopnumberwithaninsigniﬁcant0sothatbothnumbershavethe
+samenumberofdecimalplaces.(Thisisnotstrictlynecessary:justrememberthatanemptyplaceis
+occupiedbya0.)Placeadecimalpoint,verticallyalignedwiththeothers,wherethesumwillgo.
+98.80
++ 342.03
+.
+Page97Asbefore,addthedigitsineachcolumnstartingfromtheright-mostone,carryingwhennecessary:
+98.80
++ 342.03
+440.83
+Thesumis440.83.
+Example111. Findthesumof804.09,56.384,107,and0.205.
+Solution.Lineupthenumbersverticallyatthedecimalpoints(equivalently,attheonesplace).Inthe
+wholenumber107,thedecimalpointisunderstoodtobedirectlytotherightoftheonesplace.Add
+thecolumnsfromrighttoleft,imagining0’sintheemptyplaces,andcarryingwhennecessary.
+804.09
+56.384
+107.
++ 0.205
+967.679
+Subtractionfollowsthesameverticalalignmentrule.
+Example112. Findthediﬀerence50−4.706.
+Solution.Thelargernumber,50,goesontop.Weﬁllitoutwithinsigniﬁcant0’ssothatboththe
+minuendandthesubtrahendhavethesamenumberofdecimalplaces.
+50.000
+− 4.706
+.
+Borrowingfromthetensplaceofthesubtrahend,wecanwrite
+50.000=5tens+0ones+0tenths+ etc.
+=4tens+9ones+9tenths+9hundredths+{10}thousandths
+=49.99{10}
+Thenoursubtractionbecomes
+49.99{10}
+− 4.70 6
+45.29 4
+Page983.5.1 Exercises
+Findthesumsordiﬀerences:
+1.680.48+56.09
+2.804.09+5.8409
+3.58.09−32.1
+4.4.09+0.38409
+5.14.093−6.39
+6.100−23.441
+7.830−16.61
+8.80−56.384
+9.Verifythesubtractionproblemsabovebydoinganappropriateaddition.
+10.Findthesumof64.09,15.3,4,and9.09.
+11.Thediﬀerenceof20andthesumof4.6and0.07
+3.6 MultiplyingandDividingDecimalsbyPowersof10
+Whathappenswhenwemultiplyawholenumberby10?Onesbecometens,tensbecomehundreds,
+hundredsbecomethousands,etc.Forexample,inthemultiplication
+234×10=2340,
+the4onesin234turnintothe4tensin2340,the3tensturninto3hundredsandsoforth.(Inthe
+product,therearenolongeranyones,andthatfactmustberecordedwithasigniﬁcant0intheones
+place.)
+Rememberthatawholenumberisadecimal,withthedecimalpointunderstoodtobeimmediately
+totherightoftheonesplace.Makingthedecimalpointexplicitinourexample,
+234.0×10=2340.
+Wecandescribewhathappensthisway:whenwemultiplyby10,allthedigitsshiftoneplacetothe
+left,includingtheinsigniﬁcant0whichwasunderstoodtobeinthetenthsplaceofthewholenumber
+234.(Inthisdescription,weimaginethedecimalpointremainingﬁxed.)Similarly,ifwemultiplya
+wholenumberby100,allthedigitsshifttwoplacestotheleft,includingthetwoinsigniﬁcant0’s
+whichareunderstoodtobeinthetenthsandhundredthsplaces.Thus,597×100=59700,or,more
+explicitly,
+597.00×100=59700.
+Ingeneral,ifwemultiplyawholenumberbyanypositivepowerof10,say,by10n,allthedigitsshiftn
+placestotheleft,includingtheninsigniﬁcant0’sunderstoodtobeinthenplacestotherightofthe
+decimalpoint(whilethedecimalpointremainsﬁxed).Thus,forexample,
+281×104=2810000.
+Page99Iftherearenon-zerodigitstotherightofthedecimalplace,theyshiftinexactlythesameway.
+Herearesomeexamples:
+38.623×100=3862.3
+0.6×10=6
+0.0031×1000=3.1
+12.09×104=120900
+100×102=10000.
+Notethatinsigniﬁcant0’shavebeenomittedfromtheproducts.
+Itisoftenconvenienttoimaginethat,whenmultiplyingbyapowerof10,thedigitsremainﬁxed
+whilethedecimalpointmoves(totheright).(Electroniccalculatorsworkthisway,usinga“ﬂoating”
+decimalpoint.)Thisdescriptionleadstoaveryeasyruleformultiplyingadecimalbyapositivepower
+of10:
+Tomultiplyadecimalby10n,movethedecimalpointnplacestotheright.
+Ifwedivideadecimalby10,hundredsbecomestens,tensbecomeones,onesbecometenths,
+tenthsbecomehundredths,etc.Thewholediscussionabovecanberepeated,exceptthat,inthiscase
+ofdivision,digitsshifttotheright,or,equivalently,thedecimalpointmovestotheleft.Theeasyrule
+is
+Todivideadecimalby10n,movethedecimalpointnplacestotheleft.
+Herearesomeexamples:
+623÷10=62.3
+0.023÷100=0.00023
+480÷10=48
+37.5÷103=0.0375
+Withtheconventionthat
+10−n=1
+10n,
+divisionby10ncanbethoughtofasmultiplicationby10−n.Forexample,
+5÷100=5×10−2=0.05
+6.5÷10=6.5×10−1=0.65
+86.37÷10000=86.37×10−4=0.008637
+8÷100000=8×10−5=0.00008
+Noticethattheleftmovementofthedecimalpointisindicatedbythenegativeexponent.
+Page1003.6.1 Exercises
+Multiplyordivideeachdecimalbytheindicatedpowerof10.
+1.6080.48×10
+2.6080.48÷10
+3.19×10−1
+4.804.09×102
+5.804.09÷102
+6.0.0908×103
+7.0.0908÷103
+8.38×10−3
+9.260804.09×104
+10.260804.09÷105
+11.48.3×10−3
+12.Whatisthevalue,indollars,of5millionpennies?
+3.7 Multiplicationofgeneraldecimals
+Wealreadyknowhowtomultiplyanddividedecimalswhenoneofthemisapowerof10.Ifneither
+factorisapoweroften,thereismoretotheprocessthanjustmovingthedecimalpoint.Considerthe
+followingexample.
+Example113. Multiply0.3×0.07.
+Solution.Writingthisasaproductofordinaryfractions,weget
+0.3×0.07=3
+10×7
+100=3×7
+10×100=21
+1000.
+Thelastfractioncanbewritten21÷103,or21×10−3which,fromtheresultsofthelastsection,is
+equalto0.021.Thus,
+0.3×0.07=0.021.
+Multiplicationoftwodecimalsalwaysinvolvesawholenumbermultiplicationforthenumerator
+(3×7=21intheexample)andamultiplicationofpowersof10forthedenominator(10×100=
+101×102=1000=103intheexample).Bylookingbackattheprevioussection,itiseasytoseethe
+productoftwopowersof10isitselfapowerof10.Whichpowerof10?Theruleissimple:
+10n×10m=10(n+m)
+Page101Thisimpliesthatthenumberofdecimalplacesintheproductoftwo(ormore)decimalsisthesumof
+thenumbersofdecimalplacesinthefactors.Thusanysetofdecimalscanbemultipliedbyfollowing
+atwostepprocedure:
+Tomultiplytwoormoredecimals:
+•Multiplythedecimalsasiftheywerewholenumbers,ignoringthedecimal
+points(thisgivesthenumeratorofthedecimalfraction);
+•Addthenumberofdecimalplacesineachfactor(thisgivesthedenominator
+ofthedecimalfractionbyspecifyingthenumberofdecimalplaces).
+Example114. Findtheproduct21.02×0.004.
+Solution.Temporarilyignoringthedecimalpoints,wemultiply2102×4=8408.Now21.02hastwo
+decimalplaces,and0.004hasthree.Sotheproductwillhave2+3=5decimalplaces.Inotherwords,
+21.02×0.004=8408÷105=0.08408.
+Example115. Findtheproductof12,0.3,and0.004.
+Solution.Ignoringthedecimalpoints,theproductis12×3×4=144.Thenumbersofdecimalplaces
+inthethreedecimalsare,lefttoright,0,1and3,whichaddupto4.Thus,
+12×0.3×0.004=144÷104=0.0144.
+3.7.1 Exercises
+Findthefollowingproducts.
+1.68.4×23
+2.804×6.2
+3.26.09×0.004
+4.4.09×93
+5.100×9.9
+6.14.093×6.39
+7.64.9×0.345
+8.0.0001×0.001
+9.1000×0.053
+10.6×0.9×0.02×0.001
+Page1023.8 Divisionofadecimalbyawholenumber
+Ifthedivisorisawholenumber,thedivisionprocedureisalmostexactlylikethelongdivisionprocedure
+forwholenumbers.Theonlydiﬀerenceisthis:adecimalpointisplacedwherethequotientwillgo,
+verticallyalignedwiththedecimalpointinthedividend.Forexample,tosetupthedivision12.0342÷31,
+wewrite,asbefore
+12.0342 31
+Thenweputadecimalpointverticallyalignedwiththedecimalpointinthedivisor,wherethequotient
+willgo:
+12.0342 31.
+Nowthelongdivisionisperformedwithnofurtherattentionpaidtothedecimalpoint.Inthisexample,
+since31isbiggerthan12,weput0intheunitsplaceofthequotient.Continuing,weestimatethat31
+goesinto1203times,so3isplacedinthenext(tenths)placeinthequotient,and3×31issubtracted
+from120toyield27.(Notethatthedecimalpointbetween2and0isignoredatthispoint.)
+12.0342 310.3
+−93
+27
+Webringdownthenextdigitinthedividend,whichis3,andstartoverwithanewdividendof273.
+Weestimatethat31goesinto2738times.8×31=248,whichissubtractedfrom273toyield25.
+Page10312.0342 310.38
+−93
+273
+−248
+25
+Webringdownthenextdigitinthedividend,whichis4,andstartoverwithanewdividendof254,
+etc.Theremainingstepsareasfollows.
+12.0342 310.3882
+−93
+273
+−248
+254
+−248
+62
+−62
+0
+Thus,12.0342÷31=0.3882,with0remainder.Wecanchecktheresultbymultiplication,ofcourse:
+31×0.3882=12.0342,asitshould.
+Inthisexample,theremainderwas0.Infact,becauseofthedecimalpoint,weneverneedtowrite
+remaindersagain.Thereasonisthatwecanalwaysadjoininsigniﬁcant0’stototheendofthedividend,
+bringthemdown,andsocontinuethedivisionprocess.
+Example116. Performthedivision12.4÷5.
+Solution.Wesetupthelongdivisionprocessasbefore,withadecimalpointwherethequotientwill
+go,directlyabovethedecimalpointinthedividend.
+13.4 5.
+Aftertwosteps,wearriveat
+Page10413.4 52.6
+−10
+34
+−30
+4
+Now,insteadofstoppingwitharemainderof4,weadjoinaninsigniﬁcant0tothedividend,bringit
+down,andcontinuetheprocess:
+13.40 52.6
+−10
+34
+−30
+40
+5goesinto40exactly8times:
+13.40 52.68
+−10
+34
+−30
+40
+−40
+0
+The0remaindersignalstheendoftheprocess.Thus13.4÷5=2.68.
+Sincewecanadjoinasmanyinsigniﬁcant0’sasweneed,itmightseemthatwecanalwayscontinue
+untilwegeta0remainder.Butthisdoesn’talwayshappen.Sometimes,wenevergeta0remainder,
+butinstead,wegetasequenceofnon-zeroremaindersthatrepeats,forever.Inthiscase,wegetwhat
+isknowasarepeatingdecimal.
+Example117. Performthedivision3.2÷11.
+Solution.Wesetupthelongdivisionprocessasusual.
+Page1053.2 11.
+11goesinto32twicewitharemainderof10:
+3.2 11.2
+−22
+10
+Adjoinaninsigniﬁcant0tothedividend,bringitdown,andperformanotherstep:11goesinto1009
+timeswitharemainderof1.
+3.20 11.29
+−22
+100
+−99
+1
+Nowifweadjoinanotherinsigniﬁcant0tothedividend,andbringitdown,weseethat11goesinto10
+0times.Werecordthatwitha0digitinthequotient,adjoinanotherinsigniﬁcant0tothedividend,
+andbringitdown.Nowweseethat(asabove)11goesinto1009timeswitharemainderof1.
+Page1063.20 11.2909
+−22
+100
+−99
+100
+−99
+1
+Itisevidentthattheselasttwostepswillnowrepeatagainandagain,forever.Thedecimalwillnever
+terminate,sincea0remainderwillneveroccur.Still,itiseasytodescribethequotient:itwillconsist
+of29afterthedecimalpoint,followedbyanendlessstringof09’s.Toindicatethis,weputabarover
+therepeatedstring:
+0.2909090909090909···=0.29
+09.
+Thus,3.2÷11=0.29
+09.
+Weemphasizethatitmaytakeawhileforthedigitstostartrepeating,andthebarisonlyplaced
+overtherepeatingpart.Forexample,therepeatingdecimal
+0.796812341234123412341234...
+iswritten,usingthebarnotation,as
+0.7968
+1234.
+Therepeatedstringcanbequitelong,orjustasingledigit.Herearesomeexamples,whichyou
+shouldverifybycarryingoutthedivisionprocess:
+3÷7=0.
+428571
+2÷11=0.
+09
+5÷3=1.
+6
+Sometimes,wedon’tcarewhetheradecimalterminatesorrepeats.Forexample,ifweknowin
+advancethatwecanroundoﬀouranswertoagivendecimalplace,wecarryoutthedivisiononlyas
+farastherightneighboringplaceandstop(thisgivesusallweneedtoknowtoroundoﬀ).
+Example118. Supposeyoubought900buttonsfor$421.Tothenearestcent,howmuchdidyou
+spendforeachbutton?
+Solution.Weneedtoperformthedivision421÷900.Sinceweareroundingtothenearesthundredth
+(cent),weneedonlycarryoutthedivisionasfarasthethousandthsplace.Sincethethousandths
+placeisthethethirdplacetotherightofthedecimalpoint,weadjointhreeinsigniﬁcant0’stothe
+dividend,settingupthedivisionas421.000÷900.Weomitthedetails,butyoucanverifythatthe
+quotient,carriedouttothreedecimalplaces,is0.467,which,roundedtothenearesthundredth,is0.47.
+Therefore,thebuttonscostapproximately47centseach.
+Ifyoucarriedoutthedivisionprocessalittlefurther,younoticedthatthequotientisactuallya
+repeatingdecimal:
+421÷900=0.46777777···=0.46
+7.
+Page1073.8.1 Exercises
+Performtheindicateddivisions.Usethebarnotationforrepeatingdecimals.Ifyouroundoﬀ,indicate
+towhatplace.
+1.91÷20
+2.14.68÷5
+3.23÷90
+4.86÷71
+5.6.02÷9
+6.4.19÷13
+7.804.09÷215
+8.353÷37
+9.17÷19
+10.38.8÷40
+3.9 Divisionofadecimalbyadecimal
+Whatdowedowhenthedivisorisadecimal?Forexample,howdoweperformthedivision8.61÷2.5?
+Theanswerissimple.Justmultiplyboththedividendanddivisorbyapowerof10suﬃcientlylarge
+tomakethedivisorintoawholenumber,andthenproceedasbefore.Inthisexample,ifwemultiply
+bothnumbersby101,thedivisor2.5turnsintothewholenumber25andthedividendturnsinto86.1.
+Recallthattwofractionsareequivalent,thatis,representthesamenumber,ifoneisobtainedfromthe
+otherbymultiplyingbothnumeratoranddenominatorbythesamenonzeronumber.Inthiscase,the
+convenientchoiceofnonzeromultiplieris101=10,becauseitturnsthedenominator(divisor)intoa
+wholenumber.Thus,
+8.61
+2.5=8.61×10
+2.5×10=86.1
+25.
+Inotherwords,thedivisionproblem8.61÷2.5hasthesamequotientasthedivisionproblem86.1÷25.
+Wedothelatterproblemexactlyasintheprevioussection.
+86.100 253.444
+−75
+111
+−100
+110
+−100
+100
+−100
+0
+Page108Sincetheremainderis0,thequotientisaterminatingdecimal.8.61÷2.5=3.444.(Question:why
+didn’twewrite3.
+4?)
+Example119. Performthedivision32.067÷6.41androundoﬀthequotienttothenearesthundredth.
+Solution.Therearetwodecimalplacesinthedivisor,6.41,somultiplyingitby102=100willgive
+usawholenumber:6.41×102=641.Doingthesametothedividendyieldstheequivalentdivision
+problem,
+3206.7÷641.
+Sinceweareroundingoﬀtothenearesthundredth,wewillneedtocarryoutthedivisiontothe
+thousandthsplace.Wethereforeaddtwoinsigniﬁcant0’stothedividend,andperformthedivisionas
+follows:
+3206.700 6415.002
+−3205
+1700
+−1282
+418
+Sincethedigitinthethousandthsplaceofthequotientislessthan5,wepreservethedigitinthe
+hundredthsplace.Thequotientis≈5.00(tothenearesthundredth).
+3.9.1 Exercises
+Writeeachdivisionasanequivalentdivisionwithawholenumberdivisor.
+1.680.4÷1.01
+2.0.48÷11.4
+3.804.09÷9.18
+4.9.8÷0.0215
+Performthedivisions.
+5.4.19÷0.5
+6.4.09÷0.21
+7.353÷2.5
+8.0.004÷0.002
+9.29.997÷0.01
+Page1093.10Percents,Conversions
+Apercentisafractioninwhichthedenominatoris100.Theword“percent”comesfromtheLatin
+phrasepercentummeaning“outof100,”andissymbolizedby%.Forexample,
+97% means97
+100or0.97.
+Percentsneednotbewholenumbers,andtheyneednotrepresentproperfractions.Forexample,
+150%=150
+100=1.5
+0.5%=0.5
+100=0.005
+Fractions,decimals,andpercentsrepresentthesamequantitiesindiﬀerentways,andweneedto
+knowhowtoconvertonetoanother.
+Adecimalcanbeconvertedtoapercentbymovingthedecimalpointtwoplacestotherightand
+adjoiningthe%symbol.Thisisthesameasmultiplyingthedecimalfractionby100,whichexactly
+cancelsthedenominator,leavingjustthenumerator(thepercent).Thus
+0.68=68%
+2.05=205%
+0.708=70.8%
+1.4=140%
+0.0067=0.67%
+Toconvertapercentbackintoadecimal,wesimplydivideby100,which,asweknow,isequivalent
+tomovingthedecimalpointtwoplacestotheleft.Thus
+92%=0.92
+0.2%=0.002
+138%=1.38
+71.02%=0.7102
+Toconvertapercenttoafraction(ormixednumber),ﬁrstconvertthepercenttoadecimal,as
+above,thenexpressthedecimalasafraction(withavisibledenominator),andﬁnally,reducethefraction
+tolowestterms,ifneeded.
+Example120. Convert10.8%intoafractioninlowestterms.
+Solution.Weﬁrstwrite10.8%asadecimal.
+10.8%=0.108.
+Then,wewritethedecimalasafractionwithavisibledenominator.Inthiscase,becausethereare3
+decimalplaces,thedenominatoris1000.
+0.108=108
+1000.
+Page110Finally,theGCFofthenumeratoranddenominatoris4,sowecancel4frombothofthesenumbers,
+obtainingafractioninlowestterms:
+108
+1000=:27108
+:2501000=27
+250.
+Herearesomecommonpercentswiththeirdecimalandfractionalequivalents(inlowestterms):
+10%=0.1=1
+10,20%=0.2=1
+5,25%=0.25=1
+4,50%=0.5=1
+2.
+Toconvertafractiontoadecimal,wejustperformlongdivision.
+Example121. Convert1
+4toadecimal.
+Solution.Performingthedivision1÷4,weobtain
+1.00 40.25
+−8
+20
+−20
+0
+Thus1
+4=0.25.
+Toconvertafractiontoapercent,ﬁrstconvertittoadecimal,andthenconvertthedecimaltoa
+percent.
+Example122. Convert1
+40toapercent.
+Solution.Performingthedivision1÷40,weobtain0.025(verifythis–itisquitesimilartothelast
+example).Then,weconvert0.025toapercentbymultiplyingby100(equivalently,bymovingthe
+decimalpointtwoplacestotheright).Weobtain
+1
+40=2.5%.
+3.10.1 Exercises
+Convertthefollowingpercentstodecimals.
+1.43%
+2.608%
+Page1113.56.04%
+4.4.09%
+Convertthefollowingdecimalstopercents.
+5.14.09
+6.0.00679
+7.1.384
+8.0.384
+Convertthefollowingdecimalsorpercentstofractions(ormixednumbers)inlowestterms.
+9.44%
+10.2%
+11.0.15
+12.0.25
+13.40%
+14.5%
+15.98%
+16.7.2%
+17.18%
+Convertthefollowingfractions,ﬁrsttodecimals,thentopercents.Roundpercentstothenearesttenth
+ofapercent.
+18.1
+8
+19.1
+6
+20.2
+5
+21.3
+8
+22.3
+4
+23.1
+13
+24.1
+12
+25.5
+12
+Page1123.11Fractionalpartsofnumbers
+Wenowhaveseveralwaysofindicatingafractionalpartofanumber.Forexample,thephrases
+1
+4of 90
+0.25of 90
+25% of 90
+arealldiﬀerentwaysofdescribingthenumber1
+4×90=22.5.Theword“of”indicatesmultiplication.
+Inthecaseofpercent,themultiplicationisdoneafterﬁrstconvertingthepercenttoafractionora
+decimal.
+Thefractionalparttakenneednotbeaproperfractionalpart.Thatis,wecouldendupwithmore
+thanwestartedwith.
+Example123. Find125%of500.
+Solution.Convertingthepercenttothedecimal1.25,andthenmultiplyingby500,weget
+1.25×500=625.
+Example124. SalestaxinNewYorkStateis81
+4%.Whatisthesalestaxonashirtpricedat$25?
+Solution.81
+4=8.25,and8.25%,asadecimal,is.0825.Sothesalestaxona$25shirtis
+.0825×25=2.0625≈$2.06.
+Notethatweroundedoﬀtothenearestcent.
+Example125. Joshspends2
+5ofhisincomeonrent.Ifheearns$1250permonth,howmuchdoeshe
+haveleftover,afterpayinghisrent?
+Solution.Theleftoverpartis3
+5,since1−2
+5=5
+5−2
+5=3
+5.Sohehas
+3
+5×1250=3
+*15×:2501250
+1= $750
+leftoverafterpayingrent.
+3.11.1 Exercises
+1.Find16%of75
+2.Find3
+8of60
+3.Find.05of280
+4.Find150%of105
+5.Find1
+2%of248
+Page1136.A$500televisionisbeingsoldata15%discount.Whatisthesaleprice?
+7.Angelagetsa5%raise.Heroriginalsalarywas$36,000peryear.Whatishernewsalary?
+8.Acarloses2
+5ofitsvalueoveraperiodofyears.Ifthecaroriginallysoldfor$12,500,whatitwould
+itsellfornow?
+9.Onatest,Joseanswers7
+8oftheproblemscorrectly.Iftherewere24problemsonthetest,how
+manydidhegetwrong?
+10.Medicalexpensescanbedeductedfromaperson’sincometaxiftheyexceed2%oftotalincome.
+IfMaribel’smedicalexpenseswere$550,andhertotalincomewas$28,000,canshededucther
+medicalexpenses?
+Page114Chapter4
+RatioandProportion
+Inthischapterwedevelopanotherinterpretationoffractions,ascomparisonsbetweentwoquantities.
+4.1 Ratio
+Ifateamwinstengamesandlosesﬁve,wesaythattheratioofwinstolossesis2:1,or“2to1.”
+Wheredidthenumbers2:1comefrom?Wesimplymadeafractionwhosenumeratoristhenumber
+ofgamestheteamwon,andwhosedenominatoristhenumberofgamestheylost,andreduceditto
+lowestterms:wins
+losses=10
+5=2
+1.
+Wecandothesameforanytwoquantities,aandb,aslongasb/negationslash=0.
+Theratioofatob(b/negationslash=0)isthefractiona
+b,reduced
+tolowestterms.
+Example126. Find(a)theratioof9to18,(b)theratioof21to12,(c)theratioof64to4.
+Solution.(a)Theratioof9to18is
+9
+18=1
+2or1:2.
+(b)Theratioof21to12is
+21
+12=7
+4or7:4.
+(c)Theratioof64to4is
+64
+4=16
+1or16:1.
+Noticethatin(c)weleftthedenominator1(ratherthanjustwriting16)tomaintaintheideaofa
+comparisonbetweentwonumbers.
+Wecanformratiosofnon-wholenumbers.Whentheratioisexpressedinlowestterms,however,
+itisalwaystheratiooftwowholenumbers,assmallaspossible.Thisisthemainpointofaratio
+comparison:ifthegiventwonumbersweresmallwholenumbers,howwouldtheycompare?
+Example127. Whatistheratioof33
+4to11
+2?
+115Solution.Convertingthemixednumberstoimproperfractions,andrewritingthedivisionasmultipli-
+cationbythereciprocal,weobtain
+33
+4÷11
+2=15
+4×2
+3=>5
+15
+>24×>12
+>13=5
+2.
+Theratiois5:2.
+Example128. Whatistheratioof22.5to15?
+Solution.Wecouldperformthedecimaldivision22.5÷15,butitiseasiertosimplifytheequivalent
+fraction225
+150=3
+2.
+Theratiois3:2.
+Whenﬁndingtheratiooftwomeasurablequantities,wemustbesurethequantitiesareexpressed
+inthesameunits.Otherwisetheratiowillbeaskewedorfalsecomparison.
+Example129. Findtheratioof15dollarsto30cents.
+Solution.Ifweformtheratio15
+30=1
+2,weimplythatapersonwalkingaroundwith$15inhispocket
+hashalfasmuchmoneyasapersonwalkingaroundwithonly30cents!Thepropercomparisonis
+obtainedbyconvertingbothnumberstothesameunits.Inthiscase,weconvertdollarstocents.The
+correctratiois1500cents
+30cents=50
+1.
+Example130. Manuelgetsaﬁveminutebreakforeveryhourheworks.Whatistheratioofworktime
+tobreaktime?
+Solution.Since1hour=60minutes,theratioofworktimetobreaktimeis
+55minutes
+5minutes=11
+1.
+Recallthatpercent(%)means“perhundred.”Soapercentcanbeviewedasaratiowhosesecond
+term(denominator)is100.
+Example131. Atacertaincommunitycollege,55%ofthestudentsarefemale.Find(a)theratioof
+femalestudentstothetotalnumberofstudents,and(b)theratiooffemalestudentstomalestudents.
+Solution.55%indicatesthefraction
+55
+100=11
+20,
+sotheratiooffemalestudentstothetotalnumberofstudentsis11:20.For(b),weﬁrstdeducethat
+45%ofthestudentsaremale(since45%=100%−55%).Sotheratiooffemalestudentstomale
+studentsis55
+45=11
+9or11:9.
+Page116Example132. Aprintedpage81
+2inchesinwidthhasamargin5
+8incheswideoneitherside.Textis
+printedbetweenthemargins.Whatistheratioofthewidthoftheprintedtexttothetotalmargin
+width?
+Solution.Thetotalmarginwidthis5
+8+5
+8=5
+4=11
+4inches(takingintoaccountbothleftandright
+margins.)Thewidthoftheprintedtextisthediﬀerence
+totalpagewidth−totalmarginwidth=81
+2−11
+4=71
+4inches.
+Theratioofthewidthoftheprintedtexttototalmarginwidthis
+71
+4÷11
+4=29
+4÷5
+4=29
+4·4
+5=29
+5,
+or29:5.
+4.1.1 Exercises
+Findtheratios.
+1.14to4
+2.30to32
+3.56to21
+4.15
+8to31
+4
+5.21
+12to11
+4
+6.14.4to5.4
+7.1.69to2.6
+8.3hoursto40minutes
+9.8inchesto51
+2feet
+10.Inthelateafternoon,a35foottreecastsan84footshadow.Whatistheratioofthetree’sheight
+totheshadow’slength?
+4.2 Proportions
+Aproportionisastatementthattworatiosareequal.Thus
+40
+20=10
+5
+isaproportion,becausebothratiosareequivalenttotheratio2:1(=thefraction2
+1).
+Page117Aproportionisastatementoftheform
+a
+b=c
+d
+whereb,d/negationslash=0.
+4.2.1 Thecross-productproperty
+Thereisaveryusefulfactaboutproportions:Iftheproportiona
+b=c
+distrue,thenthe“cross-products,”
+adandbc,areequal,and,conversely,ifthecross-productsareequal,thentheproportionmustbetrue.
+Example133. Verifythatthecross-productsareequalinthe(true)proportion
+40
+20=10
+5.
+Solution.40×5=10×20=200.
+Thegeneralcross-productpropertyisstatedbelowforreference:
+a
+b=c
+difandonlyifad=bc.
+Toprovethecross-productproperty,weneedtosayalittlebitaboutequations.Anequationisa
+mathematicalstatementoftheformX=Y.IftheequationX=Yistrue,andNisanynonzero
+number,thenthefollowingequationsarealsotrue,andhaveexactlythesamesolution(s):
+N×X=N×Y andX
+N=Y
+N.
+Nowgobacktotheproportiona
+b=c
+d,andmultiplybothsidesbythenonzeronumberbd.Weget
+bda
+b=bdc
+d.
+Cancellingbontheleftanddontherightyieldsthecross-productproperty,ad=bc.Conversely,if
+wehavefournumbersa,b,c,d,(b,d/negationslash=0),andweknowthatad=bc,then,dividingbothsidesby
+thenonzeronumberbdgivesustheproportiona
+b=c
+d.
+Example134. Decideifthegivenproportionsaretrueorfalse,usingthecross-productproperty.(a)
+3
+11=2
+7;(b)4
+10=6
+15.
+Solution.(a)Thecross-productsare3·7=21and2·11=22.Theyarenotequal,sotheproportion
+isfalse.(b)Thecross-productsare4·15and10·6,bothequalto60.Sotheproportionistrue.
+Page1184.2.2 Solvingaproportion
+Ifoneofthefourtermsofaproportionismissingorunknown,itcanbefoundusingthecross-product
+property.Thisprocedureiscalledsolvingtheproportion.Intheproportionbelow,xrepresentsan
+unknownterm(anyotherletterwoulddo).
+x
+3=34
+51.
+Thereisauniquexwhichmakestheproportiontrue,namely,theonewhichmakesthecross-products,
+51xand34(3),equal.Theequation
+51x=34(3)=102
+canbedividedby51(thenumberwhichmultipliesx)onbothsides,giving
+51x
+51=102
+51.
+Cancellationyields
+>1
+51x
+>1
+51=*2102
+>1
+51=2.
+Itfollowsthat
+x=2
+whichisthesolutionoftheproportion.
+Itdoesn’tmatterwhichofthefourtermsismissing;theproportioncanalwaysbesolvedbyasimilar
+procedure.
+Example135. Solvetheproportion
+9
+100=36
+y
+fortheunknowntermy.
+Solution.Thecross-productsmustbeequal,so
+9y=3600.
+Dividingbothsidesoftheequationby9(thenumberwhichmultipliesy),andcancelling,yields
+>19y
+>19=:4003600
+>19
+y=400.
+Theunknowntermis400.Wecheckoursolutionbyverifyingthatthecross-products
+9(400)=36(100)=3600
+areequal.
+Neitherthetermsnorthesolutionofaproportionarenecessarilywholenumbers.
+Page119Example136. Solvetheproportion
+10
+B=15
+4
+forBandcheckthesolution.
+Solution.Settingthecrossproductsequal,
+40=15B.
+Dividingbothsidesoftheequationby15(thenumbermultiplyingB),andsimplifying,yields
+>8
+40
+>3
+15=15B
+15
+8
+3=B.
+Theunknowntermis8
+3or22
+3.
+Substituting22
+3forBintheoriginalproportion,wecheckthatthecross-productsareequal.
+10(4)?=/parenleftbigg
+22
+3/parenrightbigg
+(15)
+40?=8
+>13>5
+15
+1
+40=40.
+Example137. Solvetheproportion/parenleftbig2
+3/parenrightbig
+5=x
+15.
+Solution.Setthecross-productsequal,andsolveforx:
+2
+3·15=5x
+2
+>13·>5
+15=5x
+10=5x
+2=x.
+Example138. Solvetheproportion
+42
+70=x
+1.5.
+Page120Solution.Wecouldimmediatelysetthecross-productsequal,butitissimplertoﬁrstreducethefraction
+42
+70toitslowestterms,using–bytheway–aproportion:42
+70=3
+5.Stringingtwoproportionstogether
+3
+5=42
+70=x
+1.5
+letsusskipoverthemiddlefraction.Itisevidentthatthesolutiontoouroriginalproportionisthe
+solutiontothesimplerproportion
+3
+5=x
+1.5.
+Settingthecross-productsequal
+4.5=5x,
+weobtainthesolutionx=4.5
+5=0.9.
+Wesummarizetheprocedureforsolvingaproportion.
+Tosolveaproportion,
+1.Reducethenumericalratio(notcontainingthe
+unknown)tolowestterms,ifnecessary;
+2.Setthecross-productsequal;
+3.Dividebothsidesoftheresultingequationby
+thenumbermultiplyingtheunknownterm.
+Tocheckthesolution,
+1.Intheoriginalproportion,replacetheunknown
+termwiththesolutionyouobtained;
+2.Verifythatthecross-productsareequal.
+Equivalenceoffractions,andhence,mostoffractionarithmetic,isbasedonproportion.Toadd
+1
+2+1
+3
+forexample,weﬁrstsolvethetwoproportions
+1
+2=x
+6and1
+3=y
+6
+(ataskwehaveperformeduptonowwithoutmuchcomment)sothatthefractionscanbewrittenwith
+theLCD(6).Then
+1
+2+1
+3=x+y
+6.
+Practice:solvethetwoproportionsforxandy.
+Page1214.2.3 Exercises
+Solvethefollowingproportions.
+1.1
+5=3
+x
+2.15
+y=2
+3
+3.100
+5=20
+y
+4.A
+9=5
+3
+5.11
+B=1
+2
+6.5
+3=c
+6
+7.s
+3=4
+13
+8.1.2
+7=A
+0.84
+9.P
+100=75
+125
+10.31
+5
+x=4
+21
+2
+4.3 Percentproblems
+Anyprobleminvolvingpercentcanbestated(orrestated)intheform
+“AisPpercentofB”
+whereoneofthenumbersA,BorPisunknown.Wecanmakethisintoamathematicalequationby
+makingthefollowing“translations:”
+“is” ←→=
+“Ppercent” ←→P
+100
+“of” ←→×
+Thisgivesustheequation
+A=P
+100×B.
+IfwedividebothsidesoftheequationbyB,weobtaintheproportionintheboxbelow.
+Page122Thestatement“AisPpercentofB”isequivalenttotheproportion
+A
+B=P
+100.
+TheletterBisusedtosuggest“baseamount”–thatis,Bistheamountfromwhich(orofwhich)
+apercentageistaken.NoticethatBfollows“of”intheverbalstatement.ItcouldbethatA(the
+percentagetaken)isgreaterthanB,butonlyifthepercentagePisgreaterthan100.
+Inthefollowingexamples,thephraseinvolving“what,”asin“whatnumber?”or“whatpercent?”
+helpsdeterminewhichofA,BofPistheunknown.
+Example139. 6iswhatpercentof300?
+Solution.Thepercentisunknown,andthebaseamountBis300(sinceitfollowstheword“of”).We
+canrestatethequestionas:“6isPpercentof300.”Thecorrespondingproportionis
+6
+300=P
+100
+andthesolution(verifyit!)isP=2.Therefore,6is2%of300.
+Example140. Whatnumberis8%of150?
+Solution.ThebaseamountBis150,sinceitfollowstheword“of,”thepercentageisP=8,andthere-
+foreAistheunknownamount.Thequestioncanberestatedas:“Ais8%of150.”Thecorresponding
+proportionis
+A
+150=8
+100
+andthesolutionisA=12(verify!).Itfollowsthat12is8%of150.
+(Notethatthisresultcouldhavebeenobtainedwithoutusingaproportion,since8%of150simply
+means.08×150=12.)
+Example141. 58%ofwhatnumberis290?
+Solution.ThebaseamountBisunknown,andAis290.Thequestioncanberestatedas“58%ofB
+is290.”Thecorrespondingproportionis
+290
+B=58
+100
+andthesolutionis29000
+58=500.So58%of500is290.
+Everydayquestionsinvolvingpercentarenotalwaysasstraightforwardasinthepreviousexamples.
+Butwithalittlethought,theycanbeconvertedintosuchstatements.
+Example142. Approximately55%ofthestudentsenrolledatBCCarefemale.Ifthereare2970female
+students,whatisthetotalenrollmentatBCC?
+Page123Solution.Accordingtothegiveninformation,2970is55%ofthetotalenrollment,whichisthebase
+amount,B.Thequestioncanberestatedas“2970is55%ofB”andthecorrespondingproportionis
+therefore2970
+B=55
+100.
+Usinglowesttermsofthefraction55
+100=11
+20,wesolve
+2970
+B=11
+20
+59400=11B
+B=59400
+11=5400.
+Thetotalenrollmentis5400students.Tocheck,verifythat55%of5400is2970.
+Example143. Full-timetuitionatauniversityincreasedfrom$2,850to$3,000.Whatwasthepercent
+increaseinthetuition?(Roundtothenearesttenthofapercent.)
+Solution.Thetuitionincreasedby$3000−2850=$150.Thepercentincreaseistheratio
+amountofincrease
+originaltuition=150
+2850,
+expressedasapercent.Equivalently,wewanttoanswerthequestion“$150iswhatpercentof$2850?”
+Wesolvetheproportion
+150
+2850=P
+100(4.1)
+3
+57=P
+100
+57P=300
+P≈5.26
+Roundedtothenearesttenthofapercent,thetuitionincreasewasapproximately5.3%.
+4.3.1 Exercises
+1.12is20%ofwhatnumber?
+2.12is30%ofwhatnumber?
+3.12is40%ofwhatnumber?
+4.90iswhatpercentof225?
+5.90iswhatpercentof300?
+6.90iswhatpercentof375?
+7.Whatis125%of600?
+8.Whatis175%of600?
+Page1249.250iswhatpercentof325?(Roundtothenearesttenthofapercent.)
+10.108is80%ofwhatnumber?
+11.Abaseballteamwon93games,or62%ofthegamesitplayed.Howmanygamesdidtheteam
+play?
+12.NewYorkStatesalestaxis8.25%.IfthesalestaxonaDVDplayeris$16.50,whatisthe
+(before-tax)priceoftheplayer?
+13.Marina’sannualsalarylastyearwas$56,000.Thisyearshereceivedaraiseof$4,480.Bywhat
+percentdidhersalaryincrease?
+14.Atown’spopulationdecreasedfrom13,000to12,220.Bywhatpercentdidthepopulationde-
+crease?
+4.4 Rates
+Therearelotsofreal-worldquantitieswhichcompareinaﬁxedratio.Forexample,foranygivencar,
+theratioofmilesdriventogallonsofgasused,
+miles
+gallonor “milespergallon”
+isessentiallyunchanging,orﬁxed.Ifweknow,say,that5gallonsofgaswasneededtodrive150
+miles,wecanpredicttheamountthatwillbeneededtodriveanyotherdistance,bysolvingasimple
+proportion.
+Example144. Mayaused5gallonsofgastodrive150miles.Howmanygallonswillsheneedtodrive
+225miles?
+Solution.Wesolvetheproportion
+150miles
+5gallon=225miles
+xgallons,
+wherexrepresentsthenumberofgallonsshewillneed.Beforesettingthecross-productsequal,reduce
+thefractionontheleftsideto30
+1.Then
+30x=225 (4.2)
+x=225
+30=71
+2.
+Shewillneed71
+2gallonsofgastodrive225miles.
+Milespergallonisanexampleofarate,orcomparisonofunlikequantitiesbymeansofaratio.In
+theexampleabove,themilespergallonrateforMaya’scarwas
+150miles
+5gallons=150
+5=30
+1or30milespergallon.
+Otherexamplesofratesare:dollarsperhour(payrateforanhourlyworker),dollarsperitem(priceof
+anitemforsale),caloriesperminute(energyusebyanathlete).Youcanundoubtedlythinkofmany
+others.
+Page125Example145. Arunnerburns375caloriesrunning3.5miles.(a)Howmanycalorieswillsheburnin
+runningamarathon(approximately26miles)?(b)Whatisherrateofenergyuse(caloriespermile)?
+Roundoﬀtothenearestwholeunit.
+Solution.(a)Theratio
+calories
+miles
+isassumedﬁxedand,fromthegiveninformation,isequalto
+375
+3.5.
+Letxdenotethenumberofcaloriestherunnerburnsinrunningamarathon.Then
+375
+3.5=xcalories
+26miles(settingcross-productsequal)
+(375)(26)=3.5x
+x=(375)(26)
+3.5≈2786.
+Shewillburnapproximately2786caloriesrunningthemarathon.(b)Herrateofenergyuseis
+375calories
+3.5miles≈107caloriespermile.
+Example146. Apaintingcrewcanpaintthreeapartmentsinaweek.Ifabuildingcontains40equal
+sizeapartments,howlongwillittakethecrewtopaintalltheapartments?
+Solution.Theratioapartmentspainted
+timeinweeks
+isgivenas3
+1.Ifyisthenumberofweeksneededtopaint40apartments,then
+3
+1=40
+y,
+andy=40
+3=131
+3weeks.
+4.4.1 Exercises
+Useproportionstosolvethefollowingproblems.
+1.Onamap,3
+4inchrepresents14miles.Iftwocitiesare42milesapart,howfarapartaretheyon
+themap?
+2.Atruckburns21
+2quartsofoilonan1800miletrip.Howmanyquartswillbeburnedonacross-
+countrytripof3240miles?
+3.Aninvestmentof$2,000earns$48ininterestoverayear.Howmuchwouldneedtobeinvested
+toearn$200ininterest?(Roundtothenearestdollar.)
+Page1264.Inasampleof600bottles,11werefoundtobeleaking.Approximatelyhowmanybottleswould
+youexpecttobeleakinginasampleof20,000bottles?
+5.Theratiooftheweightofleadtotheweightofanequalvolumeofaluminumis21:5.Ifabarof
+aluminumweighs15pounds,howmuchwouldabarofleadofthesamesizeweigh?
+4.5 Similartriangles
+Twotriangleswhichhavethesameshapebutpossiblydiﬀerentsizesarecalledsimilar.Havingthe
+sameshapemeansthatthethreeanglesofonetriangleareequaltothethreecorrespondinganglesin
+theother.
+Thetrianglesbelowaresimilar,becausetheangleatAinthesmalltriangleisequaltotheangleat
+Dinthebigtriangle(50◦);theangleatBinthesmalltriangleisequaltotheangleatEinthebig
+triangle(95◦);andsimilarlytheangleatCinthesmalltriangleisequaltotheangleatFinthelarge
+triangle(35◦).
+AB
+C50◦95◦
+35◦
+DE
+F50◦95◦
+35◦
+Givenanytriangle,wecanobtainasimilaronebyenlarging(orreducing)allthesidelengthsinaﬁxed
+ratio.Intheexampleabove,thebiggertrianglewasobtainedfromthesmallerusingtheenlargement
+ratio2:1.If
+ABstandsforthelengthofthesideAB,etc.,then
+DE=2×
+AB,
+ EF=2×
+BC, and
+DF=2×
+AC.
+Equivalently,
+DE
+AB=
+EF
+BC=
+DF
+AC=2
+1.
+Inwords:sideswhichareoppositeequalangles(calledcorrespondingsides)havelengthratioequal
+totheratio2:1.Wemustbecarefultocomparesidelengthsintheproperorder.Inthiscase,we
+usedtheorderlarger:smaller,sincethatistheorderintheratio2:1.Wecouldhaveusedthereverse
+order,smaller:larger,butonlyifwealsousedthereversedratio1:2.
+Ifweknow,say,that
+BCis12feet,wecansolvetheproportion
+2
+1=
+EF
+12
+anddeterminethat
+EFis24feet.
+Thisisthekeyfactaboutsimilartriangles.
+Page127Correspondingsidesofsimilartrianglesareproportional:
+If:∠A=∠D,∠B=∠E,and ∠C=∠F,
+AB
+C
+DE
+F
+Then:
+BC
+EF=
+AC
+DF=
+AB
+DE.
+Example147. Thetrianglesbelowaresimilar,with∠D=∠A,∠E=∠Band∠F=∠C.
+AB=
+15feet,
+BC=12feet,and
+DE=22.5feet.Find
+EF.
+A
+BCD
+EF15ft.
+12ft.22.5ft.
+xft.
+Solution.Theratiosofthecorrespondingsidesopposite∠F=∠C(
+DE
+AB)andthecorrespondingsides
+opposite∠D=∠A(
+EF
+BC)areequal:
+DE
+AB=
+EF
+BC.
+Fillinginthegiveninformation,andusingxtorepresenttheunknownsidelength
+EF,wehave
+22.5
+15=x
+12
+(22.5)(12)=15x
+270=15x
+x=270
+15=18.
+EF=18feet.
+Wenowdescribetwowaysofobtainingapairofsimilartriangles.Bothinvolvethenotionofparallel
+linesegments.Twolinesegmentsareparalleliftheydonotcross,evenifextendedinﬁnitelyineither
+direction(thinkofstraighttraintracks).
+Page1281.Iftwosidesofatrianglearejoinedbyalinesegmentparalleltothethirdside,theresulting
+(smaller)triangleissimilartotheoriginaltriangle.
+AB
+C AB
+CDE
+StartingwithtriangleABContheleft,wedrewthesegment
+DE,parallelto
+AB,creating(smaller)
+triangleDEC,similartoABC.Bothtrianglesarevisibleontheright(thesmalleroverlapping
+thelarger),sotherewasreallynoneedtodrawtheﬁrstpicture.Bysimilarity,thecorresponding
+sidesareproportional:
+smallertriangle
+largertriangle
+DE
+AB=
+CD
+CA=
+CE
+CB.
+2.Ifapairofparallellinesegmentsis“cross-connected”asshown,thetwotrianglesformedare
+similar.
+A BC D
+A BC D
+E
+Startingwiththeparallelsegments
+ABand
+CD,weconnectedDtoAandCtoBbymeansof
+straightlines(calledtransversals)whichcrossatpointE.TheupperandloweranglesatEare
+equal.Inaddition,∠D=∠Aand∠C=∠B.(Thesefactsarevisuallyplausible;theywouldbe
+provedinageometryclass.)ItfollowsthattrianglesABEandCDEaresimilarandhence
+uppertriangle
+lowertriangle
+CD
+AB=
+EC
+EB=
+ED
+EA.
+Page129Intheexamplesandexercises,itwillbeconvenienttousethefollowingsymbolism:
+/bardbl←→“isparallelto”
+∼←→“issimilarto”
+/triangle←→“triangle”
+Example148. Inthepicturebelow,
+AB/bardbl
+CD.Someofthesidelengthsaregivenininches.Findthe
+lengthoftheside
+AE.
+BA
+C
+DE
+1.51
+.75
+Solution.Because
+AB/bardbl
+CD,/triangleABE∼/triangleCDE.Correspondingsidesareproportional,hence
+smallertriangle
+biggertriangle
+CD
+AB=
+EC
+EB=
+ED
+EA.
+Inparticular,using
+EC=1,
+EB=1.5,and
+ED=.75,andxforthelengthof
+AE,
+1
+1.5=.75
+x
+orx=(1.5)(.75)=1.125.Thelengthof
+AEis1.125inches.
+Example149. Inthefollowingﬁgure,
+DE/bardbl
+BC.Findthelengthof
+BC.
+A
+E
+CD
+B2ft.
+2ft.4in.2ft.6in.
+Page130Solution./triangleABC∼/triangleADEbecause
+DE/bardbl
+BC.Correspondingsidesareproportional,hence
+AC
+AE=2ft.+2ft.4in.
+2ft.=
+BC
+DE=
+BC
+2ft.6in..
+Convertingallmeasurementstoinches,andlettingxrepresentthelengthof
+BCininches,
+52
+24=x
+30
+whichgivesx=65inches,or5ft.5in.
+4.5.1 Exercises
+Intheﬁrsttwoexercises,thetrianglesaresimilar,andsimilarlymarkedanglesareequal.Findthelength
+xineachcase.
+1.
+1
+1.51.64.5
+x3
+2.
+B CA
+1
+1.41.5D E
+Fx3
+Page1313.Intheﬁgurebelow,
+AC/bardbl
+DE.Findthesidelengthx.
+31
+4.51.5
+x1.4
+AB
+D E
+C
+4.Intheﬁgurebelow,
+AB/bardbl
+DE.Findthesidelengthx.
+2ft.8in. 1ft.4in.6ft.
+x1ft.2in.2ft.4in.
+AB
+D
+E C
+5.Intheﬁgurebelow,
+AB/bardbl
+CD.Findthesidelengthx.
+ABCD
+E
+84
+x11
+4
+Page1326.Intheﬁgure,
+DE/bardbl
+BC.Dcuts
+ABexactlyinhalf.If
+BCis12centimeterslong,howlongis
+DE?
+A
+E
+CD
+B
+7.Intheﬁgurebelow,
+AB/bardbl
+DE,andlengthmeasuresaregiveninmeters.Howlongis
+ABif
+DEhas
+alengthof22
+5meters?
+A
+B
+ECD
+3meters5meters
+Page1338.Intheﬁgurebelow,
+AB/bardbl
+CD.Findthesidelengthx.
+AB
+CD
+E
+xin..64in.
+.50in.1.75in.
+9.A6footmancastsan8footshadowontheground.Howlongistheshadowofanearby32foot
+tree?Drawaﬁgureinvolvingsimilartriangleswhichillustratesthesituation.
+Page134Chapter5
+SignedNumbers
+Inthischapterweexpandthesetofnumbersavailablefordoingarithmetic.Wenowincludenegative
+numbers,whichlietotheleftof0onthenumberline,formingakindof“mirrorimage”ofthepositive
+numbers.Ontheexpandednumberline,eachnumber(except0)hasasign.Thenegativenumbers
+havesign−,andthepositivenumbershavesign+.The+signforpositivenumbersisunderstoodand
+usuallyomitted.0hasnosign.
+| | | | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5
+Theruleofthumb“leftisless”continuestoholdontheexpandednumberline.Thus,forexample,
+−3<−1,since−3liestotheleftof−1onthenumberline.
+Thesetofnegativenumbers(likethesetofpositivenumbers),includesnotjustnegativeintegers,
+butalsonegativefractionssuchas−13
+3=−41
+3,andnegativeirrationalnumbers,suchas−√
+2≈−1.41
+and−π≈−3.14.
+| | | | | | | | | | |
+0 1√
+2 π13
+3 -√
+2 -π -13
+3
+2 3 4 5 −1 −2 −3 −4 −5
+Theabsolutevalueofanumberisitsdistancefrom0onthenumberline.Thesymbolforabsolute
+valueisapairofverticallines,||.Thus|0|=0and
+|−1|=|1|=1, |−√
+2|=|√
+2|=√
+2, |−π|=|π|=π,etc.
+Theabsolutevalueofanumbercannotbenegative,evenifthenumberitselfisnegative.Thisis
+because,intuitively,distanceisanonnegativequantity.
+5.1 Addingsignednumbers
+Todoarithmeticwithsignednumbers,weextendtheordinaryoperationsofaddition,subtraction,
+multiplicationanddivisionsothattheyremainconsistentwiththefamiliaroperationswithnonnegative
+numbers.Wedeﬁnetheextendedadditionoperationintermsofmotionalongthenumberline,as
+follows:
+Toaddapositivenumber, movetotheright;
+Toaddanegativenumber, movetotheleft.
+135Thus,toadd3to2,weimaginestartingat2onthenumberlineandmoving3“steps”totheright,
+arrivingat5.
+| | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5+3
+2+3=5
+Example150. Performthesignednumberaddition2+(−3).
+Solution.Westartat2asbefore,butnowwemove3stepsleft,takingthesignof−3intoaccount.
+| | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5+(−3)
+2+(−3)=−1
+Asthepictureshows,weendupat−1.Weconcludethat2+(−3)=−1.
+Whentwosignednumbersareadded,theorderofadditiondoesnotaﬀectthesum.
+Example151. Performthesignednumberaddition(−3)+2.
+Solution.Thisisjustthepreviousexample,withtheadditioninthereverseorder.Nowwestartat−3,
+andmove2stepsright,takingintoaccountthe(positive)signof2.Wearriveatthesameresult,−1:
+| | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5+2
+(−3)+2=−1
+Moregenerally,foranytwosignednumbers,
+a+b=b+a.
+Addition,extendedtosignednumbers,remainscommutative.
+Example152. Performthesignednumberaddition−11
+2+(−3)inbothpossibleorders.
+Page136Solution.Bothnumbersarenegative,sowemoveconsistentlyleftonthenumberline.Weeitherstart
+at−11
+2andmove3stepsleft,arrivingat
+/parenleftbigg
+−11
+2/parenrightbigg
++(−3)=−/parenleftbigg
+11
+2+3/parenrightbigg
+=−/parenleftbigg3
+2+6
+2/parenrightbigg
+=−9
+2=−41
+2
+(upperarrowinthepicturebelow);orwestartat−3andmove11
+2stepsleft(lowerarrow).Eitherway,
+wearriveat−41
+2.
+| | | | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5+(−3)
++(−11
+2)
+−41
+2−11
+2
+Example153. Performthesignednumberaddition−2.50+3.75.
+Solution.Startingat−2.50,wemoveadistanceof3.75totheright,endingat1.25,asshown.
+| | | | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5+3.75
+−2.50 1.25
+Inthelastexample,theabsolutevalueofthesumwasthediﬀerenceobtainedbysubtractingthe
+smallerabsolutevaluefromthelarger(3.75−2.50=1.25),whilethesignofthesum(+)wasthesame
+asthesignofthenumberwiththelargerabsolutevalue.Thisisnoaccident,butillustratesageneral
+ruleaboutaddingnumberswithoppositesigns.
+Page137Whentwosignednumbersareadded
+•ifthenumbershaveoppositesigns,
+1.thesignofthesumisthesignofthenum-
+berwiththelargerabsolutevalue;
+2.theabsolutevalueofthesumisthediﬀer-
+encebewteenthetwoindividualabsolute
+values(larger−smaller).
+•ifthetwonumbershavethesamesign,
+1.thesignofthesumisthecommonsign
+ofthesummands;
+2.theabsolutevalueofthesumisthesum
+oftheindividualabsolutevalues.
+Example154. Add15+(−18).
+Solution.Thenumbershaveoppositesigns,sothesignofthesumisthesameasthesignofthe
+numberwiththelargerabsolutevalue(−18),i.e.,−.Theabsolutevalueofthesumisthediﬀerence
+|−18|−|15|=18−15=3.Thusthesumis−3.Thisreasoningissummarizedas
+15+(−18)=−(18−15)=−3.
+Example155. Add−7+(−9).
+Solution.Thenumbershavethesamesign,−,sothatisalsothesignofthesum.Theabsolutevalue
+ofthesumisthesumoftheindividualabsolutevalues,|−7|+|−9|=7+9=16.Thusthesumis
+−16.Thereasoningissummarizedas
+−7+(−9)=−(7+9)=−16.
+Example156. Add−3.6+4.9.
+Solution.Thenumbershaveoppositesigns,andthenumberwiththelargerabsolutevalue(4.9)de-
+terminesthesignofthesum(+).Theabsolutevalueofthesumisthediﬀerence|4.9|−|−3.6|=
+4.9−3.6.Thus
+−3.6+4.9=+(4.9−3.6)=+1.3=1.3.
+Example157. Add43
+5+/parenleftbigg
+−71
+3/parenrightbigg
+.
+Page138Solution.Thenumbershaveoppositesigns,andthenumberwiththelargerabsolutevalueisnegative,
+sothesumwillbenegative.Theabsolutevalueofthesumisthediﬀerenceintheindividualabsolute
+values,
+=71
+3−43
+5
+=75
+15−49
+15(usingtheLCD=15)
+=620
+15−49
+15(borrowing1=15
+15from7)
+=211
+15.
+Finally,recallingthatthesignofthesumisnegative,wehave
+43
+5+/parenleftbigg
+−71
+3/parenrightbigg
+=−211
+15.
+5.1.1 Exercises
+Add.
+1.−6+19
+2.12+(−4)
+3.−34+(−28)
+4.266+(−265)
+5.53
+5+/parenleftbigg
+−41
+2/parenrightbigg
+6.−13.38+(−9.03)
+7.−1001.36+909
+8./parenleftbigg
+−3
+4/parenrightbigg
++2
+9./parenleftbigg
+−5
+6/parenrightbigg
++(−5)
+10./parenleftbigg
+31
+5/parenrightbigg
++/parenleftbigg
+25
+8/parenrightbigg
+Useanappropriatesignednumberadditionforthefollowing.
+11.FindthetemperatureatnooninAnchorageifthetemperatureatdawnwas−11◦Fandthe
+temperaturesubsequentlyroseby36◦F.
+12.Findtheheight(infeetabovegroundlevel)ofanelevatorwhichstarted30feetbelowgroundlevel
+andsubsequentlyrose70feet.
+Page1395.1.2 Opposites,Identity
+Thereareexactlytwonumbersatanygivennon-zerodistancefrom0,onenegativeandtheother
+positive.Pairsofnumberssuchas{−13
+3,13
+3},{−√
+2,√
+2},{−π,π},whichareunequalbutequidistant
+from0,andhencehavethesameabsolutevalue,arecalledopposites.(0istheonlynumberwhich
+isitsownopposite,havingabsolutevalue0.)Toﬁndtheoppositeofanonzeronumber,wesimply
+changeitssign.
+Example158. (a)Theoppositeof11is−11.(b)Theoppositeof−1.7is1.7.
+Sincethereareonlytwopossiblesigns,theoppositeoftheoppositeofanumberisthenumberwe
+startedwith.
+TheoppositeoftheoppositeofNisN:
+−(−N)=N.
+Example159. (a)Theoppositeoftheoppositeof5
+8is−/parenleftbigg
+−5
+8/parenrightbigg
+=5
+8.(b)theoppositeoftheopposite
+of−5is−(−(−5))=−5.
+Supposeanonzeronumberisaddedtoitsopposite,forexample,3+(−3).Theruleforadding
+signednumberswithoppositesignsdoesn’tseemtoworkhere:itisnotclearwhatthesignofthesum
+shouldbe.Butinfactitdoesn’tmattersincetheabsolutevalueofthesumis0,whichhasnosign.
+Accordingly,−3+3=0.(Intuitively:ifwestartat3andmove3stepsleft,wearriveat0.)Ingeneral,
+Thesumofanumberanditsoppositeis0:
+N+(−N)=0.
+Example160. (a)1
+7+/parenleftbigg
+−1
+7/parenrightbigg
+=0.(b)−23.04+23.04=0.
+Recallthat0istheadditiveidentityforordinaryadditionbecause,when0isaddedtoanumber,
+theresultistheidenticalnumber,i.e,thenumberdoesnotchange.Thisremainstrueforsigned
+numbers.
+Example161. −4+0=−4.
+5.1.3 Exercises
+Findthefollowing:
+1.Theoppositeof0.062
+2.Theoppositeof−25
+7
+Page1403.−/parenleftbigg
+−/parenleftbigg
+−2
+7/parenrightbigg/parenrightbigg
+4.Thesumof99anditsopposite.
+5.Thesumof−πanditsopposite.
+6.Theoppositeoftheoppositeof−0.25.
+7.Thesumof−5andtheoppositeof5.
+8.−258+(−(−258))
+9.−9.1+(−9.1)
+10.−3
+8+0
+11.0+5.5
+12.4+/parenleftbigg
+22
+3+/parenleftbigg
+−22
+3/parenrightbigg/parenrightbigg
+5.1.4 Associativity
+Anotherimportantpropertyofaddition,associativity,extendstosignednumberaddition.Associativity
+ofadditionmeansthatwhenthreeormorenumbersareadded,itdoesn’tmatterhowyouassociate
+themintogroupsforaddition:x+y+z=(x+y)+z=x+(y+z).Recallthatthispropertyallowed
+ustoaddlongcolumnsofnonnegativenumbers.
+Wecanmakeuseofcolumnadditionwithsignednumbers,too,byassociatingandaddingall
+thepositivenumbers,and,separately,associatingandaddingtheabsolutevaluesofallthenegative
+numbers.Thenweaddthetwosubtotals,treatingthesubtotalassociatedwiththenegativenumbers
+asnegative.Thisway,weapplythesignednumberrulejustonce,attheend.
+Example162. Add:43.6+(−5.8)+(−135)+69.5+(−134)+158.7+(−162.3)
+Solution.Weaddallthepositivenumbers,
+43.6
+69.5
++ 158.7
+271.8
+andtheabsolutevaluesofallthenegativenumbers,
+5.8
+135.
+134.
++ 162.3
+437.1
+Page141Treatingthesubtotalassociatedwiththenegativenumbersasnegative,weadd271.8+(−437.1).By
+theruleforaddingsignednumberswithoppositesigns,
+271.8+(−437.1)=−(437.1−271.8)=−165.3.
+Ifwethinkofpositivenumbersas“proﬁts,”andnegativenumbersas“losses,”thensignednumber
+additionislike“balancingthebooks.”Thereisanetgainifthetotalproﬁtsarelargerthanthetotal
+losses(inabsolutevalue);otherwisethereisanetloss.
+Example163. Lastweek,abusinessreceivedchecksfromclientsintheamountsof$350.65,$461.00
+and$900.78,andpaidbillsintheamountsof$261.50,$551.00and$78.70.Whatwasthenetproﬁt
+orlossfortheweek?
+Solution.Billspaidarelosses,sowetreatthemasnegativenumbers;checksreceivedareproﬁts,counted
+aspositivenumbers.Thetotalproﬁtsare
+350.65
+461.00
++ 900.78
+1,712.43
+andthetotallossesare
+261.50
+551.00
++ 78.70
+891.20
+Aﬃxinganegativesigntothetotallosses,wecalculatethenetproﬁt(orloss)asthesum
+1712.43+(−891.20)=+(1712.43−891.20)=821.23.
+Therewasanetproﬁtof$821.23fortheweek.
+5.1.5 Exercises
+Performtheadditions.
+1.1+(−1)+1+(−1)+1+(−1)
+2.−8.2+(−198.5)+8.2
+3.44+(−5.5)+28.8+36+(−19.1)+(−8)
+4.1
+2+/parenleftbigg
+−1
+3/parenrightbigg
++6
+7
+5./parenleftbigg
+−63
+8/parenrightbigg
++43
+4+/parenleftbigg
+−21
+2/parenrightbigg
++7
+8
+Page1426./parenleftbigg
+−12
+3/parenrightbigg
++/parenleftbigg
+−25
+6/parenrightbigg
++/parenleftbigg
+−81
+3/parenrightbigg
+7.18.50+(−21.25)+(−69.95)+13.50+79.99+(−86.50)
+8.5+/parenleftbigg
+−31
+2/parenrightbigg
++41
+2+/parenleftbigg
+−21
+2/parenrightbigg
++(−4)+/parenleftbigg
+−1
+2/parenrightbigg
++7
+9.FindtheaveragenoontemperaturefortheﬁrstweekofJanuaryinBarrow,Alaskaifthenoon
+temperatureswere:Monday:−8◦F,Tuesday:2◦F,Wednesday:−3◦F,Thursday:−5◦F,Friday:
+1◦F,Saturday:4◦F,Sunday:9◦F.
+10.Findthenetproﬁt(orloss)ofabusinessthatreceivedchecksintheamountsof$453.05,$865.50
+and$300.25,andpaidbillsintheamountsof$561.50,$449.25,$798.75and$75.25.
+5.2 Subtractingsignednumbers
+Thephrase“subtractAfromB”indicatestheoperationB−A.Weextendsubtractiontosigned
+numbersbydeﬁningitintermsofaddition.
+TosubtractasignednumberAfromasignednumberB,
+addBtotheoppositeofA:
+B−A=B+(−A).
+Withthisdeﬁnition,thereisnolongeranyrealneedforaseparateoperationcalledsubtraction.For
+example,insteadofsubtracting17−9,wecouldsimplyadd17+(−9)(verifythattheresultsarethe
+same).Despitethis,itisconvenienttoretaintheoperationofsubtraction.
+Example164. (a)Subtract15from9.(b)Subtract8from−2.
+Solution.(a)9−15=9+(−15).Applyingtheruleforaddingsignednumberswithoppositesigns,
+9+(−15)=−(15−9)=−6.
+(b)−2−8=−2+(−8).Applyingtheruleforaddingsignednumberswiththesamesign,
+−2+(−8)=−(2+8)=−10.
+Example165. Subtract−17from12.
+Solution.12−(−17)=12+(−(−17)).Rememberingthat−(−17)=17(oppositeoftheopposite),
+wehave
+12−(−17)=12+17=29.
+Example166. Subtract(−15)from−32.
+Page143Solution.−32−(−15)=−32+(−(−15))=−32+15.Applyingtheruleforaddingsignednumbers
+withoppositesigns,
+−32−(−15)=−32+15=−(32−15)=−17.
+Example167. Subtract27
+8from15
+6.
+Solution.Addingtheoppositeof27
+8to15
+6,weget
+15
+6+/parenleftbigg
+−27
+8/parenrightbigg
+=−/parenleftbigg
+27
+8−15
+6/parenrightbigg
+=−/parenleftbigg
+221
+24−120
+24/parenrightbigg
+(LCD=24)
+=−11
+24.
+Example168. Performthesubtraction3.359−10.08.
+Solution.3.359−10.08=3.359+(−10.08)=−(10.08−3.359).Weperformthesubtractionofabsolute
+valuesvertically.
+10.080
+− 3.359
+6.721
+Rememberingthatthesignwasnegative,3.359−10.08=−6.721.
+Formerly“impossible”subtractions,suchas
+7−12
+cannowbeeasilyperformed.
+7−12=7+(−12)=−(12−7)=−5.
+Exampleslikethisshowthatsubtractionisnotcommutative:changingtheorderofsubtractionchanges
+theresulttoitsopposite.Ingeneral,foranytwosignednumbers,
+B−A=−(A−B).
+Example169. 22−100=−78=−(100−22).
+Weoftenneedtoﬁndthediﬀerenceoftwounequalquantities.Byconvention,diﬀerenceisgiven
+asapositivequantity.IfthetwoquantitiesareAandB,theirdiﬀerenceiseitherA−BorB−A
+(whicheverispositive).Intuitively,
+diﬀerence=larger−smaller.
+Formally,thediﬀerenceofAandBisdeﬁnedtobetheabsolutevalueofA−B.
+Page144Example170. Findthediﬀerenceintemperaturebetween−2◦Fand50◦F.
+Solution.Intuitively,
+highertemperature−lowertemperature=50−(−2)=52,
+sothetemperaturediﬀerenceis52◦F.Formally,
+|−2−50|=|−52|=52.
+Example171. ThesummitofMountWhitneyinCaliforniais14505feetabovesealevel.Notfaraway,
+inDeathValley,thelowestpointis282feetbelowsealevel.Whatisthealtitudediﬀerencebetween
+MountWhitney’ssummitandthelowestpointinDeathValley?
+Solution.Assigninganegativealtitudetoapointbelowsealevel,thediﬀerenceis
+14505−(−282)=14505+282=14787feet.
+5.2.1 Exercises
+Performthesubtractions.
+1.Subtract31from7
+2.98−100
+3..65−(−6.4)
+4.Subtract5.5from2.4
+5.Subtract−53from68.6
+6.−8.88−(−1.11)
+7.Subtract2.2from1
+5
+8.−87−23
+9.−87−(−23)
+10.53
+8−11
+11.53
+8−(−11)
+12.Subtract3
+5from0.1andexpressthediﬀerenceasafraction.
+13.−2.5−14
+5
+Page14514./parenleftbigg
+−1
+2/parenrightbigg
+−/parenleftbigg
+−2
+3/parenrightbigg
+15.Asnowballat−5◦Cisheateduntilitmeltsandthenboils.Ifwaterboilsat100◦C,byhowmuch
+didthetemperatureofthesnowballrise?
+16.Asunkencarissalvagedfromthebottomofalake.Theelevationofthelakebottomis−66.2feet.
+Thecarisliftedbyacranetoaheight79.5feetabovelakelevel.Throughwhatverticaldistance
+wasthecarlifted?
+5.3 MultiplyingSignedNumbers
+Multiplicationofpositivenumberswasdeﬁnedintermsofrepeatedaddition.Forexample,
+3×4=4+4+4=12.
+Thereisnoproblemextendingthisdeﬁnitiontotheproductofanegativenumberbyapositivenumber.
+3×(−4)=(−4)+(−4)+(−4)=−12.
+Productssuchas
+(−2)×5
+posenoproblemif,forconsistency,wedeﬁnesignednumbermultiplicationtobecommutative(wedo):
+(−2)×5=5×(−2)=(−2)+(−2)+(−2)+(−2)+(−2)=−10.
+Thegeneralruleis:
+Theproductoftwonumberswithoppositesignsisthenegativeoftheproductoftheir
+absolutevalues.
+Example172. Findtheproducts(a)7×(−11)and(b)(−12)×5.
+Solution.Wetakethenegativeoftheproductoftheabsolutevaluesineachcase.(a)7×(−11)=
+−(7×11)=−77.(b)(−12)×5=−(12×5)=−60.
+Whenitcomestotheproductoftwonegativenumbers,ourintuitionfails.Itmakesnosenseto
+“repeatedly”addanumbertoitselfwhenthenumberofrepeatsisnegative!Howshouldwedeﬁne
+(−2)×(−3)?
+Itisbesttogiveuponintuitionandletconsistencyrule.Lookatthepatternbelow:
+4×(−3)=−12 =theoppositeof4×3
+3×(−3)=−9 =theoppositeof3×3
+2×(−3)=−6 =theoppositeof2×3
+1×(−3)=−3 =theoppositeof1×3
+0×(−3)=0 =theoppositeof0×3
+(−1)×(−3)= =?
+(−2)×(−3)= =??
+Page146Itlookslikethepattern“ought”tocontinueasfollows:
+(−1)×(−3)=3 theoppositeof(−1)×3
+(−2)×(−3)=6 theoppositeof(−2)×3
+Wemakethefollowinggeneraldeﬁnition:
+Theproductoftwonegativenumbersisthe(positive!)productoftheirabsolutevalues.
+Example173. Findtheproduct(−8)×(−12).
+Solution.(−8)×(−12)=8×12=96.
+Notethattheproductoftwopositivenumberscouldalsobedeﬁnedasthe(positive)productoftheir
+absolutevalues.Soourdeﬁnitionisconsistentwithwhatwealreadyknowaboutpositivenumbers,and
+applieswhenevernumberswiththesamesignaremultiplied.
+[OPTIONAL:Ifyouﬁndithardtoacceptthattheproductoftwonegativenumbersispositive,
+thefollowingdiscussionmighthelp.Animportantaxiom(fact)ofarithmeticstatesthatmultiplication
+“distributes”overaddition.Thatis,foranythreenumbers,A,BandC,
+A(B+C)=AB+AC.
+Ifsignednumberarithmeticistobeconsistentwiththearithmeticofnonnegativenumbers,thisaxiom
+mustcontinuetohold.Inparticular,ifAandBarepositive,
+(−A)(B+(−B))=(−A)(B)+(−A)(−B).
+Sincethelefthandsideequals0(why?)sodoestherighthandside.Itfollowsthat(−A)(−B)must
+betheoppositeof(−A)(B)=−(−AB)=AB.Inotherwords,itmustbetruethat(−A)(−B)=AB.]
+Hereisasummaryoftherulesformultiplyingsignednumbers.
+Whentwosignednumbersaremultiplied
+•ifthenumbershavethesamesign,theproductispositive.
+•ifthenumbershaveoppositesigns,theproductisnegative.
+Inbothcases,theabsolutevalueoftheproductistheproductof
+theindividualabsolutevalues.
+Intheexamplesandexercisesbelow,wefreelyuseallthreewaysofsymbolizingmultiplication:·,
+×,andjuxtaposition.Itiseasiesttodeterminethesignoftheproductﬁrst,andthencomputewith
+theabsolutevalues.
+Example174. Multiply(−16)×5.
+Solution.(−16)×5=−80(negativesincethenumbershaveoppositesigns).
+Example175. Findtheproduct(−11)·(−12).
+Page147Solution.(−11)·(−12)=132(positivesincethenumbershavethesamesigns).
+Example176. Findtheproduct(−6.30)(−2.05).
+Solution.Theproductispositivesincethenumbershavethesamesign.Temporarilyignoringthe
+decimalpoints,
+630
+× 205
+3150
+1260
+129150
+Insertingfourdecimalplacescountingfromtheright,andrememberingthattheproductispositive,we
+concludethat
+(−6.30)(−2.05)=12.915.
+Example177. Findtheproduct3
+4·/parenleftbigg
+−6
+5/parenrightbigg
+.
+Solution.Thenumbershaveoppositesigns,sotheproductisnegative.
+−/parenleftbigg3
+>24·>36
+5/parenrightbigg
+=−9
+10(pre-cancelling2).
+Example178. Findtheproduct/parenleftbigg
+−21
+2/parenrightbigg/parenleftbigg
+−31
+4/parenrightbigg
+.
+Solution.Thenumbershavethesamesignsotheproductispositive,andwecomputewiththeabsolute
+values.Convertingthemixednumberstoimproperfractionsformultiplication,
+5
+2·13
+4=65
+8=81
+8.
+Recallthezeroproperty,whichstatesthat
+0·x=0andx·0=0, foranynumberx.
+Thisremainstrueforsignednumbers.
+Example179. (−17.1)·0=0.
+Also,1continuestobethemultiplicativeidentity,thatis,
+1·x=x andx·1=x, foranynumberx.
+Example180./parenleftbigg
+−15
+31/parenrightbigg
+·1=−15
+31.
+Page148Multiplication,likeaddition,continuestobeassociativewhenextendedtosignednumbers.Thus
+wecanmultiplyseveralsignednumberswithoutworryinghowwegroupthemformultiplication.One
+consequenceisthatthesignofaproductofseveralsignednumberscanbequicklydeterminedinadvance
+bysimplydeterminingwhetherthenumberofnegativefactorsisevenorodd.
+Thesignofaproductofseveralfactorsis
+•positiveifthenumberofnegativefactorsiseven,
+•negativeifthenumberofnegativefactorsisodd.
+Thisistruebecauseeverypairofnegativefactorshasapositiveproduct.Ifthereisanevennumber
+ofnegativefactors,theycanbe“pairedoﬀ”(inanyconvenientorder),producingaproductofpositive
+numberswhichis,ofcourse,positive.Butifthenumberofnegativefactorsisodd,thereisalwaysone
+“unpaired”negativefactor,whichmakesthetotalproductnegative.
+Example181.
+(−1)(2)(−3)(−4)=−24 (anoddnumber(three)ofnegativefactorsmakesanegativeproduct),
+(−1)(−2)(−3)(−4)=24 (anevennumber(four)ofnegativefactorsmakesapositiveproduct).
+5.3.1 Exercises
+Findtheproducts.
+1.8×(−6)
+2.−9×7
+3.(−6)×(−9)
+4.(−1)×5
+5.(91.4)(−1)
+6.(0)(−88.8)
+7.(−1)×(−1)
+8.(−1)×(−1)×(−1)
+9.6.5×(−31)
+10.(−5.03)×(−0.6)
+11./parenleftbigg7
+9/parenrightbigg
+×0
+12./parenleftbigg6
+7/parenrightbigg/parenleftbigg
+−7
+6/parenrightbigg
+Page14913./parenleftbigg
+−16
+7/parenrightbigg/parenleftbigg
+−11
+2/parenrightbigg
+14.(−1.62)(1000)
+15.1(−1)
+16.(−3)(−50)(−2)
+17.(−3)(0.5)(−0.7)(1)
+18.(3)(−10)(2)(−5)
+19.(−6)(−5)(−4)(−3)(0)
+20./parenleftbigg
+−1
+2/parenrightbigg/parenleftbigg
+−2
+3/parenrightbigg/parenleftbigg
+−3
+8/parenrightbigg/parenleftbigg4
+5/parenrightbigg
+5.4 DividingSignedNumbers
+Recallthattwonumbersarereciprocaliftheirproductis1.Weextendthisdeﬁnitionunchangedto
+signednumbers.Forexample,since
+(−2)×/parenleftbigg
+−1
+2/parenrightbigg
+=1,
+−2and−1
+2arereciprocal.Similarly,−3
+8and−8
+3arereciprocal,since
+/parenleftbigg
+−3
+8/parenrightbigg/parenleftbigg
+−8
+3/parenrightbigg
+=1.
+DivisionbyasignednumberN/negationslash=0canthenbedeﬁned(aswithpositivenumbers)asmultiplication
+bythereciprocalofN,i.e.,
+M÷N=M·1
+N
+foranynumberM.Sinceanumberanditsreciprocalmusthavethesamesign(why?),itfollowsthat
+therulesfordividingsignednumbersareexactlyanalogoustotherulesformultiplyingthem.
+Whentwosignednumbersaredivided(andthedivisorisnonzero)
+•ifthedividendanddivisorhavethesamesign,thequotient
+ispositive
+•ifthedividendandthedivisorhaveoppositesigns,thequo-
+tientisnegative.
+Inbothcases,theabsolutevalueofthequotientisthequotientof
+theindividualabsolutevalues.
+Page150Recallthatafractionbarindicatesdivision,thatis,x
+y=x÷y.Bytherulefordivisionofsigned
+numbers,ifeitherxory(butnotboth)isnegative,thefractionrepresentsanegativenumber.For
+example,supposea,bandcarepositive.Then
+−a
+b=a
+−b=−a
+b.
+Allthreefractionsareequivalent,butitiscustomarytoavoidtheforminthemiddle(withanegative
+numberinthedenominator).Intheexamplesandexercises,weindicatedivisionbythe÷symbolor
+thefractionbarinterchangeably.Itiseasiesttodeterminethesignﬁrst,andthencomputewiththe
+absolutevalues.Fordivisionsofwholenumbers,explicitconversiontoreciprocalmultiplicationisnot
+necessary.
+Example182. Divide24by−6.
+Solution.Thequotient24÷(−6)isnegativesincethenumbershaveoppositesigns.Theabsolutevalue
+is24÷6=4.Thus
+24÷(−6)=−4.
+Example183. Expressthefraction−33
+5asamixednumber.
+Solution.Thefractionrepresentsdivisionofnumberswithoppositesigns,sotheresultisnegative.For
+thedivision33÷5,thequotientis6andtheremainderis3,so
+−33
+5=−63
+5.
+Example184. Find/parenleftbigg
+−25
+9/parenrightbigg
+÷/parenleftbigg
+−1
+6/parenrightbigg
+.
+Solution.Becausethenumbershavethesamesign,thequotientispositive.Weconvertthemixed
+numbertoanimproperfractionandmultiplybythereciprocalofthedivisor.
+/parenleftbigg
+−25
+9/parenrightbigg
+÷/parenleftbigg
+−1
+6/parenrightbigg
+=/parenleftbigg−23
+9/parenrightbigg
+·/parenleftbigg−6
+1/parenrightbigg
+=/parenleftbigg23
+3
+9/parenrightbigg
+·/parenleftbigg
+2
+6
+1/parenrightbigg
+=46
+3
+=151
+3.
+Example185. Divide3.738÷(−100).
+Page151Solution.Thequotientisnegativebecausethenumbershaveoppositesigns.Thus
+3.738÷(−100)=−0.03738.
+(Recallthatdividingadecimalbyapowerof10(102inthiscase)simplyresultsinaleftwardshiftof
+thedecimalpointbyanumberofplacesequaltotheexponenton10.)
+Example186. Divide16÷(−0.25).
+Solution.Thequotientisnegativebecausethesignsareopposite.Wecaneitherperformthelong
+division
+0.25
+)16 equivalentto25
+)1600,
+orconvert0.25tothefraction1
+4andmultiplybyitsreciprocal.Thelatterseemseasier:
+16÷(−0.25)=−/parenleftbigg
+16÷1
+4/parenrightbigg
+=−(16×4)=−64.
+5.4.1 Divisionand0
+Recallthat0canbethenumeratorofafraction,butitcannotbethedenominator.Thisremains
+trueforsignedfractions.Fractionsaredivisions,andconversely,everydivisioncanberepresentedasa
+fraction.Afractionlike0
+−3makessenseandisequalto0,so
+0÷(−3)=0
+−3=−0
+3=−0=0.
+Butthefraction−3
+0,andthereforethedivision(−3)÷0,isundeﬁned.(Youmaywishtoreviewthe
+discussioninSection2.2.1,whereallattemptstomakesenseofafractionwithdenominator0ledto
+failureorcontradiction.)Wesummarizethepropertiesof0withrespecttodivision.
+ForanonzerosignednumberN
+• 0÷N=0
+• N÷0isundeﬁned.
+0÷0isalsoundeﬁned.
+Example187. 0÷(−23)and0
+−71arebothequalto0.
+1.62÷0and−16
+0areundeﬁned.
+Page1525.4.2 Exercises
+Performthedivisions,orstatethattheyareundeﬁned.
+1.(−24)÷(−8)
+2.(−24)÷8
+3.66÷0
+4.30÷(−6)
+5.(−30)÷6
+6.−26
+13
+7.−19
+0
+8.−72
+−18
+9.9.5
+−1.9
+10.601.03÷(−1000)
+11.0÷(−1000)
+12./parenleftbigg4
+5/parenrightbigg
+÷/parenleftbigg
+−25
+32/parenrightbigg
+13./parenleftbigg
+−41
+2/parenrightbigg
+÷/parenleftbigg
+−17
+8/parenrightbigg
+14.−103
+4÷5
+15.100÷1
+4
+16.−110.98÷4
+17..5÷.4
+18.50÷(−.4)
+5.5 PowersofSignedNumbers
+Sinceexponentsindicaterepeatedmultiplication,thereisnoproblemapplyingexponentstosigned
+numbers.
+(−4)3=(−4)(−4)(−4)=−64 and(−2)4=(−2)(−2)(−2)(−2)=16.
+Page153Example188. Evaluate/parenleftbigg
+−3
+2/parenrightbigg3
+.
+Solution.
+/parenleftbigg
+−3
+2/parenrightbigg3
+=/parenleftbigg
+−3
+2/parenrightbigg/parenleftbigg
+−3
+2/parenrightbigg/parenleftbigg
+−3
+2/parenrightbigg
+=−33
+23(theproductofthreenegativefactorsisnegative)
+=−27
+8=−33
+8.
+Example189. Evaluate(−0.2)4.
+Solution.(−0.2)4=(−0.2)(−0.2)(−0.2)(−0.2)=0.0016.(Theproductoffournegativefactorsis
+positive.)
+Thepreviousexamplesshowthat
+Apowerofanegativenumberis
+•negativeiftheexponentisodd,
+•positiveiftheexponentiseven.
+Whenapplyingexponentstosignednumbers,itisessentialtoputparenthesesaroundthenumber,
+includingitssign.Forexample,thesquareof−3iswritten
+(−3)2=(−3)(−3)=9.
+Withoutparentheses,asin
+−32,
+theexponentappliesonlyto3,notto−3,andthisisnotapowerof−3.Rather,−32representsthe
+oppositeof32,so
+−32=−9.
+Example190. Evaluate/parenleftbigg
+−3
+4/parenrightbigg2
+and−/parenleftbigg3
+4/parenrightbigg2
+Solution.Theﬁrstexpressionisthesquareofanegativenumber,whichispositive,
+/parenleftbigg
+−3
+4/parenrightbigg2
+=/parenleftbigg
+−3
+4/parenrightbigg/parenleftbigg
+−3
+4/parenrightbigg
+=9
+16,
+whilethesecondistheoppositeofthesquareofapositivenumber,whichisnegative:
+−/parenleftbigg3
+4/parenrightbigg2
+=−/parenleftbigg3
+4/parenrightbigg/parenleftbigg3
+4/parenrightbigg
+=−9
+16.
+Page154Thebehaviorof0inanexponentialexpression,inparticular,theinterpretationof0asanexponent,
+extendsunchangedtosignednumbers.(YoumaywishtoreviewSection1.4onpowersofwholenumbers
+inChapter1.)
+ForanonzerosignednumberN,
+• N0=1
+• 0N=0
+(00isundeﬁned.)
+Example191. (−3.5)0=1./parenleftbigg
+−1
+2/parenrightbigg0
+=1.04=0. 00isundeﬁned.
+5.5.1 Exercises
+Findthevalueofeachexpression.
+1.82
+2.(−8)2
+3.−82
+4.−63
+5.(−6)3
+6.05
+7./parenleftbigg
+−2
+5/parenrightbigg3
+8.−(−33)
+9.−(−2)4
+10.(.01)3
+11.(10)0
+12.(−9.08)1
+13.(−23)0
+14.−(−1.4)3
+15.(−1)59
+16.00
+Page15517./parenleftbigg
+21
+2/parenrightbigg2
+18./parenleftbigg
+−1
+10/parenrightbigg4
+5.6 SquareRootsandSignedNumbers
+Ifthereisanumberwhosesquareisthenumbern,itiscalledasquarerootofn.Forexample,since
+42=16,4isasquarerootof16.Itisalsotruethat(−4)2=16,so−4isanothersquarerootof16.
+EverypositivenumberNhastwosquareroots,whichare
+opposites:
+•Thepositivesquarerootisdenoted√
+N.
+•Thenegativesquarerootisdenoted−√
+N.
+Asusual,0isaspecialcase.Ithasonlyonesquareroot,itself:
+√
+0=0.
+Wholenumberswhosesquarerootsarealsowholenumbersarecalledperfectsquares.
+Example192. Theﬁrstfewperfectsquaresare0,1,4,9,16and25,because
+√
+0=0,√
+1=1,√
+4=2,√
+9=3,√
+16=4,and√
+25=5.
+Thesquarerootofawholenumberwhichisnotaperfectsquarehasadecimalexpansionwhich
+neitherterminatesnorrepeats.(Suchnumbersarecalledirrational.)Acalculatorwillinformyouthat
+√
+2≈1.41 and√
+3≈1.73 (roundedtothenearesthundredth).
+Example193. Betweenwhattwowholenumbersdo−√
+2and−√
+3lie?Whichnumberislarger?
+Solution.Onthenumberline,−√
+2≈−1.41and−√
+3≈−1.73bothliebetween−1and−2.
+| | | | |
+0√
+2√
+3 -√
+2 -√
+3
+1 2 −1 −2
+Recallingthat“leftisless”onthenumberline,
+−√
+3<−√
+2,
+inotherwords,−√
+2islarger.
+Example194. Betweenwhattwointegersdoes−√
+19lie?
+Page156Solution.Weﬁrstlocatethelargestperfectsquarelessthan19,andthesmallestperfectsquaregreater
+than19.Weﬁndthat19isbetween42and52.Thatis,16<19<25.Itfollows(byageometric
+argumentwegaveinSection1.4.3)that
+4<√
+19<5.
+Thisrelationshiphasa“mirrorimage”onthenegativehalfofthenumberline,asindicatedbelow.
+| | | | | | | | | | |
+0 1 2 3 4 5 −1 −2 −3 −4 −5√
+19 −√
+19
+Weseethat−√
+19liesbetween−5and−4.Moreprecisely,−√
+19isgreaterthan−5andlessthan
+−4,
+−5<−√
+19<−4.
+Thesquarerootofapositivefractionisnotusuallyaquotientofwholenumbers.Theexceptions
+occurwhenthenumeratoranddenominatorofthefractionarebothperfectsquares.Forexample,/radicalbigg
+4
+9=2
+3because/parenleftbigg2
+3/parenrightbigg2
+=4
+9.But/radicalbigg
+2
+5cannotbeevaluatedinthisway.Wecan,however,write
+/radicalbigg
+2
+5=√
+2
+√
+5(since/parenleftbigg√
+2
+√
+5/parenrightbigg2
+=2
+5).
+Thisexpresses/radicalbigg
+2
+5asaquotient,butnotaquotientofwholenumbers.
+Wecomenowtoatroublingfact.
+Squarerootsofnegativenumberscannotbe
+deﬁnedwithinthesystemofsignednumbers.
+Suppose,forexample,therewereanumberwhich,whensquared,yields−4.Thatnumbermusthave
+absolutevalue2,sotheonlypossibilitiesare2and−2.But
+22=(−2)2=4 (not−4).
+Asimilarargumentappliestoanynegativenumber.Itispossibletoexpandthesetofsignednumbers
+soastoremedythisdefect.Thisinvolvesadjoiningsome“imaginary”(asopposedto“real”)numbers.
+Weleavethatforamoreadvancedcourse.Fornow,whenweencounterthesquarerootofanegative
+number,wesimplysaythatitisnotarealnumber.
+Example195.√
+−5isnotarealnumber.
+Page1575.6.1 Exercises
+Findthesquareroots,orstatethattheyarenotrealnumbers.
+1.√
+9
+2.−√
+25
+3.√
+−25
+4.−√
+49
+5./radicalbigg
+81
+4
+6.−/radicalbigg
+121
+144
+7.√
+100
+8.√
+0
+9.−/radicalbigg
+25
+36
+10./radicalbigg
+−64
+−49
+11.−/radicalbigg
+1
+16
+Betweenwhattwointegersdothefollowingsquarerootslie?
+11.√
+7
+12.−√
+7
+13.−√
+30
+Inserttheappropriateinequality(<or>)betweenthefollowingpairsofnumbers.
+14.−√
+10 −√
+8
+15.√
+12√
+15
+5.7 EvaluatingExpressions
+Amathematicalexpressionisanymeaningfulcombinationofnumbers,letters,operationsymbols(such
+as+,−,×,÷,√
+),andgroupingsymbols(suchasparentheses,brackets,fractionbarsandtheextended
+squarerootsymbollike√
+).Forexample,theexpression
+x+y
+x−y
+Page158indicatesafractionwhosenumeratoristhesumoftwounspeciﬁednumbers,xandy,andwhose
+denominatoristheirdiﬀerence.Lettersinamathematicalexpressionarecalledvariablesbecausethey
+representunspeciﬁednumbersthatcantakevariousdiﬀerentvalues.Expressionscanbeevaluated
+(assignedanumericalvalue)ifnumericalvaluesareassignedtoallthevariablesappearinginthe
+expression.
+Example196. Evaluatetheexpressionx+y
+x−yifx=2andy=−6.
+Solution.Wereplaceeachletterbyitsassignednumericalvalue,enclosedinparentheses,
+x+y
+x−y=(2)+(−6)
+(2)−(−6),
+andsimplifytheresultingexpression
+(2)+(−6)
+(2)−(−6)=−4
+8=−1
+2.
+Assigningdiﬀerentvaluestothelettersinanexpressionusuallychangesthevalueoftheexpression.
+Example197. Evaluatetheexpressionx+y
+x−yifx=−3andy=3.
+Solution.Replacingxandybytheirassignedvalues,
+x+y
+x−y=(−3)+(3)
+(−3)−(3)=0
+−6=0.
+Thereasonforreplacingletterswiththeirassignedvaluesinparenthesesistoavoidpitfallssuchas
+theoneshighlightedinthenexttwoexamples.
+Example198. Evaluatex2ifx=−4.
+Solution.Forgettingparentheses,wewouldwritex2=−42=−16,whichiswrong,sincethesquareof
+anynonzeronumberispositive.Thecorrectevaluationis
+x2=(−4)2=16.
+Example199. Evaluateabifa=3andb=−4.
+Solution.Withoutparentheses,wemightthinkab=3−4=−1,mistakenlyturningmultiplicationinto
+subtraction.Thecorrectevaluationis
+ab=(3)(−4)=−12.
+Toevaluatecomplicatedexpressionsconsistently,wemustfollowtheorderofoperations,whichis
+restatedbelowforconvenience.
+Page1591.operationswithingroupingsymbolsﬁrst;
+2.exponentsandrootsnext;
+3.multiplicationsanddivisions(inorderofappearance)next;
+4.additionsandsubtractions(inorderofappearance)last.
+Recallthat“inorderofappearance”meansinorderfromlefttoright,andthatgroupingsymbols
+includeparentheses,brackets,braces(curlybrackets),thesquarerootsymbol,andthefractionbar.
+Example200. Evaluatetheexpressionx−3yifx=4andy=−1
+2.
+Solution.Substitutingtheassignedvalues,andmultiplyingﬁrstaccordingtotheorderofoperations,
+x−3y=(4)−3/parenleftbigg
+−1
+2/parenrightbigg
+=4+3
+2
+=8
+2+3
+2=11
+2= 51
+2.
+Example201. Evaluatea−b−canda−(b−c)ifa=2,b=−11andc=10.
+Solution.Theﬁrstexpressionisevaluatedasfollows:
+a−b−c=(2)−(−11)−(10)
+=13−10 (leftsubtractionbeforerightsubtraction)
+=3.
+Forthesecondexpression,
+a−(b−c)=(2)−/parenleftbigg
+(−11)−(10)/parenrightbigg
+=2−(−21) (subtractionwithingroupingsymbolsﬁrst)
+=23.
+Example202. Evaluate3−(p−r÷t)ifp=3
+4,r=−1
+8andt=5
+12.
+Page160Solution.Withingroupingsymbols,divisioncomesﬁrst.
+3−(p−r÷t)=3−/bracketleftbigg3
+4−/parenleftbigg
+−1
+8/parenrightbigg
+÷/parenleftbigg5
+12/parenrightbigg/bracketrightbigg
+(changingparenthesestobracketsforclarity)
+=3−/bracketleftbigg3
+4−/parenleftbigg
+−1
+>28/parenrightbigg
+·/parenleftbigg
+>3
+12
+5/parenrightbigg/bracketrightbigg
+(divisionasmultiplicationbythereciprocal)
+=3−/bracketleftbigg3
+4−/parenleftbigg
+−3
+10/parenrightbigg/bracketrightbigg
+=3−/bracketleftbigg3
+4+3
+10/bracketrightbigg
+(subtractionwithingroupingsymbolsﬁrst)
+=3−/bracketleftbigg15
+20+6
+20/bracketrightbigg
+(usingtheLCD=20)
+=3−/bracketleftbigg21
+20/bracketrightbigg
+=60
+20−21
+20=39
+20= 119
+20.
+Example203. Evaluate3x3−5x2+13x−4
+x2+2ifx=0.
+Solution.3(0)3−5(0)2+13(0)−4
+02+2=−4
+2=−2.
+Example204. Evaluatetheexpressions√
+a2+b2anda+bifa=−0.6,andb=0.8.
+Solution.Fortheﬁrstexpression,
+/radicalbig
+a2+b2=/radicalBig
+(−0.6)2+(0.8)2
+=√
+.36+.64=√
+1=1.
+Forthesecondexpression,
+a+b=−0.6+0.8
+=0.2.
+Thisexampleshowsthat,ingeneral,/radicalbig
+a2+b2/negationslash=a+b.
+5.7.1 Exercises
+Evaluatetheexpressionsforthegivenvaluesofthevariables.Reducefractionstolowesttermsand
+expressimproperfractionsasmixednumbers.
+1.2a−b ifa=11andb=−5
+2.2rt ifr=5andt=−6
+Page1613.−6x2ifx=−2
+3
+4.p2−q2ifp=−2andq=3
+5.a−ab−b ifa=−0.6andb=0.8
+6.−x2+3y2−8y+5 ifx=−2andy=0
+7.(d−e)(d2+ed+e2) ifd=−1ande=−4
+8.2x+y
+x−2yifx=4andy=−6
+9.2pq−q2ifp=1.2andq=2.3
+10.3a−2b
+5a+bifa=11
+2andb=1
+4
+11./radicalbig
+x2+y2 ifx=2
+3andy=−1
+2
+12.−b+√
+b2−4ac ifa=−2,b=7andc=−3
+5.8 UsingFormulae
+Aformulaexpressesonequantityintermsofothers.Forexample,theformulafortheareaAofa
+rectangleoflengthlandwidthwis
+A=lw.
+Ifweknowthelengthandwidthofarectangle,wecancalculateitsarea,usingtheformula.For
+example,theareaofarectangleofwidth17feetandlength50feetis
+A=lw=(17)(50)=850squarefeet.
+Example205. Theformulaforthedistances(infeet)thatanobjectfallsinatimet(inseconds)is
+s=16t2.
+Usetheformulatodeterminethedistanceanobjectfallsin(a)2seconds;(b)4seconds.
+Solution.Wesubstitutet=2andt=4intotheformula.In2secondstheobjectfalls
+s=16(2)2=64feet,
+while,in4secondsitfalls
+s=16(4)2=256feet.
+Example206. TheformulawhichconvertstemperatureindegreesCelsius(◦C)totemperaturein
+degreesFahrenheit(◦F)is
+F=9
+5C+32.
+Findthetemperaturein◦Fifathermometerreads−10◦C.
+Page162Solution.Substituting(−10)forCintheformula,weﬁnd
+F=9
+5(−10)+32
+=−9
+>15·>2
+10
+1+32
+=−18+32=14.
+Thetemperatureis14◦F.
+Example207. ThePythagoreantheoremgivesaformulaforthelengthcofthehypotenuseofaright
+triangleintermsofthelengthsa,bofitslegs.
+c=/radicalbig
+a2+b2.
+Findthelengthofthehypotenuseofarighttrianglewhoselegshavelengths5and12feet.
+Solution.Weputa=5andb=12inthePythagoreanformula.
+c=/radicalbig
+a2+b2=/radicalBig
+(5)2+(12)2=√
+25+144=√
+169=13feet.
+Example208. Thesemi-perimeterofatrianglewithsidelengthsa,bandcisgivenbytheformula
+s=1
+2(a+b+c).
+Findthesemi-perimeterofatrianglewithsidelengthsa=6ft8in,b=9ft4in,andc=11ft10in.
+Solution.Weconvertallmeasurementstoinches,usingthefactthat1ft=12in.Thus
+a=80in, b=112in, and c=142in.
+Thesemi-perimeteris
+s=1
+2(a+b+c)=1
+2(80+112+142)
+=167in
+=13ft11in.
+Example209. Thechild’sdosageforamedicineisgivenbytheformula
+C=t
+t+12·A,
+whereCisthechild’sdosage,Aistheadultdosage,andtisthechild’sageinyears.Findthedosage
+forafour-yearoldchildiftheadultdosageis48mg(milligrams).
+Solution.Substitutingt=4andA=48,
+C=4
+4+12·48=1
+4·48
+1=12.
+Thechild’sdosageis12mg.
+Page1635.8.1 Exercises
+1.Findtheareaofarectanglewhoselengthis4.8metersandwhosewidthis3.6meters.Usethe
+formula A=lw, whereAisthearea,listhelength,andwisthewidth.
+2.Findtheperimeteroftherectangleintheprecedingexercise,usingtheformula P=2l+2w,
+wherePistheperimeterandl,warethelengthandwidth,respectively.
+3.Findthelengthofthehypotenuseofarighttrianglewhoselegsare0.3yardsand0.4yards.Use
+thePythagoreantheorem.
+4.Howfardoesanobjectfallin3seconds?Usetheformula s=16t2, wheresisthedistance
+fallen(inft),andtisthetime(insec).
+5.Ifathermometerreads22◦C,ﬁndthetemperaturein◦F.UsetheformulaF=9
+5C+32.
+6.Heron’sformula,A=/radicalbig
+s(s−a)(s−b)(s−c),givesthearea(A)ofatriangle(notnecessarily
+arighttriangle)withsidelengthsa,bandc,andsemi-perimeters.UseHeron’sformulaandthe
+semi-perimeterformulas=1
+2(a+b+c)toﬁndtheareaofatrianglewitha=b=c=2ft.
+7.Theformula A=P(1+r)tgivestheamountAofmoneyinabankaccounttyearsafteran
+initialamountPisdeposited,whentheannualinterestrateisr.FindAafter2yearsiftheinterest
+rateis5%(r=.05),andtheinitialdepositwasP=$500.
+8.Findthechild’sdosagefora10-yearold,iftheadultdosageis2.2grams.Usetheformula
+C=t
+t+12·A, whereCisthechild’sdosage,tisthechild’sage,andAistheadultdosage.
+5.9 LinearEquationsinOneVariable
+Anequationisastatementthattwomathematicalexpressionsareequal.Ifthestatementhasjustone
+variable,andif
+•thevariabledoesnotappearinthedenominatorofafraction,
+•thevariabledoesnotappearundera√
+symbol,
+•thevariableisnotraisedtoapowerotherthan1,
+thenwehavealinearequationinonevariable.Herearesomeexamplesoflinearequationsinone
+variable:
+2x+4=8 −3y=12 z−9=−1 2−2
+3t=0.
+Asolutiontoanequationinonevariableisanumberwhich,whensubstitutedforthevariable,makes
+atruestatement.
+Example210. Showthat−4isasolutiontotheequation−3y=12
+Solution.Whenwesubstitute−4foryintheequation,weget
+−3(−4)=12
+12=12, atruestatement.
+Page164Example211. Showthat10isnotasolutiontotheequationz−9=−1.
+Solution.Whenwesubstitute10forzintheequation,weget
+10−9=−1
+−1=1, afalsestatement.
+Example212. Showthat3isasolutiontotheequation2−2
+3t=0,but4isnot.
+Solution.Whenwesubstitute3fort,weobtain
+2−2
+3·3
+1=0
+2−2=0
+0=0, atruestatement.
+Whenwesubstitute4fort,weobtain
+2−2
+3·4
+1=0
+2−8
+3=0,
+−2
+3=0, afalsestatement.
+Hereistheformaldeﬁnitionofthesubjectofthissection.
+Alinearequationinonevariablexisanequationthatcan
+bewrittenintheform
+ax+b=c
+forsomenumbersa,bandc,witha/negationslash=0.
+Suchanequationalwayshasaunique(i.e.,exactlyone)solution.
+5.9.1 Findingsolutions
+Weﬁndsolutionstoequationsusingtwocommon-senseprinciples:
+•Addingequalstoequalsproducesequals,
+•Multiplyingequalsbyequalsproducesequals.
+Page165Forexample,2and2areequals,andsoare3and3.Addingequalstoequals,
+2=2
+3=3
+2+3=2+3
+producesequals:5=5.
+Considerthelinearequation
+x−3=6.
+Althoughwecannotsaythatx−3and6are“equals”(withoutknowingthevalueofx)wecansay
+thatiftheyareequalforsomex,thenaddingequalstobothsides,ormultiplyingbothsidesbyequals,
+willproduceanewpairofequalsforthesamex.Inparticular,ifx−3=6istrueforsomex,soisthe
+equationobtainedbyadding3tobothsides:
+x−3=6
++3
++3
+x=9.
+Thesolutiontothelastequationisobvious(andobviouslyunique):xmustbe9.Itisslightlyless
+obviousthat9isasolutionoftheoriginalequation.Couldtherebesomeothersolutiontotheoriginal
+equation,say,x=p?Ifso,thenp−3=6,andadding3tobothsidesyieldsp=9.Sopisnodiﬀerent
+fromthesolutionwealreadyfound.Weconcludethat9istheuniquesolutionofx−3=6.
+Example213. Findthesolutionoftheequation9=−1
+5zbymultiplyingbothsidesbyequals.Check
+thatyouhaveindeedobtainedtheuniquesolution.
+Solution.Ifwemultiplybothsidesoftheequationby−5,weget
+−5(9)=−5/parenleftbigg
+−1
+5/parenrightbigg
+z
+−45=z.
+Tocheckthat−45isthesolution,substitute−45forzintheoriginalequation,andverifythatatrue
+statementresults.
+9=−1
+5z
+9?=−1
+5(−45)
+9?=>9
+45
+>15
+9=9 atruestatement.
+Equationswhichhavethesamesolutionarecalledequivalent.Asthepreviousexamplesshow,a
+strategyforﬁndingthesolutionofanequationistosystematicallytransformitintosimplerequivalent
+equations,untilwearriveatanequationlikex=8,or−45=z,whosesolutionisobvious.
+Page166Toﬁndthesolution(solve)alinearequationinonevariable,
+wecandooneorbothofthefollowing:
+•addthesamenumbertobothsidesoftheequation;
+•multiplybothsidesoftheequationbythesamenon-
+zeronumber.
+Wecanreplace“add”by“subtract,”and“multiply”by“divide,”ifconvenient.(Thisisbecause
+subtractinganumberisthesameasaddingtheoppositenumber,anddividingbyanonzeronumberis
+thesameasmultiplyingbythereciprocalnumber.)
+Example214. Solvetheequation2x+4=−10andcheckthatthesolutioniscorrect.
+Solution.Firstsubtract4frombothsides:
+2x+4=−10
+−4
+ −4
+2x=−14.
+Thendividebothsidesby2:
+2x=−14
+2·x
+2=*−7
+−14
+>12
+x=−7.
+Thesolutionis−7.Tocheck,wesubstitute−7forxintheoriginalequation,andseeifatruestatement
+results.
+2x+4=−10
+2(−7)+4?=−10
+−14+4?=−10
+−10=−10 atruestatement
+Example215. Solvetheequation26=5−7
+8xandcheckthesolution.
+Solution.Atsomepointitwillbenecessarytomultiplybothsidesbythereciprocalof−7
+8.Butitis
+betternottodothatimmediately.Ifweﬁrstsubtract5frombothsides,thecomputationsareshorter.
+26=5−7
+8x
+−5
+−5
+21=−7
+8x
+Page167Nowwemultiplybothsidesby/parenleftbigg
+−8
+7/parenrightbigg
+−8
+7·21=/parenleftbigg
+−8
+7/parenrightbigg/parenleftbigg
+−7
+8x/parenrightbigg
+−8
+7·>3
+21=/parenleftbigg
+−8
+7/parenrightbigg/parenleftbigg
+−7
+8x/parenrightbigg
+−24=x
+Alinearequationgiveninthestandardform
+ax+b=c (a/negationslash=0)
+issolvedintwosteps:ﬁrst,subtractbfrombothsides;second,dividebothsidesbya.
+Example216. Solvetheequation−x+5=12.
+Solution.Notethat−xmeans−1x.Followingthetwostepprocedure,weﬁrstsubtract5fromboth
+sides,andthendividebothsidesby−1.
+−x+5=12
+−x=7 (subtracting5frombothsides)
+x=−7 (dividingormultiplyingbothsidesby−1)
+Notethatdividingby−1isthesameasmultiplyingby−1,since−1isitsownreciprocal!
+Example217. Solve3x+1
+2=1
+2.
+Solution.Weﬁrstsubtract1
+2frombothsides.
+3x+1
+2=1
+2
+3x=1
+2−1
+2
+3x=0
+x=0.
+Atthelaststep,wedividedbothsidesby3.Recallthat0
+3=0.
+Example218. Fourtimesanumberis−5.6.Whatisthenumber?
+Solution.Letxrepresenttheunknownnumber.Thesentence“Fourtimesanumberis−5.6”isa
+verbalformoftheequation
+4x=−5.6.
+Dividingbothsidesby4yields
+x=−5.6
+4=−1.4.
+Thenumberis−1.4.Itisstraightforwardtocheckthatfourtimes−1.4isindeed−5.6.
+Page1685.9.2 Exercises
+Determineifthegivenvalueofthevariableisasolutionoftheequation.
+1. y+1.6=14.4, y=2
+2. 2x+3=19, x=8
+Solvetheequationsandcheckthesolutions.
+3. x−5=19
+4. 6+y=−2
+5. 9x=45
+6.2
+5t=24
+7. −y−14=5
+8.x
+8=−4
+9. 19t−5=−5
+10. 4x−5=7
+11. 2y−1.6=13.2
+12.2
+3−x
+5=−14
+15
+13. Twelvetimesanumberis108.Whatisthenumber?
+14. Fivemorethananumberis−91
+2.Whatisthenumber?
+Page169

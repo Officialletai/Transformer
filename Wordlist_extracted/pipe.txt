@@ -1,0 +1,39 @@
+n	(music) A wind instrument consisting of a tube, often lined with holes to allow for adjustment in pitch, sounded by blowing into the tube. 
+n	(music) A tube used to produce sound in an organ; an organ pipe. 
+n	The key or sound of the voice. 
+n	A high-pitched sound, especially of a bird. 
+n	A rigid tube that transports water, steam, or other fluid, as used in plumbing and numerous other applications. 
+n	A tubular passageway in the human body such as a blood vessel or the windpipe. 
+n	(slang) A man's penis. 
+n	A large container for storing liquids or foodstuffs; now especially a vat or cask of cider or wine. 
+n	The contents of such a vessel, as a liquid measure, sometimes set at 126 wine gallons; half a tun. 
+n	Decorative edging stitched to the hems or seams of an object made of fabric (clothing, hats, curtains, pillows, etc.), often in a contrasting color; piping. 
+n	A type of pasta similar to macaroni. 
+n	(geology) A vertical conduit through the Earth's crust below a volcano through which magma has passed, often filled with volcanic breccia. 
+n	(lacrosse) One of the goalposts of the goal. 
+n	(mining) An elongated or irregular body or vein of ore. 
+n	(Australia, colloquial, historical) An anonymous satire or essay, insulting and frequently libellous, written on a piece of paper which was rolled up and left somewhere public where it could be found and thus spread, to embarrass the author's enemies. 
+n	(computing) A mechanism that enables one program to communicate with another by sending its output to the other as input. 
+n	(computing, slang) A data backbone, or broadband Internet access. 
+n	(computing, typography) The character |. 
+n	(smoking) A hollow stem with a bowl at one end used for smoking, especially a tobacco pipe but also including various other forms such as a water pipe. 
+n	(Canada, US, colloquial, historical) The distance travelled between two rest periods during which one could smoke a pipe. 
+n	(slang) A telephone. 
+v	(transitive, intransitive) To play (music) on a pipe instrument, such as a bagpipe or a flute. 
+v	(intransitive) To shout loudly and at high pitch. 
+v	(intransitive) To emit or have a shrill sound like that of a pipe; to whistle. 
+v	(intransitive) Of a queen bee: to make a high-pitched sound during certain stages of development. 
+v	(intransitive, metallurgy) Of a metal ingot: to become hollow in the process of solidifying. 
+v	(transitive) To convey or transport (something) by means of pipes. 
+v	(transitive) To install or configure with pipes. 
+v	(transitive) To dab moisture away from. 
+v	(transitive, figuratively) To lead or conduct as if by pipes, especially by wired transmission. 
+v	(transitive, computing, chiefly Unix) To directly feed (the output of one program) as input to another program, indicated by the pipe character (|) at the command line. 
+v	(transitive, cooking) To create or decorate with piping (icing). 
+v	(transitive, nautical) To order or signal by a note pattern on a boatswain's pipe. 
+v	(transitive, slang, of a male) To have sexual intercourse with a female. 
+v	(transitive, slang, dated) To see. 
+v	(US, journalism, slang) To invent or embellish (a story). 
+n	A surname. 
+n	An unincorporated community in Fond du Lac County, Wisconsin, United States. Named after the calumet (pipe) smoked by native Americans. 
+n	(finance) Acronym of private investment in public equity. 

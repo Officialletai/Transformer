@@ -1,0 +1,4 @@
+adv	Very close to, but not quite. 
+adv	(mathematics) Up to, except for a negligible set (where negligible is not universally but contextually defined). 
+adv	(measure theory, probability theory) Up to a null set; except for a set of measure 0. 
+n	(informal) Something or someone that doesn't quite make it. 

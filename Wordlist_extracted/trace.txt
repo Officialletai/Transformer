@@ -1,0 +1,22 @@
+n	An act of tracing. 
+n	An enquiry sent out for a missing article, such as a letter or an express package. 
+n	A mark left as a sign of passage of a person or animal. 
+n	A residue of some substance or material. 
+n	A very small amount. 
+n	(electronics) A current-carrying conductive pathway on a printed circuit board. 
+n	An informal road or prominent path in an arid area. 
+n	One of two straps, chains, or ropes of a harness, extending from the collar or breastplate to a whippletree attached to a vehicle or thing to be drawn; a tug. 
+n	(engineering) A connecting bar or rod, pivoted at each end to the end of another piece, for transmitting motion, especially from one plane to another; specifically, such a piece in an organ stop action to transmit motion from the trundle to the lever actuating the stop slider. 
+n	(fortification) The ground plan of a work or works. 
+n	(geometry) The intersection of a plane of projection, or an original plane, with a coordinate plane. 
+n	(mathematics) The sum of the diagonal elements of a square matrix. 
+n	(grammar) An empty category occupying a position in the syntactic structure from which something has been moved, used to explain constructions such as wh-movement and the passive. 
+v	(transitive) To follow the trail of. 
+v	To follow the history of. 
+v	(transitive) To draw or sketch lightly or with care. 
+v	(transitive) To copy onto a sheet of paper superimposed over the original, by drawing over its lines. 
+v	(transitive, obsolete) To copy; to imitate. 
+v	(intransitive, obsolete) To walk; to go; to travel. 
+v	(transitive, obsolete) To walk over; to pass through; to traverse. 
+v	(computing, transitive) To follow the execution of the program by making it to stop after every instruction, or by making it print a message after every step. 
+n	(colloquial) A short form of the female given name Tracy or Tracey. 

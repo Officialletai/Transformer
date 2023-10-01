@@ -1,0 +1,7 @@
+n	(obsolete, law) Someone who institutes a legal suit; a plaintiff or complainant. 
+n	(obsolete) Someone acting on behalf of someone else; a guardian. 
+n	Someone or something that takes part in some action; a doer, an agent. 
+n	A person who acts a part in a theatrical play or (later) in film or television; a dramatic performer. 
+n	(obsolete, Ancient Rome) An advocate or proctor in civil courts or causes. 
+n	(grammar) The subject performing the action of a verb. 
+n	(software engineering) The entity that performs a role (in use case analysis). 

@@ -1,0 +1,13 @@
+adj	(anatomy) Situated near or toward the surface of the body. 
+adj	(pharmacology, relational) Relating to or denoting a medicine or similar substance for use on the outside of the body. 
+adj	Having merely the outward appearance of something. 
+adj	Not intrinsic or essential. 
+adj	Provided by something or someone outside of the entity (object, group, company etc.) considered. 
+adj	Relating to or connected with foreign nations or institutions. 
+adj	Having existence independent of the mind. 
+adj	(education) For or concerning students registered with and taking the examinations of a university but not resident there. 
+adj	(computing, of a hardware) Not contained in the main computer. 
+adj	(computing, of storage) Using a disk or tape drive rather than the main memory. 
+n	Inessential or superficial features. 
+n	Outward appearance. 
+n	(programming, in the C language) A variable that is defined in the source code but whose value comes from some external source. 

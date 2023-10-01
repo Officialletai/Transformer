@@ -1,0 +1,3 @@
+n	A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc. 
+v	(transitive) To call (someone) using a telephone. 
+n	(phonetics) A speech segment that possesses distinct physical or perceptual properties, considered as a physical event without regard to its place in the phonology of a language. 

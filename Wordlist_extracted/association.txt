@@ -1,0 +1,6 @@
+n	(uncountable) The act of associating. 
+n	(countable) The state of being associated; a connection to or an affiliation with something. 
+n	(statistics) Any relationship between two measured quantities that renders them statistically dependent (but not necessarily causal or a correlation). 
+n	A group of persons associated for a common purpose; an organization; society. 
+n	(object-oriented programming) Relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf. 
+n	(Philippines, Chinese Filipino) A benevolent overseas Chinese organization of popular origin for overseas Chinese individuals with the same surname or trade or business. 

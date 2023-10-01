@@ -1,0 +1,10 @@
+adj	Relating to a particular topic or subject. 
+adj	Relating to a topic or subject of current interest. 
+adj	Local to a particular place 
+adj	(medicine, not comparable) Applied to a localized part of the body. 
+adj	(medicine, not comparable) Applied externally (to the surface of the skin or eye). 
+adj	Arranged according to topic or theme; thematic. 
+n	A substance, especially a medication, applied externally (to the surface of the skin or eye). 
+n	(pharmacology) A topical anaesthetic. 
+n	A joke dealing with current events or topical subjects. 
+n	(philately) A postage stamp depicting a particular theme or subject (such as birds or trains), potentially sought out by topical stamp collectors. 

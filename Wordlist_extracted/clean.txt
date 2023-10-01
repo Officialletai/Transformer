@@ -1,0 +1,33 @@
+adj	Not dirty. 
+adj	In an unmarked condition. 
+adj	(aerodynamics) Allowing an uninterrupted flow over surfaces, without protrusions such as racks or landing gear. 
+adj	(aviation) Having the undercarriage and flaps in the up position. 
+adj	Empty. 
+adj	(of metal) Having relatively few impurities. 
+adj	Pure, especially morally or religiously. 
+adj	Not having used drugs or alcohol. 
+adj	(of criminal, driving, etc. records) Without restrictions or penalties, or someone having such a record. 
+adj	(informal) Not in possession of weapons or contraband such as drugs. 
+adj	(informal) Devoid of profanity. 
+adj	Smooth, exact, and performed well. 
+adj	(obsolete) Total; utter. (still in "clean sweep") 
+adj	(informal) Cool or neat. 
+adj	(health) Being free of sexually transmitted diseases (STDs). 
+adj	That does not damage the environment. 
+adj	Free from that which is useless or injurious; without defects. 
+adj	Free from restraint or neglect; complete; entire. 
+adj	Well-proportioned; shapely. 
+adj	(climbing, of a route) Ascended without falling. 
+n	Removal of dirt. 
+n	(weightlifting) The first part of the event clean and jerk in which the weight is brought from the ground to the shoulders. 
+v	(transitive) To remove dirt from a place or object. 
+v	(transitive) To tidy up, make a place neat. 
+v	(transitive, climbing) To remove equipment from a climbing route after it was previously lead climbed. 
+v	(intransitive) To make things clean in general. 
+v	(transitive, computing) To remove unnecessary files, etc. from (a directory, etc.). 
+v	(intransitive, curling) To brush the ice lightly in front of a moving rock to remove any debris and ensure a correct line; less vigorous than a sweep. 
+v	(manga fandom slang) To purge a raw of any blemishes caused by the scanning process such as brown tinting and poor color contrast. 
+v	(video games) Synonym of clean up 
+v	To remove guts and/or scales of a butchered animal. 
+adv	Fully and completely. 
+n	A surname. 

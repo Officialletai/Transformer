@@ -1,0 +1,4 @@
+adj	Tending to prohibit, preclude, or disallow. 
+adj	Costly to the extreme; beyond budget. 
+adj	(Of a contender in a competition): presumptive winner, likely winner. 
+n	(grammar) A negative imperative. 

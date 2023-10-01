@@ -1,0 +1,3 @@
+n	(historical) During the Middle Ages, a series of battles and other contests designed to prepare knights for war. 
+n	A series of games; either the same game played many times, or a succession of games related by a single theme; played competitively to determine a single winning team or individual. 
+n	(graph theory) A digraph obtained by assigning a direction to each edge in an undirected complete graph. 

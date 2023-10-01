@@ -1,0 +1,8 @@
+v	(transitive) To assess the similarities and differences between two or more things ["to compare X with Y"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y. 
+v	(transitive) To declare two things to be similar in some respect ["to compare X to Y"]. 
+v	(transitive, grammar) To form the three degrees of comparison of (an adjective). 
+v	(intransitive) To be similar (often used in the negative). 
+v	(obsolete) To get; to obtain. 
+n	(uncountable) Comparison. 
+n	(countable, programming) An instruction or command that compares two values or states. 
+n	(uncountable, obsolete) Illustration by comparison; simile. 

@@ -1,0 +1,6 @@
+adv	(duration) For all time, for all eternity; for a lifetime; for an infinite amount of time. 
+adv	(duration, colloquial, hyperbolic) For a very long time, a seeming eternity. 
+adv	(frequency) Constantly or frequently. 
+n	An extremely long time. 
+n	(colloquial) A mythical time in the infinite future that will never come. 
+adj	Permanent, lasting; constant, perpetual. 

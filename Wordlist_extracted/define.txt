@@ -1,0 +1,8 @@
+v	To determine with precision; to mark out with distinctness; to ascertain or exhibit clearly. 
+v	(obsolete) To settle, decide (an argument etc.) 
+v	To express the essential nature of something. 
+v	To state the meaning of a word, phrase, sign, or symbol. 
+v	To describe, explain, or make definite and clear; used to request the listener or other person to elaborate or explain more clearly his or her intended meaning of a word or expression. 
+v	To demark sharply the outlines or limits of an area or concept. 
+v	(mathematics) To establish the referent of a term or notation. 
+n	(programming) A kind of macro in source code that replaces one text string with another wherever it occurs. 

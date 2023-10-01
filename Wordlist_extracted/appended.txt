@@ -1,0 +1,4 @@
+v	(transitive) To hang or attach to, as by a string, so that the thing is suspended 
+v	(transitive) To add, as an accessory to the principal thing; to annex 
+v	(computing) To write more data to the end of a pre-existing file, string, or other object. 
+n	(computing) An instance of writing more data to the end of an existing file. 

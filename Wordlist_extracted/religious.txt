@@ -1,0 +1,4 @@
+adj	Concerning religion. 
+adj	Committed to the practice or adherence of religion. 
+adj	Highly dedicated, as one would be to a religion. 
+n	A member of a religious order, i.e. a monk or nun. 

@@ -1,0 +1,29 @@
+n	(uncountable) The spectral composition of visible light. 
+n	(countable) A particular set of visible spectral compositions, perceived or named as a class. 
+n	(uncountable) Hue as opposed to achromatic colors (black, white and grays). 
+n	These hues as used in color television or films, color photographs, etc (as opposed to the shades of grey used in black-and-white television). 
+n	(heraldry) Any of the standard dark tinctures used in a coat of arms, including azure, gules, sable, and vert. 
+n	A paint. 
+n	(uncountable) Human skin tone, especially as an indicator of race or ethnicity. 
+n	(medicine) Skin color, noted as normal, jaundiced, cyanotic, flush, mottled, pale, or ashen as part of the skin signs assessment. 
+n	A flushed appearance of blood in the face; redness of complexion. 
+n	(figuratively) Richness of expression; detail or flavour that is likely to generate interest or enjoyment. 
+n	(in the plural) A standard or banner. 
+n	(in the plural) The flag of a nation or team. 
+n	(in the plural) Gang insignia. 
+n	(in the plural) An award for sporting achievement, particularly within a school or university. 
+n	(military, in the plural) The morning ceremony of raising the flag. 
+n	(physics) A property of quarks, with three values called red, green, and blue, which they can exchange by passing gluons; color charge. 
+n	(finance, uncountable) A third-order measure of derivative price sensitivity, expressed as the rate of change of gamma with respect to time, or equivalently the rate of change of charm with respect to changes in the underlying asset price. 
+n	(typography) The relative lightness or darkness of a mass of written or printed text on a page. (See type color on Wikipedia.Wikipedia) 
+n	(snooker) Any of the colored balls excluding the reds. 
+n	A front or facade; an ostensible truth actually false; pretext. 
+n	An appearance of right or authority; color of law. 
+adj	Conveying color, as opposed to shades of gray. 
+v	(transitive) To give something color. 
+v	(transitive) To cause (a pipe, especially a meerschaum) to take on a brown or black color, by smoking. 
+v	(intransitive) To apply colors to the areas within the boundaries of a line drawing using colored markers or crayons. 
+v	(of a person or their face) To become red through increased blood flow. 
+v	To affect without completely changing. 
+v	(informal) To attribute a quality to; to portray (as). 
+v	(mathematics, graph theory) To assign colors to the vertices of a graph (or the regions of a map) so that no two vertices connected by an edge (regions sharing a border) have the same color. 

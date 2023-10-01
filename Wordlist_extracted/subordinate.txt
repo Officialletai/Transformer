@@ -1,0 +1,8 @@
+adj	Placed in a lower class, rank, or position. 
+adj	Submissive or inferior to, or controlled by authority. 
+adj	(grammar, of a clause, not comparable) dependent on and either modifying or complementing the main clause 
+adj	Descending in a regular series. 
+n	(countable) One who is subordinate. 
+v	(transitive) To make subservient. 
+v	(transitive) To treat as of less value or importance. 
+v	(transitive, finance) To make of lower priority in order of payment in bankruptcy. 

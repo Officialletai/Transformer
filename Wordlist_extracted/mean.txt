@@ -1,0 +1,32 @@
+v	(transitive) To intend, to plan (to do); to have as one's intention. 
+v	(intransitive) To have as intentions of a given kind. 
+v	(transitive, usually in passive) To intend (something) for a given purpose or fate; to predestine. 
+v	(transitive) To intend an ensuing comment or statement as an explanation.https://www.lexico.com/en/definition/i_mean%20I%20mean 
+v	(transitive) To convey (a given sense); to signify, or indicate (an object or idea). 
+v	(transitive) Of a word, symbol etc: to have reference to, to signify. 
+v	(transitive) Of a person (or animal etc): to intend to express, to imply, to hint at, to allude. 
+v	(transitive) To have conviction in (something said or expressed); to be sincere in (what one says). 
+v	(transitive) To cause or produce (a given result); to bring about (a given result). 
+v	(usually with to) To be of some level of importance. 
+v	(Ireland, UK regional) To lament. 
+adj	(obsolete) Common; general. 
+adj	Of a common or low origin, grade, or quality; common; humble. 
+adj	Low in quality or degree; inferior; poor; shabby. 
+adj	Without dignity of mind; destitute of honour; low-minded; spiritless; base. 
+adj	Of little value or worth; worthy of little or no regard; contemptible; despicable. 
+adj	(chiefly UK) Ungenerous; stingy; tight-fisted. 
+adj	Disobliging; pettily offensive or unaccommodating. 
+adj	Intending to cause harm, successfully or otherwise; bearing ill will towards another. 
+adj	Powerful; fierce; strong. 
+adj	(colloquial) Accomplished with great skill; deft; hard to compete with. 
+adj	(informal, often childish) Difficult, tricky. 
+adj	Having the mean (see noun below) as its value; average. 
+adj	(obsolete) Middling; intermediate; moderately good, tolerable. 
+n	(now chiefly in the plural) A method or course of action used to achieve some result. 
+n	(obsolete, in the singular) An intermediate step or intermediate steps. 
+n	Something which is intermediate or in the middle; an intermediate value or range of values; a medium. 
+n	(music, now historical) The middle part of three-part polyphonic music; now specifically, the alto part in polyphonic music; an alto instrument. 
+n	(statistics) The average of a set of values, calculated by summing them together and dividing by the number of terms; the arithmetic mean. 
+n	(mathematics) Any function of multiple variables that satisfies certain properties and yields a number representative of its arguments; or, the number so yielded; a measure of central tendency. 
+n	(mathematics) Either of the two numbers in the middle of a conventionally presented proportion, as 2 and 3 in 1:2=3:6. 
+n	(web development) Acronym of MongoDB, Express.js, AngularJS, Node.js: a software stack for developing web sites with both client-side and server-side use of JavaScript. 

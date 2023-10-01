@@ -1,0 +1,107 @@
+v	(intransitive) To move forward quickly upon two feet by alternately making a short jump off either foot. (Compare walk.) 
+v	(intransitive) To go at a fast pace; to move quickly. 
+v	(transitive) To cause to move quickly or lightly. 
+v	(transitive or intransitive) To compete in a race. 
+v	(transitive) To transport someone or something, notionally at a brisk pace. 
+v	(transitive, intransitive) Of a means of transportation: to travel (a route). 
+v	(transitive) To transit a length of a river, as in whitewater rafting. 
+v	(intransitive) Of fish, to migrate for spawning. 
+v	(American football, transitive or intransitive) To carry (a football) down the field, as opposed to passing or kicking. 
+v	(transitive) To achieve or perform by running or as if by running. 
+v	(intransitive) To flee from a danger or towards help. 
+v	(figuratively, transitive) To pass (without stopping), typically a stop signal, stop sign, or duty to yield the right of way. 
+v	(transitive, juggling, colloquial) To juggle a pattern continuously, as opposed to starting and stopping quickly. 
+v	(intransitive) Of a liquid, to flow. 
+v	(intransitive, figuratively) To move or spread quickly. 
+v	(intransitive) Of an object, to have a liquid flowing from it. 
+v	(transitive) To make a liquid flow; to make liquid flow from or into an object. 
+v	(intransitive) To become liquid; to melt. 
+v	(intransitive) To leak or spread in an undesirable fashion; to bleed (especially used of dye or paint). 
+v	To fuse; to shape; to mould; to cast. 
+v	(nautical, of a vessel) To sail before the wind, in distinction from reaching or sailing close-hauled. 
+v	(transitive) To control or manage, be in charge of. 
+v	(intransitive) To be a candidate in an election. 
+v	(transitive) To make run in a race. 
+v	(transitive) To make run in an election. 
+v	To exert continuous activity; to proceed. 
+v	(intransitive) To be presented in the media. 
+v	(transitive) To print or broadcast in the media. 
+v	(transitive) To smuggle (illegal goods). 
+v	(transitive, agriculture) To sort through a large volume of produce in quality control. 
+v	(intransitive) To extend in space or through a range (often with a measure phrase). 
+v	(intransitive) To extend in time, to last, to continue (usually with a measure phrase). 
+v	(transitive) To make something extend in space. 
+v	(intransitive) Of a machine, including computer programs, to be operating or working normally. 
+v	(transitive) To make a machine operate. 
+v	(transitive) To execute or carry out a plan, procedure, or program. 
+v	To pass or go quickly in thought or conversation. 
+v	(copulative) To become different in a way mentioned (usually to become worse). 
+v	(transitive) To cost a large amount of money. 
+v	(intransitive) Of stitches or stitched clothing, to unravel. 
+v	To pursue in thought; to carry in contemplation. 
+v	To cause to enter; to thrust. 
+v	To drive or force; to cause, or permit, to be driven. 
+v	To cause to be drawn; to mark out; to indicate; to determine. 
+v	To encounter or incur (a danger or risk). 
+v	To put at hazard; to venture; to risk. 
+v	To tease with sarcasms and ridicule. 
+v	To sew (a seam) by passing the needle through material in a continuous line, generally taking a series of stitches on the needle at the same time. 
+v	To control or have precedence in a card game. 
+v	To be in form thus, as a combination of words. 
+v	(archaic) To be popularly known; to be generally received. 
+v	To have growth or development. 
+v	To tend, as to an effect or consequence; to incline. 
+v	To have a legal course; to be attached; to continue in force, effect, or operation; to follow; to go in company. 
+v	To encounter or suffer (a particular, usually bad, fate or misfortune). 
+v	(golf) To strike (the ball) in such a way as to cause it to run along the ground, as when approaching a hole. 
+v	(video games, rare) To speedrun. 
+n	Act or instance of running, of moving rapidly using the feet. 
+n	Act or instance of hurrying (to or from a place) (not necessarily on foot); dash or errand, trip. 
+n	A pleasure trip. 
+n	Flight, instance or period of fleeing. 
+n	Migration (of fish). 
+n	A group of fish that migrate, or ascend a river for the purpose of spawning. 
+n	A (regular) trip or route. 
+n	The route taken while running or skiing. 
+n	(skiing, bobsledding) A single trip down a hill, as in skiing and bobsledding. 
+n	The distance sailed by a ship. 
+n	A voyage. 
+n	A trial. 
+n	(mathematics, computing) The execution of a program or model 
+n	(video games) A playthrough, or attempted playthrough; a session of play. 
+n	Unrestricted use. Only used in have the run of. 
+n	An enclosure for an animal; a track or path along which something can travel. 
+n	(Australia, New Zealand) Rural landholding for farming, usually for running sheep, and operated by a runholder. 
+n	State of being current; currency; popularity. 
+n	A continuous period (of time) marked by a trend; a period marked by a continuing trend. 
+n	A series of tries in a game that were successful. 
+n	A production quantity (such as in a factory). 
+n	The period of showing of a play, film, TV series, etc. 
+n	(slang) A period of extended (usually daily) drug use. 
+n	(card games) A sequence of cards in a suit in a card game. 
+n	(music) A rapid passage in music, especially along a scale. 
+n	A flow of liquid; a leak. 
+n	(chiefly eastern Midland US, especially Ohio, Pennsylvania, West Virginia) A small creek or part thereof. (Compare Southern US branch and New York and New England brook.) 
+n	A quick pace, faster than a walk. 
+n	(of horses) A fast gallop. 
+n	A sudden series of demands on a bank or other financial institution, especially characterised by great withdrawals. 
+n	Any sudden large demand for something. 
+n	The top of a step on a staircase, also called a tread, as opposed to the rise. 
+n	The horizontal length of a set of stairs 
+n	(construction) Horizontal dimension of a slope. 
+n	A standard or unexceptional group or category. 
+n	(baseball) A score when a runner touches all bases legally; the act of a runner scoring. 
+n	(cricket) The act of passing from one wicket to another; the point scored for this. 
+n	(American football) A running play. 
+n	(golf) The movement communicated to a golf ball by running it. 
+n	(golf) The distance a ball travels after touching the ground from a stroke. 
+n	The distance drilled with a bit, in oil drilling. 
+n	A line of knit stitches that have unravelled, particularly in a nylon stocking. 
+n	(nautical) The stern of the underwater body of a ship from where it begins to curve upward and inward. 
+n	(mining) The horizontal distance to which a drift may be carried, either by licence of the proprietor of a mine or by the nature of the formation; also, the direction which a vein of ore or other substance takes. 
+n	A pair or set of millstones. 
+adj	In a liquid state; melted or molten. 
+adj	Cast in a mould. 
+adj	Exhausted; depleted (especially with "down" or "out"). 
+adj	(of a zoology) Travelled, migrated; having made a migration or a spawning run. 
+adj	Smuggled. 

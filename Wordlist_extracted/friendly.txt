@@ -1,0 +1,11 @@
+adj	Generally warm, approachable and easy to relate with in character. 
+adj	Inviting, characteristic of friendliness. 
+adj	Having an easy or accepting relationship with something. 
+adj	(in compounds) Compatible with, or not damaging to (the compounded noun). 
+adj	Without any hostility. 
+adj	Promoting the good of any person; favourable; propitious. 
+adj	(usually military) Of or pertaining to friendlies (friendly noun sense 2, below). Also applied to other bipolar confrontations, such as team sports. 
+adj	(number theory) Being or relating to two or more natural numbers with a common abundancy. 
+n	(sports) A game which is of no consequence in terms of ranking, betting etc. 
+n	A person or entity on the same side in a conflict. 
+adv	(archaic) In a friendly manner, like a friend. 

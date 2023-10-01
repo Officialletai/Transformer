@@ -1,0 +1,5 @@
+adv	Used for constructing syntactic diminutive comparatives of adjectives and adverbs. 
+adv	To a smaller extent or degree. 
+v	(archaic) To make less; to lessen. 
+adj	(archaic) Lesser; smaller. 
+n	A smaller amount or quantity. 

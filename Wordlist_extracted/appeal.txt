@@ -1,0 +1,23 @@
+n	An application to a superior court or judge for a decision or order by an inferior court or judge to be reviewed and overturned. 
+n	The legal document or form by which such an application is made; also, the court case in which the application is argued. 
+n	A person's legal right to apply to court for such a review. 
+n	(historical) An accusation or charge against someone for wrongdoing (especially treason). 
+n	(historical) A process which formerly might be instituted by one private person against another for some heinous crime demanding punishment for the particular injury suffered, rather than for the offence against the public; an accusation. 
+n	(historical) At common law, an accusation made against a felon by one of their accomplices (called an approver). 
+n	A call to a person or an authority for a decision, help, or proof; an entreaty, an invocation. 
+n	(cricket) The act, by the fielding side, of asking an umpire for a decision on whether a batsman is out or not. 
+n	(figuratively) A resort to some physical means; a recourse. 
+n	(figuratively) A power to attract or interest. 
+n	(rhetoric) A call to, or the use of, a principle or quality for purposes of persuasion. 
+n	(historical) A summons to defend one's honour in a duel, or one's innocence in a trial by combat; a challenge. 
+v	(intransitive) Often followed by against (the inferior court's decision) or to (the superior court): to apply to a superior court or judge for a decision or order by an inferior court or judge to be reviewed and overturned. 
+v	(transitive, originally US) To apply to a superior court or judge to review and overturn (a decision or order by an inferior court or judge). 
+v	(transitive, historical) To accuse or charge (someone) with wrongdoing (especially treason). 
+v	(transitive, historical) Of a private person: to instituted legal proceedings (against another private person) for some heinous crime, demanding punishment for the particular injury suffered. 
+v	(transitive, historical) Of the accomplice of a felon: to make an accusation at common law against (the felon). 
+v	(intransitive) To call upon a person or an authority to corroborate a statement, to decide a controverted question, or to vindicate one's rights; to entreat, to invoke. 
+v	(intransitive, cricket) Of a fielding side; to ask an umpire for a decision on whether a batsman is out or not, usually by saying "How's that?" or "Howzat?". 
+v	(intransitive) To call upon someone for a favour, help, etc. 
+v	(intransitive, figuratively) To have recourse or resort to some physical means. 
+v	(intransitive, figuratively) To be attractive. 
+v	(transitive, historical) To summon (someone) to defend their honour in a duel, or their innocence in a trial by combat; to challenge. 

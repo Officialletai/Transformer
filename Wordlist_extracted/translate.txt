@@ -1,0 +1,10 @@
+v	(transitive) To change spoken words or written text (of a book, document, movie, etc.) from one language to another. 
+v	(intransitive) To provide a translation of spoken words or written text in another language; to be, or be capable of being, rendered in another language. 
+v	(transitive) To express spoken words or written text in a different (often clearer or simpler) way in the same language; to paraphrase, to rephrase, to restate. 
+v	(transitive) To change (something) from one form or medium to another. 
+v	(intransitive) To change, or be capable of being changed, from one form or medium to another. 
+v	(transitive, genetics) To generate a chain of amino acids based on the sequence of codons in an mRNA molecule. 
+v	Senses relating to a change of position. 
+v	(transitive, archaic) To move (something) from one place or position to another; to transfer. 
+v	(transitive, obsolete) To entrance (“place in a trance”), to cause to lose recollection or sense. 
+n	(mathematical analysis) In Euclidean spaces: a set of points obtained by adding a given fixed vector to each point of a given set. 

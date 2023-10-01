@@ -1,0 +1,10 @@
+n	(uncountable) An opinion offered to guide behavior in an effort to be helpful. 
+n	(uncountable, obsolete) Deliberate consideration; knowledge. 
+n	(archaic, commonly in plural) Information or news given; intelligence 
+n	(countable) In language about financial transactions executed by formal documents, an advisory document. 
+n	(uncountable) In commercial language, information communicated by letter; used chiefly in reference to drafts or bills of exchange 
+n	(countable, law) A communication providing information, such as how an uncertain area of law might apply to possible future actions 
+n	(uncountable, law) Counseling to perform a specific legal act. 
+n	(uncountable, law) Counseling to perform a specific illegal act. 
+n	(countable, programming) In aspect-oriented programming, the code whose execution is triggered when a join point is reached. 
+v	Misspelling of advise. [(transitive) To give advice to; to offer an opinion to, as worthy or expedient to be followed.] 

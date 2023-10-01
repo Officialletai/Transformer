@@ -1,0 +1,14 @@
+adj	Erect, not cut down. 
+adj	Performed from an erect position. 
+adj	Remaining in force or status. 
+adj	Stagnant; not moving or flowing. 
+adj	Not transitory; not liable to fade or vanish; lasting. 
+adj	Not movable; fixed. 
+n	Position or reputation in society or a profession. 
+n	Duration. 
+n	The act of a person who stands, or a place where someone stands. 
+n	(sports) The position of a team in a league or of a player in a list. 
+n	(Britain) Room in which to park a vehicle or vehicles 
+n	(law) The right of a party to bring a legal action, based on the relationship between that party and the matter to which the action relates. 
+n	(UK, slang, obsolete) The location on a street where a market trader habitually operates. 
+n	A surname. 

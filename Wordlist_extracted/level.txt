@@ -1,0 +1,30 @@
+adj	The same height at all places; parallel to a flat ground. 
+adj	At the same height as some reference; constructed as level with. 
+adj	Unvaried in frequency. 
+adj	Unvaried in volume. 
+adj	Calm. 
+adj	In the same position or rank. 
+adj	Straightforward; direct; clear. 
+adj	Well balanced; even; just; steady; impartial. 
+adj	(phonetics) Of even tone; without rising or falling inflection; monotonic. 
+adj	(physics) Perpendicular to a gravitational force. 
+n	A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference. 
+n	A distance relative to a given reference elevation. 
+n	Degree or amount. 
+n	Achievement or qualification. 
+n	(computer science) Distance from the root node of a tree structure. 
+n	(video games) One of several discrete segments of a game, generally increasing in difficulty and representing different locations in the game world. 
+n	(role-playing games, video games) A numeric value that quantifies a character, ability, or item's experience and power. 
+n	A floor of a multi-storey building. 
+n	(Britain) An area of almost perfectly flat land. 
+n	(Singapore, education) A school grade or year. 
+v	To adjust so as to make as flat or perpendicular to the ground as possible. 
+v	To destroy by reducing to ground level; to raze. 
+v	(role-playing games, video games) To progress to the next level. 
+v	To aim or direct (a weapon, a stare, an accusation, etc). 
+v	To direct or impose (a penalty, fine, etc) at or upon (someone). 
+v	(sports) To make the score of a game equal. 
+v	(figuratively) To bring to a common level or plane, in respect of rank, condition, character, privilege, etc. 
+v	To adjust or adapt to a certain level. 
+v	(usually with "with") To speak honestly and openly with. 
+n	A surname from French. 

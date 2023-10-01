@@ -1,0 +1,5 @@
+adv	For every hundred (used with preceding numeral to form a noun phrase expressing a proportion). 
+n	A percentage, a proportion (especially per hundred). 
+n	One part per hundred; one percent. 
+n	The percent sign, %. 
+n	An annuity or security with a certain fixed and guaranteed annual percentage rate of return or percentage dividend. 

@@ -1,0 +1,4 @@
+v	To deny the existence, evidence, or truth of; to contradict. 
+v	To nullify or cause to be ineffective. 
+v	To be negative; bring or cause negative results. 
+v	(computing) To perform the NOT operation on. 

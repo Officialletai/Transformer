@@ -1,0 +1,25 @@
+v	(transitive, intransitive) To fail to hit. 
+v	(transitive) To fail to achieve or attain. 
+v	(transitive) To avoid; to escape. 
+v	(transitive) To become aware of the loss or absence of; to feel the want or need of, sometimes with regret. 
+v	(transitive) To fail to understand; 
+v	(transitive) To fail to notice; to have a shortcoming of perception; overlook. 
+v	(transitive) To fail to attend. 
+v	(transitive) To be late for something (a means of transportation, a deadline, etc.). 
+v	(transitive) To be wanting; to lack something that should be present. 
+v	(transitive, slang) To spare someone of something unwanted or undesirable. 
+v	(poker, said of a card) To fail to help the hand of a player. 
+v	(sports) To fail to score (a goal). 
+v	(intransitive, obsolete) To go wrong; to err. 
+v	(intransitive, obsolete) To be absent, deficient, or wanting. 
+n	A failure to hit. 
+n	A failure to obtain or accomplish. 
+n	An act of avoidance (usually used with the verb give) 
+n	(computing) The situation where an item is not found in a cache and therefore needs to be explicitly loaded. 
+n	A title of respect for a young woman (usually unmarried) with or without a name used. 
+n	An unmarried woman; a girl. 
+n	A kept woman; a mistress. 
+n	(card games) In the game of three-card loo, an extra hand, dealt on the table, which may be substituted for the hand dealt to a player. 
+n	Form of address for a teacher or a waitress. 
+n	Initialism of medium intensity steady state. 
+n	Initialism of microbially induced sedimentary structure. 

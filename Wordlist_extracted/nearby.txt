@@ -1,0 +1,3 @@
+adj	adjacent, near, close by 
+adv	next to, close to 
+n	(finance) A futures contract, of a particular group, whose settlement date is the earliest. 

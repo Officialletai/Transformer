@@ -1,0 +1,3 @@
+adj	(now rare) Opposing; offering resistance (to). 
+adj	Not wanting to take some action; unwilling. 
+adj	(regular expressions) Tending to match as little text as possible. 

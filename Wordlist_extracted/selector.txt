@@ -1,0 +1,7 @@
+n	Someone or something which selects or chooses. 
+n	(cricket) An administrator responsible for selecting which players will play for a side. 
+n	(computing) A matching expression in a stylesheet determining which elements in the markup are affected by a style. 
+n	(computing) A pointer to a structure describing a segment of memory. 
+n	(Internet, historical) A text string transmitted to a Gopher server, identifying the resource to be retrieved. 
+n	(music) A disc jockey. 
+n	(Australia, historical) A person who is entitled to choose a tract of Crown land to purchase. 

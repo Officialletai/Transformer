@@ -1,0 +1,2 @@
+adj	That has been given a definite format 
+adj	(computing, of a storage medium) That has been physically arranged to be in a state ready for the storage of data 

@@ -1,0 +1,31 @@
+adj	Situated toward or at the front of something. 
+adj	(of troops, guns etc.) Situated toward or near the enemy lines. 
+adj	Acting in or pertaining to the direction in which someone or something is facing. 
+adj	Acting in or pertaining to the direction of travel or movement. 
+adj	(figuratively) Moving in the desired direction of progress. 
+adj	Having the usual order or sequence. 
+adj	(finance, commerce) Expected or scheduled to take place in the future. 
+adj	Advanced beyond the usual degree; advanced for the season; precocious. 
+adj	Without customary restraint or modesty; bold, cheeky, pert, presumptuous or pushy. 
+adj	(obsolete) Ready; prompt; ardently inclined; in a bad sense, eager or hasty. 
+adv	At, near or towards the front of something. 
+adv	(nautical) At, near, or towards the bow of a vessel (with the frame of reference within the vessel). 
+adv	In the direction in which someone or something is facing. 
+adv	In the desired or usual direction of movement or progress, physically or figuratively; onwards. 
+adv	So that front and back are in the usual orientation. 
+adv	In the usual order or sequence. 
+adv	Into the future. 
+adv	To an earlier point in time. See also bring forward. 
+v	(transitive) To advance, promote. 
+v	(transitive) To send (a letter, email etc.) on to a third party. 
+v	(transitive, bookbinding) To assemble (a book) by sewing sections, attaching cover boards, and so on. 
+n	(rugby) One of the eight players (comprising two props, one hooker, two locks, two flankers and one number eight, collectively known as the pack) whose primary task is to gain and maintain possession of the ball (compare back). 
+n	(soccer) A player on a team in football (soccer) in the row nearest to the opposing team's goal, who are therefore principally responsible for scoring goals. 
+n	(ice hockey) An umbrella term for a centre or winger in ice hockey. 
+n	(basketball) The small forward or power forward position; two frontcourt positions that are taller than guards but shorter than centers. 
+n	(nautical) The front part of a vessel. 
+n	(Internet) An e-mail message that is forwarded to another recipient or recipients; an electronic chain letter. 
+n	(finance) A direct agreement between two parties to buy or sell an asset at a specific point in the future; distinguished from a futures contract in that the latter is standardized and traded on an exchange. 
+n	(dialectal or obsolete) Agreement; covenant. 
+n	A surname. 
+n	Misspelling of foreword (“preface or introduction”).. [An introductory section preceding the main text of a book or other document; a preface or introduction.] 

@@ -1,0 +1,24 @@
+n	The boundary line of a surface. 
+n	(geometry) A one-dimensional face of a polytope. In particular, the joining line between two vertices of a polygon; the place where two faces of a polyhedron meet. 
+n	An advantage. 
+n	(also figuratively) The thin cutting side of the blade of an instrument, such as an ax, knife, sword, or scythe; that which cuts as an edge does, or wounds deeply, etc. 
+n	A sharp terminating border; a margin; a brink; an extreme verge. 
+n	Sharpness; readiness or fitness to cut; keenness; intenseness of desire. 
+n	The border or part adjacent to the line of division; the beginning or early part (of a period of time) 
+n	(cricket) A shot where the ball comes off the edge of the bat, often unintentionally. 
+n	(graph theory) A connected pair of vertices in a graph. 
+n	A level of sexual arousal that is maintained just short of reaching the point of inevitability, or climax. 
+v	(transitive) To move an object slowly and carefully in a particular direction. 
+v	(intransitive) To move slowly and carefully in a particular direction. 
+v	(usually in the form 'just edge') To win by a small margin. 
+v	(cricket, transitive) To hit the ball with an edge of the bat, causing a fine deflection. 
+v	(transitive) To trim the margin of a lawn where the grass meets the sidewalk, usually with an electric or gas-powered lawn edger. 
+v	(transitive) To furnish with an edge; to construct an edging. 
+v	To furnish with an edge, as a tool or weapon; to sharpen. 
+v	(figuratively) To make sharp or keen; to incite; to exasperate; to goad; to urge or egg on. 
+v	(intransitive, slang) To delay one's orgasm so as to remain almost at the point of orgasm. 
+n	(Scouting, education) Explain, demonstrate, guide, enable; an educating method. 
+n	(gridiron football) Notation for an edge rusher. 
+n	A surname. 
+n	(computing) Microsoft Edge 
+n	(mobile telephony) Acronym of Enhanced Data rates for GSM Evolution. 

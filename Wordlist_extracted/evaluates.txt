@@ -1,0 +1,3 @@
+v	(transitive) To draw conclusions from examining; to assess. 
+v	(transitive, mathematics, computing) To compute or determine the value of (an expression). 
+v	(intransitive, computing, mathematics) To return or have a specific value. 

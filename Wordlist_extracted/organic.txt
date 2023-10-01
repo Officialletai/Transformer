@@ -1,0 +1,13 @@
+adj	(biology) Pertaining to or derived from living organisms. 
+adj	(physiology, medicine) Pertaining to an organ of the body of a living organism. 
+adj	(chemistry) Relating to the compounds of carbon, relating to natural products. 
+adj	(agriculture) Of food or food products, grown in an environment free from artificial agrichemicals, and possibly certified by a regulatory body. 
+adj	(sociology) Describing a form of social solidarity theorized by Emile Durkheim that is characterized by voluntary engagements in complex interdependencies for mutual benefit (such as business agreements), rather than mechanical solidarity, which depends on ascribed relations between people (as in a family or tribe). 
+adj	(military) Of a military unit or formation, or its elements, belonging to a permanent organization (in contrast to being temporarily attached). 
+adj	Instrumental; acting as instruments of nature or of art to a certain destined function or end. 
+adj	(Internet, of search results) Generated according to the ranking algorithms of a search engine, as opposed to paid placement by advertisers. 
+adj	Developing in a gradual or natural fashion. 
+adj	Harmonious; coherent; structured. 
+n	(chemistry) An organic compound. 
+n	An organic food. 
+n	(science fiction) A living organism, as opposed to a robot or hologram. 

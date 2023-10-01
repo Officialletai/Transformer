@@ -1,0 +1,12 @@
+n	The act of suspending, or the state of being suspended. 
+n	A temporary or conditional delay, interruption or discontinuation. 
+n	(chemistry, physics) The state of a solid or substance produced when its particles are mixed with, but not dissolved in, a fluid, and are capable of separation by straining. 
+n	Thus a kind of silt or sludge. 
+n	The act of keeping a person who is listening in doubt and expectation of what is to follow. 
+n	The temporary barring of a person from a workplace, society, etc. pending investigation into alleged misconduct. 
+n	(education) The process of barring a student from school grounds as a form of punishment (particularly out-of-school suspension). 
+n	(music) The act of or discord produced by prolonging one or more tones of a chord into the chord which follows, thus producing a momentary discord, suspending the concord which the ear expects. 
+n	(Scotland, law) A stay or postponement of the execution of a sentence, usually by letters of suspension granted on application to the Lord Ordinary. 
+n	(topology) A topological space derived from another by taking the product of the original space with an interval and collapsing each end of the product to a point. 
+n	(topology) A function derived, in a standard way, from another, such that the instant function’s domain and codomain are suspensions of the original function’s. 
+n	(vehicles) The system of springs and shock absorbers connected to the wheels in an automobile, which allows the vehicle to move smoothly with reduced shock to its occupants. 

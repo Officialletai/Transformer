@@ -1,0 +1,24 @@
+n	A length of time. 
+n	A period of time in history seen as a single coherent entity; an epoch, era. 
+n	(now chiefly Canada, US, Philippines) The punctuation mark “.” (indicating the ending of a sentence or marking an abbreviation). 
+n	(figuratively) A decisive end to something; a stop. 
+n	The length of time during which the same characteristics of a periodic phenomenon recur, such as the repetition of a wave or the rotation of a planet. 
+n	(euphemistic) Female menstruation; an episode of this. 
+n	A section of an artist's, writer's (etc.) career distinguished by a given quality, preoccupation etc. 
+n	Each of the divisions into which a school day is split, allocated to a given subject or activity. 
+n	(sports, chiefly ice hockey) Each of the intervals, typically three, of which a game is divided. 
+n	(sports, chiefly ice hockey) One or more additional intervals to decide a tied game, an overtime period. 
+n	(obsolete, medicine) The length of time for a disease to run its course. 
+n	An end or conclusion; the final point of a process etc. 
+n	(rhetoric) A complete sentence, especially one expressing a single thought or making a balanced, rhythmic whole. 
+n	(obsolete) A specific moment during a given process; a point, a stage. 
+n	(chemistry) A row in the periodic table of the elements. 
+n	(geology) A geochronologic unit of millions to tens of millions of years; a subdivision of an era, and subdivided into epochs. 
+n	(genetics) A Drosophila gene, the gene product of which is involved in regulation of the circadian rhythm. 
+n	(music) Two phrases (an antecedent and a consequent phrase). 
+n	(mathematics) The length of an interval over which a periodic function, periodic sequence or repeating decimal repeats; often the least such length. 
+n	(archaic) End point, conclusion. 
+adj	Designating anything from a given historical era. 
+adj	Evoking, or appropriate for, a particular historical period, especially through the use of elaborate costumes and scenery. 
+v	(obsolete, intransitive) To come to a period; to conclude. 
+v	(obsolete, transitive, rare) To put an end to. 

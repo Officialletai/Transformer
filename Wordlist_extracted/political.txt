@@ -1,0 +1,7 @@
+adj	Concerning or relating to politics, the art and process of governing. 
+adj	Concerning a polity or its administrative components. 
+adj	(derogatory) Motivated, especially inappropriately, by political (electoral or other party political) calculation. 
+adj	Of or relating to views about social relationships that involve power or authority. 
+adj	(of a person) Interested in politics. 
+n	A political agent or officer. 
+n	A publication focusing on politics. 

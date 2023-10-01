@@ -1,0 +1,81 @@
+v	(transitive, intransitive) To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly. 
+v	(transitive, intransitive) To crack or fracture (bone) under a physical strain. 
+v	(transitive) To divide (something, often money) into smaller units. 
+v	(transitive) To cause (a person or animal) to lose spirit or will; to crush the spirits of. 
+v	To turn an animal into a beast of burden. 
+v	(intransitive) To be crushed, or overwhelmed with sorrow or grief. 
+v	(transitive) To interrupt; to destroy the continuity of; to dissolve or terminate. 
+v	(transitive, theater) To end the run of (a play). 
+v	(transitive) To ruin financially. 
+v	(intransitive, obsolete) To fail in business; to go broke, to become bankrupt. 
+v	(finance, intransitive) Of prices on the stock exchange: to fall suddenly. 
+v	(transitive) To violate; to fail to adhere to. 
+v	(intransitive, of a fever) To go down, in terms of temperature, indicating that the most dangerous part of the illness has passed. 
+v	(intransitive, of a spell of settled weather) To end. 
+v	(intransitive, of a storm) To begin or end. 
+v	(intransitive, of morning, dawn, day etc.) To arrive. 
+v	(transitive, gaming slang) To render (a game) unchallenging by altering its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair advantage. 
+v	(transitive, intransitive) To stop, or to cause to stop, functioning properly or altogether. 
+v	(specifically, in programming) To cause (some feature of a program or piece of software) to stop functioning properly; to cause a regression. 
+v	(specifically) To cause the shell of (an egg) to crack, so that the inside (yolk) is accessible. 
+v	(specifically) To open (a safe) without using the correct key, combination, or the like. 
+v	(transitive) To destroy the arrangement of; to throw into disorder; to pierce. 
+v	(intransitive, of a wave of water) To collapse into surf, after arriving in shallow water. 
+v	(intransitive) To burst forth; to make its way; to come into view. 
+v	(intransitive) To interrupt or cease one's work or occupation temporarily; to go on break. 
+v	(transitive) To interrupt (a fall) by inserting something so that the falling object does not (immediately) hit something else beneath. 
+v	(transitive, ergative) To disclose or make known an item of news, a band, etc. 
+v	(intransitive, of a sound) To become audible suddenly. 
+v	(transitive) To change a steady state abruptly. 
+v	(transitive, with for) To (attempt to) disengage and flee to; to make a run for. 
+v	(copulative, informal) To suddenly become. 
+v	(intransitive, of a male voice) To become deeper at puberty. 
+v	(intransitive, of a voice) To alter in type due to emotion or strain: in men, generally to go up, in women, sometimes to go down; to crack. 
+v	(transitive) To surpass or do better than (a specific number); to do better than (a record), setting a new record. 
+v	(transitive, tennis) To win a game (against one's opponent) as receiver. 
+v	(intransitive, billiards, snooker, pool) To make the first shot; to scatter the balls from the initial neat arrangement. 
+v	(transitive, backgammon) To remove one of the two men on (a point). 
+v	(transitive, military, most often in the passive tense) To demote; to reduce the military rank of. 
+v	(transitive) To end (a connection); to disconnect. 
+v	(intransitive, of an emulsion) To demulsify. 
+v	(intransitive, sports) To counter-attack. 
+v	(transitive, obsolete) To lay open, as a purpose; to disclose, divulge, or communicate. 
+v	(intransitive) To become weakened in constitution or faculties; to lose health or strength. 
+v	(transitive) To destroy the strength, firmness, or consistency of. 
+v	(transitive) To destroy the official character and standing of; to cashier; to dismiss. 
+v	(intransitive) To make an abrupt or sudden change; to change gait. 
+v	(intransitive, archaic) To fall out; to terminate friendship. 
+v	(computing) To terminate the execution of a program before normal completion. 
+v	(programming) To suspend the execution of a program during debugging so that the state of the program can be investigated. 
+v	(computing) To cause, or allow the occurrence of, a line break. 
+n	An instance of breaking something into two or more pieces. 
+n	A physical space that opens up in something or between two things. 
+n	(UK, education) A time for students to talk or play between lessons. 
+n	A scheduled interval of days or weeks between periods of school instruction; a holiday. 
+n	A short holiday. 
+n	A temporary split with a romantic partner. 
+n	An interval or intermission between two parts of a performance, for example a theatre show, broadcast, or sports game. 
+n	A significant change in circumstance, attitude, perception, or focus of attention. 
+n	(finance) A sudden fall in prices on the stock exchange. 
+n	The beginning (of the morning). 
+n	An act of escaping. 
+n	(computing) The separation between lines, paragraphs or pages of a written text. 
+n	(computing) A keystroke or other signal that causes a program to terminate or suspend execution. 
+n	(Britain, weather) A change, particularly the end of a spell of persistent good or bad weather. 
+n	(tennis) A game won by the receiving player(s). 
+n	(billiards, snooker, pool) The first shot in a game of billiards. 
+n	(snooker) The number of points scored by one player in one visit to the table. 
+n	(soccer) The counter-attack. 
+n	(golf) The curve imparted to the ball's motion on the green due to slope or grass texture. 
+n	(surfing) A place where waves break (that is, where waves pitch or spill forward creating white water). 
+n	(horse racing) The start of a horse race. 
+n	(dated) A large four-wheeled carriage, having a straight body and calash top, with the driver's seat in front and the footman's behind. 
+n	(equitation) A sharp bit or snaffle. 
+n	(music) A short section of music, often between verses, in which some performers stop while others continue. 
+n	(music) The point in the musical scale at which a woodwind instrument is designed to overblow, that is, to move from its lower to its upper register. 
+n	(music) The transition area between a singer's vocal registers; the passaggio. 
+n	(geography, chiefly in the plural) An area along a river that features steep banks, bluffs, or gorges (e.g., Upper Missouri River Breaks National Monument, US). 
+n	(obsolete, slang) An error. 
+n	(music) A section of extended repetition of the percussion break to a song, created by a hip-hop DJ as rhythmic dance music. 
+v	(music, slang) To B-boy; to breakdance. 
+n	(programming) Short for breakpoint. [(programming) A point in a program at which operation may be interrupted during debugging so that the state of the program at that point can be investigated.] 

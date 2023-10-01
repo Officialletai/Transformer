@@ -1,0 +1,14 @@
+adj	Proceeding without deviation or interruption. 
+adj	Straight; not crooked, oblique, or circuitous; leading by the short or shortest way to a point or end. 
+adj	Straightforward; sincere. 
+adj	Immediate; express; plain; unambiguous. 
+adj	In the line of descent; not collateral. 
+adj	(astronomy) In the direction of the general planetary motion, or from west to east; in the order of the signs; not retrograde; said of the motion of a celestial body. 
+adj	(political science) Pertaining to, or effected immediately by, action of the people through their votes instead of through one or more representatives or delegates. 
+adj	(aviation, travel) having a single flight number. 
+adv	Directly. 
+v	To manage, control, steer. 
+v	To aim (something) at (something else). 
+v	To point out to or show (somebody) the right course or way; to guide, as by pointing out the way. 
+v	To point out to with authority; to instruct as a superior; to order. 
+v	(dated) To address (a letter) to a particular person or place. 

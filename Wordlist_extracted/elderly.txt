@@ -1,0 +1,4 @@
+adj	old; having lived for relatively many years. 
+adj	Of an object, being old-fashioned or frail due to aging. 
+n	An elderly person. 
+n	(with article, collective) Older people as a whole. 

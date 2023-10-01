@@ -1,0 +1,5 @@
+adj	Abroad. 
+adj	Used with ethnicities, nationalities, or religious affiliations: living (being resident) in a foreign country. 
+adj	Across a sea; to or in an area across a sea. 
+adv	Abroad. 
+adv	Across a sea; to an area across a sea. 

@@ -1,0 +1,4 @@
+adj	represented too simply or in an overly formulaic way, reflecting a shallow or incomplete understanding of complex subject matter 
+adj	sketchy, incomplete 
+adj	relating to a schema 
+n	A simplified line drawing used by scientists, engineers, technologists and others to illustrate a system at an abstract level. Schematic drawings often use standard symbols for clarity. 

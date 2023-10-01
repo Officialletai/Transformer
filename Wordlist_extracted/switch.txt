@@ -1,0 +1,26 @@
+n	A device to turn electric current on and off or direct its flow. 
+n	A change or exchange. 
+n	(rail transport, US) A movable section of railroad track which allows the train to be directed down one of two destination tracks; (set of) points. 
+n	A slender woody plant stem used as a whip; a thin, flexible rod, associated with corporal punishment in the United States. 
+n	(music) Synonym of rute. 
+n	(computer science) A command line notation allowing specification of optional behavior. 
+n	(computing, programming) A programming construct that takes different actions depending on the value of an expression. 
+n	(computing, networking) A networking device connecting multiple wires, allowing them to communicate simultaneously, when possible. Compare to the less efficient hub device that solely duplicates network packets to each wire. 
+n	(telecommunications) A system of specialized relays, computer hardware, or other equipment which allows the interconnection of a calling party's telephone line with any called party's line. 
+n	(genetics) A mechanism within DNA that activates or deactivates a gene. 
+n	(BDSM) One who is willing to take either a submissive or a dominant role in a sexual relationship. 
+n	(historical) A separate mass or tress of hair, or of some substance (such as jute) made to resemble hair, formerly worn on the head by women. 
+n	(card games) A variant of crazy eights where one card, such as an ace, reverses the direction of play. 
+v	(transitive) To exchange. 
+v	(transitive) To change (something) to the specified state using a switch. 
+v	(transitive, in modern times Southern US) To whip or hit with a switch. 
+v	(intransitive) To change places, tasks, etc. 
+v	(slang, intransitive) To get angry suddenly; to quickly or unreasonably become enraged. 
+v	To swing or whisk. 
+v	To be swung or whisked. 
+v	To trim. 
+v	To turn from one railway track to another; to transfer by a switch; generally with off, from, etc. 
+v	(ecclesiastical) To shift to another circuit. 
+adj	(snowboarding) Pertaining to riding with the front and back feet swapped round compared to one's normal position. 
+adj	(freestyle skiing) Pertaining to skiing backwards. 
+n	(video games) Ellipsis of Nintendo Switch. 

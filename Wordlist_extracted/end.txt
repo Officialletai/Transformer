@@ -1,0 +1,16 @@
+n	The terminal point of something in space or time. 
+n	(by extension) The cessation of an effort, activity, state, or motion. 
+n	(by extension) Death. 
+n	The most extreme point of an object, especially one that is longer than it is wide. 
+n	Result. 
+n	A purpose, goal, or aim. 
+n	(cricket) One of the two parts of the ground used as a descriptive name for half of the ground. 
+n	(American football) The position at the end of either the offensive or defensive line, a tight end, a split end, a defensive end. 
+n	(curling) A period of play in which each team throws eight rocks, two per player, in alternating fashion. 
+n	(mathematics) An ideal point of a graph or other complex. See End (graph theory) 
+n	That which is left; a remnant; a fragment; a scrap. 
+n	One of the yarns of the worsted warp in a Brussels carpet. 
+n	(in the plural, slang, African-American Vernacular) Money. 
+v	(intransitive, ergative) to come to an end 
+v	(transitive) To finish, terminate. 
+n	A key that when pressed causes the cursor to go to the last character of the current line. 

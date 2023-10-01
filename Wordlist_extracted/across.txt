@@ -1,0 +1,5 @@
+adv	From one side to the other. 
+adv	On the other side. 
+adv	In a particular direction. 
+adv	(crosswords) Horizontally. 
+n	(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue. 

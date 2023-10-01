@@ -1,0 +1,7 @@
+adj	Involving extreme force or motion. 
+adj	Involving physical conflict. 
+adj	Likely to use physical force. 
+adj	Intensely vivid. 
+adj	Produced or effected by force; not spontaneous; unnatural. 
+v	(transitive, archaic) To urge with violence. 
+n	(obsolete) An assailant. 

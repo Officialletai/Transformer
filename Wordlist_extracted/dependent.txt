@@ -1,0 +1,8 @@
+adj	Relying upon; depending upon. 
+adj	(statistics) Having a probability that is affected by the outcome of a separate event. 
+adj	(of Irish/Manx/Scottish (Gaelic) verb forms) Used after a particle (with one or two exceptions), such as those which express questions, subordinate clauses, and negative sentences. 
+adj	(medicine) Affecting the lower part of the body, such as the legs while standing up, or the back while supine. 
+adj	Hanging down. 
+n	(US) One who relies on another for support 
+n	(grammar) An element in phrase or clause structure that is not the head. Includes complements, modifiers and determiners. 
+n	(grammar) The aorist subjunctive or subjunctive perfective: a form of a verb not used independently but preceded by a particle to form the negative or a tense form. Found in Greek and in the Gaelic languages. 

@@ -1,0 +1,26 @@
+n	That which is thin and broad. 
+n	A thin, broad piece cut off. 
+n	(colloquial) An amount of anything. 
+n	A piece of pizza, shaped like a sector of a circle. 
+n	(Britain) A snack consisting of pastry with savoury filling. 
+n	A broad, thin piece of plaster. 
+n	A knife with a thin, broad blade for taking up or serving fish; also, a spatula for spreading anything, as paint or ink. 
+n	A salver, platter, or tray. 
+n	A plate of iron with a handle, forming a kind of chisel, or a spadelike implement, variously proportioned, and used for various purposes, as for stripping the planking from a vessel's side, for cutting blubber from a whale, or for stirring a fire of coals; a slice bar; a peel; a fire shovel. 
+n	One of the wedges by which the cradle and the ship are lifted clear of the building blocks to prepare for launching. 
+n	(printing) A removable sliding bottom to a galley. 
+n	(golf) A shot that (for the right-handed player) curves unintentionally to the right. See fade, hook, draw 
+n	(Australia, New Zealand, UK) Any of a class of heavy cakes or desserts made in a tray and cut out into squarish slices. 
+n	(medicine) A section of image taken of an internal organ using MRI (magnetic resonance imaging), CT (computed tomography), or various forms of x-ray. 
+n	(falconry) A hawk's or falcon's dropping which squirts at an angle other than vertical. (See mute.) 
+n	(programming) A contiguous portion of an array. 
+v	(transitive) To cut into slices. 
+v	(transitive) To cut with an edge utilizing a drawing motion. 
+v	(transitive) To clear (e.g. a fire, or the grate bars of a furnace) by means of a slice bar. 
+v	(transitive, badminton) To hit the shuttlecock with the racket at an angle, causing it to move sideways and downwards. 
+v	(transitive, golf) To hit a shot that slices (travels from left to right for a right-handed player). 
+v	(transitive, rowing) To angle the blade so that it goes too deeply into the water when starting to take a stroke. 
+v	(transitive, soccer) To kick the ball so that it goes in an unintended direction, at too great an angle or too high. 
+v	(transitive, tennis) To hit the ball with a stroke that causes a spin, resulting in the ball swerving or staying low after a bounce. 
+adj	(mathematics) Having the properties of a slice knot. 
+n	A surname. 

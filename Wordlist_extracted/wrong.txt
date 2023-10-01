@@ -1,0 +1,15 @@
+adj	Incorrect or untrue. 
+adj	Asserting something incorrect or untrue. 
+adj	Immoral, not good, bad. 
+adj	Improper; unfit; unsuitable. 
+adj	Not working; out of order. 
+adj	Designed to be worn or placed inward 
+adj	(obsolete) Twisted; wry. 
+adv	(informal) In a way that isn't right; incorrectly, wrongly. 
+n	Something that is immoral or not good. 
+n	An instance of wronging someone (sometimes with possessive to indicate the wrongdoer). 
+n	The incorrect or unjust position or opinion. 
+n	The opposite of right; the concept of badness. 
+v	To treat unjustly; to injure or harm. 
+v	To deprive of some right, or to withhold some act of justice. 
+v	To slander; to impute evil to unjustly. 

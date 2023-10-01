@@ -1,0 +1,17 @@
+adj	Not in danger; out of harm's reach. 
+adj	Free from risk. 
+adj	Providing protection from danger; providing shelter. 
+adj	(baseball) When a batter successfully reaches first base, or when a baserunner successfully advances to the next base or returns to the base he last occupied; not out. 
+adj	(snooker, of an object ball) In a location that renders it difficult to hit with the cue ball. 
+adj	Properly secured. 
+adj	(used after a noun, often forming a compound) Not susceptible to a specified source of harm. 
+adj	(UK, slang) Great, cool, awesome, respectable; a term of approbation, often as interjection. 
+adj	(slang) Lenient, usually describing a teacher that is easy-going. 
+adj	Reliable; trusty. 
+adj	Cautious. 
+adj	(programming) Of a programming language, type-safe or more generally offering well-defined behavior despite programming errors. 
+n	A box, usually made of metal, in which valuables can be locked for safekeeping. 
+n	(slang) A condom. 
+n	(dated) A ventilated or refrigerated chest or closet for securing provisions from noxious animals or insects. 
+n	(dated, colloquial) A safety bicycle. 
+v	(transitive) To make something safe. 

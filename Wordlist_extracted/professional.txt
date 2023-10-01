@@ -1,0 +1,8 @@
+n	A person who belongs to a profession 
+n	A person who earns their living from a specified activity 
+n	(euphemistic) A prostitute 
+n	A reputation known by name 
+n	An expert 
+adj	Of, pertaining to, or in accordance with the (usually high) standards of a profession. 
+adj	That is carried out for money, especially as a livelihood. 
+adj	(by extension) Expert. 

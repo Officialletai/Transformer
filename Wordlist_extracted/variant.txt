@@ -1,0 +1,8 @@
+adj	Showing variety, diverse. 
+adj	Showing deviation or disagreement. 
+adj	(obsolete) Variable. 
+adj	(programming) Covariant and/or contravariant. 
+n	Something that is slightly different from a type or norm. 
+n	(genetics) A different sequence of a gene (locus). 
+n	(computing) A variable that can hold any of various unrelated data types. 
+n	(linguistics, lexicography) One of a set of words or other linguistic forms that conveys the same meaning or serves the same function. 

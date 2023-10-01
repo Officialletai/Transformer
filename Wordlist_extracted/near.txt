@@ -1,0 +1,17 @@
+adj	Physically close. 
+adj	Close in time. 
+adj	Closely connected or related. 
+adj	Close to one's interests, affection, etc.; intimate; dear. 
+adj	Close to anything followed or imitated; not free, loose, or rambling. 
+adj	So as barely to avoid or pass injury or loss; close; narrow. 
+adj	Approximate, almost. 
+adj	(Britain, in relation to a vehicle) On the side nearest to the kerb (the left-hand side if one drives on the left). 
+adj	(dated) Next to the driver, when he is on foot; (US) on the left of an animal or a team. 
+adj	(obsolete) Immediate; direct; close; short. 
+adj	(now rare) Stingy; parsimonious. 
+adj	(programming, not comparable) Within the currently selected segment in a segmented memory architecture. 
+adv	At or towards a position close in space or time. 
+adv	Nearly; almost. 
+v	(transitive, intransitive) To come closer to; to approach. 
+n	The left side of a horse or of a team of horses pulling a carriage etc. 
+n	A surname. 

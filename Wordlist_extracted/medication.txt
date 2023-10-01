@@ -1,0 +1,2 @@
+n	A medicine, or all the medicines regularly taken by a patient. 
+n	The administration of medicine. 

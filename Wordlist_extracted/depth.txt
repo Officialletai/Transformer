@@ -1,0 +1,13 @@
+n	the vertical distance below a surface; the degree to which something is deep 
+n	the distance between the front and the back, as the depth of a drawer or closet 
+n	(figuratively) the intensity, complexity, strength, seriousness or importance of an emotion, situation, etc. 
+n	lowness 
+n	(computing, colors) the total palette of available colors 
+n	(art, photography) the property of appearing three-dimensional 
+n	(literary, usually in the plural) the deepest part (usually of a body of water) 
+n	(literary, usually in the plural) a very remote part. 
+n	the most severe part 
+n	(logic) the number of simple elements which an abstract conception or notion includes; the comprehension or content 
+n	(horology) a pair of toothed wheels which work together 
+n	(aeronautics) the perpendicular distance from the chord to the farthest point of an arched surface 
+n	(statistics) the lower of the two ranks of a value in an ordered set of values 

@@ -1,0 +1,5 @@
+n	A person from the continent of Asia. 
+n	(US, Canada, Australia, New Zealand) A person from or with ancestry in Northeast or Southeast Asia. 
+n	(UK, Ireland, South Africa) A person from or with ancestry in the Indian subcontinent. 
+n	A domestic cat of a breed similar to the Burmese. 
+adj	Of, relating to or from Asia. 

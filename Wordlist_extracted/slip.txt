@@ -1,0 +1,50 @@
+v	(intransitive) To lose one’s traction on a slippery surface; to slide due to a lack of friction. 
+v	(intransitive) To err. 
+v	(intransitive) To accidentally reveal a secret or otherwise say something unintentional. 
+v	(intransitive) To move or fly (out of place); to shoot; often with out, off, etc. 
+v	(transitive) To pass (a note, money, etc.), often covertly. 
+v	(transitive) To cause to move smoothly and quickly; to slide; to convey gently or secretly. 
+v	(intransitive) To move quickly and often secretively; to depart, withdraw, enter, appear, intrude, or escape as if by sliding. 
+v	(intransitive, figuratively) To move down; to slide. 
+v	(transitive, hunting, falconry) To release (a dog, a bird of prey, etc.) to go after a quarry. 
+v	(transitive, cooking) To remove the skin of a soft fruit, such as a tomato or peach, by blanching briefly in boiling water, then transferring to cold water so that the skin peels, or slips, off easily. 
+v	(obsolete) To omit; to lose by negligence. 
+v	To cut slips from; to cut; to take off; to make a slip or slips of. 
+v	To cause to slip or slide off, or out of place. 
+v	To bring forth (young) prematurely; to slink. 
+v	(transitive, business) To cause (a schedule or release, etc.) to go, or let it go, beyond the allotted deadline. 
+n	An act or instance of slipping. 
+n	A woman's undergarment worn under a skirt or dress to conceal unwanted nudity that may otherwise be revealed by the skirt or dress itself; a shift. 
+n	A slipdress. 
+n	A mistake or error. 
+n	(nautical) A berth; a space for a ship to moor. 
+n	(nautical) A difference between the theoretical distance traveled per revolution of the propeller and the actual advance of the vessel. 
+n	(nautical) A slipway. 
+n	(medicine) A one-time return to previous maladaptive behaviour after cure. 
+n	(cricket) Any of several fielding positions to the off side of the wicket keeper, designed to catch the ball after being deflected from the bat; a fielder in that position (See first slip, second slip, third slip, fourth slip and fifth slip.) 
+n	A number between 0 and 1 that is the difference between the angular speed of a rotating magnetic field and the angular speed of its rotor, divided by the angular speed of the magnetic field. 
+n	A leash or string by which a dog is held; so called from its being made in such a manner as to slip, or become loose, by relaxation of the hand. 
+n	An escape; a secret or unexpected desertion. 
+n	(printing, dated) A portion of the columns of a newspaper etc. struck off by itself; a proof from a column of type when set up and in the galley. 
+n	(dated) A child's pinafore. 
+n	An outside covering or case. 
+n	(obsolete) A counterfeit piece of money, made from brass covered with silver. 
+n	Matter found in troughs of grindstones after the grinding of edge tools. 
+n	A particular quantity of yarn. 
+n	(UK, dated) A narrow passage between buildings. 
+n	(US) A long seat or narrow pew in churches, often without a door. 
+n	(mining) A dislocation of a lead, destroying continuity. 
+n	(engineering) The motion of the centre of resistance of the float of a paddle wheel, or the blade of an oar, through the water horizontally, or the difference between a vessel's actual speed and the speed it would have if the propelling instrument acted upon a solid; also, the velocity, relatively to still water, of the backward current of water produced by the propeller. 
+n	(electrical) The difference between the actual and synchronous speeds of an induction motor. 
+n	(telecommunications) The positional displacement in a sequence of transmitted symbols that causes the loss or insertion of one or more symbols. 
+n	A fish, the sole. 
+n	A twig or shoot; a cutting. 
+n	(obsolete) A descendant, a scion. 
+n	A young person (now usually with of introducing descriptive qualifier). 
+n	A long, thin piece of something. 
+n	A small piece of paper, especially one longer than it is wide, typically a form for writing on or one giving printed information. 
+n	(marine insurance) A memorandum of the particulars of a risk for which a policy is to be executed. It usually bears the broker's name and is initiated by the underwriters. 
+n	(ceramics) A thin, slippery mix of clay and water. 
+n	(obsolete) Mud, slime. 
+v	(intransitive, aviation, of an aircraft) Clipping of sideslip.: To fly with the longitudinal axis misaligned with the relative wind. [(aviation) To perform, or place an aircraft in, a sideslip.] 
+n	(aviation) Clipping of sideslip. [(aviation) A flight manoeuvre that uses opposing rudder and aileron inputs to move the aircraft sideways without turning it.] 

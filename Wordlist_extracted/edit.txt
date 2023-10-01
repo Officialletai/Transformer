@@ -1,0 +1,13 @@
+n	A change to the text of a document. 
+n	(computing) A change in the text of a file, a website or the code of software. 
+n	An edited piece of media, especially video footage. 
+n	(comedy) An interruption or change to an improvised scene. 
+n	(genetics) An alteration to the DNA sequence of a chromosome; an act of gene splicing. 
+v	To change a text, or a document. 
+v	To alter a photograph or recording of sound or video. 
+v	(transitive) To be the editor of a publication. 
+v	(computing) To change the contents of a file, website, etc. 
+v	(biology) To alter the DNA sequence of a chromosome; to perform gene splicing. 
+v	To assemble a film by cutting and splicing raw footage. 
+v	(comedy) To cut short or otherwise alter an improvised scene. 
+v	(ergative) To lend itself to editing in a certain way. 

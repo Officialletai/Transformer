@@ -1,0 +1,7 @@
+adv	Modifies a verb, indicating a lack of certainty: it may be (that)... 
+adv	(as a pro-sentence) Perhaps that is true (expressing no commitment to a decision or a neutral viewpoint to a statement). 
+adv	(UK, meiosis) Certainly. 
+adj	Possible; uncertain. 
+n	(informal) Something that is possibly true. 
+n	(informal) An answer that shows neither agreement nor disagreement. 
+n	(informal) A future event that may or may not happen. 

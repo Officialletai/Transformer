@@ -1,0 +1,7 @@
+adj	Free from error; true; accurate. 
+adj	With good manners; well behaved; conforming with accepted standards of behaviour. 
+n	A correct response. 
+v	(transitive) To make something that was wrong become right; to remove error from. 
+v	(by extension, transitive) To grade (examination papers). 
+v	(transitive) To inform (someone) of their error. 
+v	(transitive) To discipline; to punish. 

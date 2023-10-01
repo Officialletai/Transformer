@@ -1,0 +1,5 @@
+v	(transitive) To connect, set up or prepare something for use, often specifically (in Computing) to transfer software onto a device's permanent storage and put it in a state where it is ready to be run when needed, usually decompressing it if necessary and performing any necessary pre-first-run configuration. 
+v	(transitive) To admit formally into an office, rank or position. 
+v	(transitive) To establish or settle in. 
+n	(computing) Installer. A software utility that installs an application. 
+n	(informal) An installation. (Usage originated as a truncated form of the word installation.) 

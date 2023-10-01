@@ -1,0 +1,7 @@
+adj	Concerning all parts of the world. 
+adj	(not comparable, computing) Of a variable, accessible by all parts of a program. 
+adj	Which has to be considered in its entirety. 
+adj	Spherical, ball-shaped. 
+adj	(not comparable) Of or relating to a globe or sphere. 
+n	(computing) A globally scoped identifier. 
+adv	In the global manner; world-wide. 

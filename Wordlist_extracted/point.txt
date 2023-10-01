@@ -1,0 +1,79 @@
+n	An individual element in a larger whole; a particular detail, thought, or quality. 
+n	A particular moment in an event or occurrence; a juncture. 
+n	(archaic) Condition, state. 
+n	A topic of discussion or debate; a proposition. 
+n	A focus of conversation or consideration; the main idea. 
+n	A purpose or objective, which makes something meaningful. 
+n	(obsolete) The smallest quantity of something; a jot, a whit. 
+n	(obsolete) A tiny amount of time; a moment. 
+n	A specific location or place, seen as a spatial position. 
+n	(mathematics, sciences) A zero-dimensional mathematical object representing a location in one or more dimensions; something considered to have position but no magnitude or direction. 
+n	A full stop or other terminal punctuation mark. 
+n	(music) A dot or mark used to designate certain tones or time. In ancient music, it distinguished or characterized certain tones or styles (points of perfection, of augmentation, etc.). In modern music, it is placed on the right of a note to raise its value, or prolong its time, by one half. 
+n	(by extension) A note; a tune. 
+n	A distinguishing quality or characteristic. 
+n	(in the plural, dated) The chief or excellent features. 
+n	Something tiny, as a pinprick; a very small mark. 
+n	(now only in phrases) A tenth; formerly also a twelfth. 
+n	Each of the marks or strokes written above letters, especially in Semitic languages, to indicate vowels, stress etc. 
+n	(sports, video games, board games) A unit of scoring in a game or competition. 
+n	(mathematics) A decimal point (now especially when reading decimal fractions aloud). 
+n	(economics) A unit used to express differences in prices of stocks and shares. 
+n	(typography) a unit of measure equal to 1/12 of a pica, or approximately 1/72 of an inch (exactly 1/72 of an inch in the digital era). 
+n	(UK) An electric power socket. 
+n	(navigation, nautical) A unit of bearing equal to one thirty-second of a circle, i.e. 11.25°. 
+n	(UK) A unit of measure for rain, equal to 0.254 mm or 0.01 of an inch. 
+n	(automotive, chiefly in the plural) Either of the two metal surfaces in a distributor which close or open to allow or prevent the flow of current through the ignition coil. There is usually a moving point, pushed by the distributor cam, and a fixed point, and they are built together as a unit. 
+n	The sharp tip of an object. 
+n	Any projecting extremity of an object. 
+n	An object which has a sharp or tapering tip. 
+n	(backgammon) Each of the twelve triangular positions in either table of a backgammon board, on which the stones are played. 
+n	A peninsula or promontory. 
+n	The position at the front or vanguard of an advancing force. 
+n	Each of the main directions on a compass, usually considered to be 32 in number; a direction. 
+n	(nautical) The difference between two points of the compass. 
+n	Pointedness of speech or writing; a penetrating or decisive quality of expression. 
+n	(rail transport, UK, in the plural) A railroad switch. 
+n	(usually in the plural) An area of contrasting colour on an animal, especially a dog; a marking. 
+n	A tine or snag of an antler. 
+n	(fencing) A movement executed with the sabre or foil. 
+n	(heraldry) One of the several different parts of the escutcheon. 
+n	(nautical) A short piece of cordage used in reefing sails. 
+n	(historical) A string or lace used to tie together certain garments. 
+n	Lace worked by the needle. 
+n	(US, slang, dated) An item of private information; a hint; a tip; a pointer. 
+n	The attitude assumed by a pointer dog when he finds game. 
+n	(falconry) The perpendicular rising of a hawk over the place where its prey has gone into cover. 
+n	The act of pointing, as of the foot downward in certain dance positions. 
+n	The gesture of extending the index finger in a direction in order to indicate something. 
+n	(medicine, obsolete) A vaccine point. 
+n	(cricket) A fielding position square of the wicket on the off side, between gully and cover. 
+n	(lacrosse, ice hockey) The position of the player of each side who stands a short distance in front of the goalkeeper. 
+n	(baseball) The position of the pitcher and catcher. 
+n	(hunting) A spot to which a straight run is made; hence, a straight run from point to point; a cross-country run. 
+v	(intransitive) To extend the index finger in the direction of something in order to show where it is or to draw attention to it. 
+v	(intransitive) To draw attention to something or indicate a direction. 
+v	(intransitive) To face in a particular direction. 
+v	(transitive, sometimes figuratively) To direct toward an object; to aim. 
+v	To give a point to; to sharpen; to cut, forge, grind, or file to an acute end. 
+v	(intransitive) To indicate a probability of something. 
+v	(transitive, intransitive, masonry) To repair mortar. 
+v	(transitive, masonry) To fill up and finish the joints of (a wall), by introducing additional cement or mortar, and bringing it to a smooth surface. 
+v	(stone-cutting) To cut, as a surface, with a pointed tool. 
+v	(transitive) To direct or encourage (someone) in a particular direction. 
+v	(transitive, mathematics) To separate an integer from a decimal with a decimal point. 
+v	(transitive) To mark with diacritics. 
+v	(dated) To supply with punctuation marks; to punctuate. 
+v	(transitive, computing) To direct the central processing unit to seek information at a certain location in memory. 
+v	(transitive, Internet) To direct requests sent to a domain name to the IP address corresponding to that domain name. 
+v	(intransitive, nautical) To sail close to the wind. 
+v	(intransitive, hunting) To indicate the presence of game by a fixed and steady look, as certain hunting dogs do. 
+v	(medicine, of an abscess) To approximate to the surface; to head. 
+v	(dated) To give point to (something said or done); to give particular prominence or force to. 
+v	(obsolete) To appoint. 
+n	(informal, military) USMA (United States Military Academy) in West Point, New York. 
+n	A township in Posey County, Indiana, United States, so-named for being the southernmost and westernmost point in the state. 
+n	A township in Northumberland County, Pennsylvania, United States. 
+n	A surname from French. 
+n	Short for percentage point. [One hundredth of a given value, used to measure the difference of two percentages.] 
+n	Short for point man. [(military) In combat, the soldier who takes point; the soldier who assumes the first and most exposed position in a combat military formation; the lead soldier/unit advancing through hostile or unsecured territory.] 

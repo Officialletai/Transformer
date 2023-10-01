@@ -1,0 +1,8 @@
+adj	Connected to or depending on something else; comparative. 
+adj	(computing, of a URL, URI, path, or similar) Expressed in relation to another item, rather than in complete form. 
+adj	(grammar) Depending on an antecedent; comparative. 
+adj	(music) Having the same key but differing in being major or minor. 
+adj	Relevant; pertinent; related. 
+adj	Capable to be changed by other beings or circumstance; conditional. 
+n	Someone in the same family; someone connected by blood, marriage, or adoption. 
+n	(linguistics) A type of adjective that inflects like a relative clause, rather than a true adjective, in certain Bantu languages. 

@@ -1,0 +1,35 @@
+n	The foremost side of something or the end that faces the direction it normally moves. 
+n	The side of a building with the main entrance. 
+n	A field of activity. 
+n	A person or institution acting as the public face of some other, covert group. 
+n	(meteorology) The interface or transition zone between two airmasses of different density, often resulting in precipitation. Since the temperature distribution is the most important regulator of atmospheric density, a front almost invariably separates airmasses of different temperature. 
+n	(military) An area where armies are engaged in conflict, especially the line of contact. 
+n	(military) The lateral space occupied by an element measured from the extremity of one flank to the extremity of the other flank. 
+n	(military) The direction of the enemy. 
+n	(military) When a combat situation does not exist or is not assumed, the direction toward which the command is faced. 
+n	(historical) A major military subdivision of the Soviet Army. 
+n	(dated) Cheek; boldness; impudence. 
+n	(informal) An act, show, façade, persona: an intentional and false impression of oneself. 
+n	(historical) That which covers the foremost part of the head: a front piece of false hair worn by women. 
+n	The most conspicuous part. 
+n	The beginning. 
+n	(UK) A seafront or coastal promenade. 
+n	(obsolete) The forehead or brow, the part of the face above the eyes; sometimes, also, the whole face. 
+n	(slang, hotels, dated) The bellhop whose turn it is to answer a client's call, which is often the word "front" used as an exclamation. 
+n	(slang, in the plural) A grill (jewellery worn on front teeth). 
+adj	Located at or near the front. 
+adj	(comparable, phonetics) Pronounced with the highest part of the body of the tongue toward the front of the mouth, near the hard palate (most often describing a vowel). 
+adj	Closest or nearest, of a set of futures contracts which expire at particular times, or of the times they expire; (typically, the front month or front year is the next calender month or year after the current one). 
+v	(intransitive, dated) To face (on, to); to be pointed in a given direction. 
+v	(transitive) To face, be opposite to. 
+v	(transitive) To face up to, to meet head-on, to confront. 
+v	(transitive) To adorn with, at the front; to put on the front. 
+v	(phonetics, transitive, intransitive) To pronounce with the tongue in a front position. 
+v	(linguistics, transitive) To move (a word or clause) to the start of a sentence (or series of adjectives, etc). 
+v	(intransitive, slang) To act as a front (for); to cover (for). 
+v	(transitive) To lead or be the spokesperson of (a campaign, organisation etc.). 
+v	(transitive, intransitive) Of an alter in dissociative identity disorder: to be the currently actively presenting member of (a system), in control of the patient's body. 
+v	(transitive, colloquial) To provide money or financial assistance in advance to. 
+v	(intransitive, slang) To assume false or disingenuous appearances. 
+v	(transitive, slang) To deceive or attempt to deceive someone with false or disingenuous appearances (on). 
+v	(transitive) To appear before. 

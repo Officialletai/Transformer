@@ -1,0 +1,9 @@
+n	The act of assembling a group or structure. [from 14th c.] 
+n	Something possessing structure or form. [from 17th c.] 
+n	The process during which something comes into being and gains its characteristics. [from 18th c.] 
+n	(military) A grouping of military units or smaller formations under a command, such as a brigade, division, wing, etc. [from 18th c.] 
+n	(geology) A layer of rock of common origin. [from 19th c.] 
+n	(military) An arrangement of moving troops, ships, or aircraft, such as a wedge, line abreast, or echelon. Often "in formation". 
+n	(sports) An arrangement of players designed to facilitate certain plays. 
+n	The process of influencing or guiding a person to a deeper understanding of a particular vocation. 
+n	(category theory) A structure made of two categories, two functors from the first to the second category, and a transformation from one of the functors to the other. 

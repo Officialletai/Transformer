@@ -1,0 +1,9 @@
+n	The act of assigning; the allocation of a job or a set of tasks. 
+n	The categorization of something as belonging to a specific category. 
+n	(LGBT) The categorization of persons as belonging to the male or female sex. 
+n	An assigned task. 
+n	A position to which someone is assigned. 
+n	(education) A task given to students, such as homework or coursework. 
+n	(law) A transfer of a right or benefit from one person to another. 
+n	(law) A document that effects this transfer. 
+n	(programming) An operation that assigns a value to a variable. 

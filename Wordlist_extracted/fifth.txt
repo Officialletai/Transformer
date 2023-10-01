@@ -1,0 +1,14 @@
+adj	The ordinal form of the number five. 
+n	The person or thing in the fifth position. 
+n	One of five equal parts of a whole. 
+n	The fifth gear of an engine. 
+n	A quantity of liquor equal to one-fifth of a gallon, or, more commonly, 750 milliliters (that is, three quarters of a liter). 
+n	(music) The musical interval between one note and another seven semitones higher (the fifth note in the major/minor scale) 
+n	The fifth voice in a polyphonic melody. 
+v	(music) To sing in the fifth voice in a polyphonic melody. 
+v	(transitive) To support something fifth, after four others have already done so. 
+v	(transitive, nonstandard) To divide by five. 
+n	(chiefly US, informal, with the) The Fifth Amendment. 
+n	(chiefly US, informal, with the, by extension) The right not to give self-incriminating testimony. 
+n	(chiefly US) Fifth Avenue. 
+n	(chiefly US) Fifth Street. 

@@ -1,0 +1,9 @@
+adj	Of or relating to a corporation. 
+adj	Formed into a corporation; incorporated. 
+adj	Unified into one body; collective. 
+n	(finance) A bond issued by a corporation. 
+n	A short film produced for internal use in a business, e.g. for training, rather than for a general audience. 
+n	(business, countable) A corporation that franchises, as opposed to an individual franchise. 
+n	(business, countable) A corporate company or group. 
+v	(obsolete, transitive) To incorporate. 
+v	(obsolete, intransitive) To become incorporated. 

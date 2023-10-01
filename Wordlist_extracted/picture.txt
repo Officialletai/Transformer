@@ -1,0 +1,16 @@
+n	A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc. 
+n	An image; a representation as in the imagination. 
+n	A painting. 
+n	A photograph. 
+n	(informal, dated) A motion picture. 
+n	(in the plural, informal) ("the pictures") Cinema (as a form of entertainment). 
+n	A paragon, a perfect example or specimen (of a category). 
+n	An attractive sight. 
+n	The art of painting; representation by painting. 
+n	A figure; a model. 
+n	Situation. 
+n	(MLE) A sample of an illegal drug. 
+n	(programming) A format string in the COBOL programming language. 
+v	(transitive) To represent in or with a picture. 
+v	(transitive) To imagine or envision. 
+v	(transitive) To depict or describe vividly. 

@@ -1,0 +1,9 @@
+n	The income returned by an investment. 
+n	The total income received from a given source. 
+n	All income generated for some political entity's treasury by taxation and other means. 
+n	(accounting) The total sales; turnover. 
+n	(accounting) The net income from normal business operations; net sales. 
+n	(figuratively) A return; something paid back. 
+v	(intransitive) To generate revenue. 
+v	(transitive) To supply with revenue. 
+n	(UK) The Inland Revenue, formed in 1849 and dissolved in 2005 to form part of HMRC. 

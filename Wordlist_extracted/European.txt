@@ -1,0 +1,5 @@
+adj	Related to Europe or the European Union. 
+adj	Of the white ethnicity. 
+adj	(finance, of an option, not comparable) That can be exercised only at the expiry date. 
+n	person living or originating from Europe 
+n	person who resides within the European Union 

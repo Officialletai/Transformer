@@ -1,0 +1,18 @@
+adj	Fitting its definition precisely. 
+adj	Having all of its parts in harmony with a common purpose. 
+adj	Without fault or mistake; thoroughly skilled or talented. 
+adj	Excellent and delightful in all respects. 
+adj	(mathematics) Of a number: equal to the sum of its proper divisors. 
+adj	(grammar, of a tense or verb form) Representing a completed action. 
+adj	(biology) Sexually mature and fully differentiated. 
+adj	(botany) Of flowers, having both male parts (stamens) and female parts (carpels). 
+adj	(mathematical analysis) Of a set: equal to its set of limit points, i.e. set A is perfect if A=A'. 
+adj	(music) Describing an interval or any compound interval of a unison, octave, or fourths and fifths that are not tritones. 
+adj	(of a cocktail) Made with equal parts of sweet and dry vermouth. 
+adj	(obsolete) Well informed; certain; sure. 
+adj	(obsolete) Innocent, guiltless. 
+n	(grammar) The perfect tense, or a form in that tense. 
+n	(video games) A perfect score; the achievement of finishing a stage or task with no mistakes. 
+n	(historical, Christianity) A leader of the Cathar movement. 
+v	(transitive) To make perfect; to improve or hone. 
+v	(law) To take an action, usually the filing of a document in the correct venue, that secures a legal right. 

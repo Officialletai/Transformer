@@ -1,0 +1,6 @@
+n	The process of encoding or decoding. 
+n	An encoding. 
+n	The process of writing computer software code. 
+n	(emergency medicine) A method of communicating important medical information discreetly and quickly between medical professionals and responders. 
+n	An alternative therapy used to treat addictions by convincing the patient (through hypnosis, placebos, etc.) that the substance will harm or kill them if they use it again. 
+n	(mathematics) A 1-uniform morphism; an injective morphism; a morphism that maps letter to letter 

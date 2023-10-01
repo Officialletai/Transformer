@@ -1,0 +1,13 @@
+n	An intersection of piping or wiring; an interconnect. 
+n	(computing, databases) An intersection of data in two or more database tables. 
+n	(computing) The act of joining something, such as a network. 
+n	(algebra) The lowest upper bound, an operation between pairs of elements in a lattice, denoted by the symbol ∨. 
+v	(transitive) To connect or combine into one; to put together. 
+v	(intransitive) To come together; to meet. 
+v	(intransitive) To enter into association or alliance, to unite in a common purpose. 
+v	(transitive) To come into the company of. 
+v	(transitive) To become a member of. 
+v	(computing, databases, transitive) To produce an intersection of data in two or more database tables. 
+v	To unite in marriage. 
+v	(obsolete, rare) To enjoin upon; to command. 
+v	To accept, or engage in, as a contest. 

@@ -1,0 +1,10 @@
+adj	Advance; previous; coming before. 
+adj	Former, previous. 
+adv	(colloquial) Previously. 
+n	(US, law enforcement) A previous arrest or criminal conviction on someone's record. 
+n	(statistics, Bayesian inference) A prior probability distribution, one based on information or belief before additional data is collected. 
+n	(rationalist community, by extension) A belief supported by previous evidence or experience that one can use to make inferences about the future. 
+n	A high-ranking member of a monastery, usually lower in rank than an abbot. 
+n	(historical) A chief magistrate in Italy. 
+n	A surname originating as an occupation for someone employed by a prior. 
+n	An unincorporated community in Douglas County, Missouri, United States. 

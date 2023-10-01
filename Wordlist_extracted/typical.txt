@@ -1,0 +1,5 @@
+adj	Capturing the overall sense of a thing. 
+adj	Characteristically representing something by form, group, idea or type. 
+adj	Normal, average; to be expected. 
+adj	(taxonomy) Of a lower taxon, containing the type of the higher taxon. 
+n	Anything that is typical, normal, or standard. 

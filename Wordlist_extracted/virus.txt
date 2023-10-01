@@ -1,0 +1,8 @@
+n	A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism; such agents are often classed as nonliving infectious particles and less often as microorganisms. 
+n	(uncountable) A quantity of such infectious agents 
+n	(informal, metonymically) A disease caused by such an infectious agent; a viral illness. 
+n	(archaic) Venom, as produced by a poisonous animal etc. 
+n	(computing) A type of malware which can covertly transmit itself between computers via networks (especially the Internet) or removable storage such as disks, often causing damage to systems and data; also computer virus. 
+n	(computing, proscribed) Any type of malware. 
+n	(figuratively) Any malicious or dangerous entity that spreads from one place or person to another. 
+v	(nonstandard) To send or infect an electronic device with a computer virus. 

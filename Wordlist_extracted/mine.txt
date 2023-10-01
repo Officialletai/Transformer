@@ -1,0 +1,17 @@
+n	An excavation from which ore or solid minerals are taken, especially one consisting of underground tunnels. 
+n	(figuratively) Any source of wealth or resources. 
+n	(military) A passage dug toward or underneath enemy lines, which is then packed with explosives. 
+n	(military) A device intended to explode when stepped upon or touched, or when approached by a ship, vehicle, or person. 
+n	(pyrotechnics) A type of firework that explodes on the ground, shooting sparks upward. 
+n	(entomology) The cavity made by a caterpillar while feeding inside a leaf. 
+n	(computing) A machine or network of machines used to extract units of a cryptocurrency. 
+v	(transitive, intransitive) To remove (rock or ore) from the ground. 
+v	To dig into, for ore or metal. 
+v	(transitive) To sow mines (the explosive devices) in (an area). 
+v	(transitive) To damage (a vehicle or ship) with a mine (an explosive device). 
+v	(intransitive) To dig a tunnel or hole; to burrow in the earth. 
+v	To dig away, or otherwise remove, the substratum or foundation of; to lay a mine under; to sap; to undermine. 
+v	(by extension, figuratively) To ruin or destroy by slow degrees or secret means. 
+v	(slang) To pick one's nose. 
+v	(cryptocurrencies) To earn new units of cryptocurrency by doing certain calculations. 
+n	Alternative form of mien [(countable, uncountable) Demeanor; facial expression or attitude, especially one which is intended by its bearer.] 

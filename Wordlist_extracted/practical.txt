@@ -1,0 +1,9 @@
+adj	Relating to, or based on, practice or action rather than theory or hypothesis. 
+adj	Being likely to be effective and applicable to a real situation; able to be put to use. 
+adj	Of a person, having skills or knowledge that are practical. 
+adj	(theater, not comparable) Of a prop: having some degree of functionality, rather than being a mere imitation. 
+adj	(film) Light fixtures used for set lighting and seen in the frame of a shot as part of the scenery. 
+n	(Britain) A part of an exam or series of exams in which the candidate has to demonstrate their practical ability 
+n	(theater) A prop that has some degree of functionality, rather than being a mere imitation. 
+n	(film) A light fixture used for set lighting and seen in the frame of a shot as part of the scenery. 
+n	Laboratory experiment, test or investigation 

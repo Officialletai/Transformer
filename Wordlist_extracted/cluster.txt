@@ -1,0 +1,16 @@
+n	A group or bunch of several discrete items that are close to each other. 
+n	A number of individuals grouped together or collected in one place; a crowd; a mob. 
+n	(astronomy) A group of galaxies or stars that appear near each other. 
+n	(linguistics, education) A sequence of two or more words that occur in language with high frequency but are not idiomatic; a chunk, bundle, or lexical bundle. 
+n	(music) A secundal chord of three or more notes. 
+n	(phonetics) A group of consonants. 
+n	(computing) A group of computers that work together. 
+n	(computing) A logical data storage unit containing one or more physical sectors (see block). 
+n	(statistics, cluster analysis) A subset of a population whose members are sufficiently similar to each other and distinct from others as to be considered a distinct group; such a grouping in a set of observed data that is statistically significant. 
+n	(military) A set of bombs or mines released as part of the same blast. 
+n	(army) A small metal design that indicates that a medal has been awarded to the same person before. 
+n	(slang, euphemistic) A clusterfuck. 
+n	(chemistry) An ensemble of bound atoms or molecules, intermediate in size between a molecule and a bulk solid. 
+v	(intransitive) To form a cluster or group. 
+v	(transitive) To collect into clusters. 
+v	(transitive) To cover with clusters. 

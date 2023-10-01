@@ -1,0 +1,2 @@
+n	A set of labels applied to the various objects in a system. 
+n	(biochemistry) The introduction of a traceable chemical group (e.g., containing an isotope or a fluorescent dye) into a protein or other biomolecule of interest so it can be tracked or quantified during experimental analysis. 

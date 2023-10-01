@@ -1,0 +1,9 @@
+n	The time ahead; those moments yet to be experienced. 
+n	Something that will happen in moments yet to come. 
+n	Goodness in what is yet to come. Something to look forward to. 
+n	The likely prospects for or fate of someone or something in time to come. 
+n	(grammar) Verb tense used to talk about events that will happen in the future; future tense. 
+n	(computing, programming) An object that retrieves the value of a promise. 
+n	(sports) A minor-league prospect. 
+adj	Having to do with or occurring in the future. 
+n	(finance) Alternative form of futures 

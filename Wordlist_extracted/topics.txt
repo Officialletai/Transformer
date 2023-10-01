@@ -1,0 +1,6 @@
+adj	topical 
+n	Subject; theme; a category or general area of interest. 
+n	(Internet) Discussion thread. 
+n	(music) A musical sign intended to suggest a particular style or genre. 
+n	(obsolete) An argument or reason. 
+n	(obsolete, medicine) An external local application or remedy, such as a plaster, a blister, etc. 

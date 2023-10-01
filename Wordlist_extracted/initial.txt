@@ -1,0 +1,7 @@
+adj	Chronologically first, early; of or pertaining to the beginning, cause or origin. 
+adj	Spatially first, placed at the beginning, in the first position; especially said of the first letter of a word. 
+n	The first letter of a word or a name. 
+n	In plural, the first letter of each word of a person's full name considered as a unit. 
+n	(typography, calligraphy) A distinguished initial letter of a chapter or section of a document. 
+n	(phonology) onset, part of a syllable that precedes the syllable nucleus in phonetics and phonology. 
+v	(transitive) To sign one's initial(s), as an abbreviated signature. 

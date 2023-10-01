@@ -1,0 +1,10 @@
+n	The method by which a device performs its function. 
+n	The method or practice by which actions are done. 
+n	The act or process of operating; agency; the exertion of power, physical, mechanical, or moral. 
+n	A planned undertaking. 
+n	A business or organization. 
+n	(medicine) A surgical procedure. 
+n	(computing, logic, mathematics) A procedure for generating a value from one or more other values (the operands); 
+n	(mathematics, more formally) a function which maps zero or more (but typically two) operands to a single output value. 
+n	(military) A military campaign (e.g. Operation Desert Storm) 
+n	(obsolete) Effect produced; influence. 

@@ -1,0 +1,16 @@
+n	(obsolete) Trade; traffic; chaffer; chaffering. 
+n	(obsolete) A market; marketplace. 
+n	Price. 
+n	(obsolete) A low price; a bargain. 
+n	Cheapness; lowness of price; abundance of supply. 
+adj	Low and/or reduced in price. 
+adj	Of poor quality. 
+adj	Of little worth. 
+adj	(slang, of an action or tactic in a game of skill) Underhand or unfair. 
+adj	(informal, chiefly derogatory) Stingy; mean; excessively frugal. 
+adj	(finance) Trading at a price level which is low relative to historical trends, a similar asset, or (for derivatives) a theoretical value. 
+v	(intransitive, obsolete) To trade; traffic; bargain; chaffer; ask the price of goods; cheapen goods. 
+v	(transitive, obsolete) To bargain for; chaffer for; ask the price of; offer a price for; cheapen. 
+v	(transitive, obsolete) To buy; purchase. 
+v	(transitive, obsolete) To sell. 
+adv	Cheaply. 

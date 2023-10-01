@@ -1,0 +1,10 @@
+n	An act in the past which may be used as an example to help decide the outcome of similar instances in the future. 
+n	(law) A decided case which is cited or used as an example to justify a judgment in a subsequent case. 
+n	An established habit or custom. 
+n	(obsolete, with definite article) The aforementioned (thing). 
+n	The previous version. 
+n	(obsolete) A rough draught of a writing which precedes a finished copy. 
+adj	Happening or taking place earlier in time; previous or preceding. 
+adj	(now rare) Coming before in a particular order or arrangement; preceding, foregoing. 
+v	(transitive, law) To provide precedents for. 
+v	(transitive, law) To be a precedent for. 

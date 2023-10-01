@@ -1,0 +1,13 @@
+adj	Able to vary or be varied. 
+adj	Likely to vary. 
+adj	Marked by diversity or difference. 
+adj	(mathematics) Having no fixed quantitative value. 
+adj	(biology) Tending to deviate from a normal or recognized type. 
+n	Something that is variable. 
+n	Something whose value may be dictated or discovered. 
+n	(mathematics) A quantity that may assume any one of a set of values. 
+n	(mathematics) A symbol representing a variable. 
+n	(programming) A named memory location in which a program can store intermediate results and from which it can read them. 
+n	(astronomy) A variable star. 
+n	(nautical) A shifting wind, or one that varies in force. 
+n	(nautical, in the plural) Those parts of the sea where a steady wind is not expected, especially the parts between the trade-wind belts. 

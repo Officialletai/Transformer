@@ -1,0 +1,6 @@
+adj	Without end, eternal. 
+adj	Lasting for an indefinitely long time. 
+n	A chemical hair treatment imparting or removing curliness, whose effects typically last for a period of weeks; a perm. 
+n	(linear algebra, combinatorics) Given an n⨯n matrix a_ij,, the sum over all permutations 𝜋, of ∏ᵢ₌₁ⁿa_i𝜋(i). 
+n	(collectible card games) A card whose effects persist beyond the turn on which it is played. 
+v	(transitive, dated) To perm (the hair). 

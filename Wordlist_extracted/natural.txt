@@ -1,0 +1,30 @@
+adj	Existing in the nature of a person or thing; innate, not acquired or learned. 
+adj	Normally associated with a particular person or thing; inherently related to the nature of a thing or creature. 
+adj	As expected; reasonable, normal; naturally arising from the given circumstances. 
+adj	Formed by nature; not manufactured or created by artificial processes. 
+adj	Pertaining to death brought about by disease or old age, rather than by violence, accident etc. 
+adj	Having an innate ability to fill a given role or profession, or display a specified character. 
+adj	(mathematics) Designating a standard trigonometric function of an angle, as opposed to the logarithmic function. 
+adj	(music) Neither sharp nor flat. Denoted ♮. 
+adj	Containing no artificial or man-made additives; especially (of food) containing no colourings, flavourings or preservatives. 
+adj	Pertaining to a decoration that preserves or enhances the appearance of the original material; not stained or artificially coloured. 
+adj	Pertaining to a fabric still in its undyed state, or to the colour of undyed fabric. 
+adj	(dice games) Pertaining to a dice roll before bonuses or penalties have been applied to the result. 
+adj	(bodybuilding) Not having used anabolic steroids or other performance-enhancing drugs. 
+adj	(bridge) Bidding in an intuitive way that reflects one's actual hand. 
+adj	(algebra) Closed under submodules, direct sums, and injective hulls. 
+adj	Having a given status (especially of authority) by virtue of birth. 
+adj	Related genetically but not legally to one's father; born out of wedlock, illegitimate. 
+adj	Related by birth; genetically related. 
+n	(now rare) A native inhabitant of a place, country etc. 
+n	(music) A note that is not or is no longer to be modified by an accidental. 
+n	(music) The symbol ♮ used to indicate such a natural note. 
+n	One with an innate talent at or for something. 
+n	An almost white colour, with tints of grey, yellow or brown; originally that of natural fabric. 
+n	(archaic) One with a simple mind; a fool or idiot. 
+n	(colloquial, chiefly UK) One's life. 
+n	(US, colloquial) A hairstyle for people with Afro-textured hair in which the hair is not straightened or otherwise treated. 
+n	(slang, chiefly in plural) A breast which has not been modified. 
+n	(bodybuilding) Someone who has not used anabolic steroids or other performance-enhancing drugs. 
+n	(craps) A roll of two dice with a score of 7 or 11 on the comeout roll. 
+adv	(colloquial, dialect) Naturally; in a natural manner. 

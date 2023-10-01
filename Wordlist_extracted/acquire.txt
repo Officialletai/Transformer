@@ -1,0 +1,4 @@
+v	(transitive) To get. 
+v	(transitive) To gain, usually by one's own exertions; to get as one's own 
+v	(medicine) To contract. 
+v	(computing) To sample signals and convert them into digital values. 

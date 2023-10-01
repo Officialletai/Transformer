@@ -1,0 +1,21 @@
+adj	True, genuine, not merely nominal or apparent. 
+adj	Genuine, not artificial, counterfeit, or fake. 
+adj	Genuine, unfeigned, sincere. 
+adj	Actually being, existing, or occurring; not fictitious or imaginary. 
+adj	That has objective, physical existence. 
+adj	(economics) Having been adjusted to remove the effects of inflation; measured in purchasing power (contrast nominal). 
+adj	(economics) Relating to the result of the actions of rational agents; relating to neoclassical economic models as opposed to Keynesian models. 
+adj	(mathematics, of a number) Being either a rational number, or the limit of a convergent infinite sequence of rational numbers: being one of a set of numbers with a one-to-one correspondence to the points on a line. 
+adj	(law) Relating to immovable tangible property. 
+adj	Absolute, complete, utter. 
+adj	(slang) Signifying meritorious qualities or actions especially as regard the enjoyment of life, prowess at sports, or success wooing potential partners. 
+adv	(US, colloquial) Really, very. 
+n	A commodity; see realty. 
+n	(grammar) One of the three genders that the common gender can be separated into in the Scandinavian languages. 
+n	(mathematics) A real number. 
+n	(obsolete) A realist. 
+n	Former unit of currency of Spain and Spain's colonies. 
+n	A coin worth one real. 
+n	A unit of currency used in Portugal and its colonies from 1430 until 1911, and in Brazil from 1790 until 1942. 
+n	A unit of currency used in Brazil since 1994. Symbol: R$. 
+n	Real Madrid, a football club from Madrid. 

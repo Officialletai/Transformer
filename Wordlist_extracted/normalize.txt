@@ -1,0 +1,8 @@
+v	(transitive) To make normal, to make standard. 
+v	(transitive) To format in a standardized manner, to make consistent. 
+v	(statistics, transitive) To reduce the variations by excluding irrelevant aspects. 
+v	(rail transport, transitive) To return a set of points (switches) to the normal position. 
+v	(rail transport, intransitive, of points) To return to the normal position from the reverse position. 
+v	(computing, databases, transitive) To subject to normalization; to eliminate redundancy in (a model for storing data). 
+v	(metallurgy, transitive) To anneal (steel) for the purpose of decreasing brittleness and increasing ductility. 
+v	(mathematics, transitive) To divide a vector by its magnitude to produce a unit vector. 

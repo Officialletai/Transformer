@@ -1,0 +1,12 @@
+v	(transitive) To destroy with an explosion. 
+v	(transitive) To destroy violently or abruptly. 
+v	(transitive) To create an exploded view of. 
+v	(transitive, archaic) To disprove or debunk. 
+v	(intransitive) To fly apart with sudden violent force; to blow up, to burst, to detonate, to go off. 
+v	(figuratively, intransitive) To make a violent or emotional outburst. 
+v	(figuratively, intransitive) To increase suddenly. 
+v	(slang, vulgar) To ejaculate. 
+v	(computing, programming, PHP) To break (a delimited string of text) into several smaller strings by removing the separators. 
+v	(transitive, computing) To decompress (data) that was previously imploded. 
+v	(transitive) To open all doors and hatches on an automobile. 
+v	(intransitive, board gaming) Of a die, to produce the highest face result and consequently reroll. 

@@ -1,0 +1,12 @@
+n	A part or snippet of something taken or presented for inspection, or shown as evidence of the quality of the whole; a specimen. 
+n	(statistics) A subset of a population selected for measurement, observation or questioning, to provide statistical information about the population. 
+n	(cooking) A small quantity of food for tasting, typically given away for free. 
+n	(business) A small piece of some goods, for determining quality, colour, etc., typically given away for free. 
+n	(music) Gratuitous borrowing of easily recognised phases (or moments) from other music (or movies) in a recording. 
+n	(obsolete) Example; pattern. 
+v	(transitive) To take or to test a sample or samples of. 
+v	(transitive, signal processing) To reduce a continuous signal (such as a sound wave) to a discrete signal. 
+v	(music, transitive) To reuse a portion of (an existing sound recording) in a new piece of music. 
+v	(transitive, computer graphics) To make or show something similar to a sample. 
+n	A surname. 
+n	(emergency medicine) Initialism of signs and symptoms, allergies, medications, past pertinent history, last oral intake, events leading to present illness. 

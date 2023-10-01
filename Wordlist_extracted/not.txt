@@ -1,0 +1,5 @@
+adv	Negates the meaning of the modified verb. 
+adv	To no degree. 
+adv	(understatement, litotes) Used to indicate the opposite or near opposite, often in a form of understatement. 
+n	(mathematics, logic) A unary operation on logical values that changes true to false, and false to true. 
+n	Alternative letter-case form of NOT [(mathematics, logic) A unary operation on logical values that changes true to false, and false to true.] 

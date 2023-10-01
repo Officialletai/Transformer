@@ -1,0 +1,21 @@
+v	(transitive) To keep from falling. 
+v	(transitive) To answer questions and resolve problems regarding something sold. 
+v	(transitive) To back a cause, party, etc., mentally or with concrete aid. 
+v	(transitive) To help, particularly financially. 
+v	To verify; to make good; to substantiate; to establish; to sustain. 
+v	(transitive) To serve, as in a customer-oriented mindset; to give support to. 
+v	(transitive) To be designed (said of machinery, electronics, or computers, or their parts, accessories, peripherals, or programming) to function compatibly with or provide the capacity for. 
+v	(transitive) To be accountable for, or involved with, but not responsible for. 
+v	(archaic) To endure without being overcome; bear; undergo; to tolerate. 
+v	To assume and carry successfully, as the part of an actor; to represent or act; to sustain. 
+n	(sometimes attributive) Something which supports. 
+n	Financial or other help. 
+n	Answers to questions and resolution of problems regarding something sold. 
+n	(mathematics) in relation to a function, the set of points where the function is not zero, or the closure of that set. 
+n	(fuzzy set theory) A set whose elements are at least partially included in a given fuzzy set (i.e., whose grade of membership in that fuzzy set is strictly greater than zero). 
+n	Evidence. 
+n	(computing) Compatibility and functionality for a given product or feature. 
+n	An actor playing a subordinate part with a star. 
+n	An accompaniment in music. 
+n	(structural analysis) Horizontal, vertical or rotational support of structures: movable, hinged, fixed. 
+n	(gymnastics) Clipping of support position. [(gymnastics) a position in which a gymnast is holding their body above the rings (or high bar, parallel bars...) usually with straight arms.] 

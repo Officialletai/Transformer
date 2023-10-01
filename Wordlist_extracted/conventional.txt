@@ -1,0 +1,7 @@
+adj	Pertaining to a convention, as in following generally accepted principles, methods and behaviour. 
+adj	Ordinary, commonplace. 
+adj	Banal, trite, hackneyed, unoriginal or clichéd. 
+adj	(weaponry) Pertaining to a weapon which is not a weapon of mass destruction. 
+adj	(agriculture) Making use of synthetic fertilizers and pesticides. 
+adj	(bridge) In accordance with a bidding convention, as opposed to a natural bid. 
+n	(finance) A conventional gilt-edged security, a kind of bond paying the holder a fixed cash payment (or coupon) every six months until maturity, at which point the holder receives the final payment and the return of the principal. 

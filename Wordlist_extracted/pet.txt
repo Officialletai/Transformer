@@ -1,0 +1,18 @@
+n	An animal kept as a companion. 
+n	(by extension) Something kept as a companion, including inanimate objects. (pet rock, pet plant, etc.) 
+n	One who is excessively loyal to a superior and receives preferential treatment. 
+n	Any person or animal especially cherished and indulged; a darling. 
+v	(transitive) To stroke or fondle (an animal). 
+v	(transitive, intransitive, informal) To stroke or fondle (another person) amorously. 
+v	(dated, transitive) To treat as a pet; to fondle; to indulge. 
+v	(archaic, intransitive) To be a pet. 
+v	(archaic, intransitive) To be peevish; to sulk. 
+adj	Favourite; cherished; the focus of one's (usually positive) attention. 
+adj	Kept or treated as a pet. 
+n	A fit of petulance, a sulk, arising from the impression that one has been offended or slighted. 
+n	(Ireland, Tyneside) A term of endearment usually applied to women and children. 
+n	Abbreviation of petition. [A formal, written request made to an official person or organized body, often containing many signatures.] 
+n	(uncountable, organic chemistry) Initialism of polyethylene terephthalate. [A thermoplastic resin of the polyester family used particularly in the manufacture of plastic bottles (PET) and fabrics (Terylene).] 
+n	(countable, medicine) Acronym of positron emission tomography. [(medicine) A medical imaging technique which detects the gamma rays produced by positrons emitted from injected radionuclides.] 
+n	(countable, genetics) Acronym of paired-end tag. [(genetics) Any of the short sequences, at the 5’ and 3’ ends of a DNA fragment, that are sufficiently unique (theoretically) so as to exist together only once in a genome, therefore making the sequence of the DNA in between them available upon search.] 
+n	(countable, historical, computing, backronym) Acronym of personal electronic transactor, a line of personal computers produced by Commodore International. 

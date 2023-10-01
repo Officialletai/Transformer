@@ -1,0 +1,27 @@
+adj	(of a thing) Having a low temperature. 
+adj	(of the weather) Causing the air to be cold. 
+adj	(of a person or animal) Feeling the sensation of coldness, especially to the point of discomfort. 
+adj	Unfriendly; emotionally distant or unfeeling. 
+adj	Dispassionate; not prejudiced or partisan; impartial. 
+adj	Completely unprepared; without introduction. 
+adj	Unconscious or deeply asleep; deprived of the metaphorical heat associated with life or consciousness. 
+adj	(usually with "have" or "know" transitively) Perfectly, exactly, completely; by heart; down pat. 
+adj	(usually with "have" transitively) Cornered; done for. 
+adj	(obsolete) Not pungent or acrid. 
+adj	(obsolete) Unexciting; dull; uninteresting. 
+adj	Affecting the sense of smell (as of hunting dogs) only feebly; having lost its odour. 
+adj	(obsolete) Not sensitive; not acute. 
+adj	Distant; said, in the game of hunting for some object, of a seeker remote from the thing concealed. Compare warm and hot. 
+adj	(painting) Having a bluish effect; not warm in colour. 
+adj	(databases) Rarely used or accessed, and thus able to be relegated to slower storage. 
+adj	(informal) Without compassion; heartless; ruthless. 
+adj	(informal) Not radioactive. 
+adj	(firearms) Not loaded with a round of live ammunition. 
+adj	Without electrical power being supplied. 
+n	A condition of low temperature. 
+n	(with 'the', figuratively) A harsh place; a place of abandonment. 
+n	(medicine) A common, usually harmless, viral illness, usually with congestion of the nasal passages and sometimes fever. 
+n	(slang) rheum, sleepy dust 
+adv	At a low temperature. 
+adv	Without preparation. 
+adv	(slang, informal, dated) In a cold, frank, or realistically honest manner. 

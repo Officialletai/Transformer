@@ -1,0 +1,2 @@
+n	The visual style of a document, including fonts, borders, etc. 
+n	The code in a markup language which determines a document's format. 

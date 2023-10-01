@@ -1,0 +1,20 @@
+adj	Unclean; covered with or containing unpleasant substances such as dirt or grime. 
+adj	That makes one unclean; corrupting, infecting. 
+adj	Morally unclean; obscene or indecent, especially sexually. 
+adj	Dishonourable; violating accepted standards or rules. 
+adj	Corrupt, illegal, or improper. 
+adj	Out of tune. 
+adj	Of color, discolored by impurities. 
+adj	(computing) Containing data needing to be written back to memory or disk. 
+adj	(slang) Carrying illegal drugs among one's possessions or inside of one's bloodstream. 
+adj	(informal) Used as an intensifier, especially in conjunction with "great". 
+adj	Sleety; gusty; stormy. 
+adj	(slang) Of an alcoholic beverage, especially a cocktail or mixed drink: served with the juice of olives. 
+adj	Of food, indulgent in an unhealthy way. 
+adj	Spreading harmful radiation over a wide area. 
+adj	(aviation) Having the undercarriage or flaps in the down position. 
+adv	In a dirty manner. 
+v	(transitive) To make (something) dirty. 
+v	(transitive) To stain or tarnish (somebody) with dishonor. 
+v	(transitive) To debase by distorting the real nature of (something). 
+v	(intransitive) To become soiled. 

@@ -1,0 +1,2 @@
+n	The state of being inconsistent. 
+n	(logic) An incompatibility between two propositions that cannot both be true. 

@@ -1,0 +1,27 @@
+n	A physical divider intended to block an area from view, or provide shelter from something dangerous. 
+n	(mining, quarrying) A frame supporting a mesh of bars or wires used to classify fragments of stone by size, allowing the passage of fragments whose a diameter is smaller than the distance between the bars or wires. 
+n	(baseball) The protective netting which protects the audience from flying objects 
+n	(printing) A stencil upon a framed mesh through which paint is forced onto printed-on material; the frame with the mesh itself. 
+n	(by analogy) Searching through a sample for a target; an act of screening 
+n	(genetics) A technique used to identify genes so as to study gene functions. 
+n	The viewing surface or area of a movie, or moving picture or slide presentation. 
+n	The informational viewing area of electronic devices, where output is displayed. 
+n	One of the individual regions of a video game, etc. divided into separate screens. 
+n	(computing) The visualised data or imagery displayed on a computer screen. 
+n	(figuratively) A disguise; concealment. 
+n	(basketball) An offensive tactic in which a player stands so as to block a defender from reaching a teammate. 
+n	(cricket) An erection of white canvas or wood placed on the boundary opposite a batsman to make the ball more easily visible. 
+n	(nautical) A collection of less-valuable vessels that travel with a more valuable one for the latter's protection. 
+n	(architecture) A dwarf wall or partition carried up to a certain height for separation and protection, as in a church, to separate the aisle from the choir, etc. 
+n	(Scotland, archaic) A large scarf. 
+v	To filter by passing through a screen. 
+v	To shelter or conceal. 
+v	To remove information, or censor intellectual material from viewing. To hide the facts. 
+v	(film, television) To present publicly (on the screen). 
+v	To fit with a screen. 
+v	(medicine) To examine patients or treat a sample in order to detect a chemical or a disease, or to assess susceptibility to a disease. 
+v	(molecular biology) To search chemical libraries by means of a computational technique in order to identify chemical compounds which would potentially bind to a given biological target such as a protein. 
+v	(basketball) To stand so as to block a defender from reaching a teammate. 
+v	To determine the source or subject matter of a call before deciding whether to answer the phone. 
+n	A surname. 
+n	(American football) Short for screen pass. [(American football) A short pass to a receiver protected by blockers.] 

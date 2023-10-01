@@ -1,0 +1,2 @@
+n	Arrangement in a sequence. 
+n	(molecular biology) The procedure of determining the order of amino acids in the polypeptide chain of a protein (protein sequencing) or of nucleotides in a DNA section comprising a gene (gene sequencing). 

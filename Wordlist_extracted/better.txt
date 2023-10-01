@@ -1,0 +1,10 @@
+adj	Greater in amount or quantity 
+adv	Greater or lesser (whichever is seen as more advantageous), in reference to value, distance, time, etc. 
+adv	(colloquial shortening) Had better. 
+n	An entity, usually animate, deemed superior to another; one who has a claim to precedence; a superior. 
+v	(modal, auxiliary verb, colloquial) Had better. 
+v	(transitive) To improve. 
+v	(intransitive) To become better; to improve. 
+v	(transitive) To surpass in excellence; to exceed; to excel. 
+v	(transitive) To give advantage to; to support; to advance the interest of. 
+n	Alternative spelling of bettor [A person who makes a bet, such as a wager on the outcome of a game of chance or a sporting event.] 

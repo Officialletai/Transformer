@@ -1,0 +1,4 @@
+adv	Under normal conditions or circumstances; usually; most of the time 
+adv	In the expected or customary manner. 
+adv	To a usual or customary extent or degree. 
+adv	(mathematics, statistics) In the manner of a variable with a Gaussian distribution. 

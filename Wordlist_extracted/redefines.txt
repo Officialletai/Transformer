@@ -1,0 +1,2 @@
+v	(transitive) To give a new or different definition to (a word). 
+v	(transitive, computing) To define a previously defined area of storage etc. in a different manner, e.g. changing it from textual to numeric. 

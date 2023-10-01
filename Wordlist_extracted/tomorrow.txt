@@ -1,0 +1,5 @@
+adv	On the day after the present day. 
+adv	At some point in the future; later on 
+adv	(possibly obsolete) On next (period of time other than a day, such as a week or a month), following the present (period of time). 
+adv	(obsolete) On the next day (following some date in the past). 
+n	The day after the present day. 

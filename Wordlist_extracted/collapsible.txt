@@ -1,0 +1,3 @@
+adj	That can be collapsed. 
+n	A kind of boat that can be collapsed for greater portability. 
+n	(graphical user interface) A display element that can be collapsed to hide it from view. 

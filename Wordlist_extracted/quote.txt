@@ -1,0 +1,9 @@
+n	A quotation; a statement attributed to a person. 
+n	A quotation mark. 
+n	A summary of work to be done with a set price. 
+n	A price set for a financial security or commodity. 
+v	(transitive) To repeat (the exact words of a person). 
+v	(transitive) To prepare a summary of work to be done and set a price. 
+v	(commerce, transitive) To name the current price, notably of a financial security. 
+v	(intransitive) To indicate verbally or by equivalent means the start of a quotation. 
+v	(archaic) To observe, to take account of. 

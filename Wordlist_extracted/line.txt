@@ -1,0 +1,72 @@
+n	(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness. 
+n	(geometry, informal) A line segment; a continuous finite segment of such a figure. 
+n	(graph theory) An edge of a graph. 
+n	(geography) A circle of latitude or of longitude, as represented on a map. 
+n	(geography, 'the line' or 'equinoctial line') The equator. 
+n	(music) One of the straight horizontal and parallel prolonged strokes on and between which the notes are placed. 
+n	(cricket) The horizontal path of a ball towards the batsman (see also length). 
+n	(soccer) The goal line. 
+n	(motoring) A particular path taken by a vehicle when driving a bend or corner in the road. 
+n	A rope, cord, string, or thread, of any thickness. 
+n	A hose or pipe, of any size. 
+n	Direction, path. 
+n	The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection. 
+n	A clothesline. 
+n	A letter, a written form of communication. 
+n	A connected series of public conveyances, as a roadbed or railway track; and hence, an established arrangement for forwarding merchandise, etc. 
+n	(military) A trench or rampart, or the non-physical demarcation of the extent of the territory occupied by specified forces. 
+n	The exterior limit of a figure or territory: a boundary, contour, or outline; a demarcation. 
+n	A long tape or ribbon marked with units for measuring; a tape measure. 
+n	(obsolete) A measuring line or cord. 
+n	That which was measured by a line, such as a field or any piece of land set apart; hence, allotted place of abode. 
+n	A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark. 
+n	Lineament; feature; figure (of one's body). 
+n	A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. 
+n	(military) The regular infantry of an army, as distinguished from militia, guards, volunteer corps, cavalry, artillery, etc. 
+n	(music) A series of notes forming a certain part (such as the bass or melody) of a greater work. 
+n	A series or succession of ancestors or descendants of a given person; a family or race; compare lineage. 
+n	A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text. 
+n	A verse (in poetry). 
+n	A sentence of dialogue, especially in a play, movie, or the like. 
+n	A lie or exaggeration, especially one told to gain another's approval or prevent losing it. 
+n	Course of conduct, thought, occupation, or policy; method of argument; department of industry, trade, or intellectual activity. 
+n	The official, stated position (or set of positions) of an individual or group, particularly a political or religious faction. 
+n	(slang) Information about or understanding of something. (Mostly restricted to the expressions get a line on, have a line on, and give a line on.) 
+n	A set of products or services sold by a business, or by extension, the business itself. 
+n	(stock exchange) A number of shares taken by a jobber. 
+n	(historical) A tsarist-era Russian unit of measure, approximately equal to one tenth of an English inch, used especially when measuring the calibre of firearms. 
+n	One twelfth of an inch. 
+n	One sixteenth of an inch. 
+n	One fortieth of an inch. 
+n	(historical) A maxwell, a unit of magnetic flux. 
+n	(baseball, slang, 1800s, with "the") The batter's box. 
+n	(fencing) The position in which the fencers hold their swords. 
+n	(engineering) Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working). 
+n	A small path-shaped portion or serving of a powdery illegal drug, especially cocaine. 
+n	(obsolete) Instruction; doctrine. 
+n	(genetics) A population of cells derived from a single cell and containing the same genetic makeup. 
+n	(perfusion line) a set composed of a spike, a drip chamber, a clamp, a Y-injection site, a three-way stopcock and a catheter. 
+n	(ice hockey) A group of forwards that play together. 
+n	(Australian rules football) A set of positions in a team which play in a similar position on the field; in a traditional team, consisting of three players and acting as one of six such sets in the team. 
+n	(medicine, colloquial) A vascular catheter. 
+n	(South Korean idol fandom) A group of people born in a certain year (liners). 
+v	(transitive) To place (objects) into a line (usually used with "up"); to form into a line; to align. 
+v	(transitive) To place persons or things along the side of for security or defense; to strengthen by adding; to fortify. 
+v	(transitive) To form a line along. 
+v	(transitive) To mark with a line or lines; to cover with lines. 
+v	(rail transport) To align (one or more switches) to direct a train onto a particular track. 
+v	(transitive, obsolete) To represent by lines; to delineate; to portray. 
+v	(transitive) To read or repeat line by line. 
+v	(intransitive, baseball) To hit a line drive; to hit a line drive which is caught for an out. Compare fly and ground. 
+v	(transitive) To track (wild bees) to their nest by following their line of flight. 
+v	(transitive) To measure. 
+n	(obsolete) Flax; linen, particularly the longer fiber of flax. 
+v	(transitive) To cover the inner surface of (something), originally especially with linen. 
+v	To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper. 
+v	(transitive) To fill or supply (something), as a purse with money. 
+v	(transitive, now rare, of a dog) To copulate with, to impregnate. 
+n	An English and Scottish surname. 
+n	A close quarters combat system, see LINE (combat system) on Wikipedia.Wikipedia 
+n	(military, nautical) Ellipsis of line of battle. [(military) The position of troops drawn up in their usual order without any determined maneuver.] 
+n	(advertising) Short for agate line. [A unit of advertising space that is one column wide and one agate (one fourteenth of an inch) deep.] 
+n	(genetics) Acronym of long interspersed nuclear element, a type of retrotransposon in genomics. 

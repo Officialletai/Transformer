@@ -1,0 +1,9 @@
+n	An amount obtained by the addition of smaller amounts. 
+n	(informal, mathematics) Sum. 
+adj	Entire; relating to the whole of something. 
+adj	(used as an intensifier) Complete; absolute. 
+adj	(mathematics) (of a function) Defined on all possible inputs. 
+v	(transitive) To add up; to calculate the sum of. 
+v	To equal a total of; to amount to. 
+v	(transitive, US, slang) To demolish; to wreck completely. (from total loss) 
+v	(intransitive) To amount to; to add up to. 

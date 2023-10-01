@@ -1,0 +1,44 @@
+adj	Pertaining to (or, especially of a language: spoken in) in an area which is at a lesser elevation, closer to sea level (especially near the sea), than other regions. 
+adj	(baseball, of a ball) Below the batter's knees. 
+adj	Of less than normal height or upward extent or growth, or of greater than normal depth or recession; below the average or normal level from which elevation is measured. 
+adj	Low-cut. 
+adj	Not high in status, esteem, or rank, dignity, or quality. (Compare vulgar.) 
+adj	Humble, meek, not haughty. 
+adj	Disparaging; assigning little value or excellence. 
+adj	Being a nadir, a bottom. 
+adj	Depressed in mood, dejected, sad. 
+adj	Lacking health or vitality, strength or vivacity; feeble; weak. 
+adj	Dead. (Compare lay low.) 
+adj	Having a small or comparatively smaller concentration of (a substance, which is often but not always linked by "in" when predicative). 
+adj	Depleted, or nearing deletion; lacking in supply. 
+adj	(especially in biology) Simple in complexity or development. 
+adj	(chiefly in several set phrases) Favoring simplicity (see e.g. low church, Low Tory). 
+adj	(in several set phrases) Being near the equator. 
+adj	(acoustics) Grave in pitch, due to being produced by relatively slow vibrations (wave oscillations); flat. 
+adj	Quiet; soft; not loud. 
+adj	(phonetics) Made with a relatively large opening between the tongue and the palate; made with (part of) the tongue positioned low in the mouth, relative to the palate. 
+adj	(card games) Lesser in value than other cards, denominations, suits, etc. 
+adj	(now rare) Not rich or seasoned; offering the minimum of nutritional requirements; plain, simple. 
+adj	(of an automobile, gear, etc) Designed for a slow (or the slowest) speed. 
+n	A low point or position, literally (as, a depth) or or figuratively (as, a nadir, a time when things are at their worst, least, minimum, etc). 
+n	The minimum atmospheric temperature recorded at a particular location, especially during one 24-hour period. 
+n	A period of depression; a depressed mood or situation. 
+n	(meteorology, informal) An area of low pressure; a depression. 
+n	The lowest-speed gearing of a power-transmission system, especially of an automotive vehicle. 
+n	(card games) The lowest trump, usually the deuce; the lowest trump dealt or drawn. 
+n	(slang, usually accompanied by "the") A cheap, cost-efficient, or advantageous price. 
+adv	Close to the ground. 
+adv	Of a pitch, at a lower frequency. 
+adv	With a low voice or sound; not loudly; gently. 
+adv	Under the usual price; at a moderate price; cheaply. 
+adv	In a low mean condition; humbly; meanly. 
+adv	In a time approaching our own. 
+adv	(astronomy) In a path near the equator, so that the declination is small, or near the horizon, so that the altitude is small; said of the heavenly bodies with reference to the diurnal revolution. 
+v	(obsolete, transitive) To lower; to make low. 
+v	(intransitive) To moo. 
+n	(countable, UK, Scotland, dialect) A flame; fire; blaze. 
+v	(UK, Scotland, dialect) To burn; to blaze. 
+n	(archaic or obsolete) Barrow, mound, tumulus. 
+n	(Scottish dialectal, archaic) A hill. 
+n	A surname. 
+n	(military) Acronym of launch on warning. 

@@ -1,0 +1,16 @@
+n	A planned endeavor, usually with a specific goal and accomplished in several steps or stages. 
+n	(usually in the plural, US) An urban low-income housing building. 
+n	(dated) An idle scheme; an impracticable design. 
+n	(US, sports) a raw recruit who the team hopes will improve greatly with coaching; a long shot diamond in the rough 
+n	(obsolete) A projectile. 
+n	(obsolete) A projection. 
+v	(intransitive) To extend beyond a surface. 
+v	(transitive) To cast (an image or shadow) upon a surface; to throw or cast forward; to shoot forth. 
+v	(transitive) To extend (a protrusion or appendage) outward. 
+v	(transitive) To make plans for; to forecast. 
+v	(transitive, reflexive) To present (oneself), to convey a certain impression, usually in a good way. 
+v	(transitive, psychology, psychoanalysis) To assume qualities or mindsets in others based on one's own personality. 
+v	(cartography) To change the projection (or coordinate system) of spatial data with another projection. 
+v	(geometry) To draw straight lines from a fixed point through every point of any body or figure, and let these fall upon a surface so as to form the points of a new figure. 
+v	(neuroanatomy) (of a neuron or group of neurons) to have axon(s) extending to and therefore able to influence a remote location 
+v	To speak or sing in such a way that one can be heard from a large distance away. 

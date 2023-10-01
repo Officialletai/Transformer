@@ -1,0 +1,9 @@
+n	The manner in which two things may be associated. 
+n	A member of one's extended family; a relative. 
+n	The act of relating a story. 
+n	(set theory) A set of ordered tuples. 
+n	(set theory) Specifically, a set of ordered pairs; a binary relation. 
+n	(databases) A set of ordered tuples retrievable by a relational database; a table. 
+n	(mathematics) A statement of equality of two products of generators, used in the presentation of a group. 
+n	(category theory) A subobject of a product of objects. 
+n	(usually collocated: sexual relation) The act of intercourse. 

@@ -1,0 +1,2 @@
+n	An explicit set of requirements to be satisfied by a material, product, or service. 
+n	An act of specifying. 

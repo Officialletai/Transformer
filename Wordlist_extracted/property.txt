@@ -1,0 +1,11 @@
+n	Something that is owned. 
+n	A piece of real estate, such as a parcel of land. 
+n	(Britain) Real estate; the business of selling houses. 
+n	The exclusive right of possessing, enjoying and disposing of a thing. 
+n	An attribute or abstract quality associated with an individual, object or concept. 
+n	An attribute or abstract quality which is characteristic of a class of objects. 
+n	(computing) An editable or read-only parameter associated with an application, component or class. 
+n	(usually in the plural, theater) A prop, an object used in a dramatic production. 
+n	(obsolete) Propriety; correctness. 
+v	(obsolete) To invest with properties, or qualities. 
+v	(obsolete) To make a property of; to appropriate. 

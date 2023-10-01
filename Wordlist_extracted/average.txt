@@ -1,0 +1,16 @@
+n	(mathematics) The arithmetic mean. 
+n	(statistics) Any measure of central tendency, especially any mean, the median, or the mode. 
+n	(law, marine) Financial loss due to damage to transported goods; compensation for damage or loss. 
+n	Customs duty or similar charge payable on transported goods. 
+n	Proportional or equitable distribution of financial expense. 
+n	(sports) An indication of a player's ability calculated from his scoring record, etc. 
+n	(UK, in the plural) In the corn trade, the medial price of the several kinds of grain in the principal corn markets. 
+adj	(not comparable) Constituting or relating to the average. 
+adj	Neither very good nor very bad; rated somewhere in the middle of all others in the same category. 
+adj	Typical. 
+adj	(informal) Not outstanding, not good, banal; bad or poor. 
+v	(transitive) To compute the average of, especially the arithmetic mean. 
+v	(transitive) Over a period of time or across members of a population, to have or generate a mean value of. 
+v	(transitive) To divide among a number, according to a given proportion. 
+v	(intransitive) To be, generally or on average. 
+n	(UK, law, obsolete) The service that a tenant owed his lord, to be done by the animals of the tenant, such as the transportation of wheat, turf, etc. 

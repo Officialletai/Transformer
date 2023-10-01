@@ -1,0 +1,7 @@
+adj	The ordinal form of the number four. 
+n	(in the singular) The person or thing in the fourth position. 
+n	(chiefly US) A quarter, one of four equal parts of a whole. 
+n	(in the singular) The fourth gear of an engine. 
+n	(music) A musical interval which spans four degrees of the diatonic scale, for example C to F (C D E F). 
+v	(informal) To agree with a proposition or statement after it has already been thirded. 
+n	(US) The Fourth of July. 
